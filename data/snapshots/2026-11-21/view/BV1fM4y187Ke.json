@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1fM4y187Ke",
+    "aid": 910613554,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c3ebbc2d4786703898ba8cad92fa0b74212780b3.jpg",
+    "title": "刘华强见封彪刘华强只会的六字叫（XXXX XX XXX）",
+    "pubdate": 1682678507,
+    "ctime": 1682678507,
+    "desc": "刘华强见封彪刘华强只会的六字叫只有一样是刘华强见封彪",
+    "desc_v2": [
+      {
+        "raw_text": "刘华强见封彪刘华强只会的六字叫只有一样是刘华强见封彪",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 1,
+    "duration": 386,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2106117348,
+      "name": "56岁周慧敏粉色肩纱裙",
+      "face": "https://i0.hdslb.com/bfs/face/708602c1477f9f0bf2bb65956d6099343943c6bd.jpg"
+    },
+    "stat": {
+      "aid": 910613554,
+      "view": 42,
+      "danmaku": 0,
+      "reply": 5,
+      "favorite": 0,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 0,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1111945205,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1111945205,
+        "page": 1,
+        "from": "vupload",
+        "part": "1682675709430.mp4",
+        "duration": 386,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230428qn2ftd8fnfobsoy1u925m7no1_firsti.jpg",
+        "ctime": 1682678507
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

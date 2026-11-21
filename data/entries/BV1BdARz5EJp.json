@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1BdARz5EJp",
+  "aid": 116163816260819,
+  "title": "瓜 摊 斗 舞",
+  "owner": {
+    "mid": 107276603,
+    "name": "一团小包子"
+  },
+  "pubdate": "2026-03-03T06:29:54Z",
+  "duration_s": 125,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 7,510,747 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 7510750,
+      "like": 373863,
+      "coin": 97129,
+      "favorite": 81358,
+      "share": 58240,
+      "danmaku": 5125,
+      "reply": 7750
+    }
+  ],
+  "notes": ""
+}

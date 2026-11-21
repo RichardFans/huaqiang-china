@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1w64y1a7iR",
+  "aid": 763028168,
+  "title": "小伙偶遇高人指点，终于做出3D火影忍者~",
+  "owner": {
+    "mid": 237470715,
+    "name": "主观哥哥"
+  },
+  "pubdate": "2021-09-15T10:00:05Z",
+  "duration_s": 189,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 6,953,290 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 6953290,
+      "like": 192662,
+      "coin": 57832,
+      "favorite": 50264,
+      "share": 51084,
+      "danmaku": 6519,
+      "reply": 4074
+    }
+  ],
+  "notes": ""
+}

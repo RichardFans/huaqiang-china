@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1cdxJ6oEaa",
+  "aid": 117536528013882,
+  "title": "【NEON】但是华强买瓜",
+  "owner": {
+    "mid": 276224973,
+    "name": "新世纪咖啡战士v"
+  },
+  "pubdate": "2026-10-31T16:48:03Z",
+  "duration_s": 147,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）——review --auto-confirm-scenes 于存量迁移",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 230,920 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 231168,
+      "like": 7651,
+      "coin": 1754,
+      "favorite": 1904,
+      "share": 1672,
+      "danmaku": 260,
+      "reply": 395
+    }
+  ],
+  "notes": ""
+}

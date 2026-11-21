@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1aA411P79n",
+  "aid": 334684371,
+  "title": "中 国 有 嘻 瓜",
+  "owner": {
+    "mid": 16054375,
+    "name": "自动鬼畜中的WZ"
+  },
+  "pubdate": "2021-08-05T10:14:47Z",
+  "duration_s": 108,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 8,482,076 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 8482077,
+      "like": 539515,
+      "coin": 280187,
+      "favorite": 179804,
+      "share": 72582,
+      "danmaku": 13008,
+      "reply": 4357
+    }
+  ],
+  "notes": ""
+}

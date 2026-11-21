@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1cL411L7vL",
+    "aid": 465155828,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 2,
+    "pic": "http://i1.hdslb.com/bfs/archive/0a2cfd5cdeadcfd7491f5676432daeae1e1a2b22.jpg",
+    "title": "封彪演员王宝德",
+    "pubdate": 1640692652,
+    "ctime": 1640692652,
+    "desc": "三乐工作室\n在三乐工作室也出现过这个小视频",
+    "desc_v2": [
+      {
+        "raw_text": "三乐工作室\n在三乐工作室也出现过这个小视频",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 17,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2121084232,
+      "name": "反黑恶势力的王佳轩",
+      "face": "https://i1.hdslb.com/bfs/face/4409e75266c69dbf52de0367dcd278da7b4e00e6.jpg"
+    },
+    "stat": {
+      "aid": 465155828,
+      "view": 501087,
+      "danmaku": 612,
+      "reply": 723,
+      "favorite": 1128,
+      "coin": 62,
+      "share": 196,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 6037,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 470539292,
+    "dimension": {
+      "width": 852,
+      "height": 480,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 470539292,
+        "page": 1,
+        "from": "vupload",
+        "part": "封彪演员王宝德",
+        "duration": 17,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 852,
+          "height": 480,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n211228qn3qarj3erurpqr2vau99z7lc_firsti.jpg",
+        "ctime": 1640692652
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

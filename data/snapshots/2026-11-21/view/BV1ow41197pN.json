@@ -1,0 +1,142 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ow41197pN",
+    "aid": 334386726,
+    "videos": 2,
+    "tid": 127,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/2b7dcf085b27b8a69ffc8302cc2e306587f14f0c.jpg",
+    "title": "华强买瓜原片绿幕GB素材 附使用方法",
+    "pubdate": 1627230622,
+    "ctime": 1627230622,
+    "desc": "扣了一天才勉勉强强扣完，扣的也不好，早知道用钢笔扣了。\r\n看up这么辛苦，给个三连吧",
+    "desc_v2": [
+      {
+        "raw_text": "扣了一天才勉勉强强扣完，扣的也不好，早知道用钢笔扣了。\r\n看up这么辛苦，给个三连吧",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 812,
+    "mission_id": 43041,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 18302914,
+      "name": "哈斯恩",
+      "face": "https://i1.hdslb.com/bfs/face/1cdb5de0cbf1732edac2cac98b669e2c1e6a5d64.jpg"
+    },
+    "stat": {
+      "aid": 334386726,
+      "view": 86693,
+      "danmaku": 76,
+      "reply": 145,
+      "favorite": 3468,
+      "coin": 1259,
+      "share": 436,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2634,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 376592632,
+    "dimension": {
+      "width": 900,
+      "height": 576,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 376592632,
+        "page": 1,
+        "from": "vupload",
+        "part": "素材",
+        "duration": 108,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 900,
+          "height": 576,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n210725a21qixp4mppfykc3ccenpqh80_firsti.jpg",
+        "ctime": 1627230622
+      },
+      {
+        "cid": 376595200,
+        "page": 2,
+        "from": "vupload",
+        "part": "教程",
+        "duration": 704,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n2107261615otw8x17f3ok1atamd1tgi_firsti.jpg",
+        "ctime": 1627230622
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 0,
+    "is_view_self": false
+  }
+}

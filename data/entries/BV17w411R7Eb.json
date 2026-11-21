@@ -1,0 +1,49 @@
+{
+  "bvid": "BV17w411R7Eb",
+  "aid": 334457895,
+  "title": "你 真 敢 开 枪 啊 ？",
+  "owner": {
+    "mid": 2074416895,
+    "name": "干物快乐宅"
+  },
+  "pubdate": "2021-07-27T03:49:43Z",
+  "duration_s": 71,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 15,254,571 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 15254583,
+      "like": 449904,
+      "coin": 74485,
+      "favorite": 119096,
+      "share": 62604,
+      "danmaku": 11289,
+      "reply": 4308
+    }
+  ],
+  "notes": ""
+}

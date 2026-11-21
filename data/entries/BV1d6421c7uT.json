@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1d6421c7uT",
+  "aid": 1351754042,
+  "title": "爷料定不中用",
+  "owner": {
+    "mid": 1324510,
+    "name": "关节拉伤"
+  },
+  "pubdate": "2024-03-18T04:48:30Z",
+  "duration_s": 347,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "feng-biao"
+  ],
+  "scene_evidence": "检索词『封彪』→feng-biao；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 1,121,561 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "封彪",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 1121562,
+      "like": 36565,
+      "coin": 5726,
+      "favorite": 11475,
+      "share": 12885,
+      "danmaku": 1782,
+      "reply": 1078
+    }
+  ],
+  "notes": ""
+}

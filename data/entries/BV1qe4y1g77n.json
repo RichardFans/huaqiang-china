@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1qe4y1g77n",
+  "aid": 648124453,
+  "title": "蓝 色 妖 姬 是 怎 样 炼 成 的",
+  "owner": {
+    "mid": 36438715,
+    "name": "一大筐会飞的草莓"
+  },
+  "pubdate": "2022-11-28T03:45:00Z",
+  "duration_s": 75,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 8,637,950 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 8637951,
+      "like": 890513,
+      "coin": 242458,
+      "favorite": 276701,
+      "share": 79894,
+      "danmaku": 8850,
+      "reply": 4336
+    }
+  ],
+  "notes": ""
+}

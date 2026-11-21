@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1SU4y1K7tS",
+  "aid": 676876181,
+  "title": "《征服》刘华强 名场面大盘点",
+  "owner": {
+    "mid": 1641744166,
+    "name": "朝羊先生"
+  },
+  "pubdate": "2021-11-28T23:44:26Z",
+  "duration_s": 924,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "标题命中剪辑类关键词：名场面",
+  "tier": "hot",
+  "tier_basis": "播放 1,540,911 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 1540930,
+      "like": 30556,
+      "coin": 4533,
+      "favorite": 18166,
+      "share": 5007,
+      "danmaku": 6181,
+      "reply": 1097
+    }
+  ],
+  "notes": ""
+}

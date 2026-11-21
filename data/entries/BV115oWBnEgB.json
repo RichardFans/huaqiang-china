@@ -1,0 +1,60 @@
+{
+  "bvid": "BV115oWBnEgB",
+  "aid": 116446730586850,
+  "title": "唱着山歌来买瓜",
+  "owner": {
+    "mid": 2115443931,
+    "name": "猫屎花生"
+  },
+  "pubdate": "2026-04-22T05:38:57Z",
+  "duration_s": 255,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）——review --auto-confirm-scenes 于存量迁移",
+  "scene_status": "confirmed",
+  "form": "ai-cover",
+  "form_status": "confirmed",
+  "form_evidence": "平台页面标注「该内容疑似使用AI技术合成」（cross-check B 面捕获）→ ai-cover",
+  "tier": "hot",
+  "tier_basis": "播放 8,157,217 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 8157236,
+      "like": 621406,
+      "coin": 286407,
+      "favorite": 179811,
+      "share": 86977,
+      "danmaku": 21954,
+      "reply": 18068
+    },
+    {
+      "captured_at": "2026-11-21T03:18:35.007358Z",
+      "endpoint": "page-state",
+      "view": 8157236,
+      "like": 621405,
+      "coin": 286407,
+      "favorite": 179811,
+      "share": 86977,
+      "danmaku": 21954,
+      "reply": 18068
+    }
+  ],
+  "notes": ""
+}

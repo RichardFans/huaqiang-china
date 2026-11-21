@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1RyAVecEJA",
+  "aid": 114012087913510,
+  "title": "水果摊的刀竟然沾糖水？",
+  "owner": {
+    "mid": 3546640096954436,
+    "name": "周小闹是周小闹"
+  },
+  "pubdate": "2025-02-16T06:19:01Z",
+  "duration_s": 71,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 11,775,967 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 11775977,
+      "like": 120592,
+      "coin": 2064,
+      "favorite": 27895,
+      "share": 473,
+      "danmaku": 122,
+      "reply": 358
+    }
+  ],
+  "notes": ""
+}

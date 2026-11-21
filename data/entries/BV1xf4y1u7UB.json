@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1xf4y1u7UB",
+  "aid": 378979964,
+  "title": "“这是一个审核了五年的鬼畜视频”",
+  "owner": {
+    "mid": 159122,
+    "name": "惜缘、过去"
+  },
+  "pubdate": "2021-10-31T08:03:29Z",
+  "duration_s": 235,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "guichu",
+  "form_status": "auto",
+  "form_evidence": "标题命中 鬼畜",
+  "tier": "hot",
+  "tier_basis": "播放 6,913,534 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 6913534,
+      "like": 768178,
+      "coin": 463405,
+      "favorite": 220192,
+      "share": 31991,
+      "danmaku": 11560,
+      "reply": 8429
+    }
+  ],
+  "notes": ""
+}

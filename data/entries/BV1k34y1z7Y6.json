@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1k34y1z7Y6",
+  "aid": 807853040,
+  "title": "特效炸裂！年度之战！特效小哥大战建模小哥4",
+  "owner": {
+    "mid": 3066511,
+    "name": "特效小哥studio"
+  },
+  "pubdate": "2021-12-31T09:00:15Z",
+  "duration_s": 355,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 13,541,300 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 13541302,
+      "like": 2170708,
+      "coin": 2253929,
+      "favorite": 617934,
+      "share": 109676,
+      "danmaku": 24701,
+      "reply": 11580
+    }
+  ],
+  "notes": ""
+}

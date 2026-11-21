@@ -1,0 +1,60 @@
+{
+  "bvid": "BV11q4y1H76N",
+  "aid": 546915624,
+  "title": "卢本伟买西瓜",
+  "owner": {
+    "mid": 338407352,
+    "name": "清澈小老弟"
+  },
+  "pubdate": "2021-07-27T10:11:21Z",
+  "duration_s": 109,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）——review --auto-confirm-scenes 于存量迁移",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,661,151 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 2661151,
+      "like": 174459,
+      "coin": 37294,
+      "favorite": 42204,
+      "share": 23865,
+      "danmaku": 9554,
+      "reply": 2100
+    },
+    {
+      "captured_at": "2026-11-21T03:18:41.521503Z",
+      "endpoint": "page-state",
+      "view": 2661151,
+      "like": 174459,
+      "coin": 37294,
+      "favorite": 42204,
+      "share": 23865,
+      "danmaku": 9554,
+      "reply": 2100
+    }
+  ],
+  "notes": ""
+}

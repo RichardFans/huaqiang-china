@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1DAWn6NEPS",
+  "aid": 117580316677743,
+  "title": "郝哥强哥我们天下第一好",
+  "owner": {
+    "mid": 3747580922040151,
+    "name": "吊带楠楠"
+  },
+  "pubdate": "2026-11-08T10:23:05Z",
+  "duration_s": 22,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 102,771 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 102806,
+      "like": 11144,
+      "coin": 908,
+      "favorite": 1361,
+      "share": 2314,
+      "danmaku": 287,
+      "reply": 759
+    }
+  ],
+  "notes": ""
+}

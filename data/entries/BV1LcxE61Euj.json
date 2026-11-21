@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1LcxE61Euj",
+  "aid": 117518190578941,
+  "title": "强子刚来啊，等你二十年了【AI MV大赛】",
+  "owner": {
+    "mid": 1298657234,
+    "name": "Raymondsese"
+  },
+  "pubdate": "2026-10-28T11:06:29Z",
+  "duration_s": 331,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "ai-other",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI 关键词：AI",
+  "tier": "hot",
+  "tier_basis": "播放 2,531,899 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 2531911,
+      "like": 112123,
+      "coin": 22656,
+      "favorite": 26572,
+      "share": 10789,
+      "danmaku": 4050,
+      "reply": 2629
+    }
+  ],
+  "notes": ""
+}

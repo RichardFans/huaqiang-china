@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1NhRMBiEcy",
+  "aid": 116497833787626,
+  "title": "《无实物表演》",
+  "owner": {
+    "mid": 50391034,
+    "name": "酸奶煎个蛋"
+  },
+  "pubdate": "2026-05-01T06:15:16Z",
+  "duration_s": 112,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 14,165,929 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 14165953,
+      "like": 391884,
+      "coin": 64686,
+      "favorite": 105668,
+      "share": 63302,
+      "danmaku": 6819,
+      "reply": 8160
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1iu4y1f7SZ",
+  "aid": 826658311,
+  "title": "原始人，起洞！",
+  "owner": {
+    "mid": 111161461,
+    "name": "黑猫的泪水"
+  },
+  "pubdate": "2023-05-30T01:56:27Z",
+  "duration_s": 77,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 4,435,608 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 4435608,
+      "like": 171946,
+      "coin": 24158,
+      "favorite": 42291,
+      "share": 35951,
+      "danmaku": 1948,
+      "reply": 2955
+    }
+  ],
+  "notes": ""
+}

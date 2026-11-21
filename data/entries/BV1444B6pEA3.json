@@ -1,0 +1,60 @@
+{
+  "bvid": "BV1444B6pEA3",
+  "aid": 117568505387850,
+  "title": "服务员华强2.0",
+  "owner": {
+    "mid": 5432766,
+    "name": "神威-狗剩"
+  },
+  "pubdate": "2026-11-06T08:22:23Z",
+  "duration_s": 232,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 475,417 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 475493,
+      "like": 14215,
+      "coin": 1465,
+      "favorite": 3974,
+      "share": 1516,
+      "danmaku": 750,
+      "reply": 572
+    },
+    {
+      "captured_at": "2026-11-21T03:18:49.404876Z",
+      "endpoint": "page-state",
+      "view": 475506,
+      "like": 14215,
+      "coin": 1465,
+      "favorite": 3974,
+      "share": 1516,
+      "danmaku": 750,
+      "reply": 572
+    }
+  ],
+  "notes": ""
+}

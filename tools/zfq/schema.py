@@ -71,11 +71,13 @@ class Entry(BaseModel):
     kind: Kind = "derivative"
     scenes: list[Scene]
     scene_evidence: str = ""      # 归属判定依据（auto 阶段必填）
+    scene_status: Literal["auto", "confirmed"] = "auto"
     form: Form
     form_status: Literal["auto", "confirmed"] = "auto"
     form_evidence: str = ""       # auto 阶段必填
     tier: Tier
     tier_basis: str = ""          # seed 必填；自动门槛可注明规则版本
+    review: Literal["pending", "confirmed"] = "pending"  # 整条人工复核状态（ADR-0006）
 
     status: Status = "ok"
     archive_url: str | None = None
@@ -99,6 +101,11 @@ class Entry(BaseModel):
             raise ValueError("seed 分级必须填写 tier_basis")
         if self.form_status == "auto" and not self.form_evidence:
             raise ValueError("auto 形态必须留下 form_evidence 判定依据")
+        if self.scene_status == "auto" and not self.scene_evidence:
+            raise ValueError("auto 桥段归属必须留下 scene_evidence 判定依据")
+        if self.review == "confirmed":
+            if self.form_status != "confirmed" or self.scene_status != "confirmed":
+                raise ValueError("整条 confirmed 前提：form 与 scene 均须 confirmed")
         if self.kind == "derivative" and self.form == "source":
             raise ValueError("derivative 不能用 source 形态")
         if self.kind == "source" and self.form != "source":

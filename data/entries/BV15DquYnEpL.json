@@ -1,0 +1,49 @@
+{
+  "bvid": "BV15DquYnEpL",
+  "aid": 113626530709768,
+  "title": "《我的数学老师会玩原神》",
+  "owner": {
+    "mid": 22155039,
+    "name": "伊密尔丶"
+  },
+  "pubdate": "2024-12-14T04:00:00Z",
+  "duration_s": 220,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 7,523,177 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 7523177,
+      "like": 127964,
+      "coin": 9569,
+      "favorite": 189042,
+      "share": 2204,
+      "danmaku": 10560,
+      "reply": 1185
+    }
+  ],
+  "notes": ""
+}

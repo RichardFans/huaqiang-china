@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1Mw411n7e7",
+  "aid": 323756592,
+  "title": "这是我弟弟，刚满18岁",
+  "owner": {
+    "mid": 1586512021,
+    "name": "放纵的荷尔蒙"
+  },
+  "pubdate": "2023-11-23T21:00:00Z",
+  "duration_s": 89,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 1,234,603 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 1234603,
+      "like": 40498,
+      "coin": 2226,
+      "favorite": 6826,
+      "share": 2815,
+      "danmaku": 1225,
+      "reply": 630
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1ezoWBAEM5",
+  "aid": 116446461959457,
+  "title": "华强买瓜 但是深情民谣MV",
+  "owner": {
+    "mid": 110071473,
+    "name": "多梦综合征"
+  },
+  "pubdate": "2026-04-22T04:33:46Z",
+  "duration_s": 402,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）——review --auto-confirm-scenes 于存量迁移",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,701,600 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 2701610,
+      "like": 117883,
+      "coin": 75756,
+      "favorite": 67000,
+      "share": 29854,
+      "danmaku": 3537,
+      "reply": 4508
+    }
+  ],
+  "notes": ""
+}

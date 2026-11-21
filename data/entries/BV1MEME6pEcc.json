@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1MEME6pEcc",
+  "aid": 116889498032752,
+  "title": "郝 哥 不 在 2.0",
+  "owner": {
+    "mid": 438256074,
+    "name": "岩罗Crv"
+  },
+  "pubdate": "2026-07-09T10:19:29Z",
+  "duration_s": 213,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 6,132,382 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 6132447,
+      "like": 346084,
+      "coin": 60185,
+      "favorite": 71104,
+      "share": 24363,
+      "danmaku": 3607,
+      "reply": 4139
+    }
+  ],
+  "notes": ""
+}

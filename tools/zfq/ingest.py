@@ -19,15 +19,17 @@ from .schema import DiscoveryInfo, Entry, FollowerSnapshot, NameRecord, Owner, S
 from .search import Candidate, harvest
 
 # 形态初判关键词（按优先级；只产生 auto 判定，不是结论）
-AI_PAT = re.compile(r"\bAI\b|人工智能|so-?vits|RVC|语音克隆|AI孙红雷|AI华强|AI刘华强", re.I)
-SING_PAT = re.compile(r"翻唱|唱|歌|念白|朗读|RAP|rap")
+# 注：AI 不加 \b ——中文与 AI 相邻时无词边界（实测：「能控制AI」漏判）
+AI_PAT = re.compile(r"AI|人工智能|so-?vits|RVC|语音克隆|豆包|SUNO|Suno", re.I)
+SING_PAT = re.compile(r"翻唱|唱|歌|念白|朗读|RAP|rap|MV|音乐")
 GUICHU_PAT = re.compile(r"鬼畜")
+SPACED_TITLE_PAT = re.compile(r"(?:\S\s){4,}\S")  # 「无 伤 反 杀 刘 华 强」式空格标题：鬼畜区文化特征
 YINMAD_PAT = re.compile(r"音\s?MAD|音mad", re.I)
 CLIP_PAT = re.compile(r"剪辑|混剪|速通|合集|名场面|盘点|重制|修复|字幕|配音")
 AIVIDEO_PAT = re.compile(r"AI视频|生成视频|可灵|即梦|Sora|sora|Veo", re.I)
 # scene 标题线索
 SCENE_TITLE_PAT = [
-    (re.compile(r"买瓜|保熟|西瓜"), "maigua"),
+    (re.compile(r"买瓜|保熟|西瓜|瓜摊|卖瓜|劈瓜"), "maigua"),
     (re.compile(r"宋老虎"), "song-laohu-banquet"),
     (re.compile(r"封彪|疯飙"), "feng-biao"),
 ]
@@ -39,30 +41,39 @@ def guess_form(title: str) -> tuple[str, str]:
         return "ai-video", f"标题命中生成式视频关键词：{AIVIDEO_PAT.search(title).group(0)}"
     if AI_PAT.search(title):
         if SING_PAT.search(title):
-            return "ai-cover", f"标题命中 AI+声音类关键词：{AI_PAT.search(title).group(0)}+{SING_PAT.search(title).group(0)}"
+            return "ai-cover", f"标题命中 AI+声音/音乐关键词：{AI_PAT.search(title).group(0)}+{SING_PAT.search(title).group(0)}"
         return "ai-other", f"标题命中 AI 关键词：{AI_PAT.search(title).group(0)}"
     if YINMAD_PAT.search(title):
         return "yinmad", "标题命中 音MAD"
     if GUICHU_PAT.search(title):
         return "guichu", "标题命中 鬼畜"
+    if SPACED_TITLE_PAT.search(title):
+        return "guichu", "空格标题（鬼畜区命名文化特征，启发式，待复核）"
     if CLIP_PAT.search(title):
         return "clip", f"标题命中剪辑类关键词：{CLIP_PAT.search(title).group(0)}"
     return "clip", "无明确形态线索，默认 clip（待人工复核）"
 
 
-def guess_scenes(cand: Candidate) -> tuple[list[str], str]:
-    scenes: list[str] = []
-    for pat, slug in SCENE_TITLE_PAT:
-        if pat.search(cand.title):
-            scenes.append(slug)
+def title_scene_hits(title: str) -> list[str]:
+    return [slug for pat, slug in SCENE_TITLE_PAT if pat.search(title)]
+
+
+def guess_scenes(cand: Candidate) -> tuple[list[str], str, str]:
+    """返回 (scenes, evidence, scene_status)。标题显式命中 → confirmed（标题即一手线索）。"""
+    scenes: list[str] = title_scene_hits(cand.title)
     kw_scenes = config.KEYWORD_SCENE_MAP.get(cand.keyword, ())
     for s in kw_scenes:
         if s not in scenes:
             scenes.append(s)
     if not scenes:
         scenes = ["zhengfu-other"]
-    basis = f"检索词『{cand.keyword}』→{'+'.join(kw_scenes) or '无'}；标题扫描→{len(scenes)}项"
-    return scenes, basis
+    if title_scene_hits(cand.title):
+        status = "confirmed"
+        basis = f"标题显式命中桥段词（{'+'.join(title_scene_hits(cand.title))}）；检索词『{cand.keyword}』补全"
+    else:
+        status = "auto"
+        basis = (f"仅检索词『{cand.keyword}』相关性命中（标题无桥段词），低置信，复核优先")
+    return scenes, basis, status
 
 
 def view_to_snapshot(data: dict, now: datetime) -> Snapshot:
@@ -147,7 +158,7 @@ def ingest_candidates(
         pub_iso = datetime.fromtimestamp(data["pubdate"], tz=timezone.utc)
         tier, tier_basis = auto_tier(snap.view, pub_iso, now)
         form, form_evidence = guess_form(data.get("title", cand.title))
-        scenes, scene_evidence = guess_scenes(cand)
+        scenes, scene_evidence, scene_status = guess_scenes(cand)
         if not tier:
             rejected.append({**cand.to_dict(), "view": snap.view,
                              "reason": tier_basis})
@@ -162,6 +173,7 @@ def ingest_candidates(
             kind="derivative",
             scenes=scenes,  # type: ignore[arg-type]
             scene_evidence=scene_evidence,
+            scene_status=scene_status,  # type: ignore[arg-type]
             form=form,  # type: ignore[arg-type]
             form_status="auto", form_evidence=form_evidence,
             tier=tier,  # type: ignore[arg-type]

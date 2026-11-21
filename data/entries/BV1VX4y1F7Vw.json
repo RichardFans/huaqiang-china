@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1VX4y1F7Vw",
+  "aid": 717178755,
+  "title": "「误导向」感人短片 《下 岗 工 人 刘 华 强》",
+  "owner": {
+    "mid": 173305,
+    "name": "-胡莱克修斯-"
+  },
+  "pubdate": "2021-08-06T02:00:18Z",
+  "duration_s": 152,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 1,966,007 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 1966007,
+      "like": 184120,
+      "coin": 93073,
+      "favorite": 62686,
+      "share": 26731,
+      "danmaku": 7551,
+      "reply": 3055
+    }
+  ],
+  "notes": ""
+}

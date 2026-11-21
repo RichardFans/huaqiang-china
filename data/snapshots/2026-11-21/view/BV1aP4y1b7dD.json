@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1aP4y1b7dD",
+    "aid": 891280146,
+    "videos": 1,
+    "tid": 126,
+    "tid_v2": 2059,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/97530ee91e432ba503a4a57eb734fd33865394f7.jpg",
+    "title": "【华强】勾指起誓",
+    "pubdate": 1635289213,
+    "ctime": 1635289223,
+    "desc": "原曲：《勾指起誓》\n部分画面取材：\nBV1CU4y137FJ\nBV1qb4y1z7ve\nBV1LA411A74D\nBV1Qh411i7ic\nBV1qX4y1F74E\nBV1Dy4y1L7Yp\nBV1Q64y1a7MS\nBV1Sg411L7LU\nBV1MM4y1L74X\nBV19h411q7sG\nBV1iM4y137Fi\nBV14q4y1X7rQ\nBV1Xq4y1H77o\nBV1sM4y1N7mH\nBV1tf4y1n72P\nBV17h411W7QX\nBV1rb4y1m7iV",
+    "desc_v2": [
+      {
+        "raw_text": "原曲：《勾指起誓》\n部分画面取材：\nBV1CU4y137FJ\nBV1qb4y1z7ve\nBV1LA411A74D\nBV1Qh411i7ic\nBV1qX4y1F74E\nBV1Dy4y1L7Yp\nBV1Q64y1a7MS\nBV1Sg411L7LU\nBV1MM4y1L74X\nBV19h411q7sG\nBV1iM4y137Fi\nBV14q4y1X7rQ\nBV1Xq4y1H77o\nBV1sM4y1N7mH\nBV1tf4y1n72P\nBV17h411W7QX\nBV1rb4y1m7iV",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 171,
+    "mission_id": 116452,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 402475253,
+      "name": "观察员布观察",
+      "face": "https://i2.hdslb.com/bfs/face/4213d193425dcb1213d9220f3d51e74e0f687152.jpg"
+    },
+    "stat": {
+      "aid": 891280146,
+      "view": 140954,
+      "danmaku": 326,
+      "reply": 322,
+      "favorite": 2857,
+      "coin": 2691,
+      "share": 986,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 8514,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 431501352,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 431501352,
+        "page": 1,
+        "from": "vupload",
+        "part": "【华强】勾指起誓",
+        "duration": 171,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n211027a21cdc0u90e2l43t2boj16wio_firsti.jpg",
+        "ctime": 1635289223
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

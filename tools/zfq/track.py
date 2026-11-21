@@ -18,13 +18,10 @@ from .client import PoliteClient
 from .ingest import save_raw_view, view_to_snapshot
 from .schema import Entry, Snapshot, utcnow
 
-# 视频页内嵌 stat：兼容带引号 JSON 与无引号 JS 两种形态
-STAT_QUOTED = re.compile(
-    r'"stat":\{"aid":\d+,"view":(\d+),"danmaku":(\d+),"reply":(\d+),'
-    r'"favorite":(\d+),"coin":(\d+),"share":(\d+),"like":(\d+)')
-STAT_UNQUOTED = re.compile(
-    r'stat:\{aid:\d+,view:(\d+),danmaku:(\d+),reply:(\d+),'
-    r'favorite:(\d+),coin:(\d+),share:(\d+),like:(\d+)')
+# 视频页内嵌 stat：块捕获 + 逐键解析（键序无关；实测 share 与 like 之间夹
+# now_rank/his_rank，且不同块用 favorite/fav 两种键名）
+STAT_BLOCK = re.compile(r'"stat":\{("aid":[^{}]*)\}')
+AI_LABEL = "疑似使用AI技术合成"   # 平台官方 AI 合成标注（argue_msg）
 
 
 def load_entries() -> list[Entry]:
@@ -62,18 +59,29 @@ def fetch_view(client: PoliteClient, bvid: str) -> dict | None:
     return payload
 
 
-def fetch_page_state(client: PoliteClient, bvid: str) -> Snapshot | None:
+def fetch_page_state(client: PoliteClient, bvid: str) -> tuple[Snapshot | None, bool]:
+    """返回 (快照, 平台AI标注)。页面为 B 面证据；AI 标注是平台官方 form 判定线索。"""
     try:
         resp = client.get(config.URL_VIDEO_PAGE.format(bvid=bvid))
     except Exception as e:  # noqa: BLE001
         print(f"  [warn] {bvid} 页面失败: {e!r}")
-        return None
-    m = STAT_QUOTED.search(resp.text) or STAT_UNQUOTED.search(resp.text)
+        return None, False
+    m = next((m for m in STAT_BLOCK.finditer(resp.text) if '"view":' in m.group(1)),
+             None)
     if not m:
-        return None
-    v, dm, rp, fav, coin, share, like = map(int, m.groups())
-    return Snapshot(captured_at=utcnow(), endpoint="page-state", view=v, like=like,
-                    coin=coin, favorite=fav, share=share, danmaku=dm, reply=rp)
+        return None, False
+    pairs = dict(re.findall(r'"(\w+)":(-?\d+)', m.group(1)))
+    try:
+        snap = Snapshot(
+            captured_at=utcnow(), endpoint="page-state",
+            view=int(pairs["view"]), like=int(pairs.get("like", 0)),
+            coin=int(pairs.get("coin", 0)),
+            favorite=int(pairs.get("favorite", pairs.get("fav", 0))),
+            share=int(pairs.get("share", 0)),
+            danmaku=int(pairs.get("danmaku", 0)), reply=int(pairs.get("reply", 0)))
+    except KeyError:
+        return None, False
+    return snap, AI_LABEL in resp.text
 
 
 def cross_check(client: PoliteClient, entries: list[Entry], n: int) -> list[dict]:
@@ -86,12 +94,22 @@ def cross_check(client: PoliteClient, entries: list[Entry], n: int) -> list[dict
             results.append({"bvid": e.bvid, "result": "api-failed"})
             continue
         a = view_to_snapshot(api["data"], utcnow())
-        b = fetch_page_state(client, e.bvid)
+        b, ai_flag = fetch_page_state(client, e.bvid)
         if b is None:
             results.append({"bvid": e.bvid, "result": "page-unparseable"})
             continue
         # B 面快照也入条目（同端点同日幂等替换），留双面证据链
         if append_snapshot(e, b):
+            save_entry(e)
+        # 平台 AI 合成标注 → form 判定升级（平台官方标注，可信度高于标题启发）
+        if ai_flag and e.form_status != "confirmed":
+            import re as _re
+            sing = _re.search(r"翻唱|唱|歌|念白|朗读|RAP|MV|音乐", e.title)
+            new_form = "ai-cover" if sing else "ai-other"
+            e.form = new_form  # type: ignore[assignment]
+            e.form_status = "confirmed"
+            e.form_evidence = ("平台页面标注「该内容疑似使用AI技术合成」（cross-check "
+                              f"B 面捕获）→ {new_form}")
             save_entry(e)
         diff = {f: getattr(a, f) - getattr(b, f)
                 for f in ("view", "like", "coin", "favorite", "share", "danmaku", "reply")}
@@ -99,7 +117,9 @@ def cross_check(client: PoliteClient, entries: list[Entry], n: int) -> list[dict
         results.append({
             "bvid": e.bvid,
             "result": "consistent" if consistent else "mismatch",
-            "api": a.model_dump(), "page": b.model_dump(), "diff": diff,
+            "ai_label": ai_flag,
+            "api": a.model_dump(mode="json"), "page": b.model_dump(mode="json"),
+            "diff": diff,
         })
     return results
 
@@ -162,9 +182,14 @@ def main(argv: list[str] | None = None) -> int:
     print(f"[track] 刷新 {len(entries)} 条，变化 {changed} 条")
 
     cc = cross_check(client, entries, args.cross_check) if args.cross_check else []
-    ok = sum(1 for r in cc if r["result"] == "consistent")
-    print(f"[cross-check] 一致 {ok}/{len(cc)}"
-          + ("" if ok == len(cc) else " ← 有不一致，人工核！"))
+    n_ok = sum(1 for r in cc if r["result"] == "consistent")
+    n_bad = sum(1 for r in cc if r["result"] == "mismatch")
+    n_unp = sum(1 for r in cc if r["result"] == "page-unparseable")
+    n_api = sum(1 for r in cc if r["result"] == "api-failed")
+    print(f"[cross-check] 一致 {n_ok}/{len(cc)}"
+          + (f"｜不一致 {n_bad} ← 人工核！" if n_bad else "")
+          + (f"｜页面不可解析 {n_unp}" if n_unp else "")
+          + (f"｜API失败 {n_api}" if n_api else ""))
 
     deltas = compute_deltas(load_entries(), now)
     config.CURATED_DIR.mkdir(parents=True, exist_ok=True)
@@ -178,7 +203,9 @@ def main(argv: list[str] | None = None) -> int:
         "# 跟踪报告（自动生成）", "",
         f"- 生成时间：{now.isoformat(timespec='seconds')}",
         f"- 刷新条目：{len(entries)}（变化 {changed}）",
-        f"- 双面交叉验证：一致 {ok}/{len(cc)}", "",
+        f"- 双面交叉验证：一致 {n_ok}/{len(cc)}"
+        + (f"，不一致 {n_bad}（人工核），页面不可解析 {n_unp}，API 失败 {n_api}"
+           if (n_bad or n_unp or n_api) else ""), "",
         "## 7 天播放涨幅榜（Top 20）", "",
         "| # | 播放 | 7d增量 | 30d增量 | 分级 | 形态 | 标题 |",
         "|---|---|---|---|---|---|---|",

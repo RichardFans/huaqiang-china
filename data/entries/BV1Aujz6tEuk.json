@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1Aujz6tEuk",
+  "aid": 116775932922492,
+  "title": "“华强·刘华强你被捕了！”抓捕刘华强武器装备全解析",
+  "owner": {
+    "mid": 3706930369399741,
+    "name": "军地两用人才之友"
+  },
+  "pubdate": "2026-06-19T09:04:35Z",
+  "duration_s": 358,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 299,826 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 299842,
+      "like": 10579,
+      "coin": 1047,
+      "favorite": 6189,
+      "share": 358,
+      "danmaku": 1597,
+      "reply": 525
+    }
+  ],
+  "notes": ""
+}

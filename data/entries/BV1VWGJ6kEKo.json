@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1VWGJ6kEKo",
+  "aid": 116629467960900,
+  "title": "各位郝哥 节目叫《非常骚扰》",
+  "owner": {
+    "mid": 1172349285,
+    "name": "韩历飞羽666"
+  },
+  "pubdate": "2026-05-24T12:12:39Z",
+  "duration_s": 213,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "feng-biao"
+  ],
+  "scene_evidence": "检索词『封彪』→feng-biao；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 300,930 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "封彪",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 300930,
+      "like": 13371,
+      "coin": 2036,
+      "favorite": 3778,
+      "share": 1859,
+      "danmaku": 1167,
+      "reply": 680
+    }
+  ],
+  "notes": ""
+}

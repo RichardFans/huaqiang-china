@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1Wv411n7FK",
+  "aid": 249201241,
+  "title": "《内 向 顾 客》",
+  "owner": {
+    "mid": 509993026,
+    "name": "无牙人"
+  },
+  "pubdate": "2021-07-16T14:13:32Z",
+  "duration_s": 94,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 15,950,277 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 15950284,
+      "like": 755630,
+      "coin": 216748,
+      "favorite": 222970,
+      "share": 147678,
+      "danmaku": 25963,
+      "reply": 12586
+    }
+  ],
+  "notes": ""
+}

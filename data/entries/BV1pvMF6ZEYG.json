@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1pvMF6ZEYG",
+  "aid": 116860657931807,
+  "title": "阿伟创业记",
+  "owner": {
+    "mid": 3546894057868162,
+    "name": "青时晚"
+  },
+  "pubdate": "2026-07-04T08:04:15Z",
+  "duration_s": 431,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 6,074,802 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 6074814,
+      "like": 247370,
+      "coin": 24119,
+      "favorite": 44904,
+      "share": 13987,
+      "danmaku": 4364,
+      "reply": 4273
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1tBpweNEEX",
+    "aid": 113079375364784,
+    "videos": 1,
+    "tid": 130,
+    "tid_v2": 2024,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/2c3a2200b98d22764f16a9d86b5e908b86b03921.jpg",
+    "title": "【录音室听】那英《征服》【Hi-Res】无损音质",
+    "pubdate": 1725454740,
+    "ctime": 1725454740,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 289,
+    "mission_id": 4018789,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1887235143,
+      "name": "雨天音乐室",
+      "face": "https://i0.hdslb.com/bfs/face/e8a3b161e720b63bc4a88b8e81b6140a9086909a.jpg"
+    },
+    "stat": {
+      "aid": 113079375364784,
+      "view": 71746,
+      "danmaku": 22,
+      "reply": 23,
+      "favorite": 1192,
+      "coin": 58,
+      "share": 352,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 537,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 25737495154,
+    "dimension": {
+      "width": 1922,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 25737495154,
+        "page": 1,
+        "from": "vupload",
+        "part": "【录音室听】那英《征服》【Hi-Res】无损音质",
+        "duration": 289,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1922,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n240904sa22z9pe4307dm52mh7e9pbaz_firsti.jpg",
+        "ctime": 1725454740
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

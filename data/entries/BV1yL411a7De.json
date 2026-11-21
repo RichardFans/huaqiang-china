@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1yL411a7De",
+  "aid": 443253972,
+  "title": "跟我超人强拼，你有这个实力吗",
+  "owner": {
+    "mid": 362548347,
+    "name": "解题方案"
+  },
+  "pubdate": "2023-05-06T03:10:34Z",
+  "duration_s": 92,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 1,710,850 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 1710850,
+      "like": 146915,
+      "coin": 10526,
+      "favorite": 32178,
+      "share": 7309,
+      "danmaku": 1117,
+      "reply": 480
+    }
+  ],
+  "notes": ""
+}

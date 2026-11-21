@@ -1,0 +1,1174 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV11k4y147V7",
+    "aid": 739181800,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/2c7a0a09b4ed431427b382a11ef45b3656d2c9f3.jpg",
+    "title": "年货（0分钟空气版）",
+    "pubdate": 1679809435,
+    "ctime": 1679809435,
+    "desc": "-up做了三个月，快要累死了呜呜呜，求求大家给个三连吧",
+    "desc_v2": [
+      {
+        "raw_text": "-up做了三个月，快要累死了呜呜呜，求求大家给个三连吧",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 5603,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 1,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 527277977,
+      "name": "鬼畜狗熊岭",
+      "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg"
+    },
+    "stat": {
+      "aid": 739181800,
+      "view": 6939694,
+      "danmaku": 70205,
+      "reply": 2002,
+      "favorite": 308062,
+      "coin": 93169,
+      "share": 8345,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 211124,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1071272790,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 518930,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1071272790,
+        "page": 1,
+        "from": "vupload",
+        "part": "年货（0分钟空气版）",
+        "duration": 5603,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230326qn1k55h918d60al3nfldxh5hm_firsti.jpg",
+        "ctime": 1679809435
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "staff": [
+      {
+        "mid": 527277977,
+        "title": "UP主",
+        "name": "鬼畜狗熊岭",
+        "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1756310400000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 1,
+          "title": "bilibili 知名鬼畜UP主",
+          "desc": "",
+          "type": 0
+        },
+        "follower": 127258,
+        "label_style": 0
+      },
+      {
+        "mid": 1802623975,
+        "title": "参演",
+        "name": "麦块姚是屑",
+        "face": "https://i1.hdslb.com/bfs/face/b4b1d95153b8cb7733c5e4c6068485a154bd3d36.jpg",
+        "vip": {
+          "type": 2,
+          "status": 1,
+          "due_date": 1801843200000,
+          "vip_pay_type": 1,
+          "theme_type": 0,
+          "label": {
+            "path": "http://i0.hdslb.com/bfs/vip/label_annual.png",
+            "text": "年度大会员",
+            "label_theme": "annual_vip",
+            "text_color": "#FFFFFF",
+            "bg_style": 1,
+            "bg_color": "#FB7299",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png",
+            "label_id": -22,
+            "label_goto": {
+              "mobile": "https://big.bilibili.com/mobile/index?navhide=1&from_spmid=vipicon",
+              "pc_web": "https://account.bilibili.com/big?from_spmid=vipicon"
+            },
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 1
+          },
+          "avatar_subscript": 1,
+          "nickname_color": "#FB7299",
+          "role": 3,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_type": 1,
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 62376,
+        "label_style": 0
+      },
+      {
+        "mid": 1042975808,
+        "title": "剪辑",
+        "name": "讦瑞",
+        "face": "https://i2.hdslb.com/bfs/face/43288418fe6a895a3797f29a36853e3267ea8dd1.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1771084800000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 1,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 1707753600
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 57643,
+        "label_style": 0
+      },
+      {
+        "mid": 550973542,
+        "title": "后期",
+        "name": "幻影是歌姬",
+        "face": "https://i1.hdslb.com/bfs/face/7e0fa8b93d46dfe77373db13006126e360dcb47e.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1790697600000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 1,
+            "pay_type": 0,
+            "pay_channel_id": "wechat",
+            "status": 0,
+            "overdue_time": 1647532800
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 71936,
+        "label_style": 0
+      },
+      {
+        "mid": 1162150931,
+        "title": "参演",
+        "name": "账号已注销",
+        "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+        "vip": {
+          "type": 0,
+          "status": 0,
+          "due_date": 0,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 4632,
+        "label_style": 0
+      },
+      {
+        "mid": 263035357,
+        "title": "后期",
+        "name": "账号已注销",
+        "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1707408000000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 1,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 1626451200
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 28090,
+        "label_style": 0
+      }
+    ],
+    "ugc_season": {
+      "id": 518930,
+      "title": "dark    电    影",
+      "cover": "https://archive.biliimg.com/bfs/archive/f43e79008227b9e392a0d9d5522ab1c982b1d9d2.jpg",
+      "mid": 527277977,
+      "intro": "里面会投稿带制作，大家可以期待一下",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 518930,
+        "view": 8133540,
+        "danmaku": 93432,
+        "reply": 4088,
+        "fav": 345880,
+        "coin": 115525,
+        "share": 12245,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 266773,
+        "vt": 0,
+        "vv": 8133540
+      },
+      "ep_count": 6,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 518930,
+          "id": 599986,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 518930,
+              "section_id": 599986,
+              "id": 53205065,
+              "aid": 739181800,
+              "cid": 1071272790,
+              "title": "年货（0分钟空气版）",
+              "attribute": 0,
+              "arc": {
+                "aid": 739181800,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/2c7a0a09b4ed431427b382a11ef45b3656d2c9f3.jpg",
+                "title": "年货（0分钟空气版）",
+                "pubdate": 1679809435,
+                "ctime": 1679809435,
+                "desc": "",
+                "state": 0,
+                "duration": 5603,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 527277977,
+                  "name": "鬼畜狗熊岭",
+                  "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg"
+                },
+                "stat": {
+                  "aid": 739181800,
+                  "view": 6939694,
+                  "danmaku": 70205,
+                  "reply": 2002,
+                  "fav": 308062,
+                  "coin": 93169,
+                  "share": 8345,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 211124,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6939694
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1071272790,
+                "page": 1,
+                "from": "vupload",
+                "part": "年货（0分钟空气版）",
+                "duration": 5603,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV11k4y147V7",
+              "pages": [
+                {
+                  "cid": 1071272790,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "年货（0分钟空气版）",
+                  "duration": 5603,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 518930,
+              "section_id": 599986,
+              "id": 53205064,
+              "aid": 1700898025,
+              "cid": 1446496474,
+              "title": "【鬼畜电影】熊畜没之夺宝虎兵",
+              "attribute": 0,
+              "arc": {
+                "aid": 1700898025,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/e6afc3b27e2855cb593b070bbed6e66770f53a7e.jpg",
+                "title": "【鬼畜电影】熊畜没之夺宝虎兵",
+                "pubdate": 1708518083,
+                "ctime": 1708518083,
+                "desc": "",
+                "state": 0,
+                "duration": 5654,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 527277977,
+                  "name": "鬼畜狗熊岭",
+                  "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg"
+                },
+                "stat": {
+                  "aid": 1700898025,
+                  "view": 301447,
+                  "danmaku": 5571,
+                  "reply": 559,
+                  "fav": 6892,
+                  "coin": 2964,
+                  "share": 528,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 7982,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 301447
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1446496474,
+                "page": 1,
+                "from": "vupload",
+                "part": "【鬼畜电影】熊畜没之夺宝虎兵",
+                "duration": 5654,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1WK42187bp",
+              "pages": [
+                {
+                  "cid": 1446496474,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【鬼畜电影】熊畜没之夺宝虎兵",
+                  "duration": 5654,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 518930,
+              "section_id": 599986,
+              "id": 61974438,
+              "aid": 1053408062,
+              "cid": 1513034307,
+              "title": "【鬼畜电影】熊畜没秦岭雄风（95min）",
+              "attribute": 0,
+              "arc": {
+                "aid": 1053408062,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/1a0c5a7a7a8e7129ddc65f11beaa39ad7363bbf1.jpg",
+                "title": "【鬼畜电影】熊畜没秦岭雄风（95min）",
+                "pubdate": 1714449600,
+                "ctime": 1714449600,
+                "desc": "",
+                "state": 0,
+                "duration": 5747,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 527277977,
+                  "name": "鬼畜狗熊岭",
+                  "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg"
+                },
+                "stat": {
+                  "aid": 1053408062,
+                  "view": 221549,
+                  "danmaku": 3835,
+                  "reply": 336,
+                  "fav": 5895,
+                  "coin": 3682,
+                  "share": 533,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8264,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 221549
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1513034307,
+                "page": 1,
+                "from": "vupload",
+                "part": "【鬼畜电影】熊畜没秦岭雄风（95min）",
+                "duration": 5747,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 4096,
+                  "height": 1740,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1JH4y1N7xW",
+              "pages": [
+                {
+                  "cid": 1513034307,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【鬼畜电影】熊畜没秦岭雄风（95min）",
+                  "duration": 5747,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 4096,
+                    "height": 1740,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 518930,
+              "section_id": 599986,
+              "id": 71986715,
+              "aid": 1005817257,
+              "cid": 1599676470,
+              "title": "【鬼畜大电影】土鳖归来（98min）",
+              "attribute": 0,
+              "arc": {
+                "aid": 1005817257,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c6aa33c7a6a4a85eb0ce7c69c2cb4ee98209c5f1.jpg",
+                "title": "【鬼畜大电影】土鳖归来（98min）",
+                "pubdate": 1719719100,
+                "ctime": 1719719100,
+                "desc": "",
+                "state": 0,
+                "duration": 5932,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 527277977,
+                  "name": "鬼畜狗熊岭",
+                  "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg"
+                },
+                "stat": {
+                  "aid": 1005817257,
+                  "view": 449899,
+                  "danmaku": 9613,
+                  "reply": 523,
+                  "fav": 16727,
+                  "coin": 10841,
+                  "share": 2160,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 27613,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 449899
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1599676470,
+                "page": 1,
+                "from": "vupload",
+                "part": "【鬼畜大电影】土鳖归来（98min）",
+                "duration": 5932,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 5120,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Gx4y1875h",
+              "pages": [
+                {
+                  "cid": 1599676470,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【鬼畜大电影】土鳖归来（98min）",
+                  "duration": 5932,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 5120,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 518930,
+              "section_id": 599986,
+              "id": 87821857,
+              "aid": 113267917721660,
+              "cid": 26182156683,
+              "title": "【鬼畜大电影】神金空间（91min）",
+              "attribute": 0,
+              "arc": {
+                "aid": 113267917721660,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/b0f7d90c78756e33b21cd25de1cd6f7637d0a719.jpg",
+                "title": "【鬼畜大电影】神金空间（91min）",
+                "pubdate": 1728359100,
+                "ctime": 1728359100,
+                "desc": "",
+                "state": 0,
+                "duration": 5484,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 527277977,
+                  "name": "鬼畜狗熊岭",
+                  "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg"
+                },
+                "stat": {
+                  "aid": 113267917721660,
+                  "view": 139494,
+                  "danmaku": 2507,
+                  "reply": 284,
+                  "fav": 5619,
+                  "coin": 3188,
+                  "share": 462,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8280,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 139494
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26182156683,
+                "page": 1,
+                "from": "vupload",
+                "part": "【鬼畜大电影】神金空间（91min）",
+                "duration": 5484,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 5184,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1wr25YNEQA",
+              "pages": [
+                {
+                  "cid": 26182156683,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【鬼畜大电影】神金空间（91min）",
+                  "duration": 5484,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 5184,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 518930,
+              "section_id": 599986,
+              "id": 129011154,
+              "aid": 114628281505057,
+              "cid": 30319314048,
+              "title": "【鬼畜大电影】熊畜没鬼畜时空（114min）",
+              "attribute": 2,
+              "arc": {
+                "aid": 114628281505057,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b1626f9db12cee06581dc31763ff9c580f7e550e.jpg",
+                "title": "【鬼畜大电影】熊畜没鬼畜时空（114min）",
+                "pubdate": 1749282335,
+                "ctime": 1749282335,
+                "desc": "",
+                "state": 0,
+                "duration": 6827,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 527277977,
+                  "name": "鬼畜狗熊岭",
+                  "face": "https://i2.hdslb.com/bfs/face/068fbaf57fa18b74cfe19c938685cad2ad7e70f0.jpg"
+                },
+                "stat": {
+                  "aid": 114628281505057,
+                  "view": 81458,
+                  "danmaku": 1701,
+                  "reply": 384,
+                  "fav": 2685,
+                  "coin": 1681,
+                  "share": 217,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3510,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 81458
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 30319314048,
+                "page": 1,
+                "from": "vupload",
+                "part": "【鬼畜大电影】熊畜没鬼畜时空（114min）",
+                "duration": 6827,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 5184,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1eBTHzHEZm",
+              "pages": [
+                {
+                  "cid": 30319314048,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【鬼畜大电影】熊畜没鬼畜时空（114min）",
+                  "duration": 6827,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 5184,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 739181800,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 739181800,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

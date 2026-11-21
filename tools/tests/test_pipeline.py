@@ -10,6 +10,14 @@ from zfq.schema import DiscoveryInfo, Entry, Owner, Snapshot, utcnow
 
 def _mk_entry(bvid: str, views: list[int]):
     n = utcnow()
+    # 快照时间戳按天拉开：避免 R5 同日重复；也模拟真实跟踪节奏
+    from datetime import timedelta
+    snaps = [
+        Snapshot(captured_at=n - timedelta(days=len(views) - i),
+                 endpoint="api-view", view=v,
+                 like=v // 10, coin=v // 20, favorite=v // 5,
+                 share=v // 30, danmaku=v // 50, reply=v // 40)
+        for i, v in enumerate(views)]
     return Entry.model_validate(dict(
         bvid=bvid, title="t", owner=Owner(mid=1, name="a"),
         pubdate="2021-06-01T00:00:00+00:00",
@@ -18,10 +26,7 @@ def _mk_entry(bvid: str, views: list[int]):
         tier="hot", tier_basis="测试",
         discovered_via=DiscoveryInfo(method="manual-issue", captured_at=n),
         first_seen=n,
-        snapshots=[Snapshot(captured_at=n, endpoint="api-view", view=v,
-                            like=v // 10, coin=v // 20, favorite=v // 5,
-                            share=v // 30, danmaku=v // 50, reply=v // 40)
-                   for v in views],
+        snapshots=snaps,
     ))
 
 
@@ -91,8 +96,8 @@ def test_build_deterministic(tmp_path, monkeypatch):
 def test_monotonicity_detector_via_validate(tmp_path, monkeypatch):
     from zfq import config
 
-    bad = _mk_entry("BV1Ku4y1f7oe", [200, 100])   # 回退 → R4 应报错
-    good = _mk_entry("BV2Ku4y1f7oe", [100, 200])
+    bad = _mk_entry("BV1Ku4y1f7oe", [200000, 100000])   # 大幅回退 → R4 错误
+    good = _mk_entry("BV2Ku4y1f7oe", [100000, 200000])
     ed = tmp_path / "entries"
     ed.mkdir(parents=True)
     (ed / "BV1Ku4y1f7oe.json").write_text(bad.model_dump_json(), encoding="utf-8")
@@ -101,7 +106,7 @@ def test_monotonicity_detector_via_validate(tmp_path, monkeypatch):
     monkeypatch.setattr(config, "CREATORS_DIR", tmp_path / "creators")
     (tmp_path / "creators").mkdir()
 
-    errors, stats = V.validate_all()
+    errors, stats, warnings = V.validate_all()
     assert stats["entries"] == 2
     r4 = [e for e in errors if e.startswith("R4")]
     assert len(r4) >= 1, f"应检出计数回退：{errors}"

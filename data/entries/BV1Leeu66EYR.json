@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1Leeu66EYR",
+  "aid": 117285691857090,
+  "title": "华强找茬 但是全惹不起",
+  "owner": {
+    "mid": 5432766,
+    "name": "神威-狗剩"
+  },
+  "pubdate": "2026-09-17T09:40:41Z",
+  "duration_s": 159,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 3,659,255 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 3659283,
+      "like": 77210,
+      "coin": 6763,
+      "favorite": 16985,
+      "share": 5878,
+      "danmaku": 2505,
+      "reply": 1206
+    }
+  ],
+  "notes": ""
+}

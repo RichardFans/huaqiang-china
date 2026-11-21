@@ -1,0 +1,60 @@
+{
+  "bvid": "BV1514y1n7ZE",
+  "aid": 775535905,
+  "title": "郝哥旋转一分钟.avi",
+  "owner": {
+    "mid": 27089324,
+    "name": "青铃荼阳"
+  },
+  "pubdate": "2022-11-26T02:05:41Z",
+  "duration_s": 75,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 7,612,688 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 7612690,
+      "like": 307609,
+      "coin": 48204,
+      "favorite": 111539,
+      "share": 46632,
+      "danmaku": 8890,
+      "reply": 7260
+    },
+    {
+      "captured_at": "2026-11-21T03:18:52.014644Z",
+      "endpoint": "page-state",
+      "view": 7612692,
+      "like": 307609,
+      "coin": 48204,
+      "favorite": 111539,
+      "share": 46632,
+      "danmaku": 8890,
+      "reply": 7260
+    }
+  ],
+  "notes": ""
+}

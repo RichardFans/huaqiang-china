@@ -1,0 +1,373 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1T94y1W7xh",
+    "aid": 363833639,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 2,
+    "pic": "http://i0.hdslb.com/bfs/archive/e9851635eb5bcc78bba89e1d990c43bf07bfa96a.jpg",
+    "title": "60帧1080P征服三大名场面之《宋老虎》",
+    "pubdate": 1695398656,
+    "ctime": 1695398656,
+    "desc": "征服三大名场面高清重制",
+    "desc_v2": [
+      {
+        "raw_text": "征服三大名场面高清重制",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 338,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 77519900,
+      "name": "樱木咯咯",
+      "face": "https://i2.hdslb.com/bfs/face/856a350749a90b83daca27a9fc78d3c0f9d764f3.jpg"
+    },
+    "stat": {
+      "aid": 363833639,
+      "view": 609313,
+      "danmaku": 1587,
+      "reply": 463,
+      "favorite": 3756,
+      "coin": 263,
+      "share": 2022,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 8359,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1276064428,
+    "dimension": {
+      "width": 1440,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 1739226,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1276064428,
+        "page": 1,
+        "from": "vupload",
+        "part": "60帧1080P征服三大名场面之《宋老虎》",
+        "duration": 338,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1440,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230922sanwbrpjqcjhkpfk7zwzasz98_firsti.jpg",
+        "ctime": 1695398656
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 1739226,
+      "title": "国产电视剧名场面",
+      "cover": "https://archive.biliimg.com/bfs/archive/a4bf55d291972d29d951ff9f800aeaa1d1a9ca03.jpg",
+      "mid": 77519900,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 1739226,
+        "view": 669451,
+        "danmaku": 1592,
+        "reply": 475,
+        "fav": 3818,
+        "coin": 273,
+        "share": 2033,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 8532,
+        "vt": 0,
+        "vv": 669451
+      },
+      "ep_count": 2,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 1739226,
+          "id": 1996625,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 1739226,
+              "section_id": 1996625,
+              "id": 40011572,
+              "aid": 363833639,
+              "cid": 1276064428,
+              "title": "60帧1080P征服三大名场面之《宋老虎》",
+              "attribute": 0,
+              "arc": {
+                "aid": 363833639,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/e9851635eb5bcc78bba89e1d990c43bf07bfa96a.jpg",
+                "title": "60帧1080P征服三大名场面之《宋老虎》",
+                "pubdate": 1695398656,
+                "ctime": 1695398656,
+                "desc": "",
+                "state": 0,
+                "duration": 338,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 77519900,
+                  "name": "樱木咯咯",
+                  "face": "https://i2.hdslb.com/bfs/face/856a350749a90b83daca27a9fc78d3c0f9d764f3.jpg"
+                },
+                "stat": {
+                  "aid": 363833639,
+                  "view": 609313,
+                  "danmaku": 1587,
+                  "reply": 463,
+                  "fav": 3756,
+                  "coin": 263,
+                  "share": 2022,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8359,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 609313
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1276064428,
+                "page": 1,
+                "from": "vupload",
+                "part": "60帧1080P征服三大名场面之《宋老虎》",
+                "duration": 338,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1T94y1W7xh",
+              "pages": [
+                {
+                  "cid": 1276064428,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "60帧1080P征服三大名场面之《宋老虎》",
+                  "duration": 338,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1739226,
+              "section_id": 1996625,
+              "id": 182054938,
+              "aid": 116221513039946,
+              "cid": 36670738145,
+              "title": "60帧刘华强买瓜修复2.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 116221513039946,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c91a213f75ebbb1213db2406c54789e7ebc0a547.jpg",
+                "title": "60帧刘华强买瓜修复2.0",
+                "pubdate": 1773399694,
+                "ctime": 1773399694,
+                "desc": "",
+                "state": 0,
+                "duration": 126,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 77519900,
+                  "name": "樱木咯咯",
+                  "face": "https://i2.hdslb.com/bfs/face/856a350749a90b83daca27a9fc78d3c0f9d764f3.jpg"
+                },
+                "stat": {
+                  "aid": 116221513039946,
+                  "view": 60138,
+                  "danmaku": 5,
+                  "reply": 12,
+                  "fav": 62,
+                  "coin": 10,
+                  "share": 11,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 173,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 60138
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 36670738145,
+                "page": 1,
+                "from": "vupload",
+                "part": "60帧刘华强买瓜修复2.0",
+                "duration": 126,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1yEcDzKEnV",
+              "pages": [
+                {
+                  "cid": 36670738145,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "60帧刘华强买瓜修复2.0",
+                  "duration": 126,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

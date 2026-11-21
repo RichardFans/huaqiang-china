@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1w7hn63EBs",
+  "aid": 117315823867089,
+  "title": "带着豆包去买瓜",
+  "owner": {
+    "mid": 1650750,
+    "name": "阿游Kidding"
+  },
+  "pubdate": "2026-09-22T17:22:00Z",
+  "duration_s": 320,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）——review --auto-confirm-scenes 于存量迁移",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 4,586,497 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 4586537,
+      "like": 145918,
+      "coin": 37544,
+      "favorite": 39033,
+      "share": 29872,
+      "danmaku": 5735,
+      "reply": 5967
+    }
+  ],
+  "notes": ""
+}

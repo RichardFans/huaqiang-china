@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1QY411n7c7",
+  "aid": 254974888,
+  "title": "【补档】老 坛 酸 菜 杀 人 事 件",
+  "owner": {
+    "mid": 8034163,
+    "name": "浅澄月"
+  },
+  "pubdate": "2022-03-19T02:00:06Z",
+  "duration_s": 68,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 6,870,222 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 6870222,
+      "like": 492591,
+      "coin": 75024,
+      "favorite": 104329,
+      "share": 54360,
+      "danmaku": 4977,
+      "reply": 4312
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1xHb8zQE6a",
+  "aid": 115019576643170,
+  "title": "⚡这 是 我 管 家⚡就被管家活活打断了双腿！",
+  "owner": {
+    "mid": 429765143,
+    "name": "快乐阿依"
+  },
+  "pubdate": "2025-08-13T04:34:00Z",
+  "duration_s": 66,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 1,877,608 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 1877608,
+      "like": 146822,
+      "coin": 7523,
+      "favorite": 32602,
+      "share": 7063,
+      "danmaku": 1552,
+      "reply": 1636
+    }
+  ],
+  "notes": ""
+}

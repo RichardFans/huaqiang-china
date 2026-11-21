@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1nihpeiEVk",
+    "aid": 112727154558600,
+    "videos": 1,
+    "tid": 250,
+    "tid_v2": 2008,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/18f998518063305e175a5d82ae0996b8a5ffcb6e.jpg",
+    "title": "《征服》圣地巡礼",
+    "pubdate": 1720080026,
+    "ctime": 1720080009,
+    "desc": "2024.6.28.，寻访刘华强老前辈奋斗过的地方\n\np1.p2：范光胡同吴天被枪杀的地方（现在已经大变样）\n\np3：河北会堂，韩跃平接李丽电话的地方\n\np4：燕山大酒店，刘华强给女儿过生日的地方\n\np5：北国商城，韩跃平被捕的地方\n\np6：阳光大厦，周国权调解刘华强和吴天关系的地方（全拿下，一扫光～～～）\n\np7.p8：西瓜摊（腾讯地图搜“华强买瓜遗址”，大变样）\n\n唯一遗憾的是封彪跪地上叫爷的饭店没找着",
+    "desc_v2": [
+      {
+        "raw_text": "2024.6.28.，寻访刘华强老前辈奋斗过的地方\n\np1.p2：范光胡同吴天被枪杀的地方（现在已经大变样）\n\np3：河北会堂，韩跃平接李丽电话的地方\n\np4：燕山大酒店，刘华强给女儿过生日的地方\n\np5：北国商城，韩跃平被捕的地方\n\np6：阳光大厦，周国权调解刘华强和吴天关系的地方（全拿下，一扫光～～～）\n\np7.p8：西瓜摊（腾讯地图搜“华强买瓜遗址”，大变样）\n\n唯一遗憾的是封彪跪地上叫爷的饭店没找着",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 30,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3028390,
+      "name": "Metro图书馆",
+      "face": "https://i1.hdslb.com/bfs/face/bdb1fe3b39be09a850e90e12f2d90f7983f5479a.jpg"
+    },
+    "stat": {
+      "aid": 112727154558600,
+      "view": 499817,
+      "danmaku": 192,
+      "reply": 676,
+      "favorite": 2137,
+      "coin": 284,
+      "share": 606,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 6975,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 500001604613448,
+    "dimension": {
+      "width": 1080,
+      "height": 1440,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 500001604613448,
+        "page": 1,
+        "from": "vupload",
+        "part": "【Metro图书馆】视频已打包，欢迎围观！",
+        "duration": 30,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n240704sa2vixugiuu4jat1p0e15ndip_firsti.jpg",
+        "ctime": 1720080009
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1xd4n6zEc8",
+    "aid": 117574847170160,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2009,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/bfdc9fad0abd60ac0074a2c20f7e1861456bba03.jpg",
+    "title": "当你压力大的时候不妨看看刘宇宁#刘华强 #李宏伟 #高启盛",
+    "pubdate": 1794049982,
+    "ctime": 1794049905,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 169,
+    "mission_id": 4069923,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546936562944030,
+      "name": "小阳侃谈",
+      "face": "https://i0.hdslb.com/bfs/face/051fc3a433e408af49072f7c12804f8469d77ffd.jpg"
+    },
+    "stat": {
+      "aid": 117574847170160,
+      "view": 15935,
+      "danmaku": 3,
+      "reply": 1,
+      "favorite": 292,
+      "coin": 8,
+      "share": 4,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 247,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "个人观点，仅供参考",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43409475197,
+    "dimension": {
+      "width": 1440,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43409475197,
+        "page": 1,
+        "from": "vupload",
+        "part": "当你压力大的时候不妨看看刘宇宁#刘华强 #李宏伟 #高启盛",
+        "duration": 169,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1440,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_000026njk0lc0ppvq24fq9klxr0a7kb_firsti.jpg",
+        "ctime": 1794049905,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

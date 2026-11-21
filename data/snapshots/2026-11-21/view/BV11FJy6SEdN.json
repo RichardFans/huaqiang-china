@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV11FJy6SEdN",
+    "aid": 117444588934858,
+    "videos": 1,
+    "tid": 164,
+    "tid_v2": 2154,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/114167f6a29d3011dee2540d893ac5858a8ba310.jpg",
+    "title": "腰王买瓜来了！老艺术家纯手搓",
+    "pubdate": 1792063012,
+    "ctime": 1792063012,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 130,
+    "mission_id": 4069921,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 454567685,
+      "name": "腰王阿运",
+      "face": "https://i2.hdslb.com/bfs/face/d306a8c114467a097d22c9bbf62bb7a831f8a5d4.jpg"
+    },
+    "stat": {
+      "aid": 117444588934858,
+      "view": 23038,
+      "danmaku": 59,
+      "reply": 62,
+      "favorite": 60,
+      "coin": 194,
+      "share": 40,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1316,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 42766174581,
+    "dimension": {
+      "width": 2160,
+      "height": 3840,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 42766174581,
+        "page": 1,
+        "from": "vupload",
+        "part": "腰王买瓜来了！老艺术家纯手搓",
+        "duration": 130,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2160,
+          "height": 3840,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000388g6qvde6lj82isjtoaywpjyvb_firsti.jpg",
+        "ctime": 1792063012,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

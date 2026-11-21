@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1oT4y1J71e",
+  "aid": 923549766,
+  "title": "你 版 权 到 期 了 是 吧！",
+  "owner": {
+    "mid": 397693741,
+    "name": "郝哥吃炸鸡"
+  },
+  "pubdate": "2024-01-09T09:36:40Z",
+  "duration_s": 139,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 8,650,271 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 8650301,
+      "like": 531851,
+      "coin": 65312,
+      "favorite": 134922,
+      "share": 26707,
+      "danmaku": 66651,
+      "reply": 2321
+    }
+  ],
+  "notes": ""
+}

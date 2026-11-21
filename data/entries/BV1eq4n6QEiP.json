@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1eq4n6QEiP",
+  "aid": 117575048496893,
+  "title": "服务员，切歌【AI MV大赛】",
+  "owner": {
+    "mid": 1298657234,
+    "name": "Raymondsese"
+  },
+  "pubdate": "2026-11-07T12:08:15Z",
+  "duration_s": 211,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "ai-cover",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI+声音类关键词：AI+歌",
+  "tier": "hot",
+  "tier_basis": "播放 2,190,305 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 2190308,
+      "like": 72355,
+      "coin": 4788,
+      "favorite": 12436,
+      "share": 3014,
+      "danmaku": 2142,
+      "reply": 1213
+    }
+  ],
+  "notes": ""
+}

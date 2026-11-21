@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1Sf4y1T78M",
+  "aid": 379161785,
+  "title": "哥 谭 厨 师",
+  "owner": {
+    "mid": 36438715,
+    "name": "一大筐会飞的草莓"
+  },
+  "pubdate": "2021-11-13T01:00:16Z",
+  "duration_s": 83,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 14,173,664 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 14173672,
+      "like": 567658,
+      "coin": 129827,
+      "favorite": 184472,
+      "share": 92517,
+      "danmaku": 15560,
+      "reply": 5113
+    }
+  ],
+  "notes": ""
+}

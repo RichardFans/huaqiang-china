@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1qf4y1J7PG",
+  "aid": 292854327,
+  "title": "信 息 量 过 大",
+  "owner": {
+    "mid": 21979556,
+    "name": "你的硬币是我dio哒"
+  },
+  "pubdate": "2021-09-05T03:30:17Z",
+  "duration_s": 134,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,303,455 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 2303457,
+      "like": 110935,
+      "coin": 15093,
+      "favorite": 27550,
+      "share": 10074,
+      "danmaku": 3007,
+      "reply": 1186
+    }
+  ],
+  "notes": ""
+}

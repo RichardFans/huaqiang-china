@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1Ku411B7XR",
+  "aid": 510131240,
+  "title": "《梗王之王》多少梗，快来快来数一数，24678...",
+  "owner": {
+    "mid": 330415548,
+    "name": "谭乔"
+  },
+  "pubdate": "2022-03-29T12:22:16Z",
+  "duration_s": 350,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 11,252,992 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 11252992,
+      "like": 734281,
+      "coin": 215973,
+      "favorite": 113873,
+      "share": 50375,
+      "danmaku": 27679,
+      "reply": 7575
+    }
+  ],
+  "notes": ""
+}

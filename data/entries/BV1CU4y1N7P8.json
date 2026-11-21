@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1CU4y1N7P8",
+  "aid": 677181918,
+  "title": "鬼畜大战僵尸",
+  "owner": {
+    "mid": 21747932,
+    "name": "胖鱼鱼-fhy"
+  },
+  "pubdate": "2021-12-05T12:17:49Z",
+  "duration_s": 121,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "guichu",
+  "form_status": "auto",
+  "form_evidence": "标题命中 鬼畜",
+  "tier": "hot",
+  "tier_basis": "播放 8,633,769 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 8633769,
+      "like": 69745,
+      "coin": 6948,
+      "favorite": 33577,
+      "share": 671,
+      "danmaku": 696,
+      "reply": 183
+    }
+  ],
+  "notes": ""
+}

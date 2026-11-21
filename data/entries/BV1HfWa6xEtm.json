@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1HfWa6xEtm",
+  "aid": 117606908429955,
+  "title": "✨我 叫...刘 华 强！✨",
+  "owner": {
+    "mid": 37439823,
+    "name": "Crazy-face"
+  },
+  "pubdate": "2026-11-13T03:09:48Z",
+  "duration_s": 152,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 363,931 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 364290,
+      "like": 40439,
+      "coin": 1286,
+      "favorite": 7855,
+      "share": 1678,
+      "danmaku": 1176,
+      "reply": 431
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1w3YseEE1c",
+    "aid": 112925125642906,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/013331faf8e19e60defd34983523e71279198bf4.jpg",
+    "title": "【华强见封彪】  让AI生成10次会怎么样",
+    "pubdate": 1723100843,
+    "ctime": 1723100843,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 123,
+    "mission_id": 4018671,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 62765550,
+      "name": "遇見-__",
+      "face": "https://i0.hdslb.com/bfs/face/16cbfc59583bdbfbe0449c90fd0cea523a3b86af.jpg"
+    },
+    "stat": {
+      "aid": 112925125642906,
+      "view": 406209,
+      "danmaku": 247,
+      "reply": 123,
+      "favorite": 772,
+      "coin": 86,
+      "share": 184,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3852,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 500001642312641,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 500001642312641,
+        "page": 1,
+        "from": "vupload",
+        "part": "【华强见封彪】  让AI生成10次会怎么样",
+        "duration": 123,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n240808sa3gh52rem0ntdni0dh0ungcb_firsti.jpg",
+        "ctime": 1723100843
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

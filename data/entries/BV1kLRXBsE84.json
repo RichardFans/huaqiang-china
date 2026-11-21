@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1kLRXBsE84",
+  "aid": 116543065228571,
+  "title": "《无能的郝哥》",
+  "owner": {
+    "mid": 13641305,
+    "name": "增殖的发呆"
+  },
+  "pubdate": "2026-05-09T05:56:07Z",
+  "duration_s": 181,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『刘华强』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 11,567,519 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 11567529,
+      "like": 530641,
+      "coin": 108872,
+      "favorite": 116184,
+      "share": 131116,
+      "danmaku": 15616,
+      "reply": 17489
+    }
+  ],
+  "notes": ""
+}

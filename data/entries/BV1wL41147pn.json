@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1wL41147pn",
+  "aid": 463112323,
+  "title": "你这健康码有问题啊",
+  "owner": {
+    "mid": 91790758,
+    "name": "伊介书生"
+  },
+  "pubdate": "2021-09-20T14:33:07Z",
+  "duration_s": 129,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 5,911,643 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 5911644,
+      "like": 428262,
+      "coin": 100674,
+      "favorite": 91396,
+      "share": 27579,
+      "danmaku": 10395,
+      "reply": 4662
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,49 @@
+{
+  "bvid": "BV17arPBGEnV",
+  "aid": 115863957017874,
+  "title": "【SUNO  V5】年轻人不要太R&B-黑人R&B版",
+  "owner": {
+    "mid": 15436862,
+    "name": "阿德托昆博带件衣服"
+  },
+  "pubdate": "2026-01-09T07:28:50Z",
+  "duration_s": 217,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,326,360 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 2326362,
+      "like": 47279,
+      "coin": 15493,
+      "favorite": 21247,
+      "share": 10365,
+      "danmaku": 545,
+      "reply": 1232
+    }
+  ],
+  "notes": ""
+}

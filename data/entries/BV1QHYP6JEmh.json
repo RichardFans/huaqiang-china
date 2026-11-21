@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1QHYP6JEmh",
+  "aid": 117363957564417,
+  "title": "葫芦恶霸【AI MV大赛】",
+  "owner": {
+    "mid": 1298657234,
+    "name": "Raymondsese"
+  },
+  "pubdate": "2026-10-01T05:27:58Z",
+  "duration_s": 221,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "feng-biao"
+  ],
+  "scene_evidence": "检索词『封彪』→feng-biao；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "ai-other",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI 关键词：AI",
+  "tier": "rising",
+  "tier_basis": "播放 279,373 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "封彪",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 279382,
+      "like": 2243,
+      "coin": 181,
+      "favorite": 628,
+      "share": 128,
+      "danmaku": 152,
+      "reply": 68
+    }
+  ],
+  "notes": ""
+}

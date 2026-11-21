@@ -1,0 +1,49 @@
+{
+  "bvid": "BV15q4y197TJ",
+  "aid": 589533114,
+  "title": "胡 言 乱 语",
+  "owner": {
+    "mid": 430362460,
+    "name": "小朱佩琪66"
+  },
+  "pubdate": "2021-08-04T06:23:39Z",
+  "duration_s": 157,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 7,703,769 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 7703797,
+      "like": 238775,
+      "coin": 82326,
+      "favorite": 101622,
+      "share": 53768,
+      "danmaku": 9513,
+      "reply": 2373
+    }
+  ],
+  "notes": ""
+}

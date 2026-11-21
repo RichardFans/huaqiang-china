@@ -1,0 +1,60 @@
+{
+  "bvid": "BV1184y1W79V",
+  "aid": 606996758,
+  "title": "超 级 压 缩 毛 巾",
+  "owner": {
+    "mid": 91790758,
+    "name": "伊介书生"
+  },
+  "pubdate": "2022-12-29T09:32:39Z",
+  "duration_s": 145,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 15,025,546 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 15025553,
+      "like": 1110664,
+      "coin": 175364,
+      "favorite": 290750,
+      "share": 105126,
+      "danmaku": 52047,
+      "reply": 7682
+    },
+    {
+      "captured_at": "2026-11-21T03:18:37.226652Z",
+      "endpoint": "page-state",
+      "view": 15025553,
+      "like": 1110663,
+      "coin": 175364,
+      "favorite": 290750,
+      "share": 105126,
+      "danmaku": 52047,
+      "reply": 7682
+    }
+  ],
+  "notes": ""
+}

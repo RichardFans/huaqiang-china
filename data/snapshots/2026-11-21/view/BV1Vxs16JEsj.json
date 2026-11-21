@@ -1,0 +1,1319 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Vxs16JEsj",
+    "aid": 117635832351751,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/0c23e36d608d577322d983720375c7011f1ccd1d.jpg",
+    "title": "每说一个瓜字 郝哥变成大象10%",
+    "pubdate": 1794980385,
+    "ctime": 1794980385,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 142,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1655611600,
+      "name": "东少Explorer",
+      "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+    },
+    "stat": {
+      "aid": 117635832351751,
+      "view": 29706,
+      "danmaku": 83,
+      "reply": 101,
+      "favorite": 387,
+      "coin": 134,
+      "share": 127,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1074,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43703207186,
+    "dimension": {
+      "width": 1920,
+      "height": 984,
+      "rotate": 0
+    },
+    "season_id": 8047208,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43703207186,
+        "page": 1,
+        "from": "vupload",
+        "part": "每说一个瓜字 郝哥变成大象10%",
+        "duration": 142,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 984,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000onumud7kurg628yisgjx0folxb_firsti.jpg",
+        "ctime": 1794980385,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8047208,
+      "title": "华强买瓜",
+      "cover": "https://archive.biliimg.com/bfs/archive/2b9f3b0340d840910506daaaa7c752dc3f4a81a0.jpg",
+      "mid": 1655611600,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8047208,
+        "view": 3646616,
+        "danmaku": 4103,
+        "reply": 3542,
+        "fav": 34222,
+        "coin": 7637,
+        "share": 10307,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 119715,
+        "vt": 0,
+        "vv": 3646616
+      },
+      "ep_count": 11,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8047208,
+          "id": 8941309,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 193196338,
+              "aid": 116345345672337,
+              "cid": 37231920219,
+              "title": "得寸进尺",
+              "attribute": 0,
+              "arc": {
+                "aid": 116345345672337,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/1688d44cd00f6ae81769ec37f77ff44d65624a45.jpg",
+                "title": "得寸进尺",
+                "pubdate": 1775289286,
+                "ctime": 1775289286,
+                "desc": "",
+                "state": 0,
+                "duration": 108,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116345345672337,
+                  "view": 129121,
+                  "danmaku": 143,
+                  "reply": 106,
+                  "fav": 1551,
+                  "coin": 181,
+                  "share": 295,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4302,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 129121
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37231920219,
+                "page": 1,
+                "from": "vupload",
+                "part": "得寸进尺",
+                "duration": 108,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 990,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1YnDMBBEP4",
+              "pages": [
+                {
+                  "cid": 37231920219,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "得寸进尺",
+                  "duration": 108,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 990,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 193196347,
+              "aid": 116367961358487,
+              "cid": 37332322699,
+              "title": "抢生意",
+              "attribute": 0,
+              "arc": {
+                "aid": 116367961358487,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/1f68da1083c12dc0a6efc22c3129e5bf133b64ca.jpg",
+                "title": "抢生意",
+                "pubdate": 1775634342,
+                "ctime": 1775634342,
+                "desc": "",
+                "state": 0,
+                "duration": 125,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116367961358487,
+                  "view": 255535,
+                  "danmaku": 339,
+                  "reply": 232,
+                  "fav": 3364,
+                  "coin": 499,
+                  "share": 655,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 12957,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 255535
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37332322699,
+                "page": 1,
+                "from": "vupload",
+                "part": "抢生意",
+                "duration": 125,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BxDjBTExK",
+              "pages": [
+                {
+                  "cid": 37332322699,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "抢生意",
+                  "duration": 125,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 193196355,
+              "aid": 116390325520918,
+              "cid": 37441178241,
+              "title": "买瓜，但华强是郝哥的老师",
+              "attribute": 0,
+              "arc": {
+                "aid": 116390325520918,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/2e882bf17ec4321ac200f28312410f694796313c.jpg",
+                "title": "买瓜，但华强是郝哥的老师",
+                "pubdate": 1775975468,
+                "ctime": 1775975468,
+                "desc": "",
+                "state": 0,
+                "duration": 131,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116390325520918,
+                  "view": 88641,
+                  "danmaku": 121,
+                  "reply": 127,
+                  "fav": 1035,
+                  "coin": 118,
+                  "share": 145,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2625,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 88641
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37441178241,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜，但华强是郝哥的老师",
+                "duration": 131,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 960,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ZKDSBFETo",
+              "pages": [
+                {
+                  "cid": 37441178241,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜，但华强是郝哥的老师",
+                  "duration": 131,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 960,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 193196364,
+              "aid": 116469346141362,
+              "cid": 37839701532,
+              "title": "大象买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116469346141362,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/af0b0f6143e64634b3ac7e5ac7d34f77e449ab2e.jpg",
+                "title": "大象买瓜",
+                "pubdate": 1777181376,
+                "ctime": 1777181376,
+                "desc": "",
+                "state": 0,
+                "duration": 113,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116469346141362,
+                  "view": 1858643,
+                  "danmaku": 1389,
+                  "reply": 1384,
+                  "fav": 12365,
+                  "coin": 3832,
+                  "share": 5108,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 51395,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1858643
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37839701532,
+                "page": 1,
+                "from": "vupload",
+                "part": "大象买瓜",
+                "duration": 113,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rNofBVEbf",
+              "pages": [
+                {
+                  "cid": 37839701532,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "大象买瓜",
+                  "duration": 113,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 193196374,
+              "aid": 116503319939745,
+              "cid": 38025694933,
+              "title": "霸王龙买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116503319939745,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/69c4f9d02cab820d25c856766eab29ba55bf5a98.jpg",
+                "title": "霸王龙买瓜",
+                "pubdate": 1777699757,
+                "ctime": 1777699757,
+                "desc": "",
+                "state": 0,
+                "duration": 111,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116503319939745,
+                  "view": 294325,
+                  "danmaku": 411,
+                  "reply": 414,
+                  "fav": 3389,
+                  "coin": 472,
+                  "share": 922,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 11006,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 294325
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38025694933,
+                "page": 1,
+                "from": "vupload",
+                "part": "霸王龙买瓜",
+                "duration": 111,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1owR7BjExn",
+              "pages": [
+                {
+                  "cid": 38025694933,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "霸王龙买瓜",
+                  "duration": 111,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 193196380,
+              "aid": 116514980170716,
+              "cid": 38079759434,
+              "title": "城管来了",
+              "attribute": 0,
+              "arc": {
+                "aid": 116514980170716,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/d6a210bc49b27e4da43a474fc857ac266c7073b9.jpg",
+                "title": "城管来了",
+                "pubdate": 1777877737,
+                "ctime": 1777877737,
+                "desc": "",
+                "state": 0,
+                "duration": 122,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116514980170716,
+                  "view": 534762,
+                  "danmaku": 717,
+                  "reply": 407,
+                  "fav": 5482,
+                  "coin": 1015,
+                  "share": 991,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 18356,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 534762
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38079759434,
+                "page": 1,
+                "from": "vupload",
+                "part": "城管来了",
+                "duration": 122,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 982,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1zDRvBqEpA",
+              "pages": [
+                {
+                  "cid": 38079759434,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "城管来了",
+                  "duration": 122,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 982,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 194744973,
+              "aid": 116554976987898,
+              "cid": 38256116153,
+              "title": "戴夫买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116554976987898,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/6479d9a66e21d9b19f34548211951e58b23d2f13.jpg",
+                "title": "戴夫买瓜",
+                "pubdate": 1778488075,
+                "ctime": 1778488075,
+                "desc": "",
+                "state": 0,
+                "duration": 110,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116554976987898,
+                  "view": 266142,
+                  "danmaku": 319,
+                  "reply": 238,
+                  "fav": 3206,
+                  "coin": 528,
+                  "share": 762,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8985,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 266142
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38256116153,
+                "page": 1,
+                "from": "vupload",
+                "part": "戴夫买瓜",
+                "duration": 110,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 994,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1f75461Ehe",
+              "pages": [
+                {
+                  "cid": 38256116153,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "戴夫买瓜",
+                  "duration": 110,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 994,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 203496156,
+              "aid": 116724343046768,
+              "cid": 39004931326,
+              "title": "华强郝哥の星球交易",
+              "attribute": 0,
+              "arc": {
+                "aid": 116724343046768,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/e811b39dc63694a6721cdd58b286f41bc2111d6c.jpg",
+                "title": "华强郝哥の星球交易",
+                "pubdate": 1781072264,
+                "ctime": 1781072264,
+                "desc": "",
+                "state": 0,
+                "duration": 152,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116724343046768,
+                  "view": 15414,
+                  "danmaku": 50,
+                  "reply": 33,
+                  "fav": 182,
+                  "coin": 59,
+                  "share": 30,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 359,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 15414
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39004931326,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强郝哥の星球交易",
+                "duration": 152,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1oKER6aEoe",
+              "pages": [
+                {
+                  "cid": 39004931326,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强郝哥の星球交易",
+                  "duration": 152,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 215552279,
+              "aid": 116803565063137,
+              "cid": 39361513309,
+              "title": "郝哥女仆店",
+              "attribute": 0,
+              "arc": {
+                "aid": 116803565063137,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/aff979bf62be28f635102a0ebd7e1b7bd88558ae.jpg",
+                "title": "郝哥女仆店",
+                "pubdate": 1782281347,
+                "ctime": 1782281347,
+                "desc": "",
+                "state": 0,
+                "duration": 101,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 116803565063137,
+                  "view": 17087,
+                  "danmaku": 58,
+                  "reply": 118,
+                  "fav": 276,
+                  "coin": 58,
+                  "share": 337,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 683,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 17087
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39361513309,
+                "page": 1,
+                "from": "vupload",
+                "part": "郝哥女仆店",
+                "duration": 101,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1882,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV122jX6zEXZ",
+              "pages": [
+                {
+                  "cid": 39361513309,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "郝哥女仆店",
+                  "duration": 101,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1882,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 225575836,
+              "aid": 117369896764665,
+              "cid": 42390391511,
+              "title": "华强买瓜，但不知道在伤感什么",
+              "attribute": 0,
+              "arc": {
+                "aid": 117369896764665,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f07bc48a203db8f99db2cae44500f154055354df.jpg",
+                "title": "华强买瓜，但不知道在伤感什么",
+                "pubdate": 1790922773,
+                "ctime": 1790922773,
+                "desc": "",
+                "state": 0,
+                "duration": 176,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 117369896764665,
+                  "view": 157240,
+                  "danmaku": 473,
+                  "reply": 382,
+                  "fav": 2985,
+                  "coin": 741,
+                  "share": 935,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 7973,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 157240
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42390391511,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但不知道在伤感什么",
+                "duration": 176,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1kQam6RE4E",
+              "pages": [
+                {
+                  "cid": 42390391511,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但不知道在伤感什么",
+                  "duration": 176,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8047208,
+              "section_id": 8941309,
+              "id": 234328096,
+              "aid": 117635832351751,
+              "cid": 43703207186,
+              "title": "每说一个瓜字 郝哥变成大象10%",
+              "attribute": 2,
+              "arc": {
+                "aid": 117635832351751,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/0c23e36d608d577322d983720375c7011f1ccd1d.jpg",
+                "title": "每说一个瓜字 郝哥变成大象10%",
+                "pubdate": 1794980385,
+                "ctime": 1794980385,
+                "desc": "",
+                "state": 0,
+                "duration": 142,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1655611600,
+                  "name": "东少Explorer",
+                  "face": "https://i1.hdslb.com/bfs/face/0bc09fda079914d9671a7d16e00e8e212e0baee7.jpg"
+                },
+                "stat": {
+                  "aid": 117635832351751,
+                  "view": 29706,
+                  "danmaku": 83,
+                  "reply": 101,
+                  "fav": 387,
+                  "coin": 134,
+                  "share": 127,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1074,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 29706
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43703207186,
+                "page": 1,
+                "from": "vupload",
+                "part": "每说一个瓜字 郝哥变成大象10%",
+                "duration": 142,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 984,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Vxs16JEsj",
+              "pages": [
+                {
+                  "cid": 43703207186,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "每说一个瓜字 郝哥变成大象10%",
+                  "duration": 142,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 984,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

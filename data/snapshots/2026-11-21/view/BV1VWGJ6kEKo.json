@@ -1,0 +1,585 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1VWGJ6kEKo",
+    "aid": 116629467960900,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c0cd5b6e2823895322ef8b0b30ae275119967931.jpg",
+    "title": "各位郝哥 节目叫《非常骚扰》",
+    "pubdate": 1779624759,
+    "ctime": 1779624759,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 213,
+    "mission_id": 4063053,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1172349285,
+      "name": "韩历飞羽666",
+      "face": "https://i0.hdslb.com/bfs/face/8ea3018ab0b44fa0f78646f2a0cbd80b78221daa.jpg"
+    },
+    "stat": {
+      "aid": 116629467960900,
+      "view": 300930,
+      "danmaku": 1167,
+      "reply": 680,
+      "favorite": 3778,
+      "coin": 2036,
+      "share": 1859,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 13371,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 38581502642,
+    "dimension": {
+      "width": 2558,
+      "height": 1440,
+      "rotate": 0
+    },
+    "season_id": 8194459,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 38581502642,
+        "page": 1,
+        "from": "vupload",
+        "part": "lv_0_20260524193430",
+        "duration": 213,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2558,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003f0rsf6gpecb42r3tymf4cxtpqb_firsti.jpg",
+        "ctime": 1779624759,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8194459,
+      "title": "华强买瓜",
+      "cover": "https://archive.biliimg.com/bfs/archive/b1c1ca23d0793a31201d9ac29a2036dd78a031d4.jpg",
+      "mid": 1172349285,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8194459,
+        "view": 2337997,
+        "danmaku": 5270,
+        "reply": 4548,
+        "fav": 36998,
+        "coin": 37475,
+        "share": 19760,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 100340,
+        "vt": 0,
+        "vv": 2337997
+      },
+      "ep_count": 4,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8194459,
+          "id": 9107262,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8194459,
+              "section_id": 9107262,
+              "id": 197546647,
+              "aid": 116570361764747,
+              "cid": 38317327089,
+              "title": "⚡郝哥 参加郝声音⚡",
+              "attribute": 0,
+              "arc": {
+                "aid": 116570361764747,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/4d0ce990a85bc5d1df3b320c1fc9a792365f14cf.jpg",
+                "title": "⚡郝哥 参加郝声音⚡",
+                "pubdate": 1778722914,
+                "ctime": 1778722914,
+                "desc": "",
+                "state": 0,
+                "duration": 240,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1172349285,
+                  "name": "韩历飞羽666",
+                  "face": "https://i0.hdslb.com/bfs/face/8ea3018ab0b44fa0f78646f2a0cbd80b78221daa.jpg"
+                },
+                "stat": {
+                  "aid": 116570361764747,
+                  "view": 1791617,
+                  "danmaku": 3826,
+                  "reply": 3444,
+                  "fav": 29880,
+                  "coin": 32390,
+                  "share": 16918,
+                  "now_rank": 0,
+                  "his_rank": 82,
+                  "like": 79543,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1791617
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38317327089,
+                "page": 1,
+                "from": "vupload",
+                "part": "studio_video_1778721323501",
+                "duration": 240,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1865S6FE9P",
+              "pages": [
+                {
+                  "cid": 38317327089,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "studio_video_1778721323501",
+                  "duration": 240,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8194459,
+              "section_id": 9107262,
+              "id": 197546650,
+              "aid": 116498706274083,
+              "cid": 38007145115,
+              "title": "华强买瓜，但有一点伤感的歌！",
+              "attribute": 0,
+              "arc": {
+                "aid": 116498706274083,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/f42dd8d9bd4dec4d9c284597515d854016620c1b.jpg",
+                "title": "华强买瓜，但有一点伤感的歌！",
+                "pubdate": 1777629502,
+                "ctime": 1777629502,
+                "desc": "",
+                "state": 0,
+                "duration": 214,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1172349285,
+                  "name": "韩历飞羽666",
+                  "face": "https://i0.hdslb.com/bfs/face/8ea3018ab0b44fa0f78646f2a0cbd80b78221daa.jpg"
+                },
+                "stat": {
+                  "aid": 116498706274083,
+                  "view": 109557,
+                  "danmaku": 107,
+                  "reply": 162,
+                  "fav": 1079,
+                  "coin": 1017,
+                  "share": 240,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2192,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 109557
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38007145115,
+                "page": 1,
+                "from": "vupload",
+                "part": "studio_video_1777628656512",
+                "duration": 214,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1XiRTBVEY9",
+              "pages": [
+                {
+                  "cid": 38007145115,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "studio_video_1777628656512",
+                  "duration": 214,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8194459,
+              "section_id": 9107262,
+              "id": 204223683,
+              "aid": 116804974287788,
+              "cid": 39381240357,
+              "title": "劈 瓜 厂 牌",
+              "attribute": 0,
+              "arc": {
+                "aid": 116804974287788,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b10170d71bf1e06d6f297740d807a53b466c8b18.jpg",
+                "title": "劈 瓜 厂 牌",
+                "pubdate": 1782302752,
+                "ctime": 1782302752,
+                "desc": "",
+                "state": 0,
+                "duration": 168,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1172349285,
+                  "name": "韩历飞羽666",
+                  "face": "https://i0.hdslb.com/bfs/face/8ea3018ab0b44fa0f78646f2a0cbd80b78221daa.jpg"
+                },
+                "stat": {
+                  "aid": 116804974287788,
+                  "view": 135893,
+                  "danmaku": 170,
+                  "reply": 262,
+                  "fav": 2261,
+                  "coin": 2032,
+                  "share": 743,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 5234,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 135893
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39381240357,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20260624194728",
+                "duration": 168,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ngjZ6zETc",
+              "pages": [
+                {
+                  "cid": 39381240357,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20260624194728",
+                  "duration": 168,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8194459,
+              "section_id": 9107262,
+              "id": 197546643,
+              "aid": 116629467960900,
+              "cid": 38581502642,
+              "title": "各位郝哥 节目叫《非常骚扰》",
+              "attribute": 0,
+              "arc": {
+                "aid": 116629467960900,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c0cd5b6e2823895322ef8b0b30ae275119967931.jpg",
+                "title": "各位郝哥 节目叫《非常骚扰》",
+                "pubdate": 1779624759,
+                "ctime": 1779624759,
+                "desc": "",
+                "state": 0,
+                "duration": 213,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1172349285,
+                  "name": "韩历飞羽666",
+                  "face": "https://i0.hdslb.com/bfs/face/8ea3018ab0b44fa0f78646f2a0cbd80b78221daa.jpg"
+                },
+                "stat": {
+                  "aid": 116629467960900,
+                  "view": 300930,
+                  "danmaku": 1167,
+                  "reply": 680,
+                  "fav": 3778,
+                  "coin": 2036,
+                  "share": 1859,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13371,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 300930
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38581502642,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20260524193430",
+                "duration": 213,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2558,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1VWGJ6kEKo",
+              "pages": [
+                {
+                  "cid": 38581502642,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20260524193430",
+                  "duration": 213,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2558,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

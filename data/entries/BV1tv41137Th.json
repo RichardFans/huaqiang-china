@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1tv41137Th",
+  "aid": 250639747,
+  "title": "贾斯汀 · 比瓜",
+  "owner": {
+    "mid": 19071708,
+    "name": "潮汕好男人"
+  },
+  "pubdate": "2021-09-25T06:40:46Z",
+  "duration_s": 193,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "检索词『宋老虎』→song-laohu-banquet；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 4,120,899 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 4120900,
+      "like": 296598,
+      "coin": 145867,
+      "favorite": 110356,
+      "share": 36654,
+      "danmaku": 12503,
+      "reply": 3426
+    }
+  ],
+  "notes": ""
+}

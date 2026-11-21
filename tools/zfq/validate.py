@@ -36,6 +36,7 @@ def _slug_sync_ok() -> list[str]:
 
 def validate_all() -> tuple[list[str], dict]:
     errors: list[str] = []
+    warnings: list[str] = []
     stats: Counter = Counter()
     entries = sorted(config.ENTRIES_DIR.glob("BV*.json"))
     creators = sorted(config.CREATORS_DIR.glob("*.json"))
@@ -53,14 +54,23 @@ def validate_all() -> tuple[list[str], dict]:
             jsonschema.validate(raw, ENTRY_JSON_SCHEMA)
         except jsonschema.ValidationError as ex:
             errors.append(f"R2 {p.name}: {ex.message}")
-        # R4 单调性
+        # R4 单调性：仅同端点序列内比较（跨端点有时差与口径微差，实测教训）；
+        # 小幅回退（≤1% 且 ≤1000）是平台计数回收（如取消赞聚合），降级为警告
         snaps = sorted(e.snapshots, key=lambda s: s.captured_at)
-        for prev, cur in zip(snaps, snaps[1:]):
-            for f in ("view", "like", "coin", "favorite", "share", "danmaku"):
-                if getattr(cur, f) < getattr(prev, f):
-                    errors.append(
-                        f"R4 {e.bvid}: {f} 回退 {getattr(prev, f)}→{getattr(cur, f)} "
-                        f"({prev.captured_at}→{cur.captured_at})")
+        by_ep: dict[str, list] = {}
+        for s in snaps:
+            by_ep.setdefault(s.endpoint, []).append(s)
+        for ep, series in by_ep.items():
+            for prev, cur in zip(series, series[1:]):
+                for f in ("view", "like", "coin", "favorite", "share", "danmaku"):
+                    pv, cv = getattr(prev, f), getattr(cur, f)
+                    if cv < pv:
+                        msg = (f"R4 {e.bvid}[{ep}]: {f} 回退 {pv}→{cv} "
+                               f"({prev.captured_at}→{cur.captured_at})")
+                        if pv > 0 and (pv - cv) <= max(1000, pv * 0.01):
+                            warnings.append(msg + "（幅度小，计为警告）")
+                        else:
+                            errors.append(msg)
         # R5 快照唯一
         keys = [(s.endpoint, s.captured_at.date().isoformat()) for s in snaps]
         dup = [k for k, n in Counter(keys).items() if n > 1]
@@ -85,15 +95,15 @@ def validate_all() -> tuple[list[str], dict]:
             errors.append(f"R2 {p.name}: {ex.message}")
 
     errors += _slug_sync_ok()
-    return errors, dict(stats)
+    return errors, dict(stats), warnings
 
 
 def main(argv: list[str] | None = None) -> int:
     ap = argparse.ArgumentParser(prog="zfq.validate")
     ap.add_argument("--json-out", type=Path, default=None)
     args = ap.parse_args(argv)
-    errors, stats = validate_all()
-    report = {"stats": stats, "errors": errors,
+    errors, stats, warnings = validate_all()
+    report = {"stats": stats, "errors": errors, "warnings": warnings,
               "pass": not errors}
     if args.json_out:
         args.json_out.parent.mkdir(parents=True, exist_ok=True)

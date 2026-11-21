@@ -1,0 +1,704 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1BdARz5EJp",
+    "aid": 116163816260819,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/c99273551ce37489d95bc719fd5a762ac6a37ebf.jpg",
+    "title": "瓜 摊 斗 舞",
+    "pubdate": 1772519394,
+    "ctime": 1772519394,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 125,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 107276603,
+      "name": "一团小包子",
+      "face": "https://i2.hdslb.com/bfs/face/3fbcdc47f09295efd62950fe1783fe71bbe0d0ee.jpg"
+    },
+    "stat": {
+      "aid": 116163816260819,
+      "view": 7510750,
+      "danmaku": 5125,
+      "reply": 7750,
+      "favorite": 81358,
+      "coin": 97129,
+      "share": 58240,
+      "now_rank": 0,
+      "his_rank": 6,
+      "like": 373863,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "作者声明：该视频使用人工智能合成技术",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 36416849727,
+    "dimension": {
+      "width": 2560,
+      "height": 1440,
+      "rotate": 0
+    },
+    "season_id": 7631930,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 36416849727,
+        "page": 1,
+        "from": "vupload",
+        "part": "瓜 摊 斗 舞",
+        "duration": 125,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2560,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00001vj5sp0rneed11yfvjzcxb7iwxb_firsti.jpg",
+        "ctime": 1772519394,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 7631930,
+      "title": "华强宇宙",
+      "cover": "https://archive.biliimg.com/bfs/archive/956f5ec52d2e0da834d859d473ac7e540015175c.jpg",
+      "mid": 107276603,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 7631930,
+        "view": 9069081,
+        "danmaku": 6492,
+        "reply": 8781,
+        "fav": 92069,
+        "coin": 101900,
+        "share": 62935,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 421716,
+        "vt": 0,
+        "vv": 9069081
+      },
+      "ep_count": 5,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 7631930,
+          "id": 8471330,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 7631930,
+              "section_id": 8471330,
+              "id": 181301709,
+              "aid": 116199031571072,
+              "cid": 36577214478,
+              "title": "瓜 摊 学 舞",
+              "attribute": 0,
+              "arc": {
+                "aid": 116199031571072,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/bac7a559e2442f5d24d147e55770d49dff5a1fc0.jpg",
+                "title": "瓜 摊 学 舞",
+                "pubdate": 1773057056,
+                "ctime": 1773057056,
+                "desc": "",
+                "state": 0,
+                "duration": 156,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 107276603,
+                  "name": "一团小包子",
+                  "face": "https://i2.hdslb.com/bfs/face/3fbcdc47f09295efd62950fe1783fe71bbe0d0ee.jpg"
+                },
+                "stat": {
+                  "aid": 116199031571072,
+                  "view": 261515,
+                  "danmaku": 359,
+                  "reply": 238,
+                  "fav": 2339,
+                  "coin": 1161,
+                  "share": 838,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 9633,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 261515
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 36577214478,
+                "page": 1,
+                "from": "vupload",
+                "part": "瓜 摊 学 舞",
+                "duration": 156,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV13SPDzdEzi",
+              "pages": [
+                {
+                  "cid": 36577214478,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "瓜 摊 学 舞",
+                  "duration": 156,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7631930,
+              "section_id": 8471330,
+              "id": 181301710,
+              "aid": 116163816260819,
+              "cid": 36416849727,
+              "title": "瓜 摊 斗 舞",
+              "attribute": 0,
+              "arc": {
+                "aid": 116163816260819,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/c99273551ce37489d95bc719fd5a762ac6a37ebf.jpg",
+                "title": "瓜 摊 斗 舞",
+                "pubdate": 1772519394,
+                "ctime": 1772519394,
+                "desc": "",
+                "state": 0,
+                "duration": 125,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 107276603,
+                  "name": "一团小包子",
+                  "face": "https://i2.hdslb.com/bfs/face/3fbcdc47f09295efd62950fe1783fe71bbe0d0ee.jpg"
+                },
+                "stat": {
+                  "aid": 116163816260819,
+                  "view": 7510750,
+                  "danmaku": 5125,
+                  "reply": 7750,
+                  "fav": 81358,
+                  "coin": 97129,
+                  "share": 58240,
+                  "now_rank": 0,
+                  "his_rank": 6,
+                  "like": 373863,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 7510750
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 36416849727,
+                "page": 1,
+                "from": "vupload",
+                "part": "瓜 摊 斗 舞",
+                "duration": 125,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BdARz5EJp",
+              "pages": [
+                {
+                  "cid": 36416849727,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "瓜 摊 斗 舞",
+                  "duration": 125,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7631930,
+              "section_id": 8471330,
+              "id": 181488205,
+              "aid": 115780037378351,
+              "cid": 34974468021,
+              "title": "你是真想跟我圣诞老人拼一下啊？？？",
+              "attribute": 0,
+              "arc": {
+                "aid": 115780037378351,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/9cf58c681b77fe99a2b7c6293d6219446a326f9e.jpg",
+                "title": "你是真想跟我圣诞老人拼一下啊？？？",
+                "pubdate": 1766663291,
+                "ctime": 1766663291,
+                "desc": "",
+                "state": 0,
+                "duration": 134,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 107276603,
+                  "name": "一团小包子",
+                  "face": "https://i2.hdslb.com/bfs/face/3fbcdc47f09295efd62950fe1783fe71bbe0d0ee.jpg"
+                },
+                "stat": {
+                  "aid": 115780037378351,
+                  "view": 435042,
+                  "danmaku": 162,
+                  "reply": 83,
+                  "fav": 787,
+                  "coin": 405,
+                  "share": 254,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4455,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 435042
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34974468021,
+                "page": 1,
+                "from": "vupload",
+                "part": "你是真想跟我圣诞老人拼一下啊？？？",
+                "duration": 134,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1G6BQBhEDg",
+              "pages": [
+                {
+                  "cid": 34974468021,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "你是真想跟我圣诞老人拼一下啊？？？",
+                  "duration": 134,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7631930,
+              "section_id": 8471330,
+              "id": 181488206,
+              "aid": 115774735778119,
+              "cid": 34954874279,
+              "title": "有一个圣诞老人前来买......",
+              "attribute": 0,
+              "arc": {
+                "aid": 115774735778119,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/e4d2cf8ccaca3bb78273b7e4abe8bacb4def5187.jpg",
+                "title": "有一个圣诞老人前来买......",
+                "pubdate": 1766582364,
+                "ctime": 1766582364,
+                "desc": "",
+                "state": 0,
+                "duration": 104,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 107276603,
+                  "name": "一团小包子",
+                  "face": "https://i2.hdslb.com/bfs/face/3fbcdc47f09295efd62950fe1783fe71bbe0d0ee.jpg"
+                },
+                "stat": {
+                  "aid": 115774735778119,
+                  "view": 208360,
+                  "danmaku": 166,
+                  "reply": 185,
+                  "fav": 1035,
+                  "coin": 255,
+                  "share": 436,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4521,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 208360
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34954874279,
+                "page": 1,
+                "from": "vupload",
+                "part": "有一个圣诞老人前来买......",
+                "duration": 104,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1kqBjB1E4n",
+              "pages": [
+                {
+                  "cid": 34954874279,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "有一个圣诞老人前来买......",
+                  "duration": 104,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7631930,
+              "section_id": 8471330,
+              "id": 189353265,
+              "aid": 116413528279570,
+              "cid": 37551212240,
+              "title": "跟我刘华强跳，你有这个实力吗！",
+              "attribute": 0,
+              "arc": {
+                "aid": 116413528279570,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/43dec4ff426735b61dd01d175fb6748b3491cac1.jpg",
+                "title": "跟我刘华强跳，你有这个实力吗！",
+                "pubdate": 1776329510,
+                "ctime": 1776329510,
+                "desc": "",
+                "state": 0,
+                "duration": 125,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 107276603,
+                  "name": "一团小包子",
+                  "face": "https://i2.hdslb.com/bfs/face/3fbcdc47f09295efd62950fe1783fe71bbe0d0ee.jpg"
+                },
+                "stat": {
+                  "aid": 116413528279570,
+                  "view": 653415,
+                  "danmaku": 680,
+                  "reply": 525,
+                  "fav": 6550,
+                  "coin": 2950,
+                  "share": 3167,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 29245,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 653415
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37551212240,
+                "page": 1,
+                "from": "vupload",
+                "part": "跟我刘华强跳，你有这个实力吗！",
+                "duration": 125,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1efd8BSEyo",
+              "pages": [
+                {
+                  "cid": 37551212240,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "跟我刘华强跳，你有这个实力吗！",
+                  "duration": 125,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 116163816260819,
+          "type": 2,
+          "desc": "第363期每周必看",
+          "weekly_recommend_num": 363
+        },
+        {
+          "aid": 116163816260819,
+          "type": 3,
+          "desc": "全站排行榜最高第6名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 116163816260819,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

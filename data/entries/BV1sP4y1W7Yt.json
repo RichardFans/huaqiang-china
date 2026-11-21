@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1sP4y1W7Yt",
+  "aid": 889724712,
+  "title": "没 经 费 了",
+  "owner": {
+    "mid": 32837037,
+    "name": "康师傅红烧甜不辣"
+  },
+  "pubdate": "2021-08-06T11:09:23Z",
+  "duration_s": 111,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "检索词『华强买瓜』→maigua；标题扫描→1项",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hall",
+  "tier_basis": "播放 10,721,860 ≥ 1000万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-21T02:52:59.964992Z"
+  },
+  "first_seen": "2026-11-21T02:52:59.964992Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-21T03:16:03.820831Z",
+      "endpoint": "api-view",
+      "view": 10721862,
+      "like": 689990,
+      "coin": 289972,
+      "favorite": 229587,
+      "share": 89518,
+      "danmaku": 8248,
+      "reply": 8108
+    }
+  ],
+  "notes": ""
+}

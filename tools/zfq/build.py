@@ -35,6 +35,8 @@ def _slim(e: Entry) -> dict:
         "owner": {"mid": e.owner.mid, "name": e.owner.name},
         "pubdate": iso(e.pubdate),
         "kind": e.kind, "scenes": e.scenes, "form": e.form, "tier": e.tier,
+        "scene_status": e.scene_status, "form_status": e.form_status,
+        "review": e.review,
         "status": e.status, "archive_url": e.archive_url,
         "first_seen": iso(e.first_seen),
         "latest": {"captured_at": iso(s.captured_at), "view": s.view, "like": s.like,
