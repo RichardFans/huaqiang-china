@@ -106,7 +106,7 @@ def test_monotonicity_detector_via_validate(tmp_path, monkeypatch):
     monkeypatch.setattr(config, "CREATORS_DIR", tmp_path / "creators")
     (tmp_path / "creators").mkdir()
 
-    errors, stats, warnings = V.validate_all()
+    errors, stats, warnings = V.validate_all(check_readme=False)
     assert stats["entries"] == 2
     r4 = [e for e in errors if e.startswith("R4")]
     assert len(r4) >= 1, f"应检出计数回退：{errors}"

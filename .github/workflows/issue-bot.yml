@@ -27,6 +27,7 @@ jobs:
           mkdir -p tmp
           printf '%s' "$ISSUE_BODY" > tmp/issue-body.md
           python -m zfq.issuebot --issue "$ISSUE_NUMBER" --body-file tmp/issue-body.md
+          python -m zfq.build
         env:
           PYTHONPATH: tools
       - name: 评论结果

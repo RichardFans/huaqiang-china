@@ -240,6 +240,171 @@ def _flat_derivative(curated: dict) -> list[dict]:
     return list(seen.values())
 
 
+# ---- README 生成（榜单必须是数据管线的产物，CI R7 防漂移）----
+
+SCENE_EN = {
+    "maigua": "Watermelon scene", "song-laohu-banquet": "Banquet scene",
+    "feng-biao": "Feng Biao scenes", "zhengfu-other": "Other scenes",
+    "crossover": "Crossover",
+}
+FORM_EN = {
+    "source": "Source clip", "clip": "Fan edit", "guichu": "Guichu", "yinmad": "Yin-MAD",
+    "ai-cover": "AI cover", "ai-video": "AI video", "ai-other": "AI (other)", "other": "Other",
+}
+TIER_EN = {"hall": "Hall of Fame", "hot": "Hot", "rising": "Rising", "seed": "Seed"}
+README_MARK_BEGIN = "<!-- zfq:generated:start -->"
+README_MARK_END = "<!-- zfq:generated:end -->"
+README_TEMPLATES = {
+    "zh": config.ROOT / "tools" / "templates" / "README.zh.md",
+    "en": config.ROOT / "tools" / "templates" / "README.en.md",
+}
+README_OUTPUTS = {
+    "zh": config.ROOT / "README.md",
+    "en": config.ROOT / "README.en.md",
+}
+
+
+def _md_escape(s: str) -> str:
+    return s.replace("|", "\\|").replace("\n", " ")
+
+
+def _readme_table(rows: list[dict], lang: str) -> list[str]:
+    zh = lang == "zh"
+    head = (["| # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |",
+             "|---|---|---|---|---|---|---|---|"] if zh else
+            ["| # | Work | Creator | Published | Views | Coins | Form | Scene |",
+             "|---|---|---|---|---|---|---|---|"])
+    out = []
+    for i, x in enumerate(rows, 1):
+        s = x["latest"]
+        view = f"{s['view']:,}" if s else "—"
+        coin = f"{s['coin']:,}" if s else "—"
+        form = FORM_ZH[x["form"]] if zh else FORM_EN[x["form"]]
+        scenes = "、".join(SCENE_ZH[k] for k in x["scenes"]) if zh else \
+            " / ".join(SCENE_EN[k] for k in x["scenes"])
+        flag = " ⚠" if x["review"] != "confirmed" else ""
+        dead = "（已失效）" if zh and x["status"] != "ok" else (" (gone)" if x["status"] != "ok" else "")
+        out.append(
+            f"| {i} | [{_md_escape(x['title'])}]({x['url']}){flag}{dead} "
+            f"| {x['owner']['name']} | {x['pubdate'][:7]} | {view} | {coin} "
+            f"| {form} | {scenes} |")
+    return head + out
+
+
+def _readme_block(curated: dict, lang: str) -> str:
+    zh = lang == "zh"
+    rows = [x for x in _flat_derivative(curated) if x["status"] == "ok"]
+    by_view = sorted(rows, key=lambda x: -(x["latest"]["view"] if x["latest"] else 0))
+    tiers = curated["counts"].get("scenes", {})
+    n = curated["counts"]["derivative"]
+    tier_n = {t: len(curated["by-tier"].get(t, [])) for t in ("hall", "hot", "rising", "seed")}
+    reviewed = sum(1 for x in rows if x["review"] == "confirmed")
+    pending = n - reviewed
+    date = curated["generated_at"][:10]
+
+    parts: list[str] = []
+    if zh:
+        parts.append(
+            f"**在册 {n} 条二创**（殿堂 {tier_n['hall']} · 热门 {tier_n['hot']} · "
+            f"新晋 {tier_n['rising']} · 种子 {tier_n['seed']}）｜ 人工复核 {reviewed} · "
+            f"待复核 {pending}（⚠）｜ 数据快照 {date}（UTC）")
+        parts.append("")
+        parts.append(f"## 🏆 殿堂级总榜（播放 ≥ 1000 万，共 {tier_n['hall']} 条）")
+        parts += _readme_table([x for x in by_view if x["tier"] == "hall"], "zh")
+        for slug, zh_name, emoji in (("maigua", "华强买瓜", "🍉"),
+                                     ("song-laohu-banquet", "宋老虎请客", "🍜"),
+                                     ("feng-biao", "封彪桥段", "🔪")):
+            scene_rows = curated["by-scene"].get(slug, [])
+            top = sorted(scene_rows, key=lambda x: -(x["latest"]["view"] if x["latest"] else 0))[:10]
+            label = f"Top 10" if len(scene_rows) > 10 else f"全部 {len(scene_rows)} 条"
+            parts.append("")
+            parts.append(f"## {emoji} {zh_name} · {label}")
+            parts += _readme_table(top, "zh")
+            if len(scene_rows) > 10:
+                parts.append("")
+                parts.append(
+                    f"→ 全部 {len(scene_rows)} 条：[docs/lists/scene-{slug}.md](docs/lists/scene-{slug}.md)"
+                    f" ｜ [站点切面]({SITE_URL}/scene/{slug}/)")
+    else:
+        parts.append(
+            f"**{n} derivative works catalogued** (Hall {tier_n['hall']} · Hot {tier_n['hot']} · "
+            f"Rising {tier_n['rising']} · Seed {tier_n['seed']}) ｜ Human-reviewed {reviewed} · "
+            f"Pending {pending} (⚠) ｜ Data snapshot {date} (UTC)")
+        parts.append("")
+        parts.append(f"## 🏆 Hall of Fame (≥ 10M views, {tier_n['hall']} works)")
+        parts += _readme_table([x for x in by_view if x["tier"] == "hall"], "en")
+        for slug, en_name, emoji in (("maigua", "The Watermelon Scene", "🍉"),
+                                     ("song-laohu-banquet", "Song Laohu’s Banquet", "🍜"),
+                                     ("feng-biao", "Feng Biao Scenes", "🔪")):
+            scene_rows = curated["by-scene"].get(slug, [])
+            top = sorted(scene_rows, key=lambda x: -(x["latest"]["view"] if x["latest"] else 0))[:10]
+            label = "Top 10" if len(scene_rows) > 10 else f"all {len(scene_rows)}"
+            parts.append("")
+            parts.append(f"## {emoji} {en_name} · {label}")
+            parts += _readme_table(top, "en")
+            if len(scene_rows) > 10:
+                parts.append("")
+                parts.append(
+                    f"→ Full list ({len(scene_rows)}): [docs/lists/scene-{slug}.md](docs/lists/scene-{slug}.md)"
+                    f" ｜ [Site]({SITE_URL}/scene/{slug}/)")
+
+    # 编年速览（两语言共用数据）
+    by_year = sorted(curated.get("by-year", {}).items())
+    parts.append("")
+    parts.append("## 📅 编年速览" if zh else "## 📅 Chronicle at a glance")
+    if zh:
+        parts += ["| 年份 | 在册 | 形态构成 | 年度之最 |", "|---|---|---|---|"]
+    else:
+        parts += ["| Year | Works | Forms | Top work |", "|---|---|---|---|"]
+    for year, yrows in by_year:
+        forms: dict[str, int] = {}
+        for r in yrows:
+            forms[r["form"]] = forms.get(r["form"], 0) + 1
+        if zh:
+            fsum = " · ".join(f"{FORM_ZH[k]}×{v}" for k, v in
+                              sorted(forms.items(), key=lambda kv: -kv[1]))
+        else:
+            fsum = " · ".join(f"{FORM_EN[k]}×{v}" for k, v in
+                              sorted(forms.items(), key=lambda kv: -kv[1]))
+        top = sorted(yrows, key=lambda x: -(x["latest"]["view"] if x["latest"] else 0))[0]
+        parts.append(f"| {year} | {len(yrows)} | {fsum} | [{_md_escape(top['title'])}]({top['url']}) |")
+    if zh:
+        parts.append("")
+        parts.append(
+            "> 一手 pubdate 已见 **2021-07-16–19 四天引爆窗口**（《买瓜大队》《内向顾客》"
+            "《萨日朗》密集出现）；2026 样本出现平台「疑似AI合成」标注作品。分期结论待"
+            " pubdate 深页补采后定稿：[编年初稿](reports/chronicle-draft.md) · "
+            "[方法学](docs/methodology.md)。⚠=待人工复核（[ADR-0006](docs/decisions/0006-review-gate.md)）。")
+    else:
+        parts.append("")
+        parts.append(
+            "> First-hand pubdates already show the **ignition window of 2021-07-16–19** "
+            "(hall-of-fame works clustered within four days); the 2026 sample includes works "
+            "carrying Bilibili's official “AI-synthesized” label. Staging conclusions await "
+            "deeper pubdate paging: [chronicle draft](reports/chronicle-draft.md) · "
+            "[methodology](docs/methodology.md). ⚠ = pending human review "
+            "([ADR-0006](docs/decisions/0006-review-gate.md)).")
+    return "\n".join(parts)
+
+
+def readme_file_content(lang: str, curated: dict | None = None) -> str:
+    """完整 README 内容（模板 + 生成区）。供 build 写盘与 R7 校验共用。"""
+    import re as _re
+    if curated is None:
+        curated = build_curated(load_entries())
+    tmpl = README_TEMPLATES[lang].read_text(encoding="utf-8")
+    block = _readme_block(curated, lang)
+    replacement = README_MARK_BEGIN + "\n" + block + "\n" + README_MARK_END
+    return _re.sub(README_MARK_BEGIN + r".*?" + README_MARK_END,
+                   lambda m: replacement, tmpl, flags=_re.S)
+
+
+def build_readme(curated: dict) -> None:
+    for lang, out in README_OUTPUTS.items():
+        out.write_text(readme_file_content(lang, curated), encoding="utf-8")
+    print(f"[build] README 生成：README.md / README.en.md")
+
+
 def main() -> int:
     entries = load_entries()
     creators = []
@@ -249,8 +414,9 @@ def main() -> int:
     build_lists_md(curated)
     build_site_data(curated, creators)
     build_feeds(curated)
+    build_readme(curated)
     print(f"[build] entries={len(entries)} creators={len(creators)} → "
-          f"curated/lists/site-data/feeds 完成")
+          f"curated/lists/README/site-data/feeds 完成")
     return 0
 
 

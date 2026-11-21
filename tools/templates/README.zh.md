@@ -1,0 +1,68 @@
+# 🍉 征服二创宇宙档案 · The Conquest Remix Archive
+
+> 《征服》(2003) 二创生态的**收集 · 整理 · 跟踪**——把过程本身做成可复现数据管线的开源研究档案。
+> **English? → [README.en.md](README.en.md)** ｜ 🌐 站点 / Site：`huaqiang-china.github.io`
+
+<!-- zfq:generated:start -->
+<!-- zfq:generated:end -->
+
+## 📡 订阅（国际推广通道）
+
+- 新收录 RSS（中文）`/feeds/new.rss.xml` ｜ New entries RSS (EN) `/feeds/new.en.rss.xml`
+- 周涨幅榜 `/feeds/movers.rss.xml` ｜ Atom `/feeds/atom.xml` ｜ JSON Feed `/feeds/feed.json`
+- 仓库内完整切面：[docs/lists/](docs/lists/)（桥段 / UP主 / 分级，自动生成）
+
+## 🚀 快速开始
+
+```bash
+uv venv .venv && uv pip install --python .venv/Scripts/python.exe requests pydantic jsonschema pytest
+# 或：python -m pip install requests pydantic jsonschema pytest
+
+export PYTHONPATH=tools   # Windows PowerShell: $env:PYTHONPATH='tools'
+python -m zfq.validate     # 质量门禁 R1-R7（无需联网）
+python -m pytest -q        # 测试
+python -m zfq.track        # 跟踪刷新（联网，限速 1 req/s）
+python -m zfq.build        # 重建视图/列表/README/订阅源/站点数据
+```
+
+站点（本地）：`cd site && npm install && npm run build` → `site/dist/`（纯静态）。
+
+## 🗂 治理与导览
+
+| 路径 | 内容 |
+|---|---|
+| `data/vocabulary.md` | 规范词表（canonical 名 + 变体/错写映射，检索的基石） |
+| `data/entries/` `data/creators/` | 档案本体（每视频/每 UP 主一 JSON，带快照证据链） |
+| `data/candidates/` | 拒绝日志——「为什么没收录」也是档案 |
+| `docs/decisions/` | ADR ×6：收录标准 / 合规姿态 / 命名 / 选型 / 发现路线 / 评审门控 |
+| `docs/methodology.md` `docs/verification.md` | 分期方法（预先注册）与验证协议 |
+| `reports/` | 编年初稿 / 跟踪报告 / 交叉验证记录 |
+| `tools/zfq/` | 数据管线（限速客户端 · 入册 · 跟踪 · 校验 · 构建 · issuebot） |
+| `site/` | Astro 5 双语静态站 + 订阅源 |
+
+**本 README 的全部榜单由 `zfq build` 自动生成**（数据即唯一事实源）；改数据后重跑 build，
+CI 的 R7 规则会拦截「README 与数据不一致」的提交。
+
+## ⚖️ 采集合规（重要）
+
+本项目**不复刻、不分发平台的访问控制/签名机制**，仅以浏览器等价方式访问公开页面与端点，
+仅收录元数据、默认限速、遇风控退避降级，并提供
+[下架通道](.github/ISSUE_TEMPLATE/takedown.yml)（72 小时处置承诺）。背景（含
+bilibili-API-collect 律师函事件与 robots.txt 留档）：[ADR-0002](docs/decisions/0002-collection-legal-posture.md)。
+
+## 🤖 自动化
+
+GitHub Actions：`ci`（门禁+站点构建）· `track`（每日刷新 → 自动 PR）·
+`discover`（每周发现 → 待评审 PR）· `issue-bot`（提交视频 issue → 实时校验 → PR）。
+新条目默认 `review=pending`（[ADR-0006 评审门控](docs/decisions/0006-review-gate.md)），
+榜单以「⚠」明示待复核状态。
+
+## 📄 许可
+
+- 代码：MIT ｜ 内容与数据：[CC BY-SA 4.0](LICENSE.content)
+- 视频内容版权归原权利人与创作者所有；本仓库不存储任何音视频字节。
+
+## 🚢 部署备注
+
+站点 URL 当前假设 `huaqiang-china.github.io`（根域 Pages）。实际仓库位置确定后，需同步修改
+`site/astro.config.mjs` 与 `tools/zfq/build.py` 的 `SITE_URL`，并重跑 `zfq build`。

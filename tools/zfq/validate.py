@@ -34,7 +34,23 @@ def _slug_sync_ok() -> list[str]:
     return errs
 
 
-def validate_all() -> tuple[list[str], dict]:
+def _readme_drift_errors() -> list[str]:
+    """R7：README 生成区必须与当前数据一致（重跑 zfq build 可修复）。"""
+    from .build import README_OUTPUTS, readme_file_content
+
+    errs = []
+    for lang, path in README_OUTPUTS.items():
+        if not path.exists():
+            errs.append(f"R7 {path.name} 缺失（跑 zfq build 生成）")
+            continue
+        current = path.read_text(encoding="utf-8").replace("\r\n", "\n")
+        expected = readme_file_content(lang)
+        if current != expected:
+            errs.append(f"R7 {path.name} 与数据漂移（重跑 zfq build 后提交）")
+    return errs
+
+
+def validate_all(check_readme: bool = True) -> tuple[list[str], dict, list[str]]:
     errors: list[str] = []
     warnings: list[str] = []
     stats: Counter = Counter()
@@ -95,6 +111,8 @@ def validate_all() -> tuple[list[str], dict]:
             errors.append(f"R2 {p.name}: {ex.message}")
 
     errors += _slug_sync_ok()
+    if check_readme:
+        errors += _readme_drift_errors()
     return errors, dict(stats), warnings
 
 
