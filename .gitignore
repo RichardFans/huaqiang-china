@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 临时探针与本地工件（不入库）
+tmp/
+
+# Node / Astro
+node_modules/
+site/dist/
+site/.astro/
+
+# 本地环境
+.env
+.env.*
