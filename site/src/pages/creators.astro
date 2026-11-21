@@ -1,0 +1,37 @@
+---
+import Base from '../layouts/Base.astro';
+import views from '../data/generated/views.json';
+import creators from '../data/generated/creators.json';
+
+const byCreator = views['by-creator'];
+const creatorMap = Object.fromEntries(creators.map((c) => [String(c.mid), c]));
+const stats = Object.entries(byCreator).map(([mid, rows]) => {
+  const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
+  const follower = creatorMap[mid]?.follower_snapshots?.slice(-1)[0]?.follower;
+  return { mid, name: rows[0].owner.name, n: rows.length, totalView, follower,
+           top: [...rows].sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0))[0] };
+}).sort((a, b) => b.totalView - a.totalView);
+const fmt = (n) => (n == null ? '—' : n.toLocaleString('en-US'));
+---
+<Base title="UP主" description="征服二创宇宙档案：按 UP 主的收录视图">
+  <h1>UP主</h1>
+  <p class="sub">在册条目按创作者聚合（按在册作品累计播放排序）。粉丝数为抓取时点快照。</p>
+  <table>
+    <thead>
+      <tr><th>UP主</th><th class="num">在册条目</th><th class="num">在册累计播放</th><th class="num">粉丝数</th><th>最高作品</th></tr>
+    </thead>
+    <tbody>
+      {stats.map((s) => (
+        <tr>
+          <td style="white-space:nowrap">
+            <a href={`https://space.bilibili.com/${s.mid}`} target="_blank" rel="noopener">{s.name}</a>
+          </td>
+          <td class="num">{s.n}</td>
+          <td class="num">{fmt(s.totalView)}</td>
+          <td class="num">{fmt(s.follower)}</td>
+          <td style="max-width:360px"><a href={s.top.url} target="_blank" rel="noopener">{s.top.title}</a></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</Base>

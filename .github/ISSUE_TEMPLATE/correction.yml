@@ -1,0 +1,29 @@
+name: 纠错
+description: 数据有误 / 归属错标 / 漏收漏报
+labels: [correction]
+body:
+  - type: input
+    id: bvid
+    attributes:
+      label: BV 号（如适用）
+      placeholder: BV1...
+  - type: dropdown
+    id: field
+    attributes:
+      label: 问题类型
+      options:
+        - 桥段归属错误（scene）
+        - 形态判定错误（form）
+        - 热度分级不当（tier）
+        - 误收（与《征服》无关）
+        - 漏收线索
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: detail
+    attributes:
+      label: 说明
+      description: 请给出依据（如视频实际内容描述、正确归类等）
+    validations:
+      required: true

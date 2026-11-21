@@ -1,0 +1,61 @@
+---
+import Base from '../layouts/Base.astro';
+import views from '../data/generated/views.json';
+
+// 按发布年份的迷你分析（数据驱动，非手写）
+const byYear = Object.entries(views['by-year']).map(([year, rows]) => {
+  const forms = {};
+  for (const r of rows) forms[r.form] = (forms[r.form] || 0) + 1;
+  const top = [...rows].sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0))[0];
+  const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
+  return { year, n: rows.length, forms, top, totalView };
+}).sort((a, b) => a.year.localeCompare(b.year));
+
+const formZh = {
+  source: '原片段', clip: '剧情剪辑', guichu: '鬼畜', yinmad: '音MAD',
+  'ai-cover': 'AI翻唱', 'ai-video': 'AI视频', 'ai-other': 'AI其他', other: '其他',
+};
+const fmt = (n) => n.toLocaleString('en-US');
+const maxN = Math.max(...byYear.map((y) => y.n), 1);
+---
+<Base title="编年" description="征服二创的年度分布：投稿量、形态构成与年度代表作（数据快照自动统计）">
+  <h1>编年（数据视图）</h1>
+  <p class="sub">
+    以下由在册条目自动统计。⚠ 当前语料以「播放排序头部作品」为主（发现路线偏热），
+    <strong>早期长尾与 2021 年引爆点的完整谱系尚未采集</strong>——
+    阶段划分方案（变点检测 × 技术 marker）见仓库
+    <a href="https://github.com/huaqiang-china/huaqiang-china/blob/main/docs/methodology.md">docs/methodology.md</a>，
+    定稿前本页不宣称分期结论。
+  </p>
+
+  <h2>年度投稿分布（在册样本）</h2>
+  <table>
+    <thead>
+      <tr><th>年份</th><th style="width:34%">在册条目</th><th class="num">累计播放</th><th>形态构成</th><th>年度之最</th></tr>
+    </thead>
+    <tbody>
+      {byYear.map((y) => (
+        <tr>
+          <td style="white-space:nowrap"><strong>{y.year}</strong></td>
+          <td>
+            <div style="background:var(--red);height:10px;border-radius:4px;width:{Math.round((y.n / maxN) * 100)}%;opacity:.85" title={`${y.n} 条`}></div>
+            <span class="footnote">{y.n} 条</span>
+          </td>
+          <td class="num">{fmt(y.totalView)}</td>
+          <td style="font-size:.8rem">
+            {Object.entries(y.forms).sort((a, b) => b[1] - a[1]).map(([f, n]) => `${formZh[f]}×${n}`).join(' · ')}
+          </td>
+          <td style="max-width:280px"><a href={y.top.url} target="_blank" rel="noopener">{y.top.title}</a></td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <h2>初步观察（非结论）</h2>
+  <p class="footnote">
+    待 order=pubdate 深页采集与谱系考据完成后，编年报告将回应
+    <a href="https://github.com/huaqiang-china/huaqiang-china/blob/main/RESEARCH.md">RESEARCH.md</a>
+    的 RQ1/RQ4（工具变迁与老剧激活机制）。当前数据已可见的诚实表述：在册头部样本集中于
+    2021–2026，与「买瓜模因约 2021 年爆发」的普遍印象方向一致，但样本有发现偏差，不能作为分期证据。
+  </p>
+</Base>

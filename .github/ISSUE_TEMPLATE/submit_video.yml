@@ -1,0 +1,36 @@
+name: 提交视频
+description: 推荐一条《征服》二创作品入册（机器人会实时校验数据）
+labels: [curation]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢贡献！提交后机器人会调取视频公开数据做校验并生成入册 PR。
+        收录标准见 [ADR-0001](https://github.com/huaqiang-china/huaqiang-china/blob/main/docs/decisions/0001-scope-and-inclusion.md)。
+  - type: input
+    id: bvid
+    attributes:
+      label: BV 号
+      description: 视频链接或 BV 号（如 BV1xx411c7mD）
+      placeholder: BV1...
+    validations:
+      required: true
+  - type: dropdown
+    id: scene
+    attributes:
+      label: 桥段
+      options:
+        - 华强买瓜
+        - 宋老虎请客
+        - 封彪桥段
+        - 跨素材联动
+        - 其他/不确定
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: 为什么值得收录（影响力/开创性/趣味性）
+    validations:
+      required: false

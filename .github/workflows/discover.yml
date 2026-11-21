@@ -1,0 +1,43 @@
+name: discover
+on:
+  schedule:
+    # 每周日 21:10 UTC = 北京 05:10
+    - cron: "10 21 * * 0"
+  workflow_dispatch:
+
+concurrency:
+  group: discover
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pydantic jsonschema
+      - name: 发现+入册（新条目默认 pending，人工合并为门）
+        run: |
+          python -m zfq.ingest --keywords "华强买瓜,刘华强,宋老虎,封彪,征服 鬼畜" --order click --pages 1
+          python -m zfq.build
+          python -m zfq.validate
+        env:
+          PYTHONPATH: tools
+      - name: 开 PR（有新收录时）
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "discover: 每周发现扫描（自动）"
+          title: "discover: 新收录候选 $(date -u +%F)"
+          body: |
+            每周发现扫描（click 序首页 × 词表主组）。
+
+            新条目一律 `review=pending`（ADR-0006）——合并即视为过「量门槛」，
+            **不**视为人工确认；请在 PR 里抽查新条目的 scene 归属是否成立。
+          branch: auto/discover
+          labels: data, curation, automated

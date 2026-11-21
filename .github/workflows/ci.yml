@@ -1,0 +1,46 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  data-gate:
+    name: 数据门禁（测试+校验）
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pydantic jsonschema pytest
+      - name: pytest
+        run: python -m pytest -q
+        env:
+          PYTHONPATH: tools
+      - name: zfq validate（R1-R6）
+        run: python -m zfq.validate --json-out tmp/validate.json
+        env:
+          PYTHONPATH: tools
+
+  site-build:
+    name: 站点构建
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm ci --no-fund --no-audit
+        working-directory: site
+      - run: npm run build
+        working-directory: site
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site-dist
+          path: site/dist/
+          retention-days: 7

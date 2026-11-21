@@ -1,0 +1,78 @@
+---
+import Base from '../layouts/Base.astro';
+import EntryTable from '../components/EntryTable.astro';
+import views from '../data/generated/views.json';
+import deltas from '../data/generated/deltas.json';
+
+const all = Object.values(
+  Object.values(views['by-form']).flat().reduce((acc, x) => ({ ...acc, [x.bvid]: x }), {}),
+);
+const sorted = all
+  .filter((x) => x.status === 'ok' && x.kind === 'derivative')
+  .sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0));
+const top = sorted.slice(0, 15);
+const rising = sorted.filter((x) => x.tier === 'rising').slice(0, 10);
+const movers = (deltas.rows || []).filter((r) => r.growth_7d != null).slice(0, 10);
+const c = views.counts;
+const reviewed = all.filter((x) => x.review === 'confirmed').length;
+const fmt = (n) => n.toLocaleString('en-US');
+const sceneZh = {
+  maigua: '华强买瓜', 'song-laohu-banquet': '宋老虎请客', 'feng-biao': '封彪桥段',
+  'zhengfu-other': '其他名场面', crossover: '跨素材联动',
+};
+---
+<Base title="">
+  <h1>🍉 征服二创宇宙档案</h1>
+  <p class="sub">
+    电视剧《征服》(2003) 二创生态的<strong>收集 · 整理 · 跟踪</strong>：
+    名场面谱系、代表作数据档案（B站一手快照）、热度追踪与研究笔记。
+    The Conquest Remix Archive.
+  </p>
+
+  <div class="cards">
+    <div class="card"><b>{fmt(c.derivative)}</b><span>在册二创条目</span></div>
+    <div class="card"><b>{fmt(c.scenes.maigua || 0)}</b><span>华强买瓜</span></div>
+    <div class="card"><b>{fmt(c.scenes['song-laohu-banquet'] || 0)}</b><span>宋老虎请客</span></div>
+    <div class="card"><b>{fmt(c.scenes['feng-biao'] || 0)}</b><span>封彪桥段</span></div>
+    <div class="card"><b>{fmt(reviewed)}</b><span>已人工复核</span></div>
+  </div>
+
+  <p class="footnote">
+    数据快照：{views.generated_at.slice(0, 10)}（UTC）· 计数为抓取时点值 ·
+    带「⚠ 待复核」的条目为自动入册，归属判定未经人工确认（<a href="/about/">治理说明</a>）。
+  </p>
+
+  <h2>🔥 热度总榜 Top 15</h2>
+  <EntryTable rows={top} />
+
+  <h2>🆕 新晋佳作（rising）</h2>
+  {rising.length
+    ? <EntryTable rows={rising} />
+    : <p class="footnote">暂无新晋条目（发布 ≤180 天且播放 ≥10 万）。</p>}
+
+  <h2>📈 7 天播放涨幅</h2>
+  {movers.length ? (
+    <table>
+      <thead><tr><th>#</th><th>标题</th><th class="num">播放</th><th class="num">7d 增量</th></tr></thead>
+      <tbody>
+        {movers.map((r, i) => (
+          <tr>
+            <td>{i + 1}</td>
+            <td><a href={`https://www.bilibili.com/video/${r.bvid}`} target="_blank" rel="noopener">{r.title}</a></td>
+            <td class="num">{fmt(r.view)}</td>
+            <td class="num">+{fmt(r.growth_7d)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  ) : (
+    <p class="footnote">跟踪管线已就绪，涨幅需要跨日快照积累后出现（当前多为同日基线）。</p>
+  )}
+
+  <h2>🧭 按桥段浏览</h2>
+  <p>
+    {Object.entries(sceneZh).map(([slug, zh]) => (
+      <a href={`/scene/${slug}/`}>{zh}（{c.scenes[slug] || 0}）</a>
+    )).reduce((a, b) => [a, ' · ', b])}
+  </p>
+</Base>

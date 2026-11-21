@@ -1,0 +1,58 @@
+---
+import Base from '../../layouts/Base.astro';
+import EntryTable from '../../components/EntryTable.astro';
+import views from '../../data/generated/views.json';
+
+export function getStaticPaths() {
+  return Object.keys(views['by-scene']).map((slug) => ({ params: { slug } }));
+}
+const { slug } = Astro.params;
+const sceneZh = {
+  maigua: '华强买瓜', 'song-laohu-banquet': '宋老虎请客', 'feng-biao': '封彪桥段',
+  'zhengfu-other': '其他征服名场面', crossover: '跨素材联动',
+};
+const sceneEn = {
+  maigua: 'The Watermelon Scene', 'song-laohu-banquet': 'Song Laohu’s Banquet',
+  'feng-biao': 'Feng Biao Scenes', 'zhengfu-other': 'Other Scenes', crossover: 'Crossover',
+};
+const rows = views['by-scene'][slug] || [];
+const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
+// schema.org ItemList + VideoObject（结构化数据）
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: `${sceneZh[slug]} · 征服二创宇宙档案`,
+  numberOfItems: rows.length,
+  itemListElement: rows.slice(0, 30).map((x, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    item: {
+      '@type': 'VideoObject',
+      name: x.title,
+      url: x.url,
+      uploadDate: x.pubdate,
+      author: { '@type': 'Person', name: x.owner.name },
+      interactionStatistic: x.latest
+        ? {
+            '@type': 'InteractionCounter',
+            interactionService: { '@type': 'WebSite', name: 'Bilibili' },
+            interactionType: 'https://schema.org/WatchAction',
+            userInteractionCount: x.latest.view,
+          }
+        : undefined,
+    },
+  })),
+};
+---
+<Base title={sceneZh[slug]} description={`${sceneZh[slug]}（${sceneEn[slug]}）：${rows.length} 条在册二创，累计播放 ${totalView.toLocaleString('en-US')}`}>
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+  <h1>{sceneZh[slug]} <span class="footnote">{sceneEn[slug]}</span></h1>
+  <p class="sub">
+    {rows.length} 条在册二创 · 累计播放 {totalView.toLocaleString('en-US')} ·
+    数据快照 {views.generated_at.slice(0, 10)}
+  </p>
+  <EntryTable rows={rows} />
+  <p class="footnote">
+    <a href="/chronicle/">← 编年视图</a> · <a href="/creators/">UP主视图 →</a>
+  </p>
+</Base>

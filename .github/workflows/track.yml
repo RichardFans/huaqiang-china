@@ -1,0 +1,49 @@
+name: track
+on:
+  schedule:
+    # 每日 20:30 UTC = 北京 04:30（平台低峰，ADR-0002 最小负载原则）
+    - cron: "30 20 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: track
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pydantic jsonschema
+      - name: 跟踪刷新（增量快照+交叉验证+涨幅）
+        run: |
+          python -m zfq.track --cross-check 8
+          python -m zfq.build
+          python -m zfq.validate
+        env:
+          PYTHONPATH: tools
+      - name: 开 PR（数据变化时）
+        id: cpr
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "track: 每日数据刷新（自动）"
+          title: "track: 数据快照刷新 $(date -u +%F)"
+          body: |
+            自动跟踪 PR（每日 20:30 UTC）。
+
+            - 刷新条目计数快照（同日幂等替换）
+            - 双面交叉验证 8 条（reports/cross-check.json）
+            - 涨幅榜与视图/订阅源重建
+
+            合并前请扫一眼 cross-check 是否有 mismatch、validate 是否 PASS。
+          branch: auto/track
+          labels: data, automated
+      - name: 结果
+        run: echo "${{ steps.cpr.outputs.pull-request-url || '无变化，未开 PR' }}"

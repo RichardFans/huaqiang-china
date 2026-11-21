@@ -1,0 +1,52 @@
+name: issue-bot
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+  contents: write
+  pull-requests: write
+
+jobs:
+  submit-video:
+    # 路由标记：submit_video.yml 表单生成的正文必含「### BV 号」小节
+    if: contains(github.event.issue.body, '### BV 号')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests pydantic jsonschema
+      - name: 解析 issue 并校验 BV 号
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          mkdir -p tmp
+          printf '%s' "$ISSUE_BODY" > tmp/issue-body.md
+          python -m zfq.issuebot --issue "$ISSUE_NUMBER" --body-file tmp/issue-body.md
+        env:
+          PYTHONPATH: tools
+      - name: 评论结果
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let msg = '⚠ 机器人处理失败，请维护者人工处理。';
+            try {
+              msg = fs.readFileSync('tmp/issuebot-comment.md', 'utf8');
+            } catch (e) {}
+            await github.rest.issues.createComment({
+              ...context.repo, issue_number: context.issue.number, body: msg
+            });
+      - name: 开 PR（校验通过时）
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "submit: issue #${{ github.event.issue.number }} 提交的条目"
+          title: "submit: ${{ github.event.issue.title }}"
+          body: "Closes #${{ github.event.issue.number }}"
+          branch: issue/${{ github.event.issue.number }}
+          labels: curation
