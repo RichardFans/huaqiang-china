@@ -55,9 +55,9 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.retry.outputs.page_url }}
     outputs:
-      page_url: ${{ steps.deployment.outputs.page_url }}
+      page_url: ${{ steps.deployment.outputs.page_url || steps.retry.outputs.page_url }}
     steps:
       - uses: actions/configure-pages@v5
       - uses: actions/download-artifact@v4
@@ -67,7 +67,16 @@ jobs:
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site-dist
+      # deploy-pages 偶发竞态：上传刚成功，紧接着查产物元数据却拿到过期结果
+      # （“No artifacts named github-pages”）。首次部署不致命，等 20 秒重试一次。
       - id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: 等待产物元数据就绪
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 20
+      - id: retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
 
   deploy-smoke:
