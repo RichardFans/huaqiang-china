@@ -86,36 +86,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # 2026-11-24 教训：站点曾“在线但整页无样式”，HTML 与 CSS 都是 200。
-      # 这里不查渲染，只守住底线：页面引用的每一份样式表/脚本都可达且样式表非空。
+      # 脚本放在仓库里（site/scripts/smoke.sh），本地能原样运行，与 CI 是同一份代码。
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: site/scripts
+          sparse-checkout-cone-mode: false
       - name: 检查线上页面与资源
         env:
-          URL: ${{ needs.deploy-pages.outputs.page_url }}
-        run: |
-          set -euo pipefail
-          URL="${URL%/}"          # deploy-pages 给出的地址带尾斜杠，统一去掉再拼路径
-          code_of() { curl -s -o /dev/null -w '%{http_code}' --max-time 30 "$1"; }
-          expect_200() {
-            local url="$1" label="$2" code
-            for i in 1 2 3 4 5 6; do
-              code=$(code_of "$url")
-              if [ "$code" = "200" ]; then echo "OK   $label $url"; return 0; fi
-              echo "wait $code $url ($i/6)"; sleep 10
-            done
-            echo "FAIL $label $url -> $code"; return 1
-          }
-          for path in / /graph/ /chronicle/ /creators/ /scene/maigua/ /en/ /graph.gexf; do
-            expect_200 "${URL}${path}" "page"
-          done
-          html=$(curl -fsSL --max-time 30 "${URL}/")
-          refs=$(printf '%s' "$html" | grep -oE '(href|src)="[^"]+\.(css|js)"' \
-            | sed -E 's/^(href|src)="//; s/"$//' | sort -u)
-          test -n "$refs"
-          for r in $refs; do
-            case "$r" in http*) u="$r" ;; *) u="${URL}${r}" ;; esac
-            expect_200 "$u" "asset"
-          done
-          css=$(printf '%s' "$refs" | grep '\.css$' | head -n 1)
-          test -n "$css"
-          bytes=$(curl -s --max-time 30 "${URL}${css}" | wc -c)
-          echo "stylesheet bytes: $bytes"
-          [ "$bytes" -gt 1000 ]
+          SITE_URL: ${{ needs.deploy-pages.outputs.page_url }}
+        run: bash site/scripts/smoke.sh "$SITE_URL"

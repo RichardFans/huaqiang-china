@@ -1,0 +1,2 @@
+# Shell 脚本必须保持 LF：冒烟脚本会在 WSL / Linux 上运行，CRLF 会让 bash 解析失败。
+*.sh text eol=lf
