@@ -25,7 +25,7 @@ FORM_ZH = {
     "ai-cover": "AI翻唱/语音克隆", "ai-video": "AI视频生成", "ai-other": "AI其他", "other": "其他",
 }
 TIER_ZH = {"hall": "殿堂级", "hot": "热门", "rising": "新晋", "seed": "种子"}
-SITE_URL = "https://huaqiang-china.github.io"  # 占位：启用 Pages 后以实际域名为准
+SITE_URL = "https://richardfans.github.io/huaqiang-china"  # GitHub Pages 项目页（与 site/astro.config.mjs 同步）
 
 
 def _slim(e: Entry) -> dict:
