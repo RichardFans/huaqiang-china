@@ -1,0 +1,1110 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1nJNZ6VEMf",
+    "aid": 116936071452170,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i2.hdslb.com/bfs/archive/9574963346199dac1c67633075607895d72d49ca.jpg",
+    "title": "🍉卖瓜苦行山🍉",
+    "pubdate": 1784302878,
+    "ctime": 1784302878,
+    "desc": "虽然有几句话音色变了，但确实都是ai唱的",
+    "desc_v2": [
+      {
+        "raw_text": "虽然有几句话音色变了，但确实都是ai唱的",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 240,
+    "mission_id": 4067376,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1960052,
+      "name": "TC李华",
+      "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+    },
+    "stat": {
+      "aid": 116936071452170,
+      "view": 22407,
+      "danmaku": 57,
+      "reply": 151,
+      "favorite": 824,
+      "coin": 260,
+      "share": 148,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1257,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 40049380860,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 7609254,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 40049380860,
+        "page": 1,
+        "from": "vupload",
+        "part": "🍉卖瓜苦行山🍉",
+        "duration": 240,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_0000370o9cok4rcma2l1oad7hvj0fhb_firsti.jpg",
+        "ctime": 1784302878,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 7609254,
+      "title": "音乐",
+      "cover": "https://archive.biliimg.com/bfs/archive/ee7e6fd57e1db02e2468b941a9628bb50f9530e4.jpg",
+      "mid": 1960052,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 7609254,
+        "view": 51839,
+        "danmaku": 254,
+        "reply": 358,
+        "fav": 1044,
+        "coin": 382,
+        "share": 303,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 1964,
+        "vt": 0,
+        "vv": 51839
+      },
+      "ep_count": 9,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 7609254,
+          "id": 8445974,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 180680624,
+              "aid": 116182824787773,
+              "cid": 36505259397,
+              "title": "【黑火/黄金团】东南苦行山",
+              "attribute": 0,
+              "arc": {
+                "aid": 116182824787773,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/73832606bedbaffb5a06eddcfa6ee1d9d3cff36b.jpg",
+                "title": "【黑火/黄金团】东南苦行山",
+                "pubdate": 1772809291,
+                "ctime": 1772809291,
+                "desc": "",
+                "state": 0,
+                "duration": 236,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 116182824787773,
+                  "view": 10847,
+                  "danmaku": 107,
+                  "reply": 99,
+                  "fav": 75,
+                  "coin": 30,
+                  "share": 49,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 156,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 10847
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 36505259397,
+                "page": 1,
+                "from": "vupload",
+                "part": "【黑火/黄金团】东南苦行山",
+                "duration": 236,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Q1PxzHEq5",
+              "pages": [
+                {
+                  "cid": 36505259397,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【黑火/黄金团】东南苦行山",
+                  "duration": 236,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 180681212,
+              "aid": 113153061034971,
+              "cid": 25899436751,
+              "title": "相 擒 相 碍 一 家 人",
+              "attribute": 0,
+              "arc": {
+                "aid": 113153061034971,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c4d3b2c89ce6e51a229274601abe00cac6e5da61.jpg",
+                "title": "相 擒 相 碍 一 家 人",
+                "pubdate": 1726579170,
+                "ctime": 1726579170,
+                "desc": "",
+                "state": 0,
+                "duration": 277,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 113153061034971,
+                  "view": 1240,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 2,
+                  "coin": 4,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 9,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1240
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 25899436751,
+                "page": 1,
+                "from": "vupload",
+                "part": "相 擒 相 碍 一 家 人",
+                "duration": 277,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1994,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1dKtieXEGZ",
+              "pages": [
+                {
+                  "cid": 25899436751,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "相 擒 相 碍 一 家 人",
+                  "duration": 277,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1994,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 180681213,
+              "aid": 1752494887,
+              "cid": 1486265194,
+              "title": "芙莉莲：生命这样的旅程",
+              "attribute": 0,
+              "arc": {
+                "aid": 1752494887,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/a45b506c3e09bb19dae51350a1588cb735a7b952.jpg",
+                "title": "芙莉莲：生命这样的旅程",
+                "pubdate": 1711718559,
+                "ctime": 1711718559,
+                "desc": "",
+                "state": 0,
+                "duration": 162,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 1752494887,
+                  "view": 788,
+                  "danmaku": 5,
+                  "reply": 1,
+                  "fav": 7,
+                  "coin": 12,
+                  "share": 9,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 27,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 788
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1486265194,
+                "page": 1,
+                "from": "vupload",
+                "part": "芙莉莲：生命这样的旅程",
+                "duration": 162,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Xx421S7pq",
+              "pages": [
+                {
+                  "cid": 1486265194,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "芙莉莲：生命这样的旅程",
+                  "duration": 162,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 205094270,
+              "aid": 116827891964453,
+              "cid": 39483277600,
+              "title": "拓跋珪老师，我还记得你",
+              "attribute": 0,
+              "arc": {
+                "aid": 116827891964453,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/9bae4ba044676fb8c569a64dcc2936d55ae72ead.jpg",
+                "title": "拓跋珪老师，我还记得你",
+                "pubdate": 1782652305,
+                "ctime": 1782652305,
+                "desc": "",
+                "state": 0,
+                "duration": 270,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 116827891964453,
+                  "view": 6341,
+                  "danmaku": 6,
+                  "reply": 45,
+                  "fav": 43,
+                  "coin": 25,
+                  "share": 43,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 143,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6341
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39483277600,
+                "page": 1,
+                "from": "vupload",
+                "part": "拓跋珪老师，我还记得你",
+                "duration": 270,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV14LTg6tEXY",
+              "pages": [
+                {
+                  "cid": 39483277600,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "拓跋珪老师，我还记得你",
+                  "duration": 270,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 205517979,
+              "aid": 116839099144218,
+              "cid": 39536757632,
+              "title": "【AI翻唱】本想请ai稚嫩的魔法师唱《敕勒歌》，但第一句就失败了",
+              "attribute": 0,
+              "arc": {
+                "aid": 116839099144218,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/923c99e7e5cd463d981bb3959aca542513f87f2b.jpg",
+                "title": "【AI翻唱】本想请ai稚嫩的魔法师唱《敕勒歌》，但第一句就失败了",
+                "pubdate": 1782823385,
+                "ctime": 1782823385,
+                "desc": "",
+                "state": 0,
+                "duration": 52,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 116839099144218,
+                  "view": 2374,
+                  "danmaku": 17,
+                  "reply": 26,
+                  "fav": 12,
+                  "coin": 10,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 66,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2374
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39536757632,
+                "page": 1,
+                "from": "vupload",
+                "part": "【AI翻唱】本想请ai稚嫩的魔法师唱《敕勒歌》，但第一句就失败了",
+                "duration": 52,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1082,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1YCKf6zEii",
+              "pages": [
+                {
+                  "cid": 39536757632,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【AI翻唱】本想请ai稚嫩的魔法师唱《敕勒歌》，但第一句就失败了",
+                  "duration": 52,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1082,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 205986936,
+              "aid": 116850457384415,
+              "cid": 39594362744,
+              "title": "【AI翻唱】稚嫩的魔法师唱《卡斯特梅的雨季》",
+              "attribute": 0,
+              "arc": {
+                "aid": 116850457384415,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/5abaacfe4b454823e747488a7c94745b09564b6f.jpg",
+                "title": "【AI翻唱】稚嫩的魔法师唱《卡斯特梅的雨季》",
+                "pubdate": 1782996724,
+                "ctime": 1782996724,
+                "desc": "",
+                "state": 0,
+                "duration": 135,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 116850457384415,
+                  "view": 1220,
+                  "danmaku": 0,
+                  "reply": 10,
+                  "fav": 7,
+                  "coin": 6,
+                  "share": 9,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 42,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1220
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39594362744,
+                "page": 1,
+                "from": "vupload",
+                "part": "【AI翻唱】稚嫩的魔法师唱《卡斯特梅的雨季》",
+                "duration": 135,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1mhTE6JEam",
+              "pages": [
+                {
+                  "cid": 39594362744,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【AI翻唱】稚嫩的魔法师唱《卡斯特梅的雨季》",
+                  "duration": 135,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 209487556,
+              "aid": 116936071452170,
+              "cid": 40049380860,
+              "title": "🍉卖瓜苦行山🍉",
+              "attribute": 0,
+              "arc": {
+                "aid": 116936071452170,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/9574963346199dac1c67633075607895d72d49ca.jpg",
+                "title": "🍉卖瓜苦行山🍉",
+                "pubdate": 1784302878,
+                "ctime": 1784302878,
+                "desc": "",
+                "state": 0,
+                "duration": 240,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 116936071452170,
+                  "view": 22407,
+                  "danmaku": 57,
+                  "reply": 151,
+                  "fav": 824,
+                  "coin": 260,
+                  "share": 148,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1257,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 22407
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40049380860,
+                "page": 1,
+                "from": "vupload",
+                "part": "🍉卖瓜苦行山🍉",
+                "duration": 240,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1nJNZ6VEMf",
+              "pages": [
+                {
+                  "cid": 40049380860,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "🍉卖瓜苦行山🍉",
+                  "duration": 240,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 215220743,
+              "aid": 117071933412471,
+              "cid": 40788823707,
+              "title": "孙笑川在西晋做了哪些坏事？",
+              "attribute": 0,
+              "arc": {
+                "aid": 117071933412471,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/de913118bdb20703605f733481bbd6aaf91115ea.jpg",
+                "title": "孙笑川在西晋做了哪些坏事？",
+                "pubdate": 1786376072,
+                "ctime": 1786376072,
+                "desc": "",
+                "state": 0,
+                "duration": 213,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 117071933412471,
+                  "view": 6335,
+                  "danmaku": 61,
+                  "reply": 17,
+                  "fav": 67,
+                  "coin": 22,
+                  "share": 33,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 245,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6335
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40788823707,
+                "page": 1,
+                "from": "vupload",
+                "part": "孙笑川在西晋做了哪些坏事？",
+                "duration": 213,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1922,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1hQuo6TEP9",
+              "pages": [
+                {
+                  "cid": 40788823707,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "孙笑川在西晋做了哪些坏事？",
+                  "duration": 213,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1922,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7609254,
+              "section_id": 8445974,
+              "id": 234569762,
+              "aid": 117643935750762,
+              "cid": 43746987238,
+              "title": "黄仁勋在美国都干了哪些坏事？",
+              "attribute": 0,
+              "arc": {
+                "aid": 117643935750762,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/901b64dfc892c2e34f2ed9efd03202bb2d140fbc.jpg",
+                "title": "黄仁勋在美国都干了哪些坏事？",
+                "pubdate": 1795104685,
+                "ctime": 1795104685,
+                "desc": "",
+                "state": 0,
+                "duration": 216,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1960052,
+                  "name": "TC李华",
+                  "face": "https://i2.hdslb.com/bfs/face/d305d8bd799492760da9a90a540e84a7b4835339.jpg"
+                },
+                "stat": {
+                  "aid": 117643935750762,
+                  "view": 287,
+                  "danmaku": 1,
+                  "reply": 9,
+                  "fav": 7,
+                  "coin": 13,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 19,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 287
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43746987238,
+                "page": 1,
+                "from": "vupload",
+                "part": "黄仁勋在美国都干了哪些坏事？",
+                "duration": 216,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2542,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1jfsa6JESk",
+              "pages": [
+                {
+                  "cid": 43746987238,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "黄仁勋在美国都干了哪些坏事？",
+                  "duration": 216,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2542,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

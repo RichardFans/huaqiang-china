@@ -37,3 +37,6 @@
 - [狠 活 弟 弟](https://www.bilibili.com/video/BV19M4y14796) ｜ 快乐阿依 ｜ 2023-05-13 ｜ 播放 1,262,758 ｜ 热门 ｜ 剧情剪辑
 - [这是我弟弟，刚满18岁](https://www.bilibili.com/video/BV1Mw411n7e7) ｜ 放纵的荷尔蒙 ｜ 2023-11-23 ｜ 播放 1,234,603 ｜ 热门 ｜ 剧情剪辑
 - [无能的宋老虎](https://www.bilibili.com/video/BV1bBWt6WEn3) ｜ 神威-狗剩 ｜ 2026-11-09 ｜ 播放 326,297 ｜ 新晋 ｜ 剧情剪辑
+- [“你甚至不愿意叫我一声黑土！”](https://www.bilibili.com/video/BV19Z4b6gE5Q) ｜ 核动力路灯 ｜ 2026-11-05 ｜ 播放 266,968 ｜ 新晋 ｜ 剧情剪辑
+- [《灭霸的爸爸叫灭建国》  灭霸演唱会](https://www.bilibili.com/video/BV1SJWQ69E8y) ｜ 神威-狗剩 ｜ 2026-11-12 ｜ 播放 237,701 ｜ 新晋 ｜ 剧情剪辑
+- [⚡只劈你有感觉⚡](https://www.bilibili.com/video/BV1bibi6xEwS) ｜ 掌控时光之龙 ｜ 2026-08-17 ｜ 播放 159,678 ｜ 新晋 ｜ 剧情剪辑

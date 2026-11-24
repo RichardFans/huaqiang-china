@@ -1,0 +1,473 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1EV7r64Epo",
+    "aid": 116696039888512,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/f8a47df82300e407108c0d42588977b1f35fd007.jpg",
+    "title": "低 智 商 买 瓜",
+    "pubdate": 1780640692,
+    "ctime": 1780640475,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 160,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 330559,
+      "name": "马小白GT",
+      "face": "https://i1.hdslb.com/bfs/face/2874f54c77f4155f9462e2cf06cc35e4cfe4ed10.jpg"
+    },
+    "stat": {
+      "aid": 116696039888512,
+      "view": 183269,
+      "danmaku": 212,
+      "reply": 126,
+      "favorite": 1529,
+      "coin": 237,
+      "share": 181,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3978,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 38874255024,
+    "dimension": {
+      "width": 2560,
+      "height": 1440,
+      "rotate": 0
+    },
+    "season_id": 7957146,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 38874255024,
+        "page": 1,
+        "from": "vupload",
+        "part": "低 智 商 买 瓜",
+        "duration": 160,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2560,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_0000293kxgv2feyi62c0xz95e7w4jnb_firsti.jpg",
+        "ctime": 1780640475,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 7957146,
+      "title": "华强买瓜",
+      "cover": "https://s1.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "mid": 330559,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 7957146,
+        "view": 1561075,
+        "danmaku": 1159,
+        "reply": 1015,
+        "fav": 15975,
+        "coin": 4051,
+        "share": 5048,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 42908,
+        "vt": 0,
+        "vv": 1561075
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 7957146,
+          "id": 8840190,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 7957146,
+              "section_id": 8840190,
+              "id": 190606182,
+              "aid": 116446495578732,
+              "cid": 37711446923,
+              "title": "华强买瓜探店，华哥说餐饮",
+              "attribute": 0,
+              "arc": {
+                "aid": 116446495578732,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/f1ccc4eeb4d8517fe1aae7d35b7c9c18aae9de6b.jpg",
+                "title": "华强买瓜探店，华哥说餐饮",
+                "pubdate": 1776833586,
+                "ctime": 1776833586,
+                "desc": "",
+                "state": 0,
+                "duration": 136,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 330559,
+                  "name": "马小白GT",
+                  "face": "https://i1.hdslb.com/bfs/face/2874f54c77f4155f9462e2cf06cc35e4cfe4ed10.jpg"
+                },
+                "stat": {
+                  "aid": 116446495578732,
+                  "view": 34167,
+                  "danmaku": 27,
+                  "reply": 24,
+                  "fav": 149,
+                  "coin": 42,
+                  "share": 26,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 597,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 34167
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37711446923,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但华哥说餐饮",
+                "duration": 136,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1gNoWB4E28",
+              "pages": [
+                {
+                  "cid": 37711446923,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但华哥说餐饮",
+                  "duration": 136,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7957146,
+              "section_id": 8840190,
+              "id": 190606194,
+              "aid": 116418192349002,
+              "cid": 37573036850,
+              "title": "华强买瓜，但官话",
+              "attribute": 0,
+              "arc": {
+                "aid": 116418192349002,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/ea3a7fceee101b319518e2e1ce0f68e64f124f64.jpg",
+                "title": "华强买瓜，但官话",
+                "pubdate": 1776401388,
+                "ctime": 1776401388,
+                "desc": "",
+                "state": 0,
+                "duration": 130,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 330559,
+                  "name": "马小白GT",
+                  "face": "https://i1.hdslb.com/bfs/face/2874f54c77f4155f9462e2cf06cc35e4cfe4ed10.jpg"
+                },
+                "stat": {
+                  "aid": 116418192349002,
+                  "view": 1343639,
+                  "danmaku": 920,
+                  "reply": 865,
+                  "fav": 14297,
+                  "coin": 3772,
+                  "share": 4841,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 38334,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1343639
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37573036850,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但官话",
+                "duration": 130,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1YjdqBaEz8",
+              "pages": [
+                {
+                  "cid": 37573036850,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但官话",
+                  "duration": 130,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7957146,
+              "section_id": 8840190,
+              "id": 200017638,
+              "aid": 116696039888512,
+              "cid": 38874255024,
+              "title": "低 智 商 买 瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116696039888512,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/f8a47df82300e407108c0d42588977b1f35fd007.jpg",
+                "title": "低 智 商 买 瓜",
+                "pubdate": 1780640692,
+                "ctime": 1780640692,
+                "desc": "",
+                "state": 0,
+                "duration": 160,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 330559,
+                  "name": "马小白GT",
+                  "face": "https://i1.hdslb.com/bfs/face/2874f54c77f4155f9462e2cf06cc35e4cfe4ed10.jpg"
+                },
+                "stat": {
+                  "aid": 116696039888512,
+                  "view": 183269,
+                  "danmaku": 212,
+                  "reply": 126,
+                  "fav": 1529,
+                  "coin": 237,
+                  "share": 181,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3978,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 183269
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38874255024,
+                "page": 1,
+                "from": "vupload",
+                "part": "低 智 商 买 瓜",
+                "duration": 160,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1EV7r64Epo",
+              "pages": [
+                {
+                  "cid": 38874255024,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "低 智 商 买 瓜",
+                  "duration": 160,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1kDpg6tEVj",
+    "aid": 117415916601749,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c41bfeda5ed187b1db179ee829020b70d63b042f.jpg",
+    "title": "年轻人不要太气盛！但每一句话都倒放",
+    "pubdate": 1791628462,
+    "ctime": 1791624871,
+    "desc": "倒转の世界，第三集，结尾劲杀",
+    "desc_v2": [
+      {
+        "raw_text": "倒转の世界，第三集，结尾劲杀",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 279,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3493272758520304,
+      "name": "阿剀x_Acaix",
+      "face": "https://i1.hdslb.com/bfs/face/cdf30cbc4a89508ae6ad85264462af10b6536db0.jpg"
+    },
+    "stat": {
+      "aid": 117415916601749,
+      "view": 28530,
+      "danmaku": 401,
+      "reply": 68,
+      "favorite": 405,
+      "coin": 60,
+      "share": 55,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 956,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 42622652063,
+    "dimension": {
+      "width": 3876,
+      "height": 2160,
+      "rotate": 0
+    },
+    "season_id": 9198473,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 42622652063,
+        "page": 1,
+        "from": "vupload",
+        "part": "年轻人不要太气盛！但全员说话倒放",
+        "duration": 279,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3876,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00001q82m3pt4dwaa2tppc79d22kdyb_firsti.jpg",
+        "ctime": 1791624885,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9198473,
+      "title": "倒转の世界",
+      "cover": "https://archive.biliimg.com/bfs/archive/d1ed0b280712dc6bd97b33f5d09baeb3067c2ac6.jpg",
+      "mid": 3493272758520304,
+      "intro": "全员说倒放语系列",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9198473,
+        "view": 236594,
+        "danmaku": 1420,
+        "reply": 487,
+        "fav": 4493,
+        "coin": 418,
+        "share": 450,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 7708,
+        "vt": 0,
+        "vv": 236594
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9198473,
+          "id": 10282200,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9198473,
+              "section_id": 10282200,
+              "id": 224869353,
+              "aid": 116538619265759,
+              "cid": 38188550453,
+              "title": "华强买瓜，但是全员说倒放语",
+              "attribute": 0,
+              "arc": {
+                "aid": 116538619265759,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/338e5dcd2ec59ae61ba1a2efa816514146728f98.jpg",
+                "title": "华强买瓜，但是全员说倒放语",
+                "pubdate": 1778238534,
+                "ctime": 1778238534,
+                "desc": "",
+                "state": 0,
+                "duration": 124,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3493272758520304,
+                  "name": "阿剀x_Acaix",
+                  "face": "https://i1.hdslb.com/bfs/face/cdf30cbc4a89508ae6ad85264462af10b6536db0.jpg"
+                },
+                "stat": {
+                  "aid": 116538619265759,
+                  "view": 186058,
+                  "danmaku": 804,
+                  "reply": 376,
+                  "fav": 3761,
+                  "coin": 328,
+                  "share": 364,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 6052,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 186058
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38188550453,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但是全员说倒放语",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV15UdGBeEsP",
+              "pages": [
+                {
+                  "cid": 38188550453,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但是全员说倒放语",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9198473,
+              "section_id": 10282200,
+              "id": 224970212,
+              "aid": 117351861258312,
+              "cid": 42292809190,
+              "title": "华强VS彪子，但是全员说倒放语",
+              "attribute": 0,
+              "arc": {
+                "aid": 117351861258312,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/02df1d5895eed5eca9585a9c606c18841a9b2182.jpg",
+                "title": "华强VS彪子，但是全员说倒放语",
+                "pubdate": 1790653500,
+                "ctime": 1790653500,
+                "desc": "",
+                "state": 0,
+                "duration": 354,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3493272758520304,
+                  "name": "阿剀x_Acaix",
+                  "face": "https://i1.hdslb.com/bfs/face/cdf30cbc4a89508ae6ad85264462af10b6536db0.jpg"
+                },
+                "stat": {
+                  "aid": 117351861258312,
+                  "view": 22007,
+                  "danmaku": 215,
+                  "reply": 43,
+                  "fav": 327,
+                  "coin": 30,
+                  "share": 31,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 700,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 22007
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42292809190,
+                "page": 1,
+                "from": "vupload",
+                "part": "跟我刘华强讲倒放语你有这个实力吗？（全员讲倒放语）",
+                "duration": 354,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3876,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1pqaE6kE2e",
+              "pages": [
+                {
+                  "cid": 42292809190,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "跟我刘华强讲倒放语你有这个实力吗？（全员讲倒放语）",
+                  "duration": 354,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3876,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9198473,
+              "section_id": 10282200,
+              "id": 226946355,
+              "aid": 117415916601749,
+              "cid": 42622652063,
+              "title": "年轻人不要太气盛！但全员说话倒放",
+              "attribute": 0,
+              "arc": {
+                "aid": 117415916601749,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c41bfeda5ed187b1db179ee829020b70d63b042f.jpg",
+                "title": "年轻人不要太气盛！但全员说话倒放",
+                "pubdate": 1791628462,
+                "ctime": 1791628462,
+                "desc": "",
+                "state": 0,
+                "duration": 279,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3493272758520304,
+                  "name": "阿剀x_Acaix",
+                  "face": "https://i1.hdslb.com/bfs/face/cdf30cbc4a89508ae6ad85264462af10b6536db0.jpg"
+                },
+                "stat": {
+                  "aid": 117415916601749,
+                  "view": 28530,
+                  "danmaku": 401,
+                  "reply": 68,
+                  "fav": 405,
+                  "coin": 60,
+                  "share": 55,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 956,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 28530
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42622652063,
+                "page": 1,
+                "from": "vupload",
+                "part": "年轻人不要太气盛！但全员说话倒放",
+                "duration": 279,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3876,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1kDpg6tEVj",
+              "pages": [
+                {
+                  "cid": 42622652063,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "年轻人不要太气盛！但全员说话倒放",
+                  "duration": 279,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3876,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

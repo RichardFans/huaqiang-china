@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1td8C6UEGj",
+  "aid": 117136961834391,
+  "title": "那 个 傲 慢 的 郝 哥 想 弄 伤 华 强 的 鳞 片！",
+  "owner": {
+    "mid": 37439823,
+    "name": "Crazy-face"
+  },
+  "pubdate": "2026-08-22T03:13:19Z",
+  "duration_s": 151,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "guichu",
+  "form_status": "auto",
+  "form_evidence": "空格标题（鬼畜区命名文化特征，启发式，待复核）",
+  "tier": "rising",
+  "tier_basis": "播放 283,375 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 283375,
+      "like": 18166,
+      "coin": 601,
+      "favorite": 2457,
+      "share": 745,
+      "danmaku": 274,
+      "reply": 310
+    }
+  ],
+  "notes": ""
+}

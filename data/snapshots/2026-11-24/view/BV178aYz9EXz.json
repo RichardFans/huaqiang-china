@@ -1,0 +1,1172 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV178aYz9EXz",
+    "aid": 115152485679123,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/3250b3d7da01a61d01ef8d3f98dc55e871487d06.jpg",
+    "title": "华强买瓜疑似剧本废案流出",
+    "pubdate": 1757087694,
+    "ctime": 1757087508,
+    "desc": "华强买瓜疑似剧本废案流出",
+    "desc_v2": [
+      {
+        "raw_text": "华强买瓜疑似剧本废案流出",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 83,
+    "mission_id": 4045859,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2737214,
+      "name": "梦绕火焰船",
+      "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+    },
+    "stat": {
+      "aid": 115152485679123,
+      "view": 331281,
+      "danmaku": 282,
+      "reply": 248,
+      "favorite": 2132,
+      "coin": 203,
+      "share": 173,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 6471,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "作者声明：该视频使用人工智能合成技术",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 32186565758,
+    "dimension": {
+      "width": 3840,
+      "height": 2160,
+      "rotate": 0
+    },
+    "season_id": 6251701,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 32186565758,
+        "page": 1,
+        "from": "vupload",
+        "part": "华强买瓜疑似剧本废案流出",
+        "duration": 83,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n250905a22d0adz1ta8xl51s73q8rklg_firsti.jpg",
+        "ctime": 1757087508
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 6251701,
+      "title": "华强买瓜平行宇宙",
+      "cover": "https://archive.biliimg.com/bfs/archive/ce2d645fc430bb1d2bd3510e6470f271fc7d00e2.jpg",
+      "mid": 2737214,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 6251701,
+        "view": 364606,
+        "danmaku": 294,
+        "reply": 279,
+        "fav": 2323,
+        "coin": 223,
+        "share": 187,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 6827,
+        "vt": 0,
+        "vv": 364606
+      },
+      "ep_count": 8,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 6251701,
+          "id": 6912120,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 144531629,
+              "aid": 115123125553901,
+              "cid": 32072665713,
+              "title": "初音华强",
+              "attribute": 0,
+              "arc": {
+                "aid": 115123125553901,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/ce2d645fc430bb1d2bd3510e6470f271fc7d00e2.jpg",
+                "title": "初音华强",
+                "pubdate": 1756639757,
+                "ctime": 1756639757,
+                "desc": "",
+                "state": 0,
+                "duration": 124,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115123125553901,
+                  "view": 10944,
+                  "danmaku": 6,
+                  "reply": 11,
+                  "fav": 45,
+                  "coin": 6,
+                  "share": 7,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 116,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 10944
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32072665713,
+                "page": 1,
+                "from": "vupload",
+                "part": "初音华强",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Hka3zKEfZ",
+              "pages": [
+                {
+                  "cid": 32072665713,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "初音华强",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 144545890,
+              "aid": 115123461031731,
+              "cid": 32074630613,
+              "title": "像素华强",
+              "attribute": 0,
+              "arc": {
+                "aid": 115123461031731,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/a266be51b495b32398c6d3577edf2797ab722dfe.jpg",
+                "title": "像素华强",
+                "pubdate": 1756686900,
+                "ctime": 1756686900,
+                "desc": "",
+                "state": 0,
+                "duration": 372,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115123461031731,
+                  "view": 3303,
+                  "danmaku": 0,
+                  "reply": 2,
+                  "fav": 11,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 29,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3303
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32074630613,
+                "page": 1,
+                "from": "vupload",
+                "part": "v1",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1kta5zGEps",
+              "pages": [
+                {
+                  "cid": 32074630613,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "v1",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32074631675,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "v2",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32074632909,
+                  "page": 3,
+                  "from": "vupload",
+                  "part": "v3",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 144547390,
+              "aid": 115123494584623,
+              "cid": 32074761053,
+              "title": "乐高华强",
+              "attribute": 0,
+              "arc": {
+                "aid": 115123494584623,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/20d7c49d4a771c3a888d32b2aad63d7a2ab32c71.jpg",
+                "title": "乐高华强",
+                "pubdate": 1756714800,
+                "ctime": 1756714800,
+                "desc": "",
+                "state": 0,
+                "duration": 372,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115123494584623,
+                  "view": 7773,
+                  "danmaku": 3,
+                  "reply": 4,
+                  "fav": 72,
+                  "coin": 2,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 81,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 7773
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32074761053,
+                "page": 1,
+                "from": "vupload",
+                "part": "v1",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rha5zgEKM",
+              "pages": [
+                {
+                  "cid": 32074761053,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "v1",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32074761582,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "v2",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32074761902,
+                  "page": 3,
+                  "from": "vupload",
+                  "part": "v3",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 144548993,
+              "aid": 115123511429073,
+              "cid": 32074956869,
+              "title": "加勒比华强",
+              "attribute": 0,
+              "arc": {
+                "aid": 115123511429073,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/a030fb30b4b660c270043db9e49489b1186c4b01.jpg",
+                "title": "加勒比华强",
+                "pubdate": 1756774860,
+                "ctime": 1756774860,
+                "desc": "",
+                "state": 0,
+                "duration": 372,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115123511429073,
+                  "view": 2468,
+                  "danmaku": 0,
+                  "reply": 4,
+                  "fav": 15,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 30,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2468
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32074956869,
+                "page": 1,
+                "from": "vupload",
+                "part": "v1",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Xma5zbEtF",
+              "pages": [
+                {
+                  "cid": 32074956869,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "v1",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32074957466,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "v2",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32074958165,
+                  "page": 3,
+                  "from": "vupload",
+                  "part": "v3",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 144550490,
+              "aid": 115123544983658,
+              "cid": 32075025359,
+              "title": "我的世界华强",
+              "attribute": 0,
+              "arc": {
+                "aid": 115123544983658,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3037fe140fc44d666eb89c82502a1f178a0d4dec.jpg",
+                "title": "我的世界华强",
+                "pubdate": 1756800900,
+                "ctime": 1756800900,
+                "desc": "",
+                "state": 0,
+                "duration": 372,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115123544983658,
+                  "view": 2727,
+                  "danmaku": 0,
+                  "reply": 5,
+                  "fav": 20,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 23,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2727
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32075025359,
+                "page": 1,
+                "from": "vupload",
+                "part": "v1",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1DDa5z4Ea6",
+              "pages": [
+                {
+                  "cid": 32075025359,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "v1",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32075026087,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "v2",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32075088201,
+                  "page": 3,
+                  "from": "vupload",
+                  "part": "v3",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 144552053,
+              "aid": 115123578470669,
+              "cid": 32075157160,
+              "title": "油画华强",
+              "attribute": 0,
+              "arc": {
+                "aid": 115123578470669,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/954ca2d7a95db2e1545104331408631aec1c5490.jpg",
+                "title": "油画华强",
+                "pubdate": 1756945200,
+                "ctime": 1756945200,
+                "desc": "",
+                "state": 0,
+                "duration": 372,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115123578470669,
+                  "view": 2204,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 11,
+                  "coin": 2,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 20,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2204
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32075157160,
+                "page": 1,
+                "from": "vupload",
+                "part": "v1",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ira5zYEPw",
+              "pages": [
+                {
+                  "cid": 32075157160,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "v1",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32075220520,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "v2",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32075156988,
+                  "page": 3,
+                  "from": "vupload",
+                  "part": "v3",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 144552661,
+              "aid": 115123578537449,
+              "cid": 32075287087,
+              "title": "赛博朋克华强",
+              "attribute": 0,
+              "arc": {
+                "aid": 115123578537449,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/b054bcd5090eaade62382b82f85912bde7d4bb19.jpg",
+                "title": "赛博朋克华强",
+                "pubdate": 1756970400,
+                "ctime": 1756970400,
+                "desc": "",
+                "state": 0,
+                "duration": 372,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115123578537449,
+                  "view": 3906,
+                  "danmaku": 3,
+                  "reply": 5,
+                  "fav": 17,
+                  "coin": 6,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 57,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3906
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32075287087,
+                "page": 1,
+                "from": "vupload",
+                "part": "v1",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1dra5zYE3b",
+              "pages": [
+                {
+                  "cid": 32075287087,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "v1",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32075287714,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "v2",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 32075288375,
+                  "page": 3,
+                  "from": "vupload",
+                  "part": "v3",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 6251701,
+              "section_id": 6912120,
+              "id": 145417056,
+              "aid": 115152485679123,
+              "cid": 32186565758,
+              "title": "华强买瓜疑似剧本废案流出",
+              "attribute": 0,
+              "arc": {
+                "aid": 115152485679123,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/3250b3d7da01a61d01ef8d3f98dc55e871487d06.jpg",
+                "title": "华强买瓜疑似剧本废案流出",
+                "pubdate": 1757087694,
+                "ctime": 1757087694,
+                "desc": "",
+                "state": 0,
+                "duration": 83,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2737214,
+                  "name": "梦绕火焰船",
+                  "face": "https://i2.hdslb.com/bfs/face/37d01094256f1a92a946ea3df4bc3a49ec453246.jpg"
+                },
+                "stat": {
+                  "aid": 115152485679123,
+                  "view": 331281,
+                  "danmaku": 282,
+                  "reply": 248,
+                  "fav": 2132,
+                  "coin": 203,
+                  "share": 173,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 6471,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 331281
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32186565758,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜疑似剧本废案流出",
+                "duration": 83,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV178aYz9EXz",
+              "pages": [
+                {
+                  "cid": 32186565758,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜疑似剧本废案流出",
+                  "duration": 83,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

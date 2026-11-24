@@ -1,0 +1,50 @@
+{
+  "bvid": "BV1Fid2B6Eo6",
+  "aid": 116439985949662,
+  "title": "氪金买瓜",
+  "owner": {
+    "mid": 3966122,
+    "name": "一起座谈会"
+  },
+  "pubdate": "2026-04-21T01:03:42Z",
+  "duration_s": 238,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua",
+    "zhengfu-other"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）；检索词『征服 鬼畜』补全",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,131,668 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 2131668,
+      "like": 76007,
+      "coin": 8864,
+      "favorite": 17446,
+      "share": 8351,
+      "danmaku": 2086,
+      "reply": 3195
+    }
+  ],
+  "notes": ""
+}

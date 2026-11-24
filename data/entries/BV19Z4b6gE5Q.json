@@ -1,0 +1,49 @@
+{
+  "bvid": "BV19Z4b6gE5Q",
+  "aid": 117563338069989,
+  "title": "“你甚至不愿意叫我一声黑土！”",
+  "owner": {
+    "mid": 5878572,
+    "name": "核动力路灯"
+  },
+  "pubdate": "2026-11-05T10:28:12Z",
+  "duration_s": 187,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "仅检索词『宋老虎』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 266,968 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 266968,
+      "like": 9182,
+      "coin": 2106,
+      "favorite": 2378,
+      "share": 1278,
+      "danmaku": 250,
+      "reply": 361
+    }
+  ],
+  "notes": ""
+}

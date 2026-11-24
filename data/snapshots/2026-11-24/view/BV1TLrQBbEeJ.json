@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1TLrQBbEeJ",
+    "aid": 115911184875842,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c0c2dba6d796812e9bca116826247724c1557d23.jpg",
+    "title": "【文言文】宋老虎最有文化的一集，全程文言文谈判",
+    "pubdate": 1768701600,
+    "ctime": 1768664504,
+    "desc": "华强市瓜遭留难，谁知巨恶隐其间。且看其辞锋犀利，独战群贤！",
+    "desc_v2": [
+      {
+        "raw_text": "华强市瓜遭留难，谁知巨恶隐其间。且看其辞锋犀利，独战群贤！",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 220,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 274342732,
+      "name": "Legend黯色",
+      "face": "https://i1.hdslb.com/bfs/face/23c94351489cd71e846426bd2f8e9187e37089dd.jpg"
+    },
+    "stat": {
+      "aid": 115911184875842,
+      "view": 216174,
+      "danmaku": 565,
+      "reply": 397,
+      "favorite": 2623,
+      "coin": 1559,
+      "share": 798,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 7814,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 35450192877,
+    "dimension": {
+      "width": 2160,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 35450192877,
+        "page": 1,
+        "from": "vupload",
+        "part": "【文言文】年少人慎勿逞锋盛！",
+        "duration": 220,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2160,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000a1jhw26w4hpj2txan55962hrib_firsti.jpg",
+        "ctime": 1768665205
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

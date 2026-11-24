@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1i94y1S7yW",
+  "aid": 342068026,
+  "title": "⚡️电 摇 刘 华 强⚡️",
+  "owner": {
+    "mid": 27089324,
+    "name": "青铃荼阳"
+  },
+  "pubdate": "2022-05-31T05:07:16Z",
+  "duration_s": 81,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "guichu",
+  "form_status": "auto",
+  "form_evidence": "空格标题（鬼畜区命名文化特征，启发式，待复核）",
+  "tier": "hot",
+  "tier_basis": "播放 5,562,459 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 5562459,
+      "like": 301560,
+      "coin": 93822,
+      "favorite": 123460,
+      "share": 40319,
+      "danmaku": 9491,
+      "reply": 3353
+    }
+  ],
+  "notes": ""
+}

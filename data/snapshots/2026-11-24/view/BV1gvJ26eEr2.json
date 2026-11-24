@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1gvJ26eEr2",
+    "aid": 117445310290838,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2006,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/f8713309ae235d425979e67f49755fa125c6bc3a.jpg",
+    "title": "华强买瓜成功版",
+    "pubdate": 1792073436,
+    "ctime": 1792073436,
+    "desc": "第一次做，不大会做，希望大家多多关注点赞。三连私信我，发我整理的人物声音参考素材。",
+    "desc_v2": [
+      {
+        "raw_text": "第一次做，不大会做，希望大家多多关注点赞。三连私信我，发我整理的人物声音参考素材。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 216,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 36615078,
+      "name": "专注B站20年",
+      "face": "http://i0.hdslb.com/bfs/face/4ce1400ccb405b03ea256fef34cfbf726c408501.jpg"
+    },
+    "stat": {
+      "aid": 117445310290838,
+      "view": 5016,
+      "danmaku": 17,
+      "reply": 7,
+      "favorite": 40,
+      "coin": 15,
+      "share": 5,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 146,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 42770303861,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 42770303861,
+        "page": 1,
+        "from": "vupload",
+        "part": "华强买瓜成功版",
+        "duration": 216,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002fj8oeoi7ws0i2gppczlc4rgl8b_firsti.jpg",
+        "ctime": 1792073436,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

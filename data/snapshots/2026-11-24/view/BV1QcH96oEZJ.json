@@ -1,0 +1,375 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1QcH96oEZJ",
+    "aid": 117405414068328,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c7e1a2044df59bf7786f6d90b1a87bd5cbcca187.jpg",
+    "title": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段",
+    "pubdate": 1791464581,
+    "ctime": 1791464581,
+    "desc": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段，华强买郝瓜。",
+    "desc_v2": [
+      {
+        "raw_text": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段，华强买郝瓜。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 81,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3747560734854852,
+      "name": "我就是2Bの",
+      "face": "https://i0.hdslb.com/bfs/face/5b9834d2a9bbb6e7c3ba0ba5dbb165768667501c.jpg"
+    },
+    "stat": {
+      "aid": 117405414068328,
+      "view": 3575,
+      "danmaku": 41,
+      "reply": 5,
+      "favorite": 24,
+      "coin": 16,
+      "share": 4,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 89,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 42570351456,
+    "dimension": {
+      "width": 1870,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9239840,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 42570351456,
+        "page": 1,
+        "from": "vupload",
+        "part": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段",
+        "duration": 81,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1870,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000023tsp1ob1w54e2qfhpqmyhnktlb_firsti.jpg",
+        "ctime": 1791464581,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9239840,
+      "title": "绿皮书之华强",
+      "cover": "https://archive.biliimg.com/bfs/archive/4ee046dbdbff21e6bcda52512f6a105544912870.jpg",
+      "mid": 3747560734854852,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9239840,
+        "view": 55941,
+        "danmaku": 212,
+        "reply": 115,
+        "fav": 722,
+        "coin": 524,
+        "share": 354,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 2202,
+        "vt": 0,
+        "vv": 55941
+      },
+      "ep_count": 2,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9239840,
+          "id": 10330809,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9239840,
+              "section_id": 10330809,
+              "id": 225779765,
+              "aid": 117380281801471,
+              "cid": 42444259672,
+              "title": "《绿皮书之华强与宋老虎》经典片段",
+              "attribute": 0,
+              "arc": {
+                "aid": 117380281801471,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/22c8f898f4e95dc949ac026ca49c4b40a63c6f00.jpg",
+                "title": "《绿皮书之华强与宋老虎》经典片段",
+                "pubdate": 1791081235,
+                "ctime": 1791081235,
+                "desc": "",
+                "state": 0,
+                "duration": 108,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3747560734854852,
+                  "name": "我就是2Bの",
+                  "face": "https://i0.hdslb.com/bfs/face/5b9834d2a9bbb6e7c3ba0ba5dbb165768667501c.jpg"
+                },
+                "stat": {
+                  "aid": 117380281801471,
+                  "view": 52367,
+                  "danmaku": 171,
+                  "reply": 110,
+                  "fav": 698,
+                  "coin": 508,
+                  "share": 350,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2113,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 52367
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42444259672,
+                "page": 1,
+                "from": "vupload",
+                "part": "《绿皮书之华强与宋老虎》经典片段",
+                "duration": 108,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 4320,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1xbHz6GEKq",
+              "pages": [
+                {
+                  "cid": 42444259672,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《绿皮书之华强与宋老虎》经典片段",
+                  "duration": 108,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 4320,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9239840,
+              "section_id": 10330809,
+              "id": 226587119,
+              "aid": 117405414068328,
+              "cid": 42570351456,
+              "title": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段",
+              "attribute": 0,
+              "arc": {
+                "aid": 117405414068328,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c7e1a2044df59bf7786f6d90b1a87bd5cbcca187.jpg",
+                "title": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段",
+                "pubdate": 1791464581,
+                "ctime": 1791464581,
+                "desc": "",
+                "state": 0,
+                "duration": 81,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3747560734854852,
+                  "name": "我就是2Bの",
+                  "face": "https://i0.hdslb.com/bfs/face/5b9834d2a9bbb6e7c3ba0ba5dbb165768667501c.jpg"
+                },
+                "stat": {
+                  "aid": 117405414068328,
+                  "view": 3575,
+                  "danmaku": 41,
+                  "reply": 5,
+                  "fav": 24,
+                  "coin": 16,
+                  "share": 4,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 89,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3575
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42570351456,
+                "page": 1,
+                "from": "vupload",
+                "part": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段",
+                "duration": 81,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1870,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1QcH96oEZJ",
+              "pages": [
+                {
+                  "cid": 42570351456,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《瓜皮书之华强与宋老虎——华强买郝瓜》经典片段",
+                  "duration": 81,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1870,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

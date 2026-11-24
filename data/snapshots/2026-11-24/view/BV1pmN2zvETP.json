@@ -1,0 +1,142 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1pmN2zvETP",
+    "aid": 114722653408921,
+    "videos": 2,
+    "tid": 182,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/7bb718253ef17b623fb2360218d98c3091434fed.jpg",
+    "title": "一口气看完【征服】",
+    "pubdate": 1750554000,
+    "ctime": 1750531920,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 6802,
+    "mission_id": 4040352,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 613313508,
+      "name": "波霸奔了",
+      "face": "https://i0.hdslb.com/bfs/face/a01858b6258b43500d644b6d91b58f715ba2e72d.jpg"
+    },
+    "stat": {
+      "aid": 114722653408921,
+      "view": 9858,
+      "danmaku": 9,
+      "reply": 2,
+      "favorite": 71,
+      "coin": 16,
+      "share": 3,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 68,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 30627268223,
+    "dimension": {
+      "width": 1728,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 30627268223,
+        "page": 1,
+        "from": "vupload",
+        "part": "番外",
+        "duration": 45,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1728,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n250622sa3l85htfwbjl651qs3igurao_firsti.jpg",
+        "ctime": 1750531920
+      },
+      {
+        "cid": 30627268231,
+        "page": 2,
+        "from": "vupload",
+        "part": "征服",
+        "duration": 6757,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1728,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n250622sa3vkrxpft2m0111wgluzg7rn_firsti.jpg",
+        "ctime": 1750531920
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 0,
+    "is_view_self": false
+  }
+}

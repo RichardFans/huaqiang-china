@@ -1,0 +1,49 @@
+{
+  "bvid": "BV149ocBsEH1",
+  "aid": 116432755037613,
+  "title": "他说的全是我的词儿啊！！！",
+  "owner": {
+    "mid": 10901294,
+    "name": "怪盗剧场"
+  },
+  "pubdate": "2026-04-20T00:05:00Z",
+  "duration_s": 123,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 4,622,351 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 4622351,
+      "like": 40377,
+      "coin": 1939,
+      "favorite": 29165,
+      "share": 772,
+      "danmaku": 432,
+      "reply": 308
+    }
+  ],
+  "notes": ""
+}

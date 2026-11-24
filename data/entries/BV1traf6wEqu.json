@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1traf6wEqu",
+  "aid": 117360316975990,
+  "title": "华强买瓜，但弹棉花版",
+  "owner": {
+    "mid": 2115443931,
+    "name": "猫屎花生"
+  },
+  "pubdate": "2026-09-30T13:57:57Z",
+  "duration_s": 364,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）；检索词『华强买瓜』补全",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 423,712 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 423712,
+      "like": 57881,
+      "coin": 37872,
+      "favorite": 17088,
+      "share": 4892,
+      "danmaku": 1911,
+      "reply": 1884
+    }
+  ],
+  "notes": ""
+}

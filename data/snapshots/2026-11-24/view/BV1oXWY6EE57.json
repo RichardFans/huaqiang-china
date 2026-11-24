@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1oXWY6EE57",
+    "aid": 117606321232610,
+    "videos": 1,
+    "tid": 239,
+    "tid_v2": 2087,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/6b57c2bfbd17cebe7036fb431aff1279105fa0c7.jpg",
+    "title": "史上最惨“双11”，2026数据大跌眼镜，购物节彻底凉凉了？！",
+    "pubdate": 1794530298,
+    "ctime": 1794530299,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 532,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 385921976,
+      "name": "MYS同学",
+      "face": "https://i2.hdslb.com/bfs/face/115808b2ab3bd838fc7a57ef09498d2198c15f3f.jpg"
+    },
+    "stat": {
+      "aid": 117606321232610,
+      "view": 227632,
+      "danmaku": 494,
+      "reply": 1922,
+      "favorite": 659,
+      "coin": 59,
+      "share": 240,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1666,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43556736081,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": true,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43556736081,
+        "page": 1,
+        "from": "vupload",
+        "part": "史上最惨“双11”，2026数据大跌眼镜，购物节彻底凉凉了？！",
+        "duration": 532,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000ng2i0fo5ds4w2ims9acpnfhtab_firsti.jpg",
+        "ctime": 1794530299
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

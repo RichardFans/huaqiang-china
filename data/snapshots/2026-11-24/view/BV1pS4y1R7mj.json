@@ -1,0 +1,147 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1pS4y1R7mj",
+    "aid": 721879271,
+    "videos": 1,
+    "tid": 22,
+    "tid_v2": 2059,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/334182454ff15ae3c0fb437bbdb53e63caabe565.jpg",
+    "title": "【全站最雅】你唱歌剧是吧！",
+    "pubdate": 1637903395,
+    "ctime": 1637903395,
+    "desc": "BGM：快给大忙人让路\n音乐来源：https://www.youtube.com/watch?v=ooejUb1GRXo\n画面素材：https://www.youtube.com/watch?v=6sAT3iEqd0M\n抠像素材：BV1Fw411R7zm\n背景素材：https://www.youtube.com/watch?v=szl4vQ0k2TA\n听歌剧，这多是一件美事啊！\n通过必剪客户端投稿。必剪有进度条关键帧小贴纸各种功能，适合手机整活",
+    "desc_v2": [
+      {
+        "raw_text": "BGM：快给大忙人让路\n音乐来源：https://www.youtube.com/watch?v=ooejUb1GRXo\n画面素材：https://www.youtube.com/watch?v=6sAT3iEqd0M\n抠像素材：BV1Fw411R7zm\n背景素材：https://www.youtube.com/watch?v=szl4vQ0k2TA\n听歌剧，这多是一件美事啊！\n通过必剪客户端投稿。必剪有进度条关键帧小贴纸各种功能，适合手机整活",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 94,
+    "mission_id": 222165,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 20806597,
+      "name": "Ximenbao",
+      "face": "https://i1.hdslb.com/bfs/face/5950db4403c82cd0af55dcd23af156cb635f0489.jpg"
+    },
+    "stat": {
+      "aid": 721879271,
+      "view": 2867927,
+      "danmaku": 2739,
+      "reply": 3107,
+      "favorite": 93221,
+      "coin": 94993,
+      "share": 40728,
+      "now_rank": 0,
+      "his_rank": 33,
+      "like": 226387,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "买瓜时代需要一个体面的谢幕！！",
+    "cid": 449276259,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 449276259,
+        "page": 1,
+        "from": "vupload",
+        "part": "try3",
+        "duration": 94,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211126qn3g0tx8su134pi2ccku6cuho_firsti.jpg",
+        "ctime": 1637904274
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 721879271,
+          "type": 3,
+          "desc": "全站排行榜最高第33名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 721879271,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 721879271,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

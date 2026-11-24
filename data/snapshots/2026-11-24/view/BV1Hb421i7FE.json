@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Hb421i7FE",
+    "aid": 1805307653,
+    "videos": 1,
+    "tid": 29,
+    "tid_v2": 2014,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/3a5733d9b304f63510e5123a6fd7a9086f532500.png",
+    "title": "瓜摊老板李广奇年轻时唱齐秦的情歌求爱(迫真)",
+    "pubdate": 1717470072,
+    "ctime": 1717470072,
+    "desc": "不是瓜摊老板啦，只是他的上古仿生人而已😭\n素材来自2005年河北卫视《综艺黄金档》",
+    "desc_v2": [
+      {
+        "raw_text": "不是瓜摊老板啦，只是他的上古仿生人而已😭\n素材来自2005年河北卫视《综艺黄金档》",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 152,
+    "mission_id": 951982,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 29648603,
+      "name": "岁月炒冷饭",
+      "face": "https://i2.hdslb.com/bfs/face/83d7b9b2b0637a2ba7c9e5cda94857cdc15e525f.jpg"
+    },
+    "stat": {
+      "aid": 1805307653,
+      "view": 84859,
+      "danmaku": 189,
+      "reply": 253,
+      "favorite": 577,
+      "coin": 53,
+      "share": 133,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1344,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1571044656,
+    "dimension": {
+      "width": 1440,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1571044656,
+        "page": 1,
+        "from": "vupload",
+        "part": "studio_video_1717469600517.mp4",
+        "duration": 152,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1440,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n240604sa290n9da2fnczq218mpbgsqm_firsti.jpg",
+        "ctime": 1717470072
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

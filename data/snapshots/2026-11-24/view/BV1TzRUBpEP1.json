@@ -1,0 +1,495 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1TzRUBpEP1",
+    "aid": 116541135784923,
+    "videos": 1,
+    "tid": 138,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b58c8df3b31b20b4ac7776bbd74b7c10ce05bb86.jpg",
+    "title": "百万英镑买瓜（国语版）",
+    "pubdate": 1778288400,
+    "ctime": 1778276844,
+    "desc": "十九世纪的英国伴随资本主义经济的发展，西瓜已经成了普通民众不敢消费的稀罕之物，然而在这个物欲横流的年代，有一位来自神秘东方的穷小子想要凭借一己之力做出改变......",
+    "desc_v2": [
+      {
+        "raw_text": "十九世纪的英国伴随资本主义经济的发展，西瓜已经成了普通民众不敢消费的稀罕之物，然而在这个物欲横流的年代，有一位来自神秘东方的穷小子想要凭借一己之力做出改变......",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 325,
+    "mission_id": 4065841,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546626771650827,
+      "name": "司马拆迁",
+      "face": "https://i0.hdslb.com/bfs/face/4c6ee28893cf825b8bfe27ffae6b00a803ec4e93.jpg"
+    },
+    "stat": {
+      "aid": 116541135784923,
+      "view": 3791038,
+      "danmaku": 6446,
+      "reply": 8112,
+      "favorite": 76722,
+      "coin": 53156,
+      "share": 41043,
+      "now_rank": 0,
+      "his_rank": 13,
+      "like": 272668,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "该内容疑似使用AI技术合成，请谨慎甄别",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 38199429316,
+    "dimension": {
+      "width": 2880,
+      "height": 2160,
+      "rotate": 0
+    },
+    "season_id": 8364829,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 38199429316,
+        "page": 1,
+        "from": "vupload",
+        "part": "百万英镑买瓜（国语版）",
+        "duration": 325,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2880,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001t3jky7a5nkah2bttrxopcf1b8b_firsti.jpg",
+        "ctime": 1778276844,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8364829,
+      "title": "让瓜蛋飞",
+      "cover": "https://archive.biliimg.com/bfs/archive/6b1b4ced1490725ede7ee924386577664af3d0cb.jpg",
+      "mid": 3546626771650827,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8364829,
+        "view": 4047172,
+        "danmaku": 7493,
+        "reply": 8815,
+        "fav": 81955,
+        "coin": 56749,
+        "share": 44548,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 291061,
+        "vt": 0,
+        "vv": 4047172
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8364829,
+          "id": 9300053,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8364829,
+              "section_id": 9300053,
+              "id": 202764824,
+              "aid": 116541135784923,
+              "cid": 38199429316,
+              "title": "百万英镑买瓜（国语版）",
+              "attribute": 0,
+              "arc": {
+                "aid": 116541135784923,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/b58c8df3b31b20b4ac7776bbd74b7c10ce05bb86.jpg",
+                "title": "百万英镑买瓜（国语版）",
+                "pubdate": 1778288400,
+                "ctime": 1778288400,
+                "desc": "",
+                "state": 0,
+                "duration": 325,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546626771650827,
+                  "name": "司马拆迁",
+                  "face": "https://i0.hdslb.com/bfs/face/4c6ee28893cf825b8bfe27ffae6b00a803ec4e93.jpg"
+                },
+                "stat": {
+                  "aid": 116541135784923,
+                  "view": 3791038,
+                  "danmaku": 6446,
+                  "reply": 8112,
+                  "fav": 76722,
+                  "coin": 53156,
+                  "share": 41043,
+                  "now_rank": 0,
+                  "his_rank": 13,
+                  "like": 272668,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3791038
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38199429316,
+                "page": 1,
+                "from": "vupload",
+                "part": "百万英镑买瓜（国语版）",
+                "duration": 325,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2880,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1TzRUBpEP1",
+              "pages": [
+                {
+                  "cid": 38199429316,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "百万英镑买瓜（国语版）",
+                  "duration": 325,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2880,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8364829,
+              "section_id": 9300053,
+              "id": 204549385,
+              "aid": 116814369588150,
+              "cid": 39415319939,
+              "title": "买瓜大电影：让瓜蛋飞【AI全民制作人】",
+              "attribute": 0,
+              "arc": {
+                "aid": 116814369588150,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/2d0c9015f57faca9e7bd468031f42867b24c5b5c.jpg",
+                "title": "买瓜大电影：让瓜蛋飞【AI全民制作人】",
+                "pubdate": 1782468000,
+                "ctime": 1782468000,
+                "desc": "",
+                "state": 0,
+                "duration": 439,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546626771650827,
+                  "name": "司马拆迁",
+                  "face": "https://i0.hdslb.com/bfs/face/4c6ee28893cf825b8bfe27ffae6b00a803ec4e93.jpg"
+                },
+                "stat": {
+                  "aid": 116814369588150,
+                  "view": 49425,
+                  "danmaku": 179,
+                  "reply": 60,
+                  "fav": 1048,
+                  "coin": 444,
+                  "share": 116,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2515,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 49425
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39415319939,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜大电影：让瓜蛋飞【AI全民制作人】",
+                "duration": 439,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2538,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV15G7q6rEEe",
+              "pages": [
+                {
+                  "cid": 39415319939,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜大电影：让瓜蛋飞【AI全民制作人】",
+                  "duration": 439,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2538,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8364829,
+              "section_id": 9300053,
+              "id": 202764909,
+              "aid": 116487113147583,
+              "cid": 37941742389,
+              "title": "《新三国买瓜》",
+              "attribute": 0,
+              "arc": {
+                "aid": 116487113147583,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/8f408726065d910ca11b6947cc699501843fa676.jpg",
+                "title": "《新三国买瓜》",
+                "pubdate": 1777452830,
+                "ctime": 1777452830,
+                "desc": "",
+                "state": 0,
+                "duration": 211,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546626771650827,
+                  "name": "司马拆迁",
+                  "face": "https://i0.hdslb.com/bfs/face/4c6ee28893cf825b8bfe27ffae6b00a803ec4e93.jpg"
+                },
+                "stat": {
+                  "aid": 116487113147583,
+                  "view": 206709,
+                  "danmaku": 868,
+                  "reply": 643,
+                  "fav": 4185,
+                  "coin": 3149,
+                  "share": 3389,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 15878,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 206709
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37941742389,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜2",
+                "duration": 211,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cM9QB7ENd",
+              "pages": [
+                {
+                  "cid": 37941742389,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜2",
+                  "duration": 211,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 116541135784923,
+          "type": 3,
+          "desc": "全站排行榜最高第13名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 116541135784923,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

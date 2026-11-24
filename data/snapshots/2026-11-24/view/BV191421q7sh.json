@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV191421q7sh",
+    "aid": 1554622213,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2088,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/5338c72185510542496146b69e3c37914a1c6e1e.jpg",
+    "title": "突发 电视剧征服演员宋老虎大哥，仍在抢救中，…………",
+    "pubdate": 1715854382,
+    "ctime": 1715854277,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 73,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1928240602,
+      "name": "袏祐馮緣",
+      "face": "https://i1.hdslb.com/bfs/face/3ed7489150c1536519c5eefd17c76e90b9ac0591.jpg"
+    },
+    "stat": {
+      "aid": 1554622213,
+      "view": 110380,
+      "danmaku": 172,
+      "reply": 304,
+      "favorite": 536,
+      "coin": 113,
+      "share": 190,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 5749,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1547499482,
+    "dimension": {
+      "width": 1080,
+      "height": 2160,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1547499482,
+        "page": 1,
+        "from": "vupload",
+        "part": "突发 电视剧征服演员宋老虎大哥，仍在抢救中，…………",
+        "duration": 73,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n240516samrgqktyklc293l6zx07mlct_firsti.jpg",
+        "ctime": 1715854277
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

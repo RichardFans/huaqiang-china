@@ -1,0 +1,9 @@
+{
+  "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%AE%8B%E8%80%81%E8%99%8E&order=click&page=1",
+  "captured_at": "2026-11-24T02:12:07+00:00",
+  "sha256": "80ec08f4c9f9c121d475045b62b24e1ef017cfd2a77495b76e6f2040d5dea84d",
+  "bytes": 135597,
+  "items_parsed": 72,
+  "numResults_total": 668,
+  "note": "原始 HTML 不入库（ADR-0002），仅留哈希与解析计数"
+}

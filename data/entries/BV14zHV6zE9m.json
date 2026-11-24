@@ -1,0 +1,49 @@
+{
+  "bvid": "BV14zHV6zE9m",
+  "aid": 117501463631637,
+  "title": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+  "owner": {
+    "mid": 3546717408463187,
+    "name": "二哥他怕痒"
+  },
+  "pubdate": "2026-10-25T12:09:34Z",
+  "duration_s": 120,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "ai-cover",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI+声音/音乐关键词：AI+MV",
+  "tier": "hot",
+  "tier_basis": "播放 2,883,496 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 2883496,
+      "like": 54958,
+      "coin": 11416,
+      "favorite": 18551,
+      "share": 19307,
+      "danmaku": 1571,
+      "reply": 6132
+    }
+  ],
+  "notes": ""
+}
