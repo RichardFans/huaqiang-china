@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV164eu6LEPr",
+    "aid": 117283896759615,
+    "videos": 1,
+    "tid": 182,
+    "tid_v2": 2006,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/e103864e85b1f318990f4e9ca4703f4276b9ce63.jpg",
+    "title": "Reaction《华强见宋老虎》：AI重制华强买瓜，从水果摊一路蹦进了夜店",
+    "pubdate": 1789646400,
+    "ctime": 1789610319,
+    "desc": "这瓜保熟吗？\n不清楚，但它应该很会蹦迪。\n当华强买瓜遇上AI Disco，经典名场面从水果摊一路蹦进夜店。\n你给这版“华强Disco”打几分？评论区交片，我们替你先看！",
+    "desc_v2": [
+      {
+        "raw_text": "这瓜保熟吗？\n不清楚，但它应该很会蹦迪。\n当华强买瓜遇上AI Disco，经典名场面从水果摊一路蹦进夜店。\n你给这版“华强Disco”打几分？评论区交片，我们替你先看！",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 408,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 522121570,
+      "name": "即兴加班",
+      "face": "https://i1.hdslb.com/bfs/face/7bbee8fe358950e1a0d36e3a615b2abe23699e50.jpg"
+    },
+    "stat": {
+      "aid": 117283896759615,
+      "view": 40046,
+      "danmaku": 20,
+      "reply": 38,
+      "favorite": 65,
+      "coin": 38,
+      "share": 2,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 280,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "个人观点，仅供参考",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 41959624504,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 41959624504,
+        "page": 1,
+        "from": "vupload",
+        "part": "Reaction《华强见宋老虎》：AI重制华强买瓜，从水果摊一路蹦进了夜店",
+        "duration": 408,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003f1e665fi509g2575icfkujpx7b_firsti.jpg",
+        "ctime": 1789610319,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

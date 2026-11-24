@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1bzsw6DEvd",
+    "aid": 117624524511865,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/fff8569b8071d8fd48c5cada5116311efb695038.jpg",
+    "title": "《征服》里刘华强让封彪拿枪指着自己脑袋，如果封彪真开枪了怎…",
+    "pubdate": 1794807975,
+    "ctime": 1794807975,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 165,
+    "mission_id": 4071655,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2023165419,
+      "name": "芋泥波波818",
+      "face": "https://i0.hdslb.com/bfs/face/c83427ef8c596af63856e1048faaab73d75952de.jpg"
+    },
+    "stat": {
+      "aid": 117624524511865,
+      "view": 8303,
+      "danmaku": 9,
+      "reply": 14,
+      "favorite": 5,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 62,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43647176498,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43647176498,
+        "page": 1,
+        "from": "vupload",
+        "part": "studio_video_1794807842230.mp4",
+        "duration": 165,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003j74d9xrwn9v72uveu80tld2jwb_firsti.jpg",
+        "ctime": 1794807975,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

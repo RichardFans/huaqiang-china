@@ -8,6 +8,15 @@
 > Huaqiang's potential. This archive keeps the ledger.
 > **中文 → [README.md](README.md)** ｜ 🌐 Site: [richardfans.github.io/huaqiang-china](https://richardfans.github.io/huaqiang-china/)
 
+[![catalogued](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fcount.json)](https://richardfans.github.io/huaqiang-china/)
+[![development](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fdevelopment.json)](docs/decisions/0009-development-metric.md)
+[![ci](https://img.shields.io/github/actions/workflow/status/RichardFans/huaqiang-china/ci.yml?branch=main)](https://github.com/RichardFans/huaqiang-china/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/code-MIT-content-CC_BY--SA_4.0)](LICENSE.content)
+
+<p align="center">
+  <img src="docs/assets/ignition-timeline.svg" alt="Monthly posting density of Conquest remix works, ignition window of July 2021 highlighted" width="880">
+</p>
+
 ## What is this?
 
 In November 2026, the author ran into yet another new watermelon-scene remix on
@@ -30,7 +39,8 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 [takedown](.github/ISSUE_TEMPLATE/takedown.yml).
 
 <!-- zfq:generated:start -->
-**171 derivative works catalogued** (Hall 17 · Hot 128 · Rising 26 · Seed 0) ｜ Human-reviewed 0 · Pending 171 (⚠) ｜ Data snapshot 2026-11-24 (UTC)
+**196 derivative works catalogued** (Hall 17 · Hot 133 · Rising 46 · Seed 0) ｜ Human-reviewed 0 · Pending 196 (⚠) ｜ Data snapshot 2026-11-24 (UTC)
+> Folk wisdom: humanity has unlocked less than 0.1% of Huaqiang's potential. This archive tried to compute a reproducible version and hit a ceiling: search exposes at most 1,000 results per keyword (5 keywords measured, all capped). The denominator is unknowable; the ledger holds 196 entries and keeps counting ([ADR-0009](docs/decisions/0009-development-metric.md))
 
 ## 🏆 Hall of Fame (≥ 10M views, 17 works)
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
@@ -67,7 +77,7 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 | 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,170,101 | 64,703 | Fan edit | Watermelon scene |
 | 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,465 | 2,253,931 | Fan edit | Watermelon scene |
 
-→ Full list (98): [docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/maigua/)
+→ Full list (112): [docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/maigua/)
 
 ## 🍜 Song Laohu’s Banquet · Top 10
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
@@ -83,7 +93,7 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 | 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | [乌贼酱](https://space.bilibili.com/242014) | 2026-07 | 2,625,301 | 21,950 | Fan edit | Banquet scene |
 | 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 2,535,746 | 22,740 | AI (other) | Banquet scene |
 
-→ Full list (38): [docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
+→ Full list (51): [docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
 
 ## 🔪 Feng Biao Scenes · all 7
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
@@ -100,14 +110,21 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 | Year | Works | Forms | Top work |
 |---|---|---|---|
 | 2020 | 1 | Fan edit×1 | [电视剧《征服》中那些黑老大们的原型，封彪真的下跪叫爷爷了吗？](https://www.bilibili.com/video/BV1Af4y1d7fv) |
-| 2021 | 59 | Fan edit×53 · Guichu×6 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) |
+| 2021 | 60 | Fan edit×54 · Guichu×6 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) |
 | 2022 | 16 | Fan edit×13 · Guichu×3 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) |
-| 2023 | 12 | Fan edit×12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) |
+| 2023 | 14 | Fan edit×14 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) |
 | 2024 | 8 | Fan edit×8 | [【梗百科】扣税“国王”是啥梗？听好了！乡巴佬？！！](https://www.bilibili.com/video/BV1fJ4m1e7Gv) |
 | 2025 | 7 | Fan edit×7 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) |
-| 2026 | 68 | Fan edit×60 · AI cover×3 · Guichu×3 · AI (other)×2 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) |
+| 2026 | 90 | Fan edit×73 · AI cover×8 · Guichu×6 · AI (other)×3 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) |
 
-> First-hand pubdates already show the **ignition window of 2021-07-16–19** (hall-of-fame works clustered within four days); the 2026 sample includes works carrying Bilibili's official “AI-synthesized” label. Staging conclusions await deeper pubdate paging: [chronicle draft](reports/chronicle-draft.md) · [methodology](docs/methodology.md). ⚠ = pending human review ([ADR-0006](docs/decisions/0006-review-gate.md)).
+> First-hand pubdates already show the **ignition window of 2021-07-16 to 19** (hall-of-fame works clustered within four days); the 2026 sample includes works carrying Bilibili's official “AI-synthesized” label. Staging conclusions await deeper pubdate paging: [chronicle draft](reports/chronicle-draft.md) · [methodology](docs/methodology.md). ⚠ = pending human review ([ADR-0006](docs/decisions/0006-review-gate.md)).
+
+## 🕸 Creator constellation map
+137 creators and 196 catalogued works form 126 disconnected creative units; 26 creators have two or more catalogued works. Dots are works (size follows views, colour is the scene), diamonds are creators, dashed lines are platform-labelled collaborations (参演 4、后期 2、文案 2、剪辑 1、赞助商 1、配音 1).
+
+<p align="center"><img src="docs/assets/creator-map.svg" alt="Creator constellation map: 137 creators, 196 works, 126 units, coloured by scene" width="880"></p>
+
+→ Filterable, hoverable version: [the graph page](https://richardfans.github.io/huaqiang-china/graph/). Every edge comes from a deterministic field and carries its evidence ([ADR-0008](docs/decisions/0008-knowledge-graph.md)).
 <!-- zfq:generated:end -->
 
 ## A very short cultural guide

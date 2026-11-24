@@ -1,0 +1,138 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1pfynzbEPW",
+    "aid": 117664806603164,
+    "videos": 2,
+    "tid": 208,
+    "tid_v2": 2085,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/24f612eaf5efbc99535c5ed1d1d28a26fd6cc497.jpg",
+    "title": "华强买瓜的生词你掌握了多少？",
+    "pubdate": 1795422655,
+    "ctime": 1795422656,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 432,
+    "mission_id": 4072014,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3691010242644135,
+      "name": "词情词景播放器",
+      "face": "https://i0.hdslb.com/bfs/face/eb6c42473c505141e51e3ee96bb5b9fdeb676d3e.jpg"
+    },
+    "stat": {
+      "aid": 117664806603164,
+      "view": 53,
+      "danmaku": 0,
+      "reply": 0,
+      "favorite": 2,
+      "coin": 2,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43854334493,
+    "dimension": {
+      "width": 1798,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43854334493,
+        "page": 1,
+        "from": "vupload",
+        "part": "华强买瓜的生词你掌握了多少？",
+        "duration": 307,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1798,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000lhi0jc152s8g28g2mpbrc07hdb_firsti.jpg",
+        "ctime": 1795422656,
+        "asr_language": "eng"
+      },
+      {
+        "cid": 43855250440,
+        "page": 2,
+        "from": "vupload",
+        "part": "华强买瓜英文纯享版",
+        "duration": 125,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1350,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000004vefwd8o602k2pr04qu8nq5tpb_firsti.jpg",
+        "ctime": 1795424330,
+        "asr_language": "eng"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 0,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1MQsh6KEkn",
+    "aid": 117642526525973,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i2.hdslb.com/bfs/archive/1402c8ef6b19d871cf61d8f611591ecc84f2b617.jpg",
+    "title": "🍉恭 喜 瓜 财🍉",
+    "pubdate": 1795082538,
+    "ctime": 1795082538,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 107,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 472004324,
+      "name": "摄影大师冠西",
+      "face": "https://i2.hdslb.com/bfs/face/b19ce507f77aac031ddd8161d1143d29e000479c.jpg"
+    },
+    "stat": {
+      "aid": 117642526525973,
+      "view": 2619,
+      "danmaku": 69,
+      "reply": 32,
+      "favorite": 135,
+      "coin": 46,
+      "share": 19,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 207,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43738336037,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 4385937,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43738336037,
+        "page": 1,
+        "from": "vupload",
+        "part": "🍉恭 喜 瓜 财🍉",
+        "duration": 107,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002qld53flj0a322hfywyyz6dm25b_firsti.jpg",
+        "ctime": 1795082538
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 4385937,
+      "title": "瓜霸",
+      "cover": "https://archive.biliimg.com/bfs/archive/6c13cd105ee0562a44185b9ef1fe7ea9c6e060ee.jpg",
+      "mid": 472004324,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 4385937,
+        "view": 240384,
+        "danmaku": 682,
+        "reply": 1008,
+        "fav": 5265,
+        "coin": 5597,
+        "share": 2082,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 14747,
+        "vt": 0,
+        "vv": 240384
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 4385937,
+          "id": 4878823,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 4385937,
+              "section_id": 4878823,
+              "id": 198613956,
+              "aid": 116658056202340,
+              "cid": 38702680017,
+              "title": "⚡武 家 瓜⚡",
+              "attribute": 0,
+              "arc": {
+                "aid": 116658056202340,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/567e04e0226137761d3824a045fd88a24084fb9f.jpg",
+                "title": "⚡武 家 瓜⚡",
+                "pubdate": 1780060794,
+                "ctime": 1780060794,
+                "desc": "",
+                "state": 0,
+                "duration": 261,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 472004324,
+                  "name": "摄影大师冠西",
+                  "face": "https://i2.hdslb.com/bfs/face/b19ce507f77aac031ddd8161d1143d29e000479c.jpg"
+                },
+                "stat": {
+                  "aid": 116658056202340,
+                  "view": 13188,
+                  "danmaku": 31,
+                  "reply": 49,
+                  "fav": 233,
+                  "coin": 138,
+                  "share": 52,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 624,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 13188
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38702680017,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡武 家 瓜⚡",
+                "duration": 261,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1noVa6hEjL",
+              "pages": [
+                {
+                  "cid": 38702680017,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡武 家 瓜⚡",
+                  "duration": 261,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 4385937,
+              "section_id": 4878823,
+              "id": 198614327,
+              "aid": 116566754723429,
+              "cid": 38304285740,
+              "title": "⚡卖瓜的贩子我劈你⚡",
+              "attribute": 0,
+              "arc": {
+                "aid": 116566754723429,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/ec3c293ca3b366ab45f4e51bd0c040eca8305939.jpg",
+                "title": "⚡卖瓜的贩子我劈你⚡",
+                "pubdate": 1778667634,
+                "ctime": 1778667634,
+                "desc": "",
+                "state": 0,
+                "duration": 177,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 472004324,
+                  "name": "摄影大师冠西",
+                  "face": "https://i2.hdslb.com/bfs/face/b19ce507f77aac031ddd8161d1143d29e000479c.jpg"
+                },
+                "stat": {
+                  "aid": 116566754723429,
+                  "view": 224578,
+                  "danmaku": 582,
+                  "reply": 927,
+                  "fav": 4897,
+                  "coin": 5413,
+                  "share": 2011,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13916,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 224578
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38304285740,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡卖瓜的贩子我劈你⚡",
+                "duration": 177,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Z5516hEzQ",
+              "pages": [
+                {
+                  "cid": 38304285740,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡卖瓜的贩子我劈你⚡",
+                  "duration": 177,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 4385937,
+              "section_id": 4878823,
+              "id": 234519929,
+              "aid": 117642526525973,
+              "cid": 43738336037,
+              "title": "🍉恭 喜 瓜 财🍉",
+              "attribute": 0,
+              "arc": {
+                "aid": 117642526525973,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/1402c8ef6b19d871cf61d8f611591ecc84f2b617.jpg",
+                "title": "🍉恭 喜 瓜 财🍉",
+                "pubdate": 1795082538,
+                "ctime": 1795082538,
+                "desc": "",
+                "state": 0,
+                "duration": 107,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 472004324,
+                  "name": "摄影大师冠西",
+                  "face": "https://i2.hdslb.com/bfs/face/b19ce507f77aac031ddd8161d1143d29e000479c.jpg"
+                },
+                "stat": {
+                  "aid": 117642526525973,
+                  "view": 2619,
+                  "danmaku": 69,
+                  "reply": 32,
+                  "fav": 135,
+                  "coin": 46,
+                  "share": 19,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 207,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2619
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43738336037,
+                "page": 1,
+                "from": "vupload",
+                "part": "🍉恭 喜 瓜 财🍉",
+                "duration": 107,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1MQsh6KEkn",
+              "pages": [
+                {
+                  "cid": 43738336037,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "🍉恭 喜 瓜 财🍉",
+                  "duration": 107,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

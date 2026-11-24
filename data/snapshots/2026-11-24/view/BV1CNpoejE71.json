@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1CNpoejE71",
+    "aid": 112975960737733,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/b91e8767493dbbe5c5f92160e48f12bcb97b5254.jpg",
+    "title": "【炸麦必备】《华强买瓜》，但全损音质和画质",
+    "pubdate": 1723876595,
+    "ctime": 1723876595,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 108,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3493294472431892,
+      "name": "蓝色闪电洗衣机",
+      "face": "https://i2.hdslb.com/bfs/face/7706a581489480769539e2d5797fb54776bf0b4b.jpg"
+    },
+    "stat": {
+      "aid": 112975960737733,
+      "view": 6691,
+      "danmaku": 30,
+      "reply": 6,
+      "favorite": 176,
+      "coin": 13,
+      "share": 23,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 179,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 500001652415053,
+    "dimension": {
+      "width": 640,
+      "height": 480,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 500001652415053,
+        "page": 1,
+        "from": "vupload",
+        "part": "studio_video_1723876475372.mp4",
+        "duration": 108,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 640,
+          "height": 480,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n240817sa3rx1wa7t0fbtf25tgjurrpv_firsti.jpg",
+        "ctime": 1723876595
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

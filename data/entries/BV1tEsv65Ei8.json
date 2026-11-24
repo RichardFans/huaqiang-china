@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1tEsv65Ei8",
+  "aid": 117646502725692,
+  "title": "买瓜，全员晓组织成员",
+  "owner": {
+    "mid": 399489136,
+    "name": "正橘级"
+  },
+  "pubdate": "2026-11-20T02:54:31Z",
+  "duration_s": 213,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）；检索词『华强买瓜』补全",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 276,529 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i2.hdslb.com/bfs/archive/83b56e850043284d32ed772caac3f98dedc3f651.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 276529,
+      "like": 8012,
+      "coin": 1634,
+      "favorite": 2306,
+      "share": 1407,
+      "danmaku": 601,
+      "reply": 487
+    }
+  ],
+  "notes": ""
+}

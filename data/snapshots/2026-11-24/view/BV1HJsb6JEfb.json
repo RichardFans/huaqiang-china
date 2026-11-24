@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1HJsb6JEfb",
+    "aid": 117642039985657,
+    "videos": 1,
+    "tid": 231,
+    "tid_v2": 2096,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/17dd791219f3ffdea5f28d915ebb54e1caf0e354.jpg",
+    "title": "ComfyUI v0.46更新  MinimaxH3 万物移除工作流分享 指定区域移除 买瓜的华强哪去了？",
+    "pubdate": 1795075340,
+    "ctime": 1795075340,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 54,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 313528845,
+      "name": "AI绘画KK",
+      "face": "https://i0.hdslb.com/bfs/face/98c2c0aae98efc6d1f6a6049a8c9dd402a87a53e.jpg"
+    },
+    "stat": {
+      "aid": 117642039985657,
+      "view": 1847,
+      "danmaku": 0,
+      "reply": 86,
+      "favorite": 92,
+      "coin": 25,
+      "share": 5,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 58,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43738860079,
+    "dimension": {
+      "width": 2488,
+      "height": 1320,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43738860079,
+        "page": 1,
+        "from": "vupload",
+        "part": "11月19日 (1)(1)",
+        "duration": 54,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2488,
+          "height": 1320,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002kawe9a2sstnp22i0pv13pwlbab_firsti.jpg",
+        "ctime": 1795083056,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

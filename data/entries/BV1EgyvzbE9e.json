@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1EgyvzbE9e",
+  "aid": 117655881189546,
+  "title": "天下第一好是什么梗，北魏陶俑姐妹舞被鬼畜区接管，Faker和Zeus都跳上了！你最想看谁跳？【梗指南】",
+  "owner": {
+    "mid": 3706934551120632,
+    "name": "胡说观察社"
+  },
+  "pubdate": "2026-11-21T18:40:57Z",
+  "duration_s": 133,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『华强买瓜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "guichu",
+  "form_status": "auto",
+  "form_evidence": "标题命中 鬼畜",
+  "tier": "rising",
+  "tier_basis": "播放 164,118 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i0.hdslb.com/bfs/archive/2a870005e923a5f718e542bb35197d71aae3f6a7.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 164118,
+      "like": 1355,
+      "coin": 10,
+      "favorite": 223,
+      "share": 96,
+      "danmaku": 40,
+      "reply": 136
+    }
+  ],
+  "notes": ""
+}

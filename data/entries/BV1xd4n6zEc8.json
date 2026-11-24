@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1xd4n6zEc8",
+  "aid": 117574847170160,
+  "title": "当你压力大的时候不妨看看刘宇宁#刘华强 #李宏伟 #高启盛",
+  "owner": {
+    "mid": 3546936562944030,
+    "name": "小阳侃谈"
+  },
+  "pubdate": "2026-11-07T11:13:02Z",
+  "duration_s": 169,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『刘华强』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 107,328 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i0.hdslb.com/bfs/archive/bfdc9fad0abd60ac0074a2c20f7e1861456bba03.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 107328,
+      "like": 867,
+      "coin": 23,
+      "favorite": 1389,
+      "share": 4,
+      "danmaku": 3,
+      "reply": 2
+    }
+  ],
+  "notes": ""
+}

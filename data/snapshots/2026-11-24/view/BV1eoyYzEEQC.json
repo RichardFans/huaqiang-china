@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1eoyYzEEQC",
+    "aid": 117654538946809,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/9a92bbec2efb82e9e13a8f8c06f35ce18ebc9654.jpg",
+    "title": "今天整点抽象的， 华强买瓜， 但是乱改台词版。",
+    "pubdate": 1795266085,
+    "ctime": 1795266041,
+    "desc": "看完能憋住不笑的是个人物",
+    "desc_v2": [
+      {
+        "raw_text": "看完能憋住不笑的是个人物",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 31,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1357681310,
+      "name": "运气队这一块",
+      "face": "https://i2.hdslb.com/bfs/face/cb8fd90c38a7dbe0caafd2d3fc21eddb7a5dc919.jpg"
+    },
+    "stat": {
+      "aid": 117654538946809,
+      "view": 171,
+      "danmaku": 0,
+      "reply": 0,
+      "favorite": 0,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43799678897,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43799678897,
+        "page": 1,
+        "from": "vupload",
+        "part": "studio_video_1795265860065",
+        "duration": 31,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000174k0amg2nr6f24u8grcgv6kvob_firsti.jpg",
+        "ctime": 1795266041,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -4,6 +4,15 @@
 > 人类对华强的开发不足 0.1%，本档案负责记账。
 > **English? → [README.en.md](README.en.md)** ｜ 🌐 站点 / Site：[richardfans.github.io/huaqiang-china](https://richardfans.github.io/huaqiang-china/)
 
+[![在册二创](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fcount.json)](https://richardfans.github.io/huaqiang-china/)
+[![华强开发度](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fdevelopment.json)](docs/decisions/0009-development-metric.md)
+[![ci](https://img.shields.io/github/actions/workflow/status/RichardFans/huaqiang-china/ci.yml?branch=main)](https://github.com/RichardFans/huaqiang-china/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/code-MIT-content-CC_BY--SA_4.0)](LICENSE.content)
+
+<p align="center">
+  <img src="docs/assets/ignition-timeline.svg" alt="华强二创投稿密度月度时间线，2021-07 引爆窗口高亮" width="880">
+</p>
+
 ## 🍉 这是什么
 
 2026 年 11 月，作者又一次在B站刷到新的华强买瓜二创——从《萨日朗》到 AI 翻唱，
@@ -55,7 +64,7 @@ python -m zfq.build        # 重建视图/列表/README/订阅源/站点数据
 | `data/vocabulary.md` | 规范词表（canonical 名 + 变体/错写映射，检索的基石） |
 | `data/entries/` `data/creators/` | 档案本体（每视频/每 UP 主一 JSON，带快照证据链） |
 | `data/candidates/` | 拒绝日志——「为什么没收录」也是档案 |
-| `docs/decisions/` | ADR ×7：收录标准 / 合规姿态 / 命名 / 选型 / 发现路线 / 评审门控 / 封面与链接 |
+| `docs/decisions/` | ADR ×9：收录 / 合规 / 命名 / 选型 / 发现 / 评审门控 / 封面链接 / 图谱 / 开发度 |
 | `docs/methodology.md` `docs/verification.md` | 分期方法（预先注册）与验证协议 |
 | `reports/` | 编年初稿 / 跟踪报告 / 交叉验证记录 |
 | `tools/zfq/` | 数据管线（限速客户端 · 入册 · 跟踪 · 校验 · 构建 · issuebot） |

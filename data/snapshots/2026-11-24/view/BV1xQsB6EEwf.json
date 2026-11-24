@@ -1,0 +1,579 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1xQsB6EEwf",
+    "aid": 117631554159130,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/89746ccefc6c01158f99a5e679aa79b9e84a406f.jpg",
+    "title": "当郝哥把魔术练到极致",
+    "pubdate": 1794915138,
+    "ctime": 1794915138,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 64,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1627718331,
+      "name": "Martin的小剧场",
+      "face": "https://i0.hdslb.com/bfs/face/416273cadcd067f755985aaa5f4fd83613e5f1fb.jpg"
+    },
+    "stat": {
+      "aid": 117631554159130,
+      "view": 2817,
+      "danmaku": 6,
+      "reply": 4,
+      "favorite": 25,
+      "coin": 13,
+      "share": 3,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 132,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43684200581,
+    "dimension": {
+      "width": 2560,
+      "height": 1440,
+      "rotate": 0
+    },
+    "season_id": 9607833,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43684200581,
+        "page": 1,
+        "from": "vupload",
+        "part": "VID_3123.mp4",
+        "duration": 64,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2560,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000hbipigvu72ze2dwk4r3zl63zyb_firsti.jpg",
+        "ctime": 1794915138,
+        "asr_language": "eng"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9607833,
+      "title": "郝哥把一个技能练到极致系列",
+      "cover": "https://archive.biliimg.com/bfs/archive/8842c47ade73d5b52fbeeef3f8817c410d699a31.jpg",
+      "mid": 1627718331,
+      "intro": "瓜瓜瓜瓜瓜瓜瓜瓜",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9607833,
+        "view": 14673,
+        "danmaku": 51,
+        "reply": 58,
+        "fav": 100,
+        "coin": 52,
+        "share": 15,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 650,
+        "vt": 0,
+        "vv": 14673
+      },
+      "ep_count": 4,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9607833,
+          "id": 10771515,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9607833,
+              "section_id": 10771515,
+              "id": 234468287,
+              "aid": 117631554159130,
+              "cid": 43684200581,
+              "title": "当郝哥把魔术练到极致",
+              "attribute": 0,
+              "arc": {
+                "aid": 117631554159130,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/89746ccefc6c01158f99a5e679aa79b9e84a406f.jpg",
+                "title": "当郝哥把魔术练到极致",
+                "pubdate": 1794915138,
+                "ctime": 1794915138,
+                "desc": "",
+                "state": 0,
+                "duration": 64,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1627718331,
+                  "name": "Martin的小剧场",
+                  "face": "https://i0.hdslb.com/bfs/face/416273cadcd067f755985aaa5f4fd83613e5f1fb.jpg"
+                },
+                "stat": {
+                  "aid": 117631554159130,
+                  "view": 2817,
+                  "danmaku": 6,
+                  "reply": 4,
+                  "fav": 25,
+                  "coin": 13,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 132,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2817
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43684200581,
+                "page": 1,
+                "from": "vupload",
+                "part": "VID_3123.mp4",
+                "duration": 64,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1xQsB6EEwf",
+              "pages": [
+                {
+                  "cid": 43684200581,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "VID_3123.mp4",
+                  "duration": 64,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9607833,
+              "section_id": 10771515,
+              "id": 234468290,
+              "aid": 117637845747182,
+              "cid": 43716903775,
+              "title": "当郝哥把一项技能练到极致（第二期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117637845747182,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/5888acc53daa3335afcafb6995c439317b9fe8e5.jpg",
+                "title": "当郝哥把一项技能练到极致（第二期）",
+                "pubdate": 1795011390,
+                "ctime": 1795011390,
+                "desc": "",
+                "state": 0,
+                "duration": 65,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1627718331,
+                  "name": "Martin的小剧场",
+                  "face": "https://i0.hdslb.com/bfs/face/416273cadcd067f755985aaa5f4fd83613e5f1fb.jpg"
+                },
+                "stat": {
+                  "aid": 117637845747182,
+                  "view": 9939,
+                  "danmaku": 33,
+                  "reply": 38,
+                  "fav": 65,
+                  "coin": 29,
+                  "share": 9,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 419,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 9939
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43716903775,
+                "page": 1,
+                "from": "vupload",
+                "part": "VID_3148.mp4",
+                "duration": 65,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1s8sU65ESH",
+              "pages": [
+                {
+                  "cid": 43716903775,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "VID_3148.mp4",
+                  "duration": 65,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9607833,
+              "section_id": 10771515,
+              "id": 234869253,
+              "aid": 117646519502322,
+              "cid": 43755114265,
+              "title": "当郝哥把一项技能练到极致（第3期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117646519502322,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/683e4e77dfd71d31f656dbe59cc299c5b34a715d.jpg",
+                "title": "当郝哥把一项技能练到极致（第3期）",
+                "pubdate": 1795143706,
+                "ctime": 1795143706,
+                "desc": "",
+                "state": 0,
+                "duration": 65,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1627718331,
+                  "name": "Martin的小剧场",
+                  "face": "https://i0.hdslb.com/bfs/face/416273cadcd067f755985aaa5f4fd83613e5f1fb.jpg"
+                },
+                "stat": {
+                  "aid": 117646519502322,
+                  "view": 1360,
+                  "danmaku": 7,
+                  "reply": 6,
+                  "fav": 6,
+                  "coin": 4,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 66,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1360
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43755114265,
+                "page": 1,
+                "from": "vupload",
+                "part": "VID_3178.mp4",
+                "duration": 65,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2568,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bjsv61EBo",
+              "pages": [
+                {
+                  "cid": 43755114265,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "VID_3178.mp4",
+                  "duration": 65,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2568,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9607833,
+              "section_id": 10771515,
+              "id": 235064137,
+              "aid": 117660981463031,
+              "cid": 43836506362,
+              "title": "当郝哥把一项技能练到极致（第4期）",
+              "attribute": 2,
+              "arc": {
+                "aid": 117660981463031,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f3987b23380886f014405de15539b181ae58f959.jpg",
+                "title": "当郝哥把一项技能练到极致（第4期）",
+                "pubdate": 1795364384,
+                "ctime": 1795364384,
+                "desc": "",
+                "state": 0,
+                "duration": 65,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1627718331,
+                  "name": "Martin的小剧场",
+                  "face": "https://i0.hdslb.com/bfs/face/416273cadcd067f755985aaa5f4fd83613e5f1fb.jpg"
+                },
+                "stat": {
+                  "aid": 117660981463031,
+                  "view": 559,
+                  "danmaku": 5,
+                  "reply": 10,
+                  "fav": 4,
+                  "coin": 6,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 33,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 559
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43836506362,
+                "page": 1,
+                "from": "vupload",
+                "part": "VID_3203.mp4",
+                "duration": 65,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1DvyjzbEaw",
+              "pages": [
+                {
+                  "cid": 43836506362,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "VID_3203.mp4",
+                  "duration": 65,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

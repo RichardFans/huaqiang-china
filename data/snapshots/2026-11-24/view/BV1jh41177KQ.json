@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1jh41177KQ",
+    "aid": 227974541,
+    "videos": 1,
+    "tid": 182,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/8693b3d6a5c9c73933ce7ba1866a717f528457d6.jpg",
+    "title": "全程无尿点！《征服》原来这么精彩",
+    "pubdate": 1682330358,
+    "ctime": 1682330358,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 4722,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1094883220,
+      "name": "懒猫说电影v",
+      "face": "https://i1.hdslb.com/bfs/face/8dea6319b90fb8e719af997d5a27b40f5cee15ad.jpg"
+    },
+    "stat": {
+      "aid": 227974541,
+      "view": 1539807,
+      "danmaku": 3534,
+      "reply": 651,
+      "favorite": 29859,
+      "coin": 5252,
+      "share": 617,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 16894,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1107520905,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1107520905,
+        "page": 1,
+        "from": "vupload",
+        "part": "全程无尿点！《征服》原来这么精彩",
+        "duration": 4722,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230424a21x2dap6ugmc4u3kklro05e0_firsti.jpg",
+        "ctime": 1682330358
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

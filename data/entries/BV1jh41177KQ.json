@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1jh41177KQ",
+  "aid": 227974541,
+  "title": "全程无尿点！《征服》原来这么精彩",
+  "owner": {
+    "mid": 1094883220,
+    "name": "懒猫说电影v"
+  },
+  "pubdate": "2023-04-24T09:59:18Z",
+  "duration_s": 4722,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『刘华强』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 1,539,807 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i2.hdslb.com/bfs/archive/8693b3d6a5c9c73933ce7ba1866a717f528457d6.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 1539807,
+      "like": 16894,
+      "coin": 5252,
+      "favorite": 29859,
+      "share": 617,
+      "danmaku": 3534,
+      "reply": 651
+    }
+  ],
+  "notes": ""
+}

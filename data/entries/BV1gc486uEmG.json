@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1gc486uEmG",
+  "aid": 117563371686819,
+  "title": "强子太客气了，都送自己兄弟【AI MV大赛】",
+  "owner": {
+    "mid": 1298657234,
+    "name": "Raymondsese"
+  },
+  "pubdate": "2026-11-05T10:40:11Z",
+  "duration_s": 208,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "仅检索词『宋老虎』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "ai-cover",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI+声音/音乐关键词：AI+MV",
+  "tier": "rising",
+  "tier_basis": "播放 392,026 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i2.hdslb.com/bfs/archive/a7e2820a224e792ee7d0e3303d9c7091dd6ba117.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 392026,
+      "like": 7483,
+      "coin": 1017,
+      "favorite": 2135,
+      "share": 553,
+      "danmaku": 481,
+      "reply": 122
+    }
+  ],
+  "notes": ""
+}

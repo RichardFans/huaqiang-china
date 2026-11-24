@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1qf4y1N7EH",
+    "aid": 377710378,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/3e20e238fc208e59aa1352dec9211c196b08791f.jpg",
+    "title": "刘华强首次回应自己的鬼畜视频",
+    "pubdate": 1630224001,
+    "ctime": 1630224001,
+    "desc": "本来是想，在剪辑一个说话的画面然后把这段音频塞进去，但是试了一下甚至还没有这种直接把片段放出来好，素材大部分都来自小破站，当时居然忘了关弹幕了，我真是个伞兵，非常影响视频效果，但是素材在哪里找的早就忘了，熬了半天夜，搞了3天也没搞好，就不求赞了。",
+    "desc_v2": [
+      {
+        "raw_text": "本来是想，在剪辑一个说话的画面然后把这段音频塞进去，但是试了一下甚至还没有这种直接把片段放出来好，素材大部分都来自小破站，当时居然忘了关弹幕了，我真是个伞兵，非常影响视频效果，但是素材在哪里找的早就忘了，熬了半天夜，搞了3天也没搞好，就不求赞了。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 62,
+    "mission_id": 94486,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 503288979,
+      "name": "沉默的九殅",
+      "face": "https://i0.hdslb.com/bfs/face/ba48ff824cdee852a2bd7ac2be4eb4d2ed92d6d3.jpg"
+    },
+    "stat": {
+      "aid": 377710378,
+      "view": 307838,
+      "danmaku": 26,
+      "reply": 126,
+      "favorite": 481,
+      "coin": 21,
+      "share": 15,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1585,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 399014647,
+    "dimension": {
+      "width": 1080,
+      "height": 2160,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 399014647,
+        "page": 1,
+        "from": "vupload",
+        "part": "1630223041847.mp4",
+        "duration": 62,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n210829a2kfpcj786zecr3u7maxv3ozq_firsti.jpg",
+        "ctime": 1630224001
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

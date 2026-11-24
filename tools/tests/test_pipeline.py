@@ -64,6 +64,22 @@ def test_search_parser_ignores_noise():
     assert parse_search_html(html, keyword="k", order="click") == []
 
 
+def test_parse_totals_from_obfuscated_pinia():
+    """检索总数在混淆 IIFE 的实参表里；形参映射每次响应重排，必须按下标对位解析。"""
+    from zfq.search import parse_totals
+
+    # 形参名故意打乱：numResults 引用 qK、numPages 引用 zz；正文串内含 "}(\\"" 干扰
+    html = ('x<script>window.__pinia=(function(a,zz,qK,e){return {searchResponse:{'
+            'bmgDefDomain:b},searchAllResponse:{seid:"1",page:a,pagesize:e,next:a,'
+            'numResults:qK,numPages:zz,suggest_keyword:b,rqt_type:aK,exp_list:{"5503":e},'
+            'list:[{title:"a}(\\"x",bvid:"BV1Ku4y1f7oe"}]}}}(2,57,19235,42))</script>y')
+    assert parse_totals(html) == (19235, 57)
+    # 未混淆的字面量形态兜底（无 numPages）
+    assert parse_totals("numResults:1234,numPages:5") == (1234, None)
+    # 都解析不到 → None（ADR-0009：分母缺数时不得编造）
+    assert parse_totals("<html>nothing here</html>") == (None, None)
+
+
 def test_build_deterministic(tmp_path, monkeypatch):
     """构建必须是 data 的纯函数：同输入两次构建，curated 内容一致。"""
     from zfq import build as B
@@ -169,3 +185,196 @@ def test_readme_table_links_creator_space():
            "latest": {"view": 10, "coin": 1}}
     lines = B._readme_table([row], "zh")
     assert any("https://space.bilibili.com/42" in ln for ln in lines), lines
+
+
+def test_gexf_wellformed(tmp_path, monkeypatch):
+    from zfq import config, graph as G
+
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "snapshots")
+    (tmp_path / "snapshots").mkdir()
+    g = G.build_graph([_mk_entry("BV1Ku4y1f7oe", [100])])
+    from xml.etree import ElementTree as ET
+    root = ET.fromstring(G.to_gexf(g))
+    ns = "{http://gexf.net/1.3}"
+    assert root.tag == ns + "gexf"
+    n_nodes = len(root.findall(f".//{ns}node"))
+    n_edges = len(root.findall(f".//{ns}edge"))
+    assert n_nodes == g["meta"]["n_nodes"] and n_edges == g["meta"]["n_edges"]
+
+
+def test_development_metric_formula(tmp_path, monkeypatch):
+    """开发度 = 在册 / numResults 最大值；缺数返回 None（ADR-0009）。"""
+    from zfq import build as B, config
+
+    snap = tmp_path / "snapshots" / "2026-01-02" / "search"
+    snap.mkdir(parents=True)
+    (snap / "a.json").write_text(json.dumps(
+        {"url": "u1", "numResults_total": 5000}), encoding="utf-8")
+    (snap / "b.json").write_text(json.dumps(
+        {"url": "u2", "numResults_total": 12000}), encoding="utf-8")
+    (snap / "c.json").write_text(json.dumps(
+        {"url": "u3", "numResults_total": None}), encoding="utf-8")
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "snapshots")
+
+    curated = {"counts": {"derivative": 171}}
+    dev = B.development(curated)
+    assert dev["denominator"] == 12000 and dev["ratio_pct"] == round(171 / 12000 * 100, 2)
+    # 无清单 -> 分母 0 -> None，不得编造
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "empty")
+    (tmp_path / "empty").mkdir()
+    dev2 = B.development(curated)
+    assert dev2["ratio_pct"] is None and dev2["denominator"] == 0
+    assert dev2["capped"] is False and dev2["cap"] == config.SEARCH_RESULTS_CAP
+
+    # 分母触及平台封顶（2026-11-24 实测：五词 numResults 均为 1000）→ 不出比值
+    for f in snap.iterdir():
+        f.unlink()
+    for name, total in (("d", 1000), ("e", 1000), ("f", 600)):
+        (snap / f"{name}.json").write_text(json.dumps(
+            {"url": name, "numResults_total": total, "numPages_total": 50}),
+            encoding="utf-8")
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "snapshots")
+    dev3 = B.development(curated)
+    assert dev3["capped"] is True and dev3["ratio_pct"] is None
+    assert dev3["denominator"] == 1000 and dev3["keywords_observed"] == 3
+
+
+def test_timeline_deterministic_single_hue():
+    """时间线 hero：确定性、月度桶展开正确、引爆月有直接标注（R10 前置）。"""
+    from datetime import datetime, timezone
+    from zfq import timeline as T
+    from zfq.schema import DiscoveryInfo, Owner
+
+    def mk(bvid, month):
+        n = utcnow()
+        return Entry.model_validate(dict(
+            bvid=bvid, title="t", owner=Owner(mid=1, name="a"),
+            pubdate=f"{month}-10T00:00:00+00:00",
+            scenes=["maigua"], scene_evidence="x",
+            form="clip", form_status="confirmed", tier="hot", tier_basis="测试",
+            discovered_via=DiscoveryInfo(method="manual-issue", captured_at=n),
+            first_seen=n, snapshots=[]))
+
+    entries = ([mk("BV1Ku4y1f7oe", "2021-07")] * 5
+               + [mk("BV2Ku4y1f7oe", "2021-08")] * 2
+               + [mk("BV3Ku4y1f7oe", "2021-10")])
+    rows = T.month_series(entries)
+    assert [r["month"] for r in rows] == ["2021-07", "2021-08", "2021-09", "2021-10"]
+    assert rows[0]["count"] == 5 and rows[0]["ignition"] is True
+    assert rows[2]["count"] == 0  # 空月补零桶
+
+    svg1 = T.build_timeline_svg(entries)
+    svg2 = T.build_timeline_svg(entries)
+    assert svg1 == svg2
+    assert "引爆窗口 2021-07-16 至 07-19" in svg1 and ">5 条<" in svg1
+    # 单色系：不出现第二身份色（绿色仅存在于站点 CSS，不该进 SVG）
+    assert "#2f6b4f" not in svg1
+    # 设计规范：图内不出现任何破折号字符
+    assert "—" not in svg1 and "–" not in svg1
+
+    wide, bare, compact = (T.build_timeline_svg(entries),
+                           T.build_timeline_svg(entries, chrome=False),
+                           T.build_timeline_svg(entries, variant="compact"))
+    assert "（月度，在册样本 8 条）</text>" in wide       # chrome：带可见标题
+    assert "（月度，在册样本 8 条）</text>" not in bare   # bare：标题由页面 HTML 承担
+    assert 'viewBox="0 0 920 ' in wide and 'viewBox="0 0 400 ' in compact
+    assert "2021-07 引爆" in compact
+    # 深色模式回退：README 里作为 <img> 时靠内部媒体查询适配
+    assert "@media (prefers-color-scheme: dark)" in wide
+
+
+def test_graph_staff_semantics_and_evidence(tmp_path, monkeypatch):
+    """合作边：排除投稿者本人；role 取平台原字面量；节点用昵称；每条边带证据。"""
+    from zfq import config, graph as G
+
+    view = tmp_path / "snapshots" / "2026-01-02" / "view"
+    view.mkdir(parents=True)
+    (view / "BV1Ku4y1f7oe.json").write_text(json.dumps({
+        "code": 0, "data": {"pic": "http://x/1.jpg", "staff": [
+            {"mid": 1, "title": "UP主", "name": "投稿者本人"},
+            {"mid": 99, "title": "参演", "name": "合作者A"},
+            {"mid": 77, "title": "剪辑", "name": "合作者B"}]}}), encoding="utf-8")
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "snapshots")
+
+    e = _mk_entry("BV1Ku4y1f7oe", [100])            # owner mid = 1
+    g1, g2 = G.build_graph([e]), G.build_graph([e])
+    assert g1 == g2, "图谱构建必须确定性"
+    ids = {n["id"]: n for n in g1["nodes"]}
+    assert "scene:maigua" in ids and "bv:BV1Ku4y1f7oe" in ids and "mid:1" in ids
+    assert ids["mid:99"]["label"] == "合作者A"       # 用昵称，不是角色字样
+    rels = {(x["relation"], x["source"], x["target"]) for x in g1["edges"]}
+    assert ("created", "mid:1", "bv:BV1Ku4y1f7oe") in rels
+    assert ("in_scene", "bv:BV1Ku4y1f7oe", "scene:maigua") in rels
+    collab = [x for x in g1["edges"] if x["relation"] == "collaborated"]
+    assert {x["source"] for x in collab} == {"mid:99", "mid:77"}    # 不含投稿者本人
+    assert {x["role"] for x in collab} == {"参演", "剪辑"}
+    assert all(x["evidence"] for x in g1["edges"]), "边必须带证据"
+    assert all("data.staff" in x["evidence"] for x in collab)
+    assert g1["meta"]["n_components"] == 1 and g1["meta"]["n_collaborated"] == 2
+    assert g1["meta"]["roles"] == {"剪辑": 1, "参演": 1}
+
+
+def test_creator_map_svg_deterministic_wellformed_no_overlap(tmp_path, monkeypatch):
+    """星图：确定性、良构 XML、节点可点、分量外接框互不相交（R11 前置）。"""
+    from xml.etree import ElementTree as ET
+    from zfq import config, graph as G
+    from zfq.schema import DiscoveryInfo, Owner
+
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "snapshots")
+    (tmp_path / "snapshots").mkdir()
+
+    def mk(bvid, mid, view, month, tier="hot", scenes=("maigua",)):
+        n = utcnow()
+        return Entry.model_validate(dict(
+            bvid=bvid, title=f"作品{mid}", owner=Owner(mid=mid, name=f"UP{mid}"),
+            pubdate=f"{month}-10T00:00:00+00:00", scenes=list(scenes), scene_evidence="x",
+            form="clip", form_status="confirmed", tier=tier, tier_basis="测试",
+            discovered_via=DiscoveryInfo(method="manual-issue", captured_at=n),
+            first_seen=n, snapshots=[
+                Snapshot(captured_at=n, endpoint="api-view", view=view, like=0, coin=0,
+                         favorite=0, share=0, danmaku=0, reply=0)]))
+
+    entries = [mk(f"BV1Ku4y1f7{i:02d}", i, 10_000_000 * (i + 1), "2021-07", "hall")
+               for i in range(12)]
+    entries += [mk("BV2Ku4y1f7o1", 1, 5000, "2021-08"), mk("BV2Ku4y1f7o2", 1, 5000, "2021-09"),
+                mk("BV3Ku4y1f7o2", 2, 5000, "2021-10", scenes=("zhengfu-other", "maigua")),
+                mk("BV4Ku4y1f7o2", 2, 5000, "2021-11", scenes=("song-laohu-banquet",))]
+    g = G.build_graph(entries)
+    svg1, svg2 = G.to_svg(g), G.to_svg(g)
+    assert svg1 == svg2 and "@media (prefers-color-scheme: dark)" in svg1
+
+    ns = "{http://www.w3.org/2000/svg}"
+    root = ET.fromstring(svg1)
+    links = root.findall(f".//{ns}a")
+    assert links and all(a.get("href", "").startswith("https://") for a in links)
+    assert len(root.findall(f".//{ns}circle[@class='cm-ring']")) == 12   # 殿堂级外环
+
+    lay = G.layout_graph(g)
+    assert lay["components"] == 12 and len(lay["boxes"]) == 12
+    boxes = lay["boxes"]
+    for i in range(len(boxes)):
+        for j in range(i + 1, len(boxes)):
+            a, b = boxes[i], boxes[j]
+            apart = (a[2] <= b[0] or b[2] <= a[0] or a[3] <= b[1] or b[3] <= a[1])
+            assert apart, f"分量 {i} 与 {j} 外接框相交：{a} {b}"
+    xs = [p["x"] for p in lay["pos"].values()]
+    ys = [p["y"] for p in lay["pos"].values()]
+    assert min(xs) >= 0 and max(xs) <= lay["width"] and max(ys) <= lay["height"]
+    # 站点交互依赖的属性：查找文本与桥段筛选（节点、边、标签都要带 data-scene）
+    assert 'data-search=' in svg1
+    assert svg1.count('<text class="cm-t cm-l') == svg1.count('data-for="')
+    import re as _re
+    for key in ("maigua", "other", "song-laohu-banquet"):      # 属性是空格分隔的词表
+        assert _re.search(rf'data-scene="([^"]* )?{key}( [^"]*)?"', svg1), key
+
+
+def test_site_graph_palette_in_sync():
+    """站点图例/筛选用的色值必须与 graph.SCENE_COLOR 一致（Python 回退值与 CSS 两处，防漂移）。"""
+    from zfq import config, graph as G
+
+    css = (config.ROOT / "site" / "src" / "styles" / "global.css").read_text(encoding="utf-8")
+    for pair in list(G.SCENE_COLOR.values()) + [G.OTHER_COLOR]:
+        for hexv in pair:
+            assert hexv.lower() in css.lower(), f"站点样式缺少图谱色值 {hexv}"
+    # 图谱色只允许三个色相 + 中性灰（dataviz：任意两点相邻的图形式上限）
+    assert set(G.SCENE_COLOR) == {"maigua", "song-laohu-banquet", "feng-biao"}

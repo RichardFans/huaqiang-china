@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ZM411P71S",
+    "aid": 479402227,
+    "videos": 1,
+    "tid": 182,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/4b390d02ea5e4dd69bbc6ad05419bd388605c355.jpg",
+    "title": "刘华强，大小通吃啊！",
+    "pubdate": 1676507569,
+    "ctime": 1676507569,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 137,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 399293144,
+      "name": "澈澈想当舰长",
+      "face": "https://i2.hdslb.com/bfs/face/675ddb3f5efa90ff07c4ce3c37c3eee70528c986.jpg"
+    },
+    "stat": {
+      "aid": 479402227,
+      "view": 845000,
+      "danmaku": 618,
+      "reply": 313,
+      "favorite": 1120,
+      "coin": 67,
+      "share": 91,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 4581,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1009961577,
+    "dimension": {
+      "width": 1728,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1009961577,
+        "page": 1,
+        "from": "vupload",
+        "part": "刘华强，大小通吃啊！",
+        "duration": 137,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1728,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230216qn279ixsrj7sv3p2x0ja8cyem_firsti.jpg",
+        "ctime": 1676507569
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

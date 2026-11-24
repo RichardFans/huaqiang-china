@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV13e4y1q7Vq",
+    "aid": 561364841,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2002,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/7195a5bb29430f090f42bc99be1f2d2b3cf10a65.jpg",
+    "title": "征服：警察准备好望远镜，对刘华强展开监控，刘华强发现端倪",
+    "pubdate": 1665104547,
+    "ctime": 1665104547,
+    "desc": "士兵突击：班副视史今为挚友，结果被许三多挤走，因此讨厌三多",
+    "desc_v2": [
+      {
+        "raw_text": "士兵突击：班副视史今为挚友，结果被许三多挤走，因此讨厌三多",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 299,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1975558594,
+      "name": "陪南南看剧",
+      "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg"
+    },
+    "stat": {
+      "aid": 561364841,
+      "view": 28579,
+      "danmaku": 35,
+      "reply": 8,
+      "favorite": 44,
+      "coin": 0,
+      "share": 6,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 105,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 854475655,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 854475655,
+        "page": 1,
+        "from": "vupload",
+        "part": "zh_CN",
+        "duration": 299,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221007a2jyfgg3zihzmb2tbw4gbmn9o_firsti.jpg",
+        "ctime": 1665104547
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1Yv411n7KJ",
+  "aid": 249236212,
+  "title": "胡言乱语",
+  "owner": {
+    "mid": 101166977,
+    "name": "啥名字好诶"
+  },
+  "pubdate": "2021-07-16T08:40:11Z",
+  "duration_s": 113,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『华强买瓜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,998,004 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i1.hdslb.com/bfs/archive/c84e33f510fb511c6ae1b0c9afea5949f0508906.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 2998004,
+      "like": 123960,
+      "coin": 26692,
+      "favorite": 44946,
+      "share": 17970,
+      "danmaku": 5315,
+      "reply": 1664
+    }
+  ],
+  "notes": ""
+}

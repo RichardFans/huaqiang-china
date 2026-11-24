@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1EJx96JE7Y",
+  "aid": 117557885405489,
+  "title": "这瓜熟不熟  有呢么重要吗",
+  "owner": {
+    "mid": 56335136,
+    "name": "维森weisen"
+  },
+  "pubdate": "2026-11-04T12:00:00Z",
+  "duration_s": 363,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『华强买瓜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 466,500 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i1.hdslb.com/bfs/archive/320ae646b2b23a86cdcb6df378dd1ff0aff5b940.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 466500,
+      "like": 16998,
+      "coin": 4058,
+      "favorite": 4919,
+      "share": 1297,
+      "danmaku": 1424,
+      "reply": 911
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,1320 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ADs16AEGP",
+    "aid": 117635563920747,
+    "videos": 1,
+    "tid": 250,
+    "tid_v2": 2154,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/50e7fa2b7930baccb62f930405f37151fd4ccdc5.jpg",
+    "title": "泰迪买纸之前",
+    "pubdate": 1794976431,
+    "ctime": 1794976431,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 215,
+    "mission_id": 4071490,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1657826978,
+      "name": "北疆的老郭",
+      "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+    },
+    "stat": {
+      "aid": 117635563920747,
+      "view": 152,
+      "danmaku": 0,
+      "reply": 0,
+      "favorite": 0,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43701961536,
+    "dimension": {
+      "width": 1080,
+      "height": 1920,
+      "rotate": 0
+    },
+    "season_id": 2504477,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43701961536,
+        "page": 1,
+        "from": "vupload",
+        "part": "泰迪买纸之前",
+        "duration": 215,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 1920,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000030vo7gu1iagu922fhzcn42sxphb_firsti.jpg",
+        "ctime": 1794976431,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 2504477,
+      "title": "一人分饰多角短剧",
+      "cover": "https://s1.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "mid": 1657826978,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 2504477,
+        "view": 2057,
+        "danmaku": 0,
+        "reply": 6,
+        "fav": 6,
+        "coin": 8,
+        "share": 12,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 33,
+        "vt": 0,
+        "vv": 2057
+      },
+      "ep_count": 11,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 2504477,
+          "id": 2842256,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 57426016,
+              "aid": 1751914166,
+              "cid": 1471622944,
+              "title": "我们的传话筒",
+              "attribute": 0,
+              "arc": {
+                "aid": 1751914166,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/0933314a6f87bb560c1549991580b9e20b21de60.jpg",
+                "title": "我们的传话筒",
+                "pubdate": 1710573944,
+                "ctime": 1710573944,
+                "desc": "",
+                "state": 0,
+                "duration": 195,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 1751914166,
+                  "view": 144,
+                  "danmaku": 0,
+                  "reply": 3,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 144
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1471622944,
+                "page": 1,
+                "from": "vupload",
+                "part": "我们的传话筒",
+                "duration": 195,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rx421r7Kc",
+              "pages": [
+                {
+                  "cid": 1471622944,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "我们的传话筒",
+                  "duration": 195,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 57426017,
+              "aid": 1900854004,
+              "cid": 1447454728,
+              "title": "拿个鸡毛当令箭",
+              "attribute": 0,
+              "arc": {
+                "aid": 1900854004,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/a3c8489fbb48940f60898b0bf43cd4f00f49c607.jpg",
+                "title": "拿个鸡毛当令箭",
+                "pubdate": 1708598966,
+                "ctime": 1708598966,
+                "desc": "",
+                "state": 0,
+                "duration": 416,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 1900854004,
+                  "view": 139,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 139
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1447454728,
+                "page": 1,
+                "from": "vupload",
+                "part": "拿个鸡毛当令箭",
+                "duration": 416,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1om411U7E6",
+              "pages": [
+                {
+                  "cid": 1447454728,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "拿个鸡毛当令箭",
+                  "duration": 416,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 57426018,
+              "aid": 454162988,
+              "cid": 1416544932,
+              "title": "“波级文件”",
+              "attribute": 0,
+              "arc": {
+                "aid": 454162988,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/683fc518253e96730a288a6550ea81d665b0611b.jpg",
+                "title": "“波级文件”",
+                "pubdate": 1705998730,
+                "ctime": 1705998730,
+                "desc": "",
+                "state": 0,
+                "duration": 182,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 454162988,
+                  "view": 178,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 1,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 5,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 178
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1416544932,
+                "page": 1,
+                "from": "vupload",
+                "part": "“波级文件”",
+                "duration": 182,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1p5411y7NB",
+              "pages": [
+                {
+                  "cid": 1416544932,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“波级文件”",
+                  "duration": 182,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 57426019,
+              "aid": 325898616,
+              "cid": 1396293244,
+              "title": "暗杀鲜同学",
+              "attribute": 0,
+              "arc": {
+                "aid": 325898616,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/a0a3bdb8d3d8b83712fd2b547cf4306d93b58af2.jpg",
+                "title": "暗杀鲜同学",
+                "pubdate": 1704522132,
+                "ctime": 1704522132,
+                "desc": "",
+                "state": 0,
+                "duration": 70,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 325898616,
+                  "view": 189,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 189
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1396293244,
+                "page": 1,
+                "from": "vupload",
+                "part": "暗杀鲜同学",
+                "duration": 70,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV14w411u7kk",
+              "pages": [
+                {
+                  "cid": 1396293244,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "暗杀鲜同学",
+                  "duration": 70,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 57426250,
+              "aid": 236941357,
+              "cid": 1360307104,
+              "title": "我碰见过的牛马同学",
+              "attribute": 0,
+              "arc": {
+                "aid": 236941357,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/d72a1094d42ef1ab32b836c53628e05b2e576be3.jpg",
+                "title": "我碰见过的牛马同学",
+                "pubdate": 1702104757,
+                "ctime": 1702104757,
+                "desc": "",
+                "state": 0,
+                "duration": 41,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 236941357,
+                  "view": 162,
+                  "danmaku": 0,
+                  "reply": 1,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 5,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 162
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1360307104,
+                "page": 1,
+                "from": "vupload",
+                "part": "我碰见过的牛马同学",
+                "duration": 41,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 720,
+                  "height": 1280,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1re411o7zE",
+              "pages": [
+                {
+                  "cid": 1360307104,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "我碰见过的牛马同学",
+                  "duration": 41,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 720,
+                    "height": 1280,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 59062536,
+              "aid": 1102291291,
+              "cid": 1487118664,
+              "title": "被误会的滋味不好受",
+              "attribute": 0,
+              "arc": {
+                "aid": 1102291291,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/618902b2b4ae38b7f5d0bc750873762ea0cc5ee6.jpg",
+                "title": "被误会的滋味不好受",
+                "pubdate": 1711788452,
+                "ctime": 1711788452,
+                "desc": "",
+                "state": 0,
+                "duration": 307,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 1102291291,
+                  "view": 215,
+                  "danmaku": 0,
+                  "reply": 2,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 5,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 215
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1487118664,
+                "page": 1,
+                "from": "vupload",
+                "part": "被误会的滋味不好受",
+                "duration": 307,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18A4m1N7uC",
+              "pages": [
+                {
+                  "cid": 1487118664,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "被误会的滋味不好受",
+                  "duration": 307,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 76020764,
+              "aid": 112844897061688,
+              "cid": 500001626563398,
+              "title": "根据桂林仔吃盒饭片段改写而来",
+              "attribute": 0,
+              "arc": {
+                "aid": 112844897061688,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/e5095e46383e98a53edd8600079c6bfcaaa10e77.jpg",
+                "title": "根据桂林仔吃盒饭片段改写而来",
+                "pubdate": 1721876822,
+                "ctime": 1721876822,
+                "desc": "",
+                "state": 0,
+                "duration": 182,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 112844897061688,
+                  "view": 170,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 1,
+                  "coin": 4,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 170
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 500001626563398,
+                "page": 1,
+                "from": "vupload",
+                "part": "根据桂林仔吃盒饭片段改写而来",
+                "duration": 182,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1L3eoeaEiD",
+              "pages": [
+                {
+                  "cid": 500001626563398,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "根据桂林仔吃盒饭片段改写而来",
+                  "duration": 182,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 91536415,
+              "aid": 113411564241773,
+              "cid": 26575634975,
+              "title": "任何邪恶终将绳之以法（抢扫把版）",
+              "attribute": 0,
+              "arc": {
+                "aid": 113411564241773,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/bbfd2c45a30c12c28f7ec3746cbb70e45ffa224f.jpg",
+                "title": "任何邪恶终将绳之以法（抢扫把版）",
+                "pubdate": 1730523546,
+                "ctime": 1730523546,
+                "desc": "",
+                "state": 0,
+                "duration": 137,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 113411564241773,
+                  "view": 317,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 4,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 317
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26575634975,
+                "page": 1,
+                "from": "vupload",
+                "part": "任何邪恶终将绳之以法（抢扫把版）",
+                "duration": 137,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19yDcYbEoF",
+              "pages": [
+                {
+                  "cid": 26575634975,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "任何邪恶终将绳之以法（抢扫把版）",
+                  "duration": 137,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 167806364,
+              "aid": 115825889515259,
+              "cid": 35125658094,
+              "title": "一人分饰多角普法短剧之宿舍卫生纸的冲突",
+              "attribute": 0,
+              "arc": {
+                "aid": 115825889515259,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/a326bdfdad1bfd808322787cdb9b49303b6c143a.jpg",
+                "title": "一人分饰多角普法短剧之宿舍卫生纸的冲突",
+                "pubdate": 1767363276,
+                "ctime": 1767363276,
+                "desc": "",
+                "state": 0,
+                "duration": 315,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 115825889515259,
+                  "view": 105,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 0,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 105
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35125658094,
+                "page": 1,
+                "from": "vupload",
+                "part": "一人分饰多角普法短剧之宿舍卫生纸的冲突",
+                "duration": 315,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1wdicBhEhb",
+              "pages": [
+                {
+                  "cid": 35125658094,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "一人分饰多角普法短剧之宿舍卫生纸的冲突",
+                  "duration": 315,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 234317682,
+              "aid": 117635563920747,
+              "cid": 43701961536,
+              "title": "泰迪买纸之前",
+              "attribute": 0,
+              "arc": {
+                "aid": 117635563920747,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/50e7fa2b7930baccb62f930405f37151fd4ccdc5.jpg",
+                "title": "泰迪买纸之前",
+                "pubdate": 1794976431,
+                "ctime": 1794976431,
+                "desc": "",
+                "state": 0,
+                "duration": 215,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 117635563920747,
+                  "view": 152,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 152
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43701961536,
+                "page": 1,
+                "from": "vupload",
+                "part": "泰迪买纸之前",
+                "duration": 215,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ADs16AEGP",
+              "pages": [
+                {
+                  "cid": 43701961536,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "泰迪买纸之前",
+                  "duration": 215,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2504477,
+              "section_id": 2842256,
+              "id": 234605104,
+              "aid": 117646334891708,
+              "cid": 43754196226,
+              "title": "泰迪买纸之致敬华强买瓜",
+              "attribute": 2,
+              "arc": {
+                "aid": 117646334891708,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/3ed02f76d11f2bbc25d7f3845876766539339599.jpg",
+                "title": "泰迪买纸之致敬华强买瓜",
+                "pubdate": 1795140841,
+                "ctime": 1795140841,
+                "desc": "",
+                "state": 0,
+                "duration": 138,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1657826978,
+                  "name": "北疆的老郭",
+                  "face": "https://i2.hdslb.com/bfs/face/01e9fa2dcc26c602802eb26f83bd3a6d888d75f1.jpg"
+                },
+                "stat": {
+                  "aid": 117646334891708,
+                  "view": 286,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 0,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 286
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43754196226,
+                "page": 1,
+                "from": "vupload",
+                "part": "泰迪买纸之致敬华强买瓜",
+                "duration": 138,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1XQsv6DEZA",
+              "pages": [
+                {
+                  "cid": 43754196226,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "泰迪买纸之致敬华强买瓜",
+                  "duration": 138,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

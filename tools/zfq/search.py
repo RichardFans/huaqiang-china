@@ -32,6 +32,99 @@ PLAY_RE = re.compile(r"[,{]play:(\d+)")
 PUBDATE_RE = re.compile(r"[,{]pubdate:(\d+)")
 DURATION_RE = re.compile(r"[,{]duration:(\d+)")
 NUMRESULTS_RE = re.compile(r"numResults:(\d+)")
+# 混淆/压缩变体：numResults":123、numResults :123 等（2026-11 实测页面形态）
+NUMRESULTS_LOOSE_RE = re.compile(r'numResults"?\s*[:：]\s*"?(\d{1,12})"')
+# 2026-11-24 实测主形态：数据在混淆 IIFE 里，常量以形参名引用，真实值在尾部实参表。
+#     window.__pinia=(function(a,b,...,eZ){return {searchAllResponse:{...,numResults:K,numPages:aJ,...}}} (实参1,实参2,...))
+# 形参↔名称的映射**每次响应都会重排**（同一次会话里 numResults 先是 J 后是 K），
+# 所以必须按下标对位解析，不能写死变量名。
+_PINIA_HEAD_RE = re.compile(r"window\.__pinia\s*=\s*\(function\s*\(([^)]*)\)\s*\{")
+_ALL_RESPONSE_RE = re.compile(
+    r"searchAllResponse:\{[^{}]*?numResults:(\w+),numPages:(\w+)")
+
+
+def _pinia_constants(html: str) -> dict[str, str]:
+    """混淆 __pinia IIFE 的常量表：形参名 → 实参字面量。解析不到返回空 dict。
+
+    只做括号/字符串状态的线性扫描，不执行任何脚本（浏览器等价读取，ADR-0002）。
+    """
+    m = _PINIA_HEAD_RE.search(html)
+    if not m:
+        return {}
+    params = [p.strip() for p in m.group(1).split(",") if p.strip()]
+    i, n = m.end(), len(html)          # i：函数体 '{' 之后
+    depth, in_str, quote = 1, False, ""
+    while i < n and depth > 0:         # 跳过函数体，定位到 "}("
+        ch = html[i]
+        if in_str:
+            if ch == "\\":
+                i += 2
+                continue
+            if ch == quote:
+                in_str = False
+        elif ch in "\"'":
+            in_str, quote = True, ch
+        elif ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+        i += 1
+    while i < n and html[i] in " \n\r\t":
+        i += 1
+    if i >= n or html[i] != "(":
+        return {}
+    i += 1
+    args: list[str] = []
+    cur: list[str] = []
+    depth, in_str, quote = 0, False, ""
+    while i < n:                       # 逐字读实参表，顶层逗号切分
+        ch = html[i]
+        if in_str:
+            cur.append(ch)
+            if ch == "\\" and i + 1 < n:
+                cur.append(html[i + 1])
+                i += 2
+                continue
+            if ch == quote:
+                in_str = False
+        elif ch in "\"'":
+            in_str, quote = True, ch
+            cur.append(ch)
+        elif ch in "([{":
+            depth += 1
+            cur.append(ch)
+        elif ch in ")]}":
+            if ch == ")" and depth == 0:
+                args.append("".join(cur).strip())
+                break
+            depth -= 1
+            cur.append(ch)
+        elif ch == "," and depth == 0:
+            args.append("".join(cur).strip())
+            cur = []
+        else:
+            cur.append(ch)
+        i += 1
+    return dict(zip(params, args))
+
+
+def parse_totals(html: str) -> tuple[int | None, int | None]:
+    """检索页的结果总数与总页数。解析不到一律 None（不编造，ADR-0009 依赖此语义）。"""
+    lit = NUMRESULTS_RE.search(html) or NUMRESULTS_LOOSE_RE.search(html)
+    if lit:
+        return int(lit.group(1)), None
+    consts = _pinia_constants(html)
+    if not consts:
+        return None, None
+    m = _ALL_RESPONSE_RE.search(html)
+    if not m:
+        return None, None
+
+    def to_int(name: str) -> int | None:
+        v = consts.get(name)
+        return int(v) if v is not None and re.fullmatch(r"\d+", v) else None
+
+    return to_int(m.group(1)), to_int(m.group(2))
 
 
 @dataclass
@@ -119,9 +212,9 @@ def harvest(
         cands = parse_search_html(resp.text, keyword=keyword, order=order)
         for c in cands:
             all_cands.setdefault(c.bvid, c)
-        n = NUMRESULTS_RE.search(resp.text)
-        if n:
-            total = max(total, int(n.group(1)))
+        num_results, num_pages = parse_totals(resp.text)
+        if num_results:
+            total = max(total, num_results)
         if save_manifest_dir:
             save_manifest_dir.mkdir(parents=True, exist_ok=True)
             slug = re.sub(r"\s+", "-", keyword)
@@ -131,7 +224,11 @@ def harvest(
                 "sha256": hashlib.sha256(resp.text.encode("utf-8")).hexdigest(),
                 "bytes": len(resp.text),
                 "items_parsed": len(cands),
-                "numResults_total": int(n.group(1)) if n else None,
+                "numResults_total": num_results,
+                "numPages_total": num_pages,
+                "numResults_source": ("searchAllResponse.numResults"
+                                      "（__pinia IIFE 常量表，形参下标对位）"
+                                      if num_results else None),
                 "note": "原始 HTML 不入库（ADR-0002），仅留哈希与解析计数",
             }
             (save_manifest_dir / f"search_{slug}_{order}_p{page}.json").write_text(

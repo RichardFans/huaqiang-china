@@ -1,0 +1,51 @@
+{
+  "bvid": "BV18Rs26EE18",
+  "aid": 117636939648050,
+  "title": "华强买瓜，但他是河神【你这河神有问题啊】",
+  "owner": {
+    "mid": 314849719,
+    "name": "若翰_"
+  },
+  "pubdate": "2026-11-19T03:55:00Z",
+  "duration_s": 272,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）；检索词『华强买瓜』补全",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 103,941 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i2.hdslb.com/bfs/archive/f281f85e767599ef5271e6d687b7f17394d10568.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 103941,
+      "like": 3529,
+      "coin": 456,
+      "favorite": 852,
+      "share": 209,
+      "danmaku": 360,
+      "reply": 139
+    }
+  ],
+  "notes": ""
+}

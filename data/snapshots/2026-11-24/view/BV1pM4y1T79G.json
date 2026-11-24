@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1pM4y1T79G",
+    "aid": 931857215,
+    "videos": 1,
+    "tid": 17,
+    "tid_v2": 2079,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/27088068bb67530f651fe820965c52991a6b12fb.jpg",
+    "title": "国民护卫队买瓜【GMOD】",
+    "pubdate": 1626839938,
+    "ctime": 1626839939,
+    "desc": "烂活了属于是",
+    "desc_v2": [
+      {
+        "raw_text": "烂活了属于是",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 119,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 299552576,
+      "name": "柳橙吐司",
+      "face": "https://i2.hdslb.com/bfs/face/303f42cacd6109385598de0776a903f5dd2ed019.jpg"
+    },
+    "stat": {
+      "aid": 931857215,
+      "view": 40075,
+      "danmaku": 64,
+      "reply": 91,
+      "favorite": 548,
+      "coin": 276,
+      "share": 117,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1551,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 373825110,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 373825110,
+        "page": 1,
+        "from": "vupload",
+        "part": "国民护卫队买瓜【GMOD】",
+        "duration": 119,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n210721a2bbvybmp8djll1yuhhdn0n8h_firsti.jpg",
+        "ctime": 1626839939
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

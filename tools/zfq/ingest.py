@@ -212,6 +212,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--order", default="click", choices=["click", "pubdate"])
     ap.add_argument("--pages", type=int, default=1)
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--totals-only", action="store_true",
+                    help="只抓检索页并写 manifest（刷新开发度分母），不富化、不入册")
     args = ap.parse_args(argv)
 
     keywords = [k.strip() for k in args.keywords.split(",") if k.strip()]
@@ -222,13 +224,19 @@ def main(argv: list[str] | None = None) -> int:
 
     client = PoliteClient()
     all_cands: dict[str, Candidate] = {}
+    max_total = 0
     for kw in keywords:
         cands, total = harvest(
             kw, order=args.order, pages=args.pages, client=client,
             save_manifest_dir=config.SNAPSHOTS_DIR / utcnow().strftime("%Y-%m-%d") / "search")
+        max_total = max(max_total, total)
         print(f"[harvest] {kw} ({args.order}) 总数≈{total:,}，本页候选 {len(cands)}")
         for c in cands:
             all_cands.setdefault(c.bvid, c)
+    if args.totals_only:
+        print(f"[totals] 检索探明空间（各词 numResults 最大值）= {max_total:,}"
+              f"（已写入当日 search manifest，重跑 zfq build 生效）")
+        return 0
 
     print(f"[ingest] 去重后候选 {len(all_cands)}，开始富化……")
     accepted, rejected = ingest_candidates(list(all_cands.values()), client,

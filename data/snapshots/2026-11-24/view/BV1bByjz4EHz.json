@@ -1,0 +1,1320 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1bByjz4EHz",
+    "aid": 117661014952739,
+    "videos": 1,
+    "tid": 138,
+    "tid_v2": 2154,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/71638326d2fbe5778ffcba8d0b4a2e5f38c8a227.jpg",
+    "title": "卖瓜：郝哥重生2.0",
+    "pubdate": 1795364673,
+    "ctime": 1795364673,
+    "desc": "这瓜我不卖也不行是吧",
+    "desc_v2": [
+      {
+        "raw_text": "这瓜我不卖也不行是吧",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 210,
+    "mission_id": 4071496,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 410515803,
+      "name": "爱玩的吉米章AI视频版",
+      "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+    },
+    "stat": {
+      "aid": 117661014952739,
+      "view": 2530,
+      "danmaku": 43,
+      "reply": 6,
+      "favorite": 92,
+      "coin": 5,
+      "share": 1,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1413,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43836507460,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "season_id": 8343725,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43836507460,
+        "page": 1,
+        "from": "vupload",
+        "part": "卖瓜：郝哥重生2.0",
+        "duration": 210,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_000035gibalzf549f2cna9rwvhajtqb_firsti.jpg",
+        "ctime": 1795364673,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8343725,
+      "title": "瓜摊二三事",
+      "cover": "https://archive.biliimg.com/bfs/archive/7c048f12e3d71b1eb37cbe97f7a5cdd6fb7524d9.jpg",
+      "mid": 410515803,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8343725,
+        "view": 1760057,
+        "danmaku": 849,
+        "reply": 588,
+        "fav": 13645,
+        "coin": 937,
+        "share": 745,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 34014,
+        "vt": 0,
+        "vv": 1760057
+      },
+      "ep_count": 11,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8343725,
+          "id": 9275909,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 202034758,
+              "aid": 116745096397944,
+              "cid": 39099762507,
+              "title": "瓜摊领养日",
+              "attribute": 0,
+              "arc": {
+                "aid": 116745096397944,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/d0d32d64c744c87f69d36f6c3efee729c1a37709.jpg",
+                "title": "瓜摊领养日",
+                "pubdate": 1781388931,
+                "ctime": 1781388931,
+                "desc": "",
+                "state": 0,
+                "duration": 134,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116745096397944,
+                  "view": 23162,
+                  "danmaku": 115,
+                  "reply": 15,
+                  "fav": 65,
+                  "coin": 12,
+                  "share": 12,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 640,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 23162
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39099762507,
+                "page": 1,
+                "from": "vupload",
+                "part": "瓜摊领养日",
+                "duration": 134,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV111Jx6KE9t",
+              "pages": [
+                {
+                  "cid": 39099762507,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "瓜摊领养日",
+                  "duration": 134,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 202034764,
+              "aid": 116614250891219,
+              "cid": 38941559758,
+              "title": "华强买瓜，但是芝顿",
+              "attribute": 0,
+              "arc": {
+                "aid": 116614250891219,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/bb329afa6e61b51c1ff5b4e8957eb846de1d613f.jpg",
+                "title": "华强买瓜，但是芝顿",
+                "pubdate": 1779392476,
+                "ctime": 1779392476,
+                "desc": "",
+                "state": 0,
+                "duration": 113,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116614250891219,
+                  "view": 15161,
+                  "danmaku": 20,
+                  "reply": 44,
+                  "fav": 258,
+                  "coin": 21,
+                  "share": 25,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 549,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 15161
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38941559758,
+                "page": 1,
+                "from": "vupload",
+                "part": "芝顿买瓜第二弹",
+                "duration": 113,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1AgLY6zETd",
+              "pages": [
+                {
+                  "cid": 38941559758,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "芝顿买瓜第二弹",
+                  "duration": 113,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 202034770,
+              "aid": 116575747180089,
+              "cid": 38340856656,
+              "title": "芝顿买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116575747180089,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/02b2be11778fd2ca8a5f0d84824695881c620459.jpg",
+                "title": "芝顿买瓜",
+                "pubdate": 1778804803,
+                "ctime": 1778804803,
+                "desc": "",
+                "state": 0,
+                "duration": 104,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116575747180089,
+                  "view": 72812,
+                  "danmaku": 228,
+                  "reply": 231,
+                  "fav": 1353,
+                  "coin": 92,
+                  "share": 291,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3280,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 72812
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38340856656,
+                "page": 1,
+                "from": "vupload",
+                "part": "芝顿买瓜",
+                "duration": 104,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1yo5h6vEgE",
+              "pages": [
+                {
+                  "cid": 38340856656,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "芝顿买瓜",
+                  "duration": 104,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 202034778,
+              "aid": 116591651980788,
+              "cid": 38411633868,
+              "title": "巴巴瓜尔，你这个gzz",
+              "attribute": 0,
+              "arc": {
+                "aid": 116591651980788,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/99dec3e042a179a4b44e800144d78e9d250e6769.jpg",
+                "title": "巴巴瓜尔，你这个gzz",
+                "pubdate": 1779047678,
+                "ctime": 1779047678,
+                "desc": "",
+                "state": 0,
+                "duration": 88,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116591651980788,
+                  "view": 8532,
+                  "danmaku": 3,
+                  "reply": 9,
+                  "fav": 110,
+                  "coin": 4,
+                  "share": 9,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 989,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 8532
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38411633868,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜，但是巴巴尔卖的",
+                "duration": 88,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rm5o6qEof",
+              "pages": [
+                {
+                  "cid": 38411633868,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜，但是巴巴尔卖的",
+                  "duration": 88,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 202307094,
+              "aid": 116754642634510,
+              "cid": 39143083397,
+              "title": "买瓜之华强男爵",
+              "attribute": 0,
+              "arc": {
+                "aid": 116754642634510,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/715c8e2ba88c91ff3038950a196553d56e859728.jpg",
+                "title": "买瓜之华强男爵",
+                "pubdate": 1781534558,
+                "ctime": 1781534558,
+                "desc": "",
+                "state": 0,
+                "duration": 121,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116754642634510,
+                  "view": 11901,
+                  "danmaku": 15,
+                  "reply": 20,
+                  "fav": 127,
+                  "coin": 14,
+                  "share": 15,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 821,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 11901
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39143083397,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜之华强男爵",
+                "duration": 121,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1m6jN6MEp7",
+              "pages": [
+                {
+                  "cid": 39143083397,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜之华强男爵",
+                  "duration": 121,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 203533945,
+              "aid": 116787408538620,
+              "cid": 39286932059,
+              "title": "买瓜 但是郝哥叽叽歪歪",
+              "attribute": 0,
+              "arc": {
+                "aid": 116787408538620,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/7038fe0ac11ecce15cbe4298b98f092ae5ed6983.jpg",
+                "title": "买瓜 但是郝哥叽叽歪歪",
+                "pubdate": 1782034696,
+                "ctime": 1782034696,
+                "desc": "",
+                "state": 0,
+                "duration": 155,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116787408538620,
+                  "view": 5922,
+                  "danmaku": 13,
+                  "reply": 8,
+                  "fav": 84,
+                  "coin": 11,
+                  "share": 9,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 166,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 5922
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39286932059,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜 但是郝哥叽叽歪歪",
+                "duration": 155,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 960,
+                  "height": 544,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1nGjt6dEvJ",
+              "pages": [
+                {
+                  "cid": 39286932059,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜 但是郝哥叽叽歪歪",
+                  "duration": 155,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 960,
+                    "height": 544,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 203575615,
+              "aid": 116788213843363,
+              "cid": 39291456152,
+              "title": "买瓜  之  郝哥和他的迷弟",
+              "attribute": 0,
+              "arc": {
+                "aid": 116788213843363,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/0edc7bbf712c9a637ed2b39385f9895ef6df1960.jpg",
+                "title": "买瓜  之  郝哥和他的迷弟",
+                "pubdate": 1782046910,
+                "ctime": 1782046910,
+                "desc": "",
+                "state": 0,
+                "duration": 136,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116788213843363,
+                  "view": 20506,
+                  "danmaku": 112,
+                  "reply": 18,
+                  "fav": 151,
+                  "coin": 23,
+                  "share": 16,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 625,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 20506
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39291456152,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜  之  郝哥和他的迷弟",
+                "duration": 136,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1HLj86aEEM",
+              "pages": [
+                {
+                  "cid": 39291456152,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜  之  郝哥和他的迷弟",
+                  "duration": 136,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 208321625,
+              "aid": 116907952900100,
+              "cid": 40228749337,
+              "title": "郝哥：我全都算到了！",
+              "attribute": 0,
+              "arc": {
+                "aid": 116907952900100,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/d99a7e62172ba0382e0cf9442357d6fe14cd1ba4.jpg",
+                "title": "郝哥：我全都算到了！",
+                "pubdate": 1783873812,
+                "ctime": 1783873812,
+                "desc": "",
+                "state": 0,
+                "duration": 188,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116907952900100,
+                  "view": 378843,
+                  "danmaku": 161,
+                  "reply": 72,
+                  "fav": 4501,
+                  "coin": 402,
+                  "share": 196,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 10242,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 378843
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40228749337,
+                "page": 1,
+                "from": "vupload",
+                "part": "111.抖音",
+                "duration": 188,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17rNV6nE9X",
+              "pages": [
+                {
+                  "cid": 40228749337,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "111.抖音",
+                  "duration": 188,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 209978628,
+              "aid": 116948285261277,
+              "cid": 40111702313,
+              "title": "郝哥：我重生了，能否改变我的命运",
+              "attribute": 0,
+              "arc": {
+                "aid": 116948285261277,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/2f7de67bd69f1fcf73e44fb74e5bb53c56a0fbd2.jpg",
+                "title": "郝哥：我重生了，能否改变我的命运",
+                "pubdate": 1784489446,
+                "ctime": 1784489446,
+                "desc": "",
+                "state": 0,
+                "duration": 159,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116948285261277,
+                  "view": 1190682,
+                  "danmaku": 94,
+                  "reply": 113,
+                  "fav": 6472,
+                  "coin": 295,
+                  "share": 129,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 12768,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1190682
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40111702313,
+                "page": 1,
+                "from": "vupload",
+                "part": "郝哥：我重生了，能否改变我的命运",
+                "duration": 159,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1stKk61Ebh",
+              "pages": [
+                {
+                  "cid": 40111702313,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "郝哥：我重生了，能否改变我的命运",
+                  "duration": 159,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 211394759,
+              "aid": 116980984056074,
+              "cid": 40292125195,
+              "title": "买瓜：先尝后买",
+              "attribute": 0,
+              "arc": {
+                "aid": 116980984056074,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/7b87fdf753478c8fbedf6a9214eefd9e5d6bcdf6.jpg",
+                "title": "买瓜：先尝后买",
+                "pubdate": 1784988197,
+                "ctime": 1784988197,
+                "desc": "",
+                "state": 0,
+                "duration": 163,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 116980984056074,
+                  "view": 30006,
+                  "danmaku": 45,
+                  "reply": 52,
+                  "fav": 432,
+                  "coin": 58,
+                  "share": 42,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2521,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 30006
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40292125195,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜：先尝后买",
+                "duration": 163,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Re3G6oE92",
+              "pages": [
+                {
+                  "cid": 40292125195,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜：先尝后买",
+                  "duration": 163,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8343725,
+              "section_id": 9275909,
+              "id": 235064512,
+              "aid": 117661014952739,
+              "cid": 43836507460,
+              "title": "卖瓜：郝哥重生2.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 117661014952739,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/71638326d2fbe5778ffcba8d0b4a2e5f38c8a227.jpg",
+                "title": "卖瓜：郝哥重生2.0",
+                "pubdate": 1795364673,
+                "ctime": 1795364673,
+                "desc": "",
+                "state": 0,
+                "duration": 210,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 410515803,
+                  "name": "爱玩的吉米章AI视频版",
+                  "face": "https://i0.hdslb.com/bfs/face/f45cdb1024bd83feb2aa6fc7cbd43a826f1d650a.jpg"
+                },
+                "stat": {
+                  "aid": 117661014952739,
+                  "view": 2530,
+                  "danmaku": 43,
+                  "reply": 6,
+                  "fav": 92,
+                  "coin": 5,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1413,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2530
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43836507460,
+                "page": 1,
+                "from": "vupload",
+                "part": "卖瓜：郝哥重生2.0",
+                "duration": 210,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bByjz4EHz",
+              "pages": [
+                {
+                  "cid": 43836507460,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "卖瓜：郝哥重生2.0",
+                  "duration": 210,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

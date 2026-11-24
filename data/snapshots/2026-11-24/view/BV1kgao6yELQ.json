@@ -1,0 +1,146 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1kgao6yELQ",
+    "aid": 117358001722511,
+    "videos": 1,
+    "tid": 31,
+    "tid_v2": 2020,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/e9671a7d5d311b573f4310c75e37002979873e9a.jpg",
+    "title": "【翻唱】刘华强见宋老虎 但是翻唱",
+    "pubdate": 1790741220,
+    "ctime": 1790741136,
+    "desc": "本视频是翻唱，已取得翻唱许可，许可视频可见，你们审核自己查私信记录去。\n原创的大佬既然把伴奏发出来就是希望粉丝朋友、各界人士能踊跃翻唱二创，审核不让唱我也没招，最后发一次试试，发不出去就算鸟。\n最后，再次祝愿这首歌能上B站春晚，一路长红！\n\n作曲：@多梦综合征  \n导演：@多梦综合征  \n翻唱：PROALEX\n原视频：BV1Hy4k64Erk\n原版伴奏：BV1qMt26hE6G",
+    "desc_v2": [
+      {
+        "raw_text": "本视频是翻唱，已取得翻唱许可，许可视频可见，你们审核自己查私信记录去。\n原创的大佬既然把伴奏发出来就是希望粉丝朋友、各界人士能踊跃翻唱二创，审核不让唱我也没招，最后发一次试试，发不出去就算鸟。\n最后，再次祝愿这首歌能上B站春晚，一路长红！\n\n作曲：",
+        "type": 1,
+        "biz_id": 0
+      },
+      {
+        "raw_text": "多梦综合征",
+        "type": 2,
+        "biz_id": 110071473
+      },
+      {
+        "raw_text": " \n导演：",
+        "type": 1,
+        "biz_id": 0
+      },
+      {
+        "raw_text": "多梦综合征",
+        "type": 2,
+        "biz_id": 110071473
+      },
+      {
+        "raw_text": " \n翻唱：PROALEX\n原视频：BV1Hy4k64Erk\n原版伴奏：BV1qMt26hE6G",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 330,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 20597874,
+      "name": "ProAlex",
+      "face": "https://i0.hdslb.com/bfs/face/408f6bb87e04cc284de4e01b2d9466f415dfea00.jpg"
+    },
+    "stat": {
+      "aid": 117358001722511,
+      "view": 22977,
+      "danmaku": 150,
+      "reply": 217,
+      "favorite": 184,
+      "coin": 708,
+      "share": 35,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1081,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含虚构演绎内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 42327149521,
+    "dimension": {
+      "width": 1920,
+      "height": 1078,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 42327149521,
+        "page": 1,
+        "from": "vupload",
+        "part": "lv_0_20260930115333",
+        "duration": 330,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1078,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000010lbqlyf8o7lb2wriwp3ihe0jdb_firsti.jpg",
+        "ctime": 1790741136,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

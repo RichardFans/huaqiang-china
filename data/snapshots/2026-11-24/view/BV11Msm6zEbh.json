@@ -1,0 +1,1320 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV11Msm6zEbh",
+    "aid": 117636587395981,
+    "videos": 1,
+    "tid": 126,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/76c6f083aaa4fc9ad95c69912770860652772657.jpg",
+    "title": "“瓜摊儿前有「烂奇迹」”",
+    "pubdate": 1794992147,
+    "ctime": 1794992147,
+    "desc": "原曲：烂奇迹",
+    "desc_v2": [
+      {
+        "raw_text": "原曲：烂奇迹",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 106,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1593075075,
+      "name": "初小晓Dawn",
+      "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+    },
+    "stat": {
+      "aid": 117636587395981,
+      "view": 25848,
+      "danmaku": 30,
+      "reply": 71,
+      "favorite": 1122,
+      "coin": 231,
+      "share": 139,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2470,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43707991282,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9313364,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43707991282,
+        "page": 1,
+        "from": "vupload",
+        "part": "“瓜摊儿前有「烂奇迹」”",
+        "duration": 106,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002xqvypnsscq6m2tdyr3pkxycncb_firsti.jpg",
+        "ctime": 1794992147,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9313364,
+      "title": "一些鬼畜整活",
+      "cover": "https://archive.biliimg.com/bfs/archive/3be15052a344100a79b3efdf041bf9393bd5b42a.jpg",
+      "mid": 1593075075,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9313364,
+        "view": 1405407,
+        "danmaku": 822,
+        "reply": 4166,
+        "fav": 28996,
+        "coin": 4674,
+        "share": 11893,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 108235,
+        "vt": 0,
+        "vv": 1405407
+      },
+      "ep_count": 11,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9313364,
+          "id": 10418292,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 227413638,
+              "aid": 116798783494808,
+              "cid": 39341788552,
+              "title": "⚡匹 诺 曹 不 妙 曲⚡",
+              "attribute": 0,
+              "arc": {
+                "aid": 116798783494808,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/5be491873f410bc23a6d62c767bb74cfcda6c78f.jpg",
+                "title": "⚡匹 诺 曹 不 妙 曲⚡",
+                "pubdate": 1782208800,
+                "ctime": 1782208800,
+                "desc": "",
+                "state": 0,
+                "duration": 75,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 116798783494808,
+                  "view": 421165,
+                  "danmaku": 154,
+                  "reply": 607,
+                  "fav": 5109,
+                  "coin": 275,
+                  "share": 282,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 32125,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 421165
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39341788552,
+                "page": 1,
+                "from": "vupload",
+                "part": "银行不妙曲—匹诺曹（2）2026.6.23",
+                "duration": 75,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1jfj26TEvT",
+              "pages": [
+                {
+                  "cid": 39341788552,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "银行不妙曲—匹诺曹（2）2026.6.23",
+                  "duration": 75,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 227413637,
+              "aid": 116811232320313,
+              "cid": 39403783272,
+              "title": "魔法：你跟我搁这卡BUG呢？",
+              "attribute": 0,
+              "arc": {
+                "aid": 116811232320313,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/a976854818acad2541efa057424781e1d43a5a4d.jpg",
+                "title": "魔法：你跟我搁这卡BUG呢？",
+                "pubdate": 1782439200,
+                "ctime": 1782439200,
+                "desc": "",
+                "state": 0,
+                "duration": 79,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 116811232320313,
+                  "view": 100967,
+                  "danmaku": 103,
+                  "reply": 272,
+                  "fav": 5169,
+                  "coin": 692,
+                  "share": 380,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 10907,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 100967
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39403783272,
+                "page": 1,
+                "from": "vupload",
+                "part": "魔法：你跟我搁这卡BUG呢？",
+                "duration": 79,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Xb7a6sEEw",
+              "pages": [
+                {
+                  "cid": 39403783272,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "魔法：你跟我搁这卡BUG呢？",
+                  "duration": 79,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 227413636,
+              "aid": 116900252163969,
+              "cid": 39847526905,
+              "title": "小小的大狗叫叫叫",
+              "attribute": 0,
+              "arc": {
+                "aid": 116900252163969,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/e4e0b2f10f415660f43f1e30e11f271cc5a94272.jpg",
+                "title": "小小的大狗叫叫叫",
+                "pubdate": 1783756800,
+                "ctime": 1783756800,
+                "desc": "",
+                "state": 0,
+                "duration": 70,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 116900252163969,
+                  "view": 15025,
+                  "danmaku": 15,
+                  "reply": 67,
+                  "fav": 774,
+                  "coin": 200,
+                  "share": 211,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1486,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 15025
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39847526905,
+                "page": 1,
+                "from": "vupload",
+                "part": "小小的大狗叫叫叫",
+                "duration": 70,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1vhNx61Eb4",
+              "pages": [
+                {
+                  "cid": 39847526905,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "小小的大狗叫叫叫",
+                  "duration": 70,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 227413635,
+              "aid": 116929176147397,
+              "cid": 40008288554,
+              "title": "一只浓香型尼古喵",
+              "attribute": 0,
+              "arc": {
+                "aid": 116929176147397,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/4e81611ebd6976451887e54a608a65a93c1cc513.jpg",
+                "title": "一只浓香型尼古喵",
+                "pubdate": 1784198120,
+                "ctime": 1784198120,
+                "desc": "",
+                "state": 0,
+                "duration": 76,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 116929176147397,
+                  "view": 24229,
+                  "danmaku": 29,
+                  "reply": 165,
+                  "fav": 560,
+                  "coin": 57,
+                  "share": 111,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2034,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 24229
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40008288554,
+                "page": 1,
+                "from": "vupload",
+                "part": "一只浓香型尼古喵",
+                "duration": 76,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bmK36aE8P",
+              "pages": [
+                {
+                  "cid": 40008288554,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "一只浓香型尼古喵",
+                  "duration": 76,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 227413634,
+              "aid": 116963082770167,
+              "cid": 40193294803,
+              "title": "“我只为大狗而哭泣”Cry For Dog",
+              "attribute": 0,
+              "arc": {
+                "aid": 116963082770167,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/815318e562f5c8b9818a8478230c22bef57c1271.jpg",
+                "title": "“我只为大狗而哭泣”Cry For Dog",
+                "pubdate": 1784715375,
+                "ctime": 1784715375,
+                "desc": "",
+                "state": 0,
+                "duration": 112,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 116963082770167,
+                  "view": 316348,
+                  "danmaku": 163,
+                  "reply": 1315,
+                  "fav": 6024,
+                  "coin": 1484,
+                  "share": 5393,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 15362,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 316348
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40193294803,
+                "page": 1,
+                "from": "vupload",
+                "part": "“我只为大狗而哭泣”Cry For Dog",
+                "duration": 112,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV16VgC6UEdG",
+              "pages": [
+                {
+                  "cid": 40193294803,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“我只为大狗而哭泣”Cry For Dog",
+                  "duration": 112,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 227413633,
+              "aid": 117093072641848,
+              "cid": 40903901890,
+              "title": "像匹诺曹一样卡BUG呐",
+              "attribute": 0,
+              "arc": {
+                "aid": 117093072641848,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/f6d9281ad7eb6f626ce87dabbc0cecb6b4dc9b69.jpg",
+                "title": "像匹诺曹一样卡BUG呐",
+                "pubdate": 1786698624,
+                "ctime": 1786698624,
+                "desc": "",
+                "state": 0,
+                "duration": 103,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 117093072641848,
+                  "view": 152044,
+                  "danmaku": 135,
+                  "reply": 354,
+                  "fav": 3120,
+                  "coin": 572,
+                  "share": 380,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 11207,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 152044
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40903901890,
+                "page": 1,
+                "from": "vupload",
+                "part": "像匹诺曹一样卡BUG呐",
+                "duration": 103,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV11RgP67Ecc",
+              "pages": [
+                {
+                  "cid": 40903901890,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "像匹诺曹一样卡BUG呐",
+                  "duration": 103,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 227413632,
+              "aid": 117189172600458,
+              "cid": 41457946079,
+              "title": "⚡️股 点 音 乐⚡️",
+              "attribute": 0,
+              "arc": {
+                "aid": 117189172600458,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/ac22b37d8edb5e5e35c2f047c591f633e77eca10.jpg",
+                "title": "⚡️股 点 音 乐⚡️",
+                "pubdate": 1788166800,
+                "ctime": 1788166800,
+                "desc": "",
+                "state": 0,
+                "duration": 100,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 117189172600458,
+                  "view": 17139,
+                  "danmaku": 16,
+                  "reply": 60,
+                  "fav": 304,
+                  "coin": 71,
+                  "share": 104,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 860,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 17139
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41457946079,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡️股 点 音 乐⚡️",
+                "duration": 100,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1h4tt6iEHa",
+              "pages": [
+                {
+                  "cid": 41457946079,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡️股 点 音 乐⚡️",
+                  "duration": 100,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 228056477,
+              "aid": 117450343521996,
+              "cid": 42793633927,
+              "title": "久留美：FX禁赌曲",
+              "attribute": 0,
+              "arc": {
+                "aid": 117450343521996,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3a5ff13265b66dce3d8ab5ccb4d8a3f5afa03874.jpg",
+                "title": "久留美：FX禁赌曲",
+                "pubdate": 1792150406,
+                "ctime": 1792150406,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 117450343521996,
+                  "view": 176979,
+                  "danmaku": 53,
+                  "reply": 830,
+                  "fav": 5032,
+                  "coin": 680,
+                  "share": 3371,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 18898,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 176979
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42793633927,
+                "page": 1,
+                "from": "vupload",
+                "part": "久留美：FX禁赌曲",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1fKJb68EcD",
+              "pages": [
+                {
+                  "cid": 42793633927,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "久留美：FX禁赌曲",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 231848797,
+              "aid": 117562801264790,
+              "cid": 43347870516,
+              "title": "⚡️根本没有介样的艾辉⚡️",
+              "attribute": 0,
+              "arc": {
+                "aid": 117562801264790,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/4b7e2630f807b07e297ec335250ae91a980fc4d0.jpg",
+                "title": "⚡️根本没有介样的艾辉⚡️",
+                "pubdate": 1793866392,
+                "ctime": 1793866392,
+                "desc": "",
+                "state": 0,
+                "duration": 85,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 117562801264790,
+                  "view": 99500,
+                  "danmaku": 80,
+                  "reply": 275,
+                  "fav": 1197,
+                  "coin": 210,
+                  "share": 1020,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8234,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 99500
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43347870516,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡️根本没有介样的艾辉⚡️",
+                "duration": 85,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1s8446QEuA",
+              "pages": [
+                {
+                  "cid": 43347870516,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡️根本没有介样的艾辉⚡️",
+                  "duration": 85,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 232596356,
+              "aid": 117585383266161,
+              "cid": 43458301629,
+              "title": "⚡️艾 辉 的 诱 惑⚡️",
+              "attribute": 0,
+              "arc": {
+                "aid": 117585383266161,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/11826d56f36ce2e742ae22a8b59dbc33ce105d8a.jpg",
+                "title": "⚡️艾 辉 的 诱 惑⚡️",
+                "pubdate": 1794214800,
+                "ctime": 1794214800,
+                "desc": "",
+                "state": 0,
+                "duration": 106,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 117585383266161,
+                  "view": 56163,
+                  "danmaku": 44,
+                  "reply": 150,
+                  "fav": 585,
+                  "coin": 202,
+                  "share": 502,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4653,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 56163
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43458301629,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡️艾 辉 的 诱 惑⚡️",
+                "duration": 106,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1hhWx6nE8F",
+              "pages": [
+                {
+                  "cid": 43458301629,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡️艾 辉 的 诱 惑⚡️",
+                  "duration": 106,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9313364,
+              "section_id": 10418292,
+              "id": 234353597,
+              "aid": 117636587395981,
+              "cid": 43707991282,
+              "title": "“瓜摊儿前有「烂奇迹」”",
+              "attribute": 0,
+              "arc": {
+                "aid": 117636587395981,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/76c6f083aaa4fc9ad95c69912770860652772657.jpg",
+                "title": "“瓜摊儿前有「烂奇迹」”",
+                "pubdate": 1794992147,
+                "ctime": 1794992147,
+                "desc": "",
+                "state": 0,
+                "duration": 106,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1593075075,
+                  "name": "初小晓Dawn",
+                  "face": "https://i0.hdslb.com/bfs/face/31d3002c59f768943ef5296e13d10d818f9e73e8.jpg"
+                },
+                "stat": {
+                  "aid": 117636587395981,
+                  "view": 25848,
+                  "danmaku": 30,
+                  "reply": 71,
+                  "fav": 1122,
+                  "coin": 231,
+                  "share": 139,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2470,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 25848
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43707991282,
+                "page": 1,
+                "from": "vupload",
+                "part": "“瓜摊儿前有「烂奇迹」”",
+                "duration": 106,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV11Msm6zEbh",
+              "pages": [
+                {
+                  "cid": 43707991282,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“瓜摊儿前有「烂奇迹」”",
+                  "duration": 106,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

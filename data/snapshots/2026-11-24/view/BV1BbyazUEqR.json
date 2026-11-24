@@ -1,0 +1,684 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1BbyazUEqR",
+    "aid": 117653414942994,
+    "videos": 1,
+    "tid": 27,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/a55c54012a0e3ccdb2a4c7371ca3ea490bff3795.jpg",
+    "title": "😡刘华强：你TM浪费我牛排是吧😡",
+    "pubdate": 1795248961,
+    "ctime": 1795248961,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 282,
+    "mission_id": 4073493,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546895414725454,
+      "name": "昔涟PhiLiaEGO",
+      "face": "https://i1.hdslb.com/bfs/face/78965367c6f2ad45af57e744d2c155f2c47c76b5.jpg"
+    },
+    "stat": {
+      "aid": 117653414942994,
+      "view": 504,
+      "danmaku": 0,
+      "reply": 0,
+      "favorite": 6,
+      "coin": 2,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 12,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43791680614,
+    "dimension": {
+      "width": 960,
+      "height": 720,
+      "rotate": 0
+    },
+    "season_id": 8349266,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43791680614,
+        "page": 1,
+        "from": "vupload",
+        "part": "😡刘华强：你TM浪费我牛排是吧😡",
+        "duration": 282,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 960,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000rkolzwun86we2epa0g8piyyhkb_firsti.jpg",
+        "ctime": 1795248961,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8349266,
+      "title": "映视",
+      "cover": "https://archive.biliimg.com/bfs/archive/fc8c9b5de81f12a37fbd68883ab55d26d5f2a645.jpg",
+      "mid": 3546895414725454,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8349266,
+        "view": 8852,
+        "danmaku": 2,
+        "reply": 8,
+        "fav": 38,
+        "coin": 10,
+        "share": 18,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 114,
+        "vt": 0,
+        "vv": 8852
+      },
+      "ep_count": 5,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8349266,
+          "id": 9282109,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8349266,
+              "section_id": 9282109,
+              "id": 226627613,
+              "aid": 117406236152281,
+              "cid": 42575202101,
+              "title": "张国强演的太炸",
+              "attribute": 0,
+              "arc": {
+                "aid": 117406236152281,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/845640ac7245881b1d8a017e0a0da0b282de2340.jpg",
+                "title": "张国强演的太炸",
+                "pubdate": 1791477235,
+                "ctime": 1791477235,
+                "desc": "",
+                "state": 0,
+                "duration": 126,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546895414725454,
+                  "name": "昔涟PhiLiaEGO",
+                  "face": "https://i1.hdslb.com/bfs/face/78965367c6f2ad45af57e744d2c155f2c47c76b5.jpg"
+                },
+                "stat": {
+                  "aid": 117406236152281,
+                  "view": 3972,
+                  "danmaku": 2,
+                  "reply": 7,
+                  "fav": 13,
+                  "coin": 2,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 43,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3972
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42575202101,
+                "page": 1,
+                "from": "vupload",
+                "part": "张国强演的太炸",
+                "duration": 126,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19AHd6PE5d",
+              "pages": [
+                {
+                  "cid": 42575202101,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "张国强演的太炸",
+                  "duration": 126,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8349266,
+              "section_id": 9282109,
+              "id": 229152288,
+              "aid": 117483411346852,
+              "cid": 42950854800,
+              "title": "傻柱不当厨子改当掌柜的了",
+              "attribute": 0,
+              "arc": {
+                "aid": 117483411346852,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/8449c6b7643070951ab773c364183a59c47ebc51.jpg",
+                "title": "傻柱不当厨子改当掌柜的了",
+                "pubdate": 1792654854,
+                "ctime": 1792654854,
+                "desc": "",
+                "state": 0,
+                "duration": 233,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546895414725454,
+                  "name": "昔涟PhiLiaEGO",
+                  "face": "https://i1.hdslb.com/bfs/face/78965367c6f2ad45af57e744d2c155f2c47c76b5.jpg"
+                },
+                "stat": {
+                  "aid": 117483411346852,
+                  "view": 1953,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 5,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 12,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1953
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42950854800,
+                "page": 1,
+                "from": "vupload",
+                "part": "傻柱不当厨子改当掌柜的了",
+                "duration": 233,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Xony6eE5U",
+              "pages": [
+                {
+                  "cid": 42950854800,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "傻柱不当厨子改当掌柜的了",
+                  "duration": 233,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8349266,
+              "section_id": 9282109,
+              "id": 229911108,
+              "aid": 117506043809876,
+              "cid": 43066525304,
+              "title": "皇上滴头啊，前圆后方，后面是平滴",
+              "attribute": 0,
+              "arc": {
+                "aid": 117506043809876,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b48c83bc54fa6f565f52fb3b6b002a4abbe1a81e.jpg",
+                "title": "皇上滴头啊，前圆后方，后面是平滴",
+                "pubdate": 1793000058,
+                "ctime": 1793000058,
+                "desc": "",
+                "state": 0,
+                "duration": 61,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546895414725454,
+                  "name": "昔涟PhiLiaEGO",
+                  "face": "https://i1.hdslb.com/bfs/face/78965367c6f2ad45af57e744d2c155f2c47c76b5.jpg"
+                },
+                "stat": {
+                  "aid": 117506043809876,
+                  "view": 1389,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 9,
+                  "coin": 2,
+                  "share": 15,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 26,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1389
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43066525304,
+                "page": 1,
+                "from": "vupload",
+                "part": "皇上滴头啊，前圆后方，后面是平滴",
+                "duration": 61,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2552,
+                  "height": 1088,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1aZnd6YEdo",
+              "pages": [
+                {
+                  "cid": 43066525304,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "皇上滴头啊，前圆后方，后面是平滴",
+                  "duration": 61,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2552,
+                    "height": 1088,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8349266,
+              "section_id": 9282109,
+              "id": 231264080,
+              "aid": 117545621264140,
+              "cid": 43259528928,
+              "title": "济公惩罚宰相秦桧",
+              "attribute": 0,
+              "arc": {
+                "aid": 117545621264140,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/13480158af04e1922c00e37cebe08c6b1324f95b.jpg",
+                "title": "济公惩罚宰相秦桧",
+                "pubdate": 1793604135,
+                "ctime": 1793604135,
+                "desc": "",
+                "state": 0,
+                "duration": 335,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546895414725454,
+                  "name": "昔涟PhiLiaEGO",
+                  "face": "https://i1.hdslb.com/bfs/face/78965367c6f2ad45af57e744d2c155f2c47c76b5.jpg"
+                },
+                "stat": {
+                  "aid": 117545621264140,
+                  "view": 1035,
+                  "danmaku": 0,
+                  "reply": 1,
+                  "fav": 5,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 21,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1035
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43259528928,
+                "page": 1,
+                "from": "vupload",
+                "part": "济公惩罚宰相秦桧",
+                "duration": 335,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2878,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1xJ4F6CE3H",
+              "pages": [
+                {
+                  "cid": 43259528928,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "济公惩罚宰相秦桧",
+                  "duration": 335,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2878,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8349266,
+              "section_id": 9282109,
+              "id": 234813697,
+              "aid": 117653414942994,
+              "cid": 43791680614,
+              "title": "😡刘华强：你TM浪费我牛排是吧😡",
+              "attribute": 0,
+              "arc": {
+                "aid": 117653414942994,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/a55c54012a0e3ccdb2a4c7371ca3ea490bff3795.jpg",
+                "title": "😡刘华强：你TM浪费我牛排是吧😡",
+                "pubdate": 1795248961,
+                "ctime": 1795248961,
+                "desc": "",
+                "state": 0,
+                "duration": 282,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546895414725454,
+                  "name": "昔涟PhiLiaEGO",
+                  "face": "https://i1.hdslb.com/bfs/face/78965367c6f2ad45af57e744d2c155f2c47c76b5.jpg"
+                },
+                "stat": {
+                  "aid": 117653414942994,
+                  "view": 504,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 6,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 12,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 504
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43791680614,
+                "page": 1,
+                "from": "vupload",
+                "part": "😡刘华强：你TM浪费我牛排是吧😡",
+                "duration": 282,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 960,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BbyazUEqR",
+              "pages": [
+                {
+                  "cid": 43791680614,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "😡刘华强：你TM浪费我牛排是吧😡",
+                  "duration": 282,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 960,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

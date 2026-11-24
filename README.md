@@ -4,6 +4,15 @@
 > 人类对华强的开发不足 0.1%，本档案负责记账。
 > **English? → [README.en.md](README.en.md)** ｜ 🌐 站点 / Site：[richardfans.github.io/huaqiang-china](https://richardfans.github.io/huaqiang-china/)
 
+[![在册二创](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fcount.json)](https://richardfans.github.io/huaqiang-china/)
+[![华强开发度](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fdevelopment.json)](docs/decisions/0009-development-metric.md)
+[![ci](https://img.shields.io/github/actions/workflow/status/RichardFans/huaqiang-china/ci.yml?branch=main)](https://github.com/RichardFans/huaqiang-china/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/code-MIT-content-CC_BY--SA_4.0)](LICENSE.content)
+
+<p align="center">
+  <img src="docs/assets/ignition-timeline.svg" alt="华强二创投稿密度月度时间线，2021-07 引爆窗口高亮" width="880">
+</p>
+
 ## 🍉 这是什么
 
 2026 年 11 月，作者又一次在B站刷到新的华强买瓜二创——从《萨日朗》到 AI 翻唱，
@@ -24,7 +33,8 @@
 [申请下架](.github/ISSUE_TEMPLATE/takedown.yml)。
 
 <!-- zfq:generated:start -->
-**在册 171 条二创**（殿堂 17 · 热门 128 · 新晋 26 · 种子 0）｜ 人工复核 0 · 待复核 171（⚠）｜ 数据快照 2026-11-24（UTC）
+**在册 196 条二创**（殿堂 17 · 热门 133 · 新晋 46 · 种子 0）｜ 人工复核 0 · 待复核 196（⚠）｜ 数据快照 2026-11-24（UTC）
+> 民间口径：人类对华强的开发不足 0.1%。本档案想算一个可复算的版本，结果撞上天花板：平台检索每个关键词最多只给看 1,000 条（5 个关键词实测封顶）。分母不可知，账面已入册 196 条，照记不误（[ADR-0009](docs/decisions/0009-development-metric.md)）
 
 ## 🏆 殿堂级总榜（播放 ≥ 1000 万，共 17 条）
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
@@ -61,7 +71,7 @@
 | 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,170,101 | 64,703 | 剧情剪辑 | 华强买瓜 |
 | 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,465 | 2,253,931 | 剧情剪辑 | 华强买瓜 |
 
-→ 全部 98 条：[docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/maigua/)
+→ 全部 112 条：[docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/maigua/)
 
 ## 🍜 宋老虎请客 · Top 10
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
@@ -77,7 +87,7 @@
 | 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | [乌贼酱](https://space.bilibili.com/242014) | 2026-07 | 2,625,301 | 21,950 | 剧情剪辑 | 宋老虎请客 |
 | 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 2,535,746 | 22,740 | AI其他 | 宋老虎请客 |
 
-→ 全部 38 条：[docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
+→ 全部 51 条：[docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
 
 ## 🔪 封彪桥段 · 全部 7 条
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
@@ -94,14 +104,21 @@
 | 年份 | 在册 | 形态构成 | 年度之最 |
 |---|---|---|---|
 | 2020 | 1 | 剧情剪辑×1 | [电视剧《征服》中那些黑老大们的原型，封彪真的下跪叫爷爷了吗？](https://www.bilibili.com/video/BV1Af4y1d7fv) |
-| 2021 | 59 | 剧情剪辑×53 · 鬼畜调教×6 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) |
+| 2021 | 60 | 剧情剪辑×54 · 鬼畜调教×6 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) |
 | 2022 | 16 | 剧情剪辑×13 · 鬼畜调教×3 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) |
-| 2023 | 12 | 剧情剪辑×12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) |
+| 2023 | 14 | 剧情剪辑×14 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) |
 | 2024 | 8 | 剧情剪辑×8 | [【梗百科】扣税“国王”是啥梗？听好了！乡巴佬？！！](https://www.bilibili.com/video/BV1fJ4m1e7Gv) |
 | 2025 | 7 | 剧情剪辑×7 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) |
-| 2026 | 68 | 剧情剪辑×60 · AI翻唱/语音克隆×3 · 鬼畜调教×3 · AI其他×2 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) |
+| 2026 | 90 | 剧情剪辑×73 · AI翻唱/语音克隆×8 · 鬼畜调教×6 · AI其他×3 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) |
 
-> 一手 pubdate 已见 **2021-07-16–19 四天引爆窗口**（《买瓜大队》《内向顾客》《萨日朗》密集出现）；2026 样本出现平台「疑似AI合成」标注作品。分期结论待 pubdate 深页补采后定稿：[编年初稿](reports/chronicle-draft.md) · [方法学](docs/methodology.md)。⚠=待人工复核（[ADR-0006](docs/decisions/0006-review-gate.md)）。
+> 一手 pubdate 已见 **2021-07-16 至 19 四天引爆窗口**（《买瓜大队》《内向顾客》《萨日朗》密集出现）；2026 样本出现平台「疑似AI合成」标注作品。分期结论待 pubdate 深页补采后定稿：[编年初稿](reports/chronicle-draft.md) · [方法学](docs/methodology.md)。⚠=待人工复核（[ADR-0006](docs/decisions/0006-review-gate.md)）。
+
+## 🕸 创作者星图
+137 位创作者与 196 部在册作品，分成 126 个互不相连的创作单元，其中 26 位 有 2 部以上在册作品。圆点是作品（大小随播放量、颜色是桥段），菱形是创作者，虚线是平台标注的合作关系（参演 4、后期 2、文案 2、剪辑 1、赞助商 1、配音 1）。
+
+<p align="center"><img src="docs/assets/creator-map.svg" alt="创作者星图：137 位创作者、196 部作品、126 个创作单元，按桥段着色" width="880"></p>
+
+→ 可筛选、可悬停的交互版：[站点图谱页](https://richardfans.github.io/huaqiang-china/graph/)。边只来自确定性字段，每条带证据（[ADR-0008](docs/decisions/0008-knowledge-graph.md)）。
 <!-- zfq:generated:end -->
 
 ## 📡 订阅
@@ -133,7 +150,7 @@ python -m zfq.build        # 重建视图/列表/README/订阅源/站点数据
 | `data/vocabulary.md` | 规范词表（canonical 名 + 变体/错写映射，检索的基石） |
 | `data/entries/` `data/creators/` | 档案本体（每视频/每 UP 主一 JSON，带快照证据链） |
 | `data/candidates/` | 拒绝日志——「为什么没收录」也是档案 |
-| `docs/decisions/` | ADR ×7：收录标准 / 合规姿态 / 命名 / 选型 / 发现路线 / 评审门控 / 封面与链接 |
+| `docs/decisions/` | ADR ×9：收录 / 合规 / 命名 / 选型 / 发现 / 评审门控 / 封面链接 / 图谱 / 开发度 |
 | `docs/methodology.md` `docs/verification.md` | 分期方法（预先注册）与验证协议 |
 | `reports/` | 编年初稿 / 跟踪报告 / 交叉验证记录 |
 | `tools/zfq/` | 数据管线（限速客户端 · 入册 · 跟踪 · 校验 · 构建 · issuebot） |

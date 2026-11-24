@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1jseN6cEjj",
+    "aid": 117282319631267,
+    "videos": 1,
+    "tid": 95,
+    "tid_v2": 2105,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/3d59fa44c33ebbf9fc462fea47c9fe23740c634a.jpg",
+    "title": "人类对宋老虎的开发还不足1%",
+    "pubdate": 1789586352,
+    "ctime": 1789586340,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 26,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546879732222441,
+      "name": "和顺成智能手表",
+      "face": "https://i0.hdslb.com/bfs/face/4ef6c80041e956ea601c6d15a8ccc9d2844c5330.jpg"
+    },
+    "stat": {
+      "aid": 117282319631267,
+      "view": 1467,
+      "danmaku": 0,
+      "reply": 19,
+      "favorite": 5,
+      "coin": 5,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 33,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 41955951122,
+    "dimension": {
+      "width": 1080,
+      "height": 1920,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 41955951122,
+        "page": 1,
+        "from": "vupload",
+        "part": "VID_960",
+        "duration": 26,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 1920,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_000033x2gvqm9l8u61y5zoo50arm9ab_firsti.jpg",
+        "ctime": 1789586340,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

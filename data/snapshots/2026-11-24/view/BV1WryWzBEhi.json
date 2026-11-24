@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1WryWzBEhi",
+    "aid": 117647794571848,
+    "videos": 20,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/1d447c2f4dd07bd25721f463d263b7b68899ad65.jpg",
+    "title": "【互动视频】诡 异 宿 舍",
+    "pubdate": 1795222800,
+    "ctime": 1795163157,
+    "desc": "本故事纯属虚构。",
+    "desc_v2": [
+      {
+        "raw_text": "本故事纯属虚构。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 371,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 0,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 1,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 229130836,
+      "name": "梦默js",
+      "face": "https://i1.hdslb.com/bfs/face/e8637d188ebcf550260afd6a4650d6aac35c8725.jpg"
+    },
+    "stat": {
+      "aid": 117647794571848,
+      "view": 10933,
+      "danmaku": 44,
+      "reply": 52,
+      "favorite": 366,
+      "coin": 64,
+      "share": 30,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 488,
+      "dislike": 0,
+      "evaluation": "9.2分",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43762713158,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": true,
+    "pages": [
+      {
+        "cid": 43762713158,
+        "page": 1,
+        "from": "vupload",
+        "part": "D5FCC81E-BA14-48BB-8A82-CB79753B55A7",
+        "duration": 8,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "ctime": 0
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "stein_guide_cid": 99543100,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 0,
+    "is_view_self": false
+  }
+}

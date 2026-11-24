@@ -1,0 +1,725 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1dByVzfEM3",
+    "aid": 117658884245584,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/b2243bea6a8bfd407b7a0bf0fb6a46a525cad511.jpg",
+    "title": "⚡你TM《劈辱我》是吧！⚡",
+    "pubdate": 1795332268,
+    "ctime": 1795332268,
+    "desc": "华强在摊前对峙的时刻\n劈辱我\n秤砣下的吸铁石 怎么说\n刀锋与生计对抗着\n本心却已不知下落\n可如果寻不来片刻从容 的停泊\n做不了人人信服 那一个\n我能不能在喧嚣过后\n守着瓜摊 卖出保熟的瓜果\n————————————\n本家：BV1SKsK6fEg5\nBGM：譬如我 (枕头下发霉的梦)\n制作：@S-Venti \n填词：@芊素若雪0323",
+    "desc_v2": [
+      {
+        "raw_text": "华强在摊前对峙的时刻\n劈辱我\n秤砣下的吸铁石 怎么说\n刀锋与生计对抗着\n本心却已不知下落\n可如果寻不来片刻从容 的停泊\n做不了人人信服 那一个\n我能不能在喧嚣过后\n守着瓜摊 卖出保熟的瓜果\n————————————\n本家：BV1SKsK6fEg5\nBGM：譬如我 (枕头下发霉的梦)\n制作：",
+        "type": 1,
+        "biz_id": 0
+      },
+      {
+        "raw_text": "S-Venti",
+        "type": 2,
+        "biz_id": 1872265222
+      },
+      {
+        "raw_text": "\n填词：",
+        "type": 1,
+        "biz_id": 0
+      },
+      {
+        "raw_text": "芊素若雪0323",
+        "type": 2,
+        "biz_id": 2101183294
+      }
+    ],
+    "state": 0,
+    "duration": 102,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 1,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1872265222,
+      "name": "S-Venti",
+      "face": "https://i1.hdslb.com/bfs/face/81cf3463a526376fbe0aee9a6d392d99ef280af3.jpg"
+    },
+    "stat": {
+      "aid": 117658884245584,
+      "view": 4764,
+      "danmaku": 24,
+      "reply": 49,
+      "favorite": 436,
+      "coin": 83,
+      "share": 16,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 914,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43821170754,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 8083465,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43821170754,
+        "page": 1,
+        "from": "vupload",
+        "part": "Video_1795331914240_886",
+        "duration": 102,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001n36mjnys2e792kijnkcs4dltnb_firsti.jpg",
+        "ctime": 1795332268,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "staff": [
+      {
+        "mid": 1872265222,
+        "title": "UP主",
+        "name": "S-Venti",
+        "face": "https://i1.hdslb.com/bfs/face/81cf3463a526376fbe0aee9a6d392d99ef280af3.jpg",
+        "vip": {
+          "type": 2,
+          "status": 1,
+          "due_date": 1831996800000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "http://i0.hdslb.com/bfs/vip/label_annual.png",
+            "text": "年度大会员",
+            "label_theme": "annual_vip",
+            "text_color": "#FFFFFF",
+            "bg_style": 1,
+            "bg_color": "#FB7299",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png",
+            "label_id": -22,
+            "label_goto": {
+              "mobile": "https://big.bilibili.com/mobile/index?navhide=1&from_spmid=vipicon",
+              "pc_web": "https://account.bilibili.com/big?from_spmid=vipicon"
+            },
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 2
+          },
+          "avatar_subscript": 1,
+          "nickname_color": "#FB7299",
+          "role": 3,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 1,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 1822406400,
+          "avatar_icon": {
+            "icon_type": 1,
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 1,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 1,
+            "overdue_time": 1822406400
+          },
+          "super_vip": {
+            "is_super_vip": true
+          }
+        },
+        "official": {
+          "role": 1,
+          "title": "bilibili 知名鬼畜UP主",
+          "desc": "",
+          "type": 0
+        },
+        "follower": 358282,
+        "label_style": 0
+      },
+      {
+        "mid": 2101183294,
+        "title": "填词",
+        "name": "芊素若雪0323",
+        "face": "https://i1.hdslb.com/bfs/face/6061b124fa6fee1af1afe6be91a824f86d8aa105.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1646064000000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 27165,
+        "label_style": 0
+      }
+    ],
+    "ugc_season": {
+      "id": 8083465,
+      "title": "牢温的水果摊儿～",
+      "cover": "https://archive.biliimg.com/bfs/archive/d671e2c8a658d0acb11dc0fe8d0bda53579f4e30.jpg",
+      "mid": 1872265222,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8083465,
+        "view": 447056,
+        "danmaku": 672,
+        "reply": 1278,
+        "fav": 10149,
+        "coin": 7260,
+        "share": 1858,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 29146,
+        "vt": 0,
+        "vv": 447056
+      },
+      "ep_count": 4,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8083465,
+          "id": 8982065,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8083465,
+              "section_id": 8982065,
+              "id": 194272125,
+              "aid": 116542779953030,
+              "cid": 38205131240,
+              "title": "《捅 话 镇》",
+              "attribute": 0,
+              "arc": {
+                "aid": 116542779953030,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/d1245d80890cb3cf95025b918d138e5aa7a01a3f.jpg",
+                "title": "《捅 话 镇》",
+                "pubdate": 1778301945,
+                "ctime": 1778301945,
+                "desc": "",
+                "state": 0,
+                "duration": 203,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1872265222,
+                  "name": "S-Venti",
+                  "face": "https://i1.hdslb.com/bfs/face/81cf3463a526376fbe0aee9a6d392d99ef280af3.jpg"
+                },
+                "stat": {
+                  "aid": 116542779953030,
+                  "view": 249763,
+                  "danmaku": 268,
+                  "reply": 492,
+                  "fav": 3961,
+                  "coin": 3364,
+                  "share": 756,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13616,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 249763
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38205131240,
+                "page": 1,
+                "from": "vupload",
+                "part": "Video_1778301528606_193",
+                "duration": 203,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rhRSB2Epx",
+              "pages": [
+                {
+                  "cid": 38205131240,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "Video_1778301528606_193",
+                  "duration": 203,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8083465,
+              "section_id": 8982065,
+              "id": 234980972,
+              "aid": 117658884245584,
+              "cid": 43821170754,
+              "title": "⚡你TM《劈辱我》是吧！⚡",
+              "attribute": 0,
+              "arc": {
+                "aid": 117658884245584,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b2243bea6a8bfd407b7a0bf0fb6a46a525cad511.jpg",
+                "title": "⚡你TM《劈辱我》是吧！⚡",
+                "pubdate": 1795332268,
+                "ctime": 1795332268,
+                "desc": "",
+                "state": 0,
+                "duration": 102,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1872265222,
+                  "name": "S-Venti",
+                  "face": "https://i1.hdslb.com/bfs/face/81cf3463a526376fbe0aee9a6d392d99ef280af3.jpg"
+                },
+                "stat": {
+                  "aid": 117658884245584,
+                  "view": 4764,
+                  "danmaku": 24,
+                  "reply": 49,
+                  "fav": 436,
+                  "coin": 83,
+                  "share": 16,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 914,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4764
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43821170754,
+                "page": 1,
+                "from": "vupload",
+                "part": "Video_1795331914240_886",
+                "duration": 102,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1dByVzfEM3",
+              "pages": [
+                {
+                  "cid": 43821170754,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "Video_1795331914240_886",
+                  "duration": 102,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8083465,
+              "section_id": 8982065,
+              "id": 194272164,
+              "aid": 116486425281132,
+              "cid": 37935647147,
+              "title": "《桃 瓜 笑》",
+              "attribute": 0,
+              "arc": {
+                "aid": 116486425281132,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/e64647658e43a62e816167680b4e91c472f52ecd.jpg",
+                "title": "《桃 瓜 笑》",
+                "pubdate": 1777441997,
+                "ctime": 1777441997,
+                "desc": "",
+                "state": 0,
+                "duration": 203,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1872265222,
+                  "name": "S-Venti",
+                  "face": "https://i1.hdslb.com/bfs/face/81cf3463a526376fbe0aee9a6d392d99ef280af3.jpg"
+                },
+                "stat": {
+                  "aid": 116486425281132,
+                  "view": 164428,
+                  "danmaku": 352,
+                  "reply": 671,
+                  "fav": 4960,
+                  "coin": 3553,
+                  "share": 1028,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13029,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 164428
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37935647147,
+                "page": 1,
+                "from": "vupload",
+                "part": "Video_1777441363962_729",
+                "duration": 203,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1922,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19J9SBcEeH",
+              "pages": [
+                {
+                  "cid": 37935647147,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "Video_1777441363962_729",
+                  "duration": 203,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1922,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8083465,
+              "section_id": 8982065,
+              "id": 196636226,
+              "aid": 116605140862181,
+              "cid": 38468715116,
+              "title": "“水果刀刃悄然而至——Way Back Home”",
+              "attribute": 0,
+              "arc": {
+                "aid": 116605140862181,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/e08571509024d50d4a662f03effcf81ea7482e01.jpg",
+                "title": "“水果刀刃悄然而至——Way Back Home”",
+                "pubdate": 1779254040,
+                "ctime": 1779254040,
+                "desc": "",
+                "state": 0,
+                "duration": 203,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1872265222,
+                  "name": "S-Venti",
+                  "face": "https://i1.hdslb.com/bfs/face/81cf3463a526376fbe0aee9a6d392d99ef280af3.jpg"
+                },
+                "stat": {
+                  "aid": 116605140862181,
+                  "view": 28102,
+                  "danmaku": 28,
+                  "reply": 66,
+                  "fav": 792,
+                  "coin": 260,
+                  "share": 58,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1587,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 28102
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38468715116,
+                "page": 1,
+                "from": "vupload",
+                "part": "Video_1779253220337_334",
+                "duration": 203,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1922,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1eYL26cE7Z",
+              "pages": [
+                {
+                  "cid": 38468715116,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "Video_1779253220337_334",
+                  "duration": 203,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1922,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,9 +1,11 @@
 {
-  "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%BE%81%E6%9C%8D+%E9%AC%BC%E7%95%9C&order=click&page=1",
-  "captured_at": "2026-11-24T02:12:10+00:00",
-  "sha256": "b3916c3b5c7a38379af2601ed7ccdb7e5aa8cf1b1c02cd3eef97e850c552ce14",
-  "bytes": 136730,
-  "items_parsed": 81,
+  "url": "https://search.bilibili.com/all?keyword=%E5%BE%81%E6%9C%8D+%E9%AC%BC%E7%95%9C&order=click&page=1",
+  "captured_at": "2026-11-24T04:17:09+00:00",
+  "sha256": "2d2fae2ed447069e3819034f2384adbdd9887f0f5b4b07168f6a21a5d93c5176",
+  "bytes": 140639,
+  "items_parsed": 73,
   "numResults_total": 1000,
+  "numPages_total": 50,
+  "numResults_source": "searchAllResponse.numResults（__pinia IIFE 常量表，形参下标对位）",
   "note": "原始 HTML 不入库（ADR-0002），仅留哈希与解析计数"
 }

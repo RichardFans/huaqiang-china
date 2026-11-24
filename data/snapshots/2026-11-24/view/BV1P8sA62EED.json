@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1P8sA62EED",
+    "aid": 117626185450454,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i2.hdslb.com/bfs/archive/a6291527f72f83879cfe2cb1f333674314e34b5b.jpg",
+    "title": "华强买瓜，但百度机翻20次（素材来自征服刘华强）",
+    "pubdate": 1794833515,
+    "ctime": 1794833515,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 124,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2079486761,
+      "name": "凛冬散尽星月同辉",
+      "face": "https://i2.hdslb.com/bfs/face/e693e8818d2afd1713e78329810a45283ba3831f.jpg"
+    },
+    "stat": {
+      "aid": 117626185450454,
+      "view": 52,
+      "danmaku": 0,
+      "reply": 3,
+      "favorite": 1,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "个人观点，仅供参考",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43658118833,
+    "dimension": {
+      "width": 1920,
+      "height": 868,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43658118833,
+        "page": 1,
+        "from": "vupload",
+        "part": "SVID_20261116_194928_1.mp4",
+        "duration": 124,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 868,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002ucfon27mic6e2t4h6jfj47cefb_firsti.jpg",
+        "ctime": 1794833515,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

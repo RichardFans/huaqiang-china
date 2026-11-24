@@ -1,0 +1,716 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1rU4y1S7mG",
+    "aid": 685564979,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2002,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 2,
+    "pic": "http://i2.hdslb.com/bfs/archive/ef206eb804437fbe2b7a261aa4b138be2a76dab0.jpg",
+    "title": "【征服】宋老虎出现过的所有剧情",
+    "pubdate": 1656944030,
+    "ctime": 1656944030,
+    "desc": "乐视\n宋老虎由马晓明饰演\n出现在7到11集之间",
+    "desc_v2": [
+      {
+        "raw_text": "乐视\n宋老虎由马晓明饰演\n出现在7到11集之间",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 517,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 446341126,
+      "name": "Kevin-Silvia",
+      "face": "https://i1.hdslb.com/bfs/face/0afb809923c3af38a322cb33cd58132904858a6a.jpg"
+    },
+    "stat": {
+      "aid": 685564979,
+      "view": 207759,
+      "danmaku": 1343,
+      "reply": 290,
+      "favorite": 973,
+      "coin": 102,
+      "share": 284,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2404,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 763855294,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "season_id": 811362,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 763855294,
+        "page": 1,
+        "from": "vupload",
+        "part": "【征服】宋老虎出现过的所有剧情",
+        "duration": 517,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220704qn1hceknt9jipqz3gyfb88f9p_firsti.jpg",
+        "ctime": 1656944030
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 811362,
+      "title": "华强什么都卖，什么人都买瓜",
+      "cover": "https://archive.biliimg.com/bfs/archive/ec4ed535e2a0f46d43838c4602e128ac93283c5c.jpg",
+      "mid": 446341126,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 811362,
+        "view": 530796,
+        "danmaku": 2020,
+        "reply": 838,
+        "fav": 7960,
+        "coin": 2562,
+        "share": 2284,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 20999,
+        "vt": 0,
+        "vv": 530796
+      },
+      "ep_count": 5,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 811362,
+          "id": 939353,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 811362,
+              "section_id": 939353,
+              "id": 14285358,
+              "aid": 685564979,
+              "cid": 763855294,
+              "title": "【征服】宋老虎出现过的所有剧情",
+              "attribute": 0,
+              "arc": {
+                "aid": 685564979,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/ef206eb804437fbe2b7a261aa4b138be2a76dab0.jpg",
+                "title": "【征服】宋老虎出现过的所有剧情",
+                "pubdate": 1656944030,
+                "ctime": 1656944030,
+                "desc": "",
+                "state": 0,
+                "duration": 517,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 446341126,
+                  "name": "Kevin-Silvia",
+                  "face": "https://i1.hdslb.com/bfs/face/0afb809923c3af38a322cb33cd58132904858a6a.jpg"
+                },
+                "stat": {
+                  "aid": 685564979,
+                  "view": 207759,
+                  "danmaku": 1343,
+                  "reply": 290,
+                  "fav": 973,
+                  "coin": 102,
+                  "share": 284,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2404,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 207759
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 763855294,
+                "page": 1,
+                "from": "vupload",
+                "part": "【征服】宋老虎出现过的所有剧情",
+                "duration": 517,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rU4y1S7mG",
+              "pages": [
+                {
+                  "cid": 763855294,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【征服】宋老虎出现过的所有剧情",
+                  "duration": 517,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 811362,
+              "section_id": 939353,
+              "id": 14285359,
+              "aid": 979611545,
+              "cid": 543270323,
+              "title": "衡 州 市 枪 击 案 的 真 正 凶 手",
+              "attribute": 0,
+              "arc": {
+                "aid": 979611545,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/561839e223b0eb2147993e29f9c79d17d18bf550.jpg",
+                "title": "衡 州 市 枪 击 案 的 真 正 凶 手",
+                "pubdate": 1646570991,
+                "ctime": 1646570991,
+                "desc": "",
+                "state": 0,
+                "duration": 255,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 446341126,
+                  "name": "Kevin-Silvia",
+                  "face": "https://i1.hdslb.com/bfs/face/0afb809923c3af38a322cb33cd58132904858a6a.jpg"
+                },
+                "stat": {
+                  "aid": 979611545,
+                  "view": 80138,
+                  "danmaku": 163,
+                  "reply": 67,
+                  "fav": 1013,
+                  "coin": 305,
+                  "share": 78,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4127,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 80138
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 543270323,
+                "page": 1,
+                "from": "vupload",
+                "part": "团  伙  作  案",
+                "duration": 255,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Q44y1M71w",
+              "pages": [
+                {
+                  "cid": 543270323,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "团  伙  作  案",
+                  "duration": 255,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 811362,
+              "section_id": 939353,
+              "id": 16123026,
+              "aid": 860393567,
+              "cid": 901257805,
+              "title": "【征服】郝哥BGM完整版流出",
+              "attribute": 0,
+              "arc": {
+                "aid": 860393567,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/027c23747863d465e283a43df8137bba2287ac2d.jpg",
+                "title": "【征服】郝哥BGM完整版流出",
+                "pubdate": 1669268020,
+                "ctime": 1669268020,
+                "desc": "",
+                "state": 0,
+                "duration": 82,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 446341126,
+                  "name": "Kevin-Silvia",
+                  "face": "https://i1.hdslb.com/bfs/face/0afb809923c3af38a322cb33cd58132904858a6a.jpg"
+                },
+                "stat": {
+                  "aid": 860393567,
+                  "view": 30245,
+                  "danmaku": 72,
+                  "reply": 27,
+                  "fav": 581,
+                  "coin": 48,
+                  "share": 85,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1195,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 30245
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 901257805,
+                "page": 1,
+                "from": "vupload",
+                "part": "【征服】郝哥BGM完整版流出",
+                "duration": 82,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 768,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cG4y1d7UC",
+              "pages": [
+                {
+                  "cid": 901257805,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【征服】郝哥BGM完整版流出",
+                  "duration": 82,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 768,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 811362,
+              "section_id": 939353,
+              "id": 195182822,
+              "aid": 116567257909425,
+              "cid": 38307302539,
+              "title": "🎵华强买瓜，但是80年代华语金曲🎵",
+              "attribute": 0,
+              "arc": {
+                "aid": 116567257909425,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/fda1eb2b655c7b68500af691860b6d81abf4f16d.jpg",
+                "title": "🎵华强买瓜，但是80年代华语金曲🎵",
+                "pubdate": 1778675393,
+                "ctime": 1778675393,
+                "desc": "",
+                "state": 0,
+                "duration": 521,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 446341126,
+                  "name": "Kevin-Silvia",
+                  "face": "https://i1.hdslb.com/bfs/face/0afb809923c3af38a322cb33cd58132904858a6a.jpg"
+                },
+                "stat": {
+                  "aid": 116567257909425,
+                  "view": 148920,
+                  "danmaku": 395,
+                  "reply": 415,
+                  "fav": 2668,
+                  "coin": 1126,
+                  "share": 968,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8297,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 148920
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38307302539,
+                "page": 1,
+                "from": "vupload",
+                "part": "经典款",
+                "duration": 251,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 640,
+                  "height": 480,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1sf5y6rEWq",
+              "pages": [
+                {
+                  "cid": 38307302539,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "经典款",
+                  "duration": 251,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 640,
+                    "height": 480,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 38356060966,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "二遍版",
+                  "duration": 135,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 640,
+                    "height": 480,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 38356061122,
+                  "page": 3,
+                  "from": "vupload",
+                  "part": "伴奏",
+                  "duration": 135,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 640,
+                    "height": 480,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 811362,
+              "section_id": 939353,
+              "id": 195285766,
+              "aid": 116570764346850,
+              "cid": 38319621349,
+              "title": "· 华强买瓜，但是90年代金曲 ·",
+              "attribute": 0,
+              "arc": {
+                "aid": 116570764346850,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/34afac866c7adcd4ff7317aec8e4d3f35eae3d10.jpg",
+                "title": "· 华强买瓜，但是90年代金曲 ·",
+                "pubdate": 1778839200,
+                "ctime": 1778839200,
+                "desc": "",
+                "state": 0,
+                "duration": 200,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 446341126,
+                  "name": "Kevin-Silvia",
+                  "face": "https://i1.hdslb.com/bfs/face/0afb809923c3af38a322cb33cd58132904858a6a.jpg"
+                },
+                "stat": {
+                  "aid": 116570764346850,
+                  "view": 63734,
+                  "danmaku": 47,
+                  "reply": 39,
+                  "fav": 2725,
+                  "coin": 981,
+                  "share": 869,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4976,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 63734
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38319621349,
+                "page": 1,
+                "from": "vupload",
+                "part": "· 华强买瓜，但是90年代金曲 ·",
+                "duration": 200,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 640,
+                  "height": 480,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Lt5S6MEN3",
+              "pages": [
+                {
+                  "cid": 38319621349,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "· 华强买瓜，但是90年代金曲 ·",
+                  "duration": 200,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 640,
+                    "height": 480,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

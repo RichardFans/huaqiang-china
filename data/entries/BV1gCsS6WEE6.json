@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1gCsS6WEE6",
+  "aid": 117637040314752,
+  "title": "刘华强在黑道做慈善？二十万赔偿款说不要就不要【一千零一部】",
+  "owner": {
+    "mid": 927587,
+    "name": "木鱼水心"
+  },
+  "pubdate": "2026-11-18T10:53:22Z",
+  "duration_s": 1490,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『华强买瓜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 812,818 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i1.hdslb.com/bfs/archive/fd979176f69935706875df02180b18d63b257205.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 812818,
+      "like": 34445,
+      "coin": 13426,
+      "favorite": 8648,
+      "share": 580,
+      "danmaku": 2154,
+      "reply": 705
+    }
+  ],
+  "notes": ""
+}

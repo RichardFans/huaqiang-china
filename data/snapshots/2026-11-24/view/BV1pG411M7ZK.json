@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1pG411M7ZK",
+    "aid": 433092629,
+    "videos": 1,
+    "tid": 126,
+    "tid_v2": 2059,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/a979bf826f625ea8ddab967c44b872a1d7a56d78.jpg",
+    "title": "华强买瓜【奢香夫人】",
+    "pubdate": 1669342043,
+    "ctime": 1669342044,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 132,
+    "mission_id": 1030693,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 16283659,
+      "name": "天蓝海风吹",
+      "face": "https://i1.hdslb.com/bfs/face/8d7a0d1e4e87ac4604a5e8d5a5334eb1cfe393aa.jpg"
+    },
+    "stat": {
+      "aid": 433092629,
+      "view": 51071,
+      "danmaku": 165,
+      "reply": 97,
+      "favorite": 669,
+      "coin": 627,
+      "share": 96,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2340,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 902130086,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 902130086,
+        "page": 1,
+        "from": "vupload",
+        "part": "华强买瓜【奢香夫人】",
+        "duration": 132,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n221125qn395gd712lor0318jjyapcsb_firsti.jpg",
+        "ctime": 1669342044
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

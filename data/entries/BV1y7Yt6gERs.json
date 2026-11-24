@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1y7Yt6gERs",
+  "aid": 117241534221565,
+  "title": "【大肉嘎】一起看：华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】（多梦综合征）",
+  "owner": {
+    "mid": 11729739,
+    "name": "疯狂矿泉水"
+  },
+  "pubdate": "2026-09-09T14:29:30Z",
+  "duration_s": 332,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "标题显式命中桥段词（song-laohu-banquet）；检索词『宋老虎』补全",
+  "scene_status": "confirmed",
+  "form": "ai-cover",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI+声音/音乐关键词：AI+唱",
+  "tier": "rising",
+  "tier_basis": "播放 168,146 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i2.hdslb.com/bfs/archive/9134893eb672b98871869d93efc1bb1749194335.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 168146,
+      "like": 2194,
+      "coin": 464,
+      "favorite": 592,
+      "share": 68,
+      "danmaku": 98,
+      "reply": 119
+    }
+  ],
+  "notes": ""
+}

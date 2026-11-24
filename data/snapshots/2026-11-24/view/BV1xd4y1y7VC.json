@@ -1,0 +1,473 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1xd4y1y7VC",
+    "aid": 389413315,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2002,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/1ef677d3d7afc477dc9f6d4c0e4f5df37089d717.jpg",
+    "title": "一次看个够—征服名场面合集",
+    "pubdate": 1666684226,
+    "ctime": 1666683749,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 5164,
+    "mission_id": 981946,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 345902201,
+      "name": "账号已注销",
+      "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg"
+    },
+    "stat": {
+      "aid": 389413315,
+      "view": 270966,
+      "danmaku": 4857,
+      "reply": 351,
+      "favorite": 4744,
+      "coin": 1827,
+      "share": 599,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 4935,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 872244294,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 1048055,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 872244294,
+        "page": 1,
+        "from": "vupload",
+        "part": "一次看个够—征服名场面合集",
+        "duration": 5164,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n221026a23fo7jpd6fuok23jmswz1jy8_firsti.jpg",
+        "ctime": 1666757953
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 1048055,
+      "title": "一次看个够，征服名场面大合集",
+      "cover": "https://archive.biliimg.com/bfs/archive/c157212e0a7f137e551d20952a15f175af819d05.jpg",
+      "mid": 345902201,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 156,
+      "stat": {
+        "season_id": 1048055,
+        "view": 492937,
+        "danmaku": 7822,
+        "reply": 642,
+        "fav": 6835,
+        "coin": 2421,
+        "share": 781,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 7884,
+        "vt": 0,
+        "vv": 492937
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 1048055,
+          "id": 1209798,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 1048055,
+              "section_id": 1209798,
+              "id": 20445973,
+              "aid": 389413315,
+              "cid": 872244294,
+              "title": "一次看个够—征服名场面合集1",
+              "attribute": 0,
+              "arc": {
+                "aid": 389413315,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/1ef677d3d7afc477dc9f6d4c0e4f5df37089d717.jpg",
+                "title": "一次看个够—征服名场面合集1",
+                "pubdate": 1666684226,
+                "ctime": 1666684226,
+                "desc": "",
+                "state": 0,
+                "duration": 5164,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 345902201,
+                  "name": "账号已注销",
+                  "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg"
+                },
+                "stat": {
+                  "aid": 389413315,
+                  "view": 270966,
+                  "danmaku": 4857,
+                  "reply": 351,
+                  "fav": 4744,
+                  "coin": 1827,
+                  "share": 599,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4935,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 270966
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 872244294,
+                "page": 1,
+                "from": "vupload",
+                "part": "一次看个够—征服名场面合集",
+                "duration": 5164,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1xd4y1y7VC",
+              "pages": [
+                {
+                  "cid": 872244294,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "一次看个够—征服名场面合集",
+                  "duration": 5164,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1048055,
+              "section_id": 1209798,
+              "id": 20445972,
+              "aid": 518621965,
+              "cid": 918040997,
+              "title": "一次看个够—征服名场面合集2",
+              "attribute": 0,
+              "arc": {
+                "aid": 518621965,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/d3cb554552a6b5f1a163f54b8b0297e4214e0bbf.jpg",
+                "title": "一次看个够—征服名场面合集2",
+                "pubdate": 1670641200,
+                "ctime": 1670641200,
+                "desc": "",
+                "state": 0,
+                "duration": 2428,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 345902201,
+                  "name": "账号已注销",
+                  "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg"
+                },
+                "stat": {
+                  "aid": 518621965,
+                  "view": 132050,
+                  "danmaku": 1487,
+                  "reply": 152,
+                  "fav": 1055,
+                  "coin": 308,
+                  "share": 98,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1597,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 132050
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 918040997,
+                "page": 1,
+                "from": "vupload",
+                "part": "征服名场面合集2",
+                "duration": 2428,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Tg411n7ph",
+              "pages": [
+                {
+                  "cid": 918040997,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "征服名场面合集2",
+                  "duration": 2428,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1048055,
+              "section_id": 1209798,
+              "id": 20445971,
+              "aid": 776930161,
+              "cid": 941991041,
+              "title": "一次看个够—征服名场面合集3",
+              "attribute": 0,
+              "arc": {
+                "aid": 776930161,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/aa20034f08c7081584ab249739ce16871e460524.jpg",
+                "title": "一次看个够—征服名场面合集3",
+                "pubdate": 1672367400,
+                "ctime": 1672367400,
+                "desc": "",
+                "state": 0,
+                "duration": 3370,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 345902201,
+                  "name": "账号已注销",
+                  "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg"
+                },
+                "stat": {
+                  "aid": 776930161,
+                  "view": 89921,
+                  "danmaku": 1478,
+                  "reply": 139,
+                  "fav": 1036,
+                  "coin": 286,
+                  "share": 84,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1352,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 89921
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 941991041,
+                "page": 1,
+                "from": "vupload",
+                "part": "征服名场面合集3",
+                "duration": 3370,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1514y1A7an",
+              "pages": [
+                {
+                  "cid": 941991041,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "征服名场面合集3",
+                  "duration": 3370,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

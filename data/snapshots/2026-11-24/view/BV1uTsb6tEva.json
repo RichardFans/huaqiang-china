@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1uTsb6tEva",
+    "aid": 117641905706596,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/301abe236fd97d20515c889d6d5b094517c5ce79.jpg",
+    "title": "一口气看完国产犯罪剧《征服》，狠人刘华强的处世之道！",
+    "pubdate": 1795158000,
+    "ctime": 1795073763,
+    "desc": "《征服》是2003年经典警匪剧，由孙红雷、石兆琪主演。衡州发生枪击命案，刑警徐国庆带队追查，锁定黑恶头目刘华强。刘华强为给弟弟报仇，接连向仇家下手，警方与他展开紧张的追捕博弈。剧集改编自真实案件，人物刻画鲜活，是国产扫黑题材的经典之作。",
+    "desc_v2": [
+      {
+        "raw_text": "《征服》是2003年经典警匪剧，由孙红雷、石兆琪主演。衡州发生枪击命案，刑警徐国庆带队追查，锁定黑恶头目刘华强。刘华强为给弟弟报仇，接连向仇家下手，警方与他展开紧张的追捕博弈。剧集改编自真实案件，人物刻画鲜活，是国产扫黑题材的经典之作。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 5896,
+    "mission_id": 4071918,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546624194251271,
+      "name": "老馬说剧",
+      "face": "https://i2.hdslb.com/bfs/face/8221c15296bc7e6ee3bde749660b821a386113fa.jpg"
+    },
+    "stat": {
+      "aid": 117641905706596,
+      "view": 2762,
+      "danmaku": 1,
+      "reply": 2,
+      "favorite": 47,
+      "coin": 10,
+      "share": 1,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 39,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "一口气看完国产犯罪剧《征服》，狠人刘华强的处世之道！",
+    "cid": 43805378394,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43805378394,
+        "page": 1,
+        "from": "vupload",
+        "part": "petal_20261119_125217",
+        "duration": 5896,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_000011ccz9riujm322u80czbzo1qgwb_firsti.jpg",
+        "ctime": 1795280893,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

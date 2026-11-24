@@ -1,0 +1,689 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ruWx6vEn4",
+    "aid": 117585282602457,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/52a52977cb3974637c9dc711ce09962c0b4b74f1.jpg",
+    "title": "从未设想Ai别人的宋老虎能这么好笑",
+    "pubdate": 1794209275,
+    "ctime": 1794209241,
+    "desc": "请输入文本",
+    "desc_v2": [
+      {
+        "raw_text": "请输入文本",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 34,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 26057193,
+      "name": "来自MA的纸箱",
+      "face": "https://i0.hdslb.com/bfs/face/6bdb115943f8ee0ee3c21f2c5da3d3a50ec213f5.jpg"
+    },
+    "stat": {
+      "aid": 117585282602457,
+      "view": 494,
+      "danmaku": 0,
+      "reply": 1,
+      "favorite": 1,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 10,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43458169298,
+    "dimension": {
+      "width": 1134,
+      "height": 1280,
+      "rotate": 0
+    },
+    "season_id": 9116307,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43458169298,
+        "page": 1,
+        "from": "vupload",
+        "part": "petal_20261109_152238",
+        "duration": 34,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1134,
+          "height": 1280,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000359c3wdfnj8d2vy3pqo4s12h8b_firsti.jpg",
+        "ctime": 1794209241,
+        "asr_language": "eng"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9116307,
+      "title": "Ai乐色桶",
+      "cover": "https://archive.biliimg.com/bfs/archive/67a8752818ac5fd0508b103a25172dde5d33ee2f.jpg",
+      "mid": 26057193,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9116307,
+        "view": 3465,
+        "danmaku": 0,
+        "reply": 23,
+        "fav": 28,
+        "coin": 20,
+        "share": 5,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 159,
+        "vt": 0,
+        "vv": 3465
+      },
+      "ep_count": 5,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9116307,
+          "id": 10183785,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9116307,
+              "section_id": 10183785,
+              "id": 224182990,
+              "aid": 117330201811603,
+              "cid": 42186967454,
+              "title": "你要喝什么",
+              "attribute": 0,
+              "arc": {
+                "aid": 117330201811603,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/7310685df38464980c985566981991ad71f5644e.jpg",
+                "title": "你要喝什么",
+                "pubdate": 1790316968,
+                "ctime": 1790316968,
+                "desc": "",
+                "state": 0,
+                "duration": 12,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 26057193,
+                  "name": "来自MA的纸箱",
+                  "face": "https://i0.hdslb.com/bfs/face/6bdb115943f8ee0ee3c21f2c5da3d3a50ec213f5.jpg"
+                },
+                "stat": {
+                  "aid": 117330201811603,
+                  "view": 1107,
+                  "danmaku": 0,
+                  "reply": 8,
+                  "fav": 7,
+                  "coin": 4,
+                  "share": 4,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 31,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1107
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42186967454,
+                "page": 1,
+                "from": "vupload",
+                "part": "petal_20260925_151120",
+                "duration": 12,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1f2hy6qEhr",
+              "pages": [
+                {
+                  "cid": 42186967454,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "petal_20260925_151120",
+                  "duration": 12,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9116307,
+              "section_id": 10183785,
+              "id": 226145764,
+              "aid": 117392378173123,
+              "cid": 42504946422,
+              "title": "__ __ 滚滚进门来",
+              "attribute": 0,
+              "arc": {
+                "aid": 117392378173123,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/dd537565aea410000be2255b3a64388c9e2e8c16.jpg",
+                "title": "__ __ 滚滚进门来",
+                "pubdate": 1791265754,
+                "ctime": 1791265754,
+                "desc": "",
+                "state": 0,
+                "duration": 5,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 26057193,
+                  "name": "来自MA的纸箱",
+                  "face": "https://i0.hdslb.com/bfs/face/6bdb115943f8ee0ee3c21f2c5da3d3a50ec213f5.jpg"
+                },
+                "stat": {
+                  "aid": 117392378173123,
+                  "view": 121,
+                  "danmaku": 0,
+                  "reply": 4,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 121
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42504946422,
+                "page": 1,
+                "from": "vupload",
+                "part": "8707c472-2dd1-45f3-ba99-9d87ec71a5981772035706860",
+                "duration": 5,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 960,
+                  "height": 960,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1nEpc6bENK",
+              "pages": [
+                {
+                  "cid": 42504946422,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "8707c472-2dd1-45f3-ba99-9d87ec71a5981772035706860",
+                  "duration": 5,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 960,
+                    "height": 960,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9116307,
+              "section_id": 10183785,
+              "id": 226515574,
+              "aid": 117403988007497,
+              "cid": 42561375671,
+              "title": "超级冲刺",
+              "attribute": 0,
+              "arc": {
+                "aid": 117403988007497,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/23981812cb7d806fcf50e817095e00f6e2ad5fe9.jpg",
+                "title": "超级冲刺",
+                "pubdate": 1791442812,
+                "ctime": 1791442812,
+                "desc": "",
+                "state": 0,
+                "duration": 17,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 26057193,
+                  "name": "来自MA的纸箱",
+                  "face": "https://i0.hdslb.com/bfs/face/6bdb115943f8ee0ee3c21f2c5da3d3a50ec213f5.jpg"
+                },
+                "stat": {
+                  "aid": 117403988007497,
+                  "view": 545,
+                  "danmaku": 0,
+                  "reply": 4,
+                  "fav": 3,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 29,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 545
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42561375671,
+                "page": 1,
+                "from": "vupload",
+                "part": "超级冲刺",
+                "duration": 17,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 720,
+                  "height": 1280,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1CgHS6NEoG",
+              "pages": [
+                {
+                  "cid": 42561375671,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "超级冲刺",
+                  "duration": 17,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 720,
+                    "height": 1280,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9116307,
+              "section_id": 10183785,
+              "id": 229469608,
+              "aid": 117490139011022,
+              "cid": 42987097761,
+              "title": "好多大香蕉",
+              "attribute": 0,
+              "arc": {
+                "aid": 117490139011022,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/f7b5b95ec20a8b1d11ef3e3c6df007bba4911343.jpg",
+                "title": "好多大香蕉",
+                "pubdate": 1792757518,
+                "ctime": 1792757518,
+                "desc": "",
+                "state": 0,
+                "duration": 17,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 26057193,
+                  "name": "来自MA的纸箱",
+                  "face": "https://i0.hdslb.com/bfs/face/6bdb115943f8ee0ee3c21f2c5da3d3a50ec213f5.jpg"
+                },
+                "stat": {
+                  "aid": 117490139011022,
+                  "view": 1198,
+                  "danmaku": 0,
+                  "reply": 6,
+                  "fav": 17,
+                  "coin": 14,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 81,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1198
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42987097761,
+                "page": 1,
+                "from": "vupload",
+                "part": "好多大香蕉",
+                "duration": 17,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 720,
+                  "height": 1280,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1panh65Es2",
+              "pages": [
+                {
+                  "cid": 42987097761,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "好多大香蕉",
+                  "duration": 17,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 720,
+                    "height": 1280,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9116307,
+              "section_id": 10183785,
+              "id": 232591884,
+              "aid": 117585282602457,
+              "cid": 43458169298,
+              "title": "从未设想Ai别人的宋老虎能这么好笑",
+              "attribute": 0,
+              "arc": {
+                "aid": 117585282602457,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/52a52977cb3974637c9dc711ce09962c0b4b74f1.jpg",
+                "title": "从未设想Ai别人的宋老虎能这么好笑",
+                "pubdate": 1794209275,
+                "ctime": 1794209275,
+                "desc": "",
+                "state": 0,
+                "duration": 34,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 26057193,
+                  "name": "来自MA的纸箱",
+                  "face": "https://i0.hdslb.com/bfs/face/6bdb115943f8ee0ee3c21f2c5da3d3a50ec213f5.jpg"
+                },
+                "stat": {
+                  "aid": 117585282602457,
+                  "view": 494,
+                  "danmaku": 0,
+                  "reply": 1,
+                  "fav": 1,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 10,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 494
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43458169298,
+                "page": 1,
+                "from": "vupload",
+                "part": "petal_20261109_152238",
+                "duration": 34,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1134,
+                  "height": 1280,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ruWx6vEn4",
+              "pages": [
+                {
+                  "cid": 43458169298,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "petal_20261109_152238",
+                  "duration": 34,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1134,
+                    "height": 1280,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

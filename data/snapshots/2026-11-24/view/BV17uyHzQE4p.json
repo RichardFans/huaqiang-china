@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV17uyHzQE4p",
+    "aid": 117664487835205,
+    "videos": 1,
+    "tid": 17,
+    "tid_v2": 2079,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/b82e0fd59e67d8b68061037ef0b0871bb95f2e7e.jpg",
+    "title": "【雨世界】有一只蛞蝓猫前来买灯笼",
+    "pubdate": 1795418135,
+    "ctime": 1795418135,
+    "desc": "有一只蛞蝓猫前来买灯笼。\n遇到雨世界第一奸商了，拿我三颗珍珠一个灯笼不给，还拿矛打我。明明我也没打过猴子啊，按理来说好感应该是正的才对，不知道为什么不给灯笼。只能摸黑过影城了。\n好一段时间之前的素材了，摸鱼到现在才切出来，希望大家看得开心。",
+    "desc_v2": [
+      {
+        "raw_text": "有一只蛞蝓猫前来买灯笼。\n遇到雨世界第一奸商了，拿我三颗珍珠一个灯笼不给，还拿矛打我。明明我也没打过猴子啊，按理来说好感应该是正的才对，不知道为什么不给灯笼。只能摸黑过影城了。\n好一段时间之前的素材了，摸鱼到现在才切出来，希望大家看得开心。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 85,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 215078333,
+      "name": "孚林_",
+      "face": "https://i2.hdslb.com/bfs/face/cf40c293ae36e79f9f999e6b93b1e435d2b528ec.jpg"
+    },
+    "stat": {
+      "aid": 117664487835205,
+      "view": 671,
+      "danmaku": 0,
+      "reply": 26,
+      "favorite": 7,
+      "coin": 2,
+      "share": 5,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 40,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43852234969,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43852234969,
+        "page": 1,
+        "from": "vupload",
+        "part": "【雨世界】有一只蛞蝓猫前来买灯笼",
+        "duration": 85,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002rzb80kepsj7v20onla7qdpr8wb_firsti.jpg",
+        "ctime": 1795418135,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

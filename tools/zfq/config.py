@@ -71,3 +71,9 @@ KEYWORD_SCENE_MAP = {
 
 SITE_TITLE_ZH = "征服二创宇宙档案"
 SITE_TITLE_EN = "The Conquest Remix Archive"
+
+# ---- 检索面观测上限（ADR-0009 修订）----
+# 2026-11-24 实测：五个关键词 searchAllResponse.numResults 均为 1000、numPages 均为 50
+# （50 页 × 20 条），与关键词无关、首页候选数各异 → 平台检索面封顶，真实总量不可知。
+# 证据：data/snapshots/2026-11-24/search/*.json；汇总：docs/evidence/search-surface.md
+SEARCH_RESULTS_CAP = 1000

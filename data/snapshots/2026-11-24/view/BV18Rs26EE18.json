@@ -1,0 +1,584 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV18Rs26EE18",
+    "aid": 117636939648050,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i2.hdslb.com/bfs/archive/f281f85e767599ef5271e6d687b7f17394d10568.jpg",
+    "title": "华强买瓜，但他是河神【你这河神有问题啊】",
+    "pubdate": 1795060500,
+    "ctime": 1794997575,
+    "desc": "年轻的瓜摊老板，你掉的是这个金西瓜，还是这个银西瓜...",
+    "desc_v2": [
+      {
+        "raw_text": "年轻的瓜摊老板，你掉的是这个金西瓜，还是这个银西瓜...",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 272,
+    "mission_id": 4072135,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 314849719,
+      "name": "若翰_",
+      "face": "https://i1.hdslb.com/bfs/face/4f83a8b78e1a56897ebdf28fc97263ab433d2cb0.jpg"
+    },
+    "stat": {
+      "aid": 117636939648050,
+      "view": 103941,
+      "danmaku": 360,
+      "reply": 139,
+      "favorite": 852,
+      "coin": 456,
+      "share": 209,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3529,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43710089273,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9291354,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43710089273,
+        "page": 1,
+        "from": "vupload",
+        "part": "有一人的瓜掉进河里，这下河神玩大了【你这河神有问题啊】",
+        "duration": 272,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002wrxor2bafji22npixmgnt4g6cb_firsti.jpg",
+        "ctime": 1794997575
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9291354,
+      "title": "片 刻 鬼 畜 剧",
+      "cover": "https://archive.biliimg.com/bfs/archive/f48377226d56adfc4b87fe50eab3fb0aee0be4f1.jpg",
+      "mid": 314849719,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9291354,
+        "view": 5215576,
+        "danmaku": 5464,
+        "reply": 5980,
+        "fav": 58720,
+        "coin": 29423,
+        "share": 23357,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 182823,
+        "vt": 0,
+        "vv": 5215576
+      },
+      "ep_count": 4,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9291354,
+          "id": 10392294,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9291354,
+              "section_id": 10392294,
+              "id": 226917118,
+              "aid": 116494495124664,
+              "cid": 37985714889,
+              "title": "只睡四小时就去买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116494495124664,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/e2e7053cbc4dc4a5e1f424811a61fff62ceb08f7.jpg",
+                "title": "只睡四小时就去买瓜",
+                "pubdate": 1777607700,
+                "ctime": 1777607700,
+                "desc": "",
+                "state": 0,
+                "duration": 158,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 314849719,
+                  "name": "若翰_",
+                  "face": "https://i1.hdslb.com/bfs/face/4f83a8b78e1a56897ebdf28fc97263ab433d2cb0.jpg"
+                },
+                "stat": {
+                  "aid": 116494495124664,
+                  "view": 4517499,
+                  "danmaku": 3567,
+                  "reply": 4594,
+                  "fav": 45520,
+                  "coin": 20761,
+                  "share": 21264,
+                  "now_rank": 0,
+                  "his_rank": 71,
+                  "like": 145414,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4517499
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37985714889,
+                "page": 1,
+                "from": "vupload",
+                "part": "只睡四小时就去买瓜",
+                "duration": 158,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1s19YBuEQT",
+              "pages": [
+                {
+                  "cid": 37985714889,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "只睡四小时就去买瓜",
+                  "duration": 158,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9291354,
+              "section_id": 10392294,
+              "id": 226916967,
+              "aid": 117137431596490,
+              "cid": 41150841020,
+              "title": "“子弹飞多久才能变成白鸽？”【鬼畜电影】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117137431596490,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/18dead65322984ecc8655ae23333c4f4043ac683.jpg",
+                "title": "“子弹飞多久才能变成白鸽？”【鬼畜电影】",
+                "pubdate": 1787389200,
+                "ctime": 1787389200,
+                "desc": "",
+                "state": 0,
+                "duration": 758,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 314849719,
+                  "name": "若翰_",
+                  "face": "https://i1.hdslb.com/bfs/face/4f83a8b78e1a56897ebdf28fc97263ab433d2cb0.jpg"
+                },
+                "stat": {
+                  "aid": 117137431596490,
+                  "view": 397856,
+                  "danmaku": 1308,
+                  "reply": 743,
+                  "fav": 11774,
+                  "coin": 7898,
+                  "share": 1826,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 28654,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 397856
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41150841020,
+                "page": 1,
+                "from": "vupload",
+                "part": "【鬼畜电影】战争给我们带来了什么…",
+                "duration": 758,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1882,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1iB8C6cEUT",
+              "pages": [
+                {
+                  "cid": 41150841020,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【鬼畜电影】战争给我们带来了什么…",
+                  "duration": 758,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1882,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9291354,
+              "section_id": 10392294,
+              "id": 232671712,
+              "aid": 117586809391007,
+              "cid": 43493557512,
+              "title": "BLG：我们从地狱归来，带来一穿四的希望",
+              "attribute": 0,
+              "arc": {
+                "aid": 117586809391007,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/6efe918262b13de6b7fb705d25cf20f10fe02062.jpg",
+                "title": "BLG：我们从地狱归来，带来一穿四的希望",
+                "pubdate": 1794232593,
+                "ctime": 1794232593,
+                "desc": "",
+                "state": 0,
+                "duration": 85,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 314849719,
+                  "name": "若翰_",
+                  "face": "https://i1.hdslb.com/bfs/face/4f83a8b78e1a56897ebdf28fc97263ab433d2cb0.jpg"
+                },
+                "stat": {
+                  "aid": 117586809391007,
+                  "view": 196280,
+                  "danmaku": 229,
+                  "reply": 504,
+                  "fav": 574,
+                  "coin": 308,
+                  "share": 58,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 5226,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 196280
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43493557512,
+                "page": 1,
+                "from": "vupload",
+                "part": "11月9日",
+                "duration": 85,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2378,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ZpW86GEjq",
+              "pages": [
+                {
+                  "cid": 43493557512,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "11月9日",
+                  "duration": 85,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2378,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9291354,
+              "section_id": 10392294,
+              "id": 234367322,
+              "aid": 117636939648050,
+              "cid": 43710089273,
+              "title": "有一人的瓜掉进河里，这下河神玩大了【你这河神有问题啊】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117636939648050,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f281f85e767599ef5271e6d687b7f17394d10568.jpg",
+                "title": "有一人的瓜掉进河里，这下河神玩大了【你这河神有问题啊】",
+                "pubdate": 1795060500,
+                "ctime": 1795060500,
+                "desc": "",
+                "state": 0,
+                "duration": 272,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 314849719,
+                  "name": "若翰_",
+                  "face": "https://i1.hdslb.com/bfs/face/4f83a8b78e1a56897ebdf28fc97263ab433d2cb0.jpg"
+                },
+                "stat": {
+                  "aid": 117636939648050,
+                  "view": 103941,
+                  "danmaku": 360,
+                  "reply": 139,
+                  "fav": 852,
+                  "coin": 456,
+                  "share": 209,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3529,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 103941
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43710089273,
+                "page": 1,
+                "from": "vupload",
+                "part": "有一人的瓜掉进河里，这下河神玩大了【你这河神有问题啊】",
+                "duration": 272,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18Rs26EE18",
+              "pages": [
+                {
+                  "cid": 43710089273,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "有一人的瓜掉进河里，这下河神玩大了【你这河神有问题啊】",
+                  "duration": 272,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

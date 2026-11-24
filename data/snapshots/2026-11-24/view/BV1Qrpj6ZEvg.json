@@ -1,0 +1,270 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Qrpj6ZEvg",
+    "aid": 117420865882077,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/55f8313732114c03dcba94445d39f0e50badc97b.jpg",
+    "title": "每说一个瓜字，就换一个女神买瓜【AI全民制作人】",
+    "pubdate": 1791700464,
+    "ctime": 1791700464,
+    "desc": "最养眼的一集，要个三连不过分吧！",
+    "desc_v2": [
+      {
+        "raw_text": "最养眼的一集，要个三连不过分吧！",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 126,
+    "mission_id": 4071719,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 27746137,
+      "name": "AI邪修Q",
+      "face": "https://i1.hdslb.com/bfs/face/985564ba54705c2597db62c01a5837c88c357d3b.jpg"
+    },
+    "stat": {
+      "aid": 117420865882077,
+      "view": 33468,
+      "danmaku": 55,
+      "reply": 65,
+      "favorite": 343,
+      "coin": 29,
+      "share": 24,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 577,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 42646635532,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9299220,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 42646635532,
+        "page": 1,
+        "from": "vupload",
+        "part": "每说一个瓜字，就换一个女神买瓜【AI全民制作人】",
+        "duration": 126,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002xduyvpk3bmjc2887mvoyzlrs9b_firsti.jpg",
+        "ctime": 1791700464,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9299220,
+      "title": "搞笑整活",
+      "cover": "https://archive.biliimg.com/bfs/archive/ac817d29300fcb605251650182e1250779f422b0.jpg",
+      "mid": 27746137,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9299220,
+        "view": 33467,
+        "danmaku": 55,
+        "reply": 65,
+        "fav": 343,
+        "coin": 29,
+        "share": 24,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 577,
+        "vt": 0,
+        "vv": 33467
+      },
+      "ep_count": 1,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9299220,
+          "id": 10401409,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9299220,
+              "section_id": 10401409,
+              "id": 227094495,
+              "aid": 117420865882077,
+              "cid": 42646635532,
+              "title": "每说一个瓜字，就换一个女神买瓜【AI全民制作人】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117420865882077,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/55f8313732114c03dcba94445d39f0e50badc97b.jpg",
+                "title": "每说一个瓜字，就换一个女神买瓜【AI全民制作人】",
+                "pubdate": 1791700464,
+                "ctime": 1791700464,
+                "desc": "",
+                "state": 0,
+                "duration": 126,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 27746137,
+                  "name": "AI邪修Q",
+                  "face": "https://i1.hdslb.com/bfs/face/985564ba54705c2597db62c01a5837c88c357d3b.jpg"
+                },
+                "stat": {
+                  "aid": 117420865882077,
+                  "view": 33468,
+                  "danmaku": 55,
+                  "reply": 65,
+                  "fav": 343,
+                  "coin": 29,
+                  "share": 24,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 577,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 33468
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42646635532,
+                "page": 1,
+                "from": "vupload",
+                "part": "每说一个瓜字，就换一个女神买瓜【AI全民制作人】",
+                "duration": 126,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Qrpj6ZEvg",
+              "pages": [
+                {
+                  "cid": 42646635532,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "每说一个瓜字，就换一个女神买瓜【AI全民制作人】",
+                  "duration": 126,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

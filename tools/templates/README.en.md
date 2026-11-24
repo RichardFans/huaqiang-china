@@ -8,6 +8,15 @@
 > Huaqiang's potential. This archive keeps the ledger.
 > **中文 → [README.md](README.md)** ｜ 🌐 Site: [richardfans.github.io/huaqiang-china](https://richardfans.github.io/huaqiang-china/)
 
+[![catalogued](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fcount.json)](https://richardfans.github.io/huaqiang-china/)
+[![development](https://img.shields.io/endpoint?url=https%3A%2F%2Frichardfans.github.io%2Fhuaqiang-china%2Fbadges%2Fdevelopment.json)](docs/decisions/0009-development-metric.md)
+[![ci](https://img.shields.io/github/actions/workflow/status/RichardFans/huaqiang-china/ci.yml?branch=main)](https://github.com/RichardFans/huaqiang-china/actions/workflows/ci.yml)
+[![license](https://img.shields.io/badge/code-MIT-content-CC_BY--SA_4.0)](LICENSE.content)
+
+<p align="center">
+  <img src="docs/assets/ignition-timeline.svg" alt="Monthly posting density of Conquest remix works, ignition window of July 2021 highlighted" width="880">
+</p>
+
 ## What is this?
 
 In November 2026, the author ran into yet another new watermelon-scene remix on

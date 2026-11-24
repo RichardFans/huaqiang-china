@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1QA4a6yEQb",
+  "aid": 117564176930843,
+  "title": "老虎请客，但死神来了",
+  "owner": {
+    "mid": 91790758,
+    "name": "伊介书生"
+  },
+  "pubdate": "2026-11-06T04:05:00Z",
+  "duration_s": 156,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "仅检索词『宋老虎』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 875,946 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i1.hdslb.com/bfs/archive/2d3f6bd680ef6314a0be3022a8100a292ddf7ec1.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 875946,
+      "like": 34949,
+      "coin": 4214,
+      "favorite": 10483,
+      "share": 2973,
+      "danmaku": 952,
+      "reply": 941
+    }
+  ],
+  "notes": ""
+}

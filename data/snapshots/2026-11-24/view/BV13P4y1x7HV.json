@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV13P4y1x7HV",
+    "aid": 889574968,
+    "videos": 1,
+    "tid": 22,
+    "tid_v2": 2061,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/00adf6ad37582f5141595fc051b90d45f8a4b2b8.jpg",
+    "title": "千 本 瓜🍉",
+    "pubdate": 1628070600,
+    "ctime": 1628070601,
+    "desc": "华强买瓜之推卸责任",
+    "desc_v2": [
+      {
+        "raw_text": "华强买瓜之推卸责任",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 104,
+    "mission_id": 62200,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 34704644,
+      "name": "量子海绵",
+      "face": "https://i2.hdslb.com/bfs/face/7fd0953906aa8c57156b5c5afd32fb71ada3b491.jpg"
+    },
+    "stat": {
+      "aid": 889574968,
+      "view": 286307,
+      "danmaku": 1065,
+      "reply": 377,
+      "favorite": 9013,
+      "coin": 3716,
+      "share": 1251,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 18417,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "华强买瓜之推卸责任",
+    "cid": 382241468,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 382241468,
+        "page": 1,
+        "from": "vupload",
+        "part": "千本瓜",
+        "duration": 104,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n210804a262jtwuzvnvaa2e43p6nk5sk_firsti.jpg",
+        "ctime": 1628070601
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

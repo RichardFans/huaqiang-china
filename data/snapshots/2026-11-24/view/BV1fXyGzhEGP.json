@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1fXyGzhEGP",
+    "aid": 117659454801723,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/0d29e87ac506d83d7cab928f3050b830750b3a31.jpg",
+    "title": "百度机翻20次“年轻人不要太气盛”名场面（素材来自征服刘华强）",
+    "pubdate": 1795341165,
+    "ctime": 1795341166,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 240,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2079486761,
+      "name": "凛冬散尽星月同辉",
+      "face": "https://i2.hdslb.com/bfs/face/e693e8818d2afd1713e78329810a45283ba3831f.jpg"
+    },
+    "stat": {
+      "aid": 117659454801723,
+      "view": 56,
+      "danmaku": 10,
+      "reply": 1,
+      "favorite": 1,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "个人观点，仅供参考",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43825169258,
+    "dimension": {
+      "width": 1920,
+      "height": 868,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43825169258,
+        "page": 1,
+        "from": "vupload",
+        "part": "VID_20261121_230555.mp4",
+        "duration": 240,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 868,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_000003pagrti2dyeh259xu1lgggh5ab_firsti.jpg",
+        "ctime": 1795341166,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

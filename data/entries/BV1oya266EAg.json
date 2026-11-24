@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1oya266EAg",
+  "aid": 117370634901319,
+  "title": "服务员华强",
+  "owner": {
+    "mid": 5432766,
+    "name": "神威-狗剩"
+  },
+  "pubdate": "2026-10-02T09:38:24Z",
+  "duration_s": 229,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "仅检索词『宋老虎』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 1,096,994 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i1.hdslb.com/bfs/archive/1f0a7ea8442e1ba9dba12fd0cd2e6447ae2ba4be.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 1096994,
+      "like": 36629,
+      "coin": 5720,
+      "favorite": 9581,
+      "share": 4263,
+      "danmaku": 2249,
+      "reply": 1051
+    }
+  ],
+  "notes": ""
+}

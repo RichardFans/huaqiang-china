@@ -1,0 +1,1529 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1yGsK6REoM",
+    "aid": 117626487441161,
+    "videos": 1,
+    "tid": 27,
+    "tid_v2": 2207,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/94f6079525f9e913685f83a9070384a8a6fc4398.jpg",
+    "title": "【TF】地球和塞星是这样的（当我用征服打开变形金刚）",
+    "pubdate": 1794837785,
+    "ctime": 1794837769,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 343,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 361184019,
+      "name": "第十四天元冰天炽",
+      "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+    },
+    "stat": {
+      "aid": 117626487441161,
+      "view": 542,
+      "danmaku": 1,
+      "reply": 8,
+      "favorite": 18,
+      "coin": 2,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 19,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43659888916,
+    "dimension": {
+      "width": 1440,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 8617263,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43659888916,
+        "page": 1,
+        "from": "vupload",
+        "part": "【TF】地球和塞星是这样的（当我用征服打开变形金刚）",
+        "duration": 343,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1440,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002efzpt42kyzzq2jzhlw7hf9eamb_firsti.jpg",
+        "ctime": 1794837769,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8617263,
+      "title": "TF宇宙欢乐多",
+      "cover": "https://archive.biliimg.com/bfs/archive/d7c1bfead1298f093dda130fd37c497dd518872a.jpg",
+      "mid": 361184019,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8617263,
+        "view": 69323,
+        "danmaku": 56,
+        "reply": 259,
+        "fav": 2076,
+        "coin": 211,
+        "share": 82,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3289,
+        "vt": 0,
+        "vv": 69323
+      },
+      "ep_count": 13,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8617263,
+          "id": 9599602,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 209958354,
+              "aid": 116045654262260,
+              "cid": 35960524120,
+              "title": "擎天柱之死",
+              "attribute": 0,
+              "arc": {
+                "aid": 116045654262260,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/de574ecef2c9f76622de8b3fb8350b707605fb3e.jpg",
+                "title": "擎天柱之死",
+                "pubdate": 1770716458,
+                "ctime": 1770716458,
+                "desc": "",
+                "state": 0,
+                "duration": 40,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 116045654262260,
+                  "view": 388,
+                  "danmaku": 0,
+                  "reply": 3,
+                  "fav": 8,
+                  "coin": 6,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 11,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 388
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35960524120,
+                "page": 1,
+                "from": "vupload",
+                "part": "擎天柱之死",
+                "duration": 40,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18oFUzBEwL",
+              "pages": [
+                {
+                  "cid": 35960524120,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "擎天柱之死",
+                  "duration": 40,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 209958370,
+              "aid": 116222838443086,
+              "cid": 36678533799,
+              "title": "再见，汽车人！/86大电影 煽情/童年",
+              "attribute": 0,
+              "arc": {
+                "aid": 116222838443086,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/8419ac1bd013febeaf8da07f9fec9576718a586e.jpg",
+                "title": "再见，汽车人！/86大电影 煽情/童年",
+                "pubdate": 1773419959,
+                "ctime": 1773419959,
+                "desc": "",
+                "state": 0,
+                "duration": 248,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 116222838443086,
+                  "view": 4760,
+                  "danmaku": 7,
+                  "reply": 48,
+                  "fav": 145,
+                  "coin": 24,
+                  "share": 8,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 289,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4760
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 36678533799,
+                "page": 1,
+                "from": "vupload",
+                "part": "再见，汽车人！/86大电影 煽情/童年",
+                "duration": 248,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bqwEzoE6o",
+              "pages": [
+                {
+                  "cid": 36678533799,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "再见，汽车人！/86大电影 煽情/童年",
+                  "duration": 248,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 209958378,
+              "aid": 116231478709165,
+              "cid": 36710451244,
+              "title": "两派领导人先进的决斗方式（G1水坝大战）",
+              "attribute": 0,
+              "arc": {
+                "aid": 116231478709165,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/13b264e0cb9c16c17934894c9e0977bfc210c767.jpg",
+                "title": "两派领导人先进的决斗方式（G1水坝大战）",
+                "pubdate": 1773551836,
+                "ctime": 1773551836,
+                "desc": "",
+                "state": 0,
+                "duration": 79,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 116231478709165,
+                  "view": 658,
+                  "danmaku": 1,
+                  "reply": 2,
+                  "fav": 14,
+                  "coin": 4,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 28,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 658
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 36710451244,
+                "page": 1,
+                "from": "vupload",
+                "part": "两派领导人先进的决斗方式（G1水坝大战）",
+                "duration": 79,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bJwMzbEBn",
+              "pages": [
+                {
+                  "cid": 36710451244,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "两派领导人先进的决斗方式（G1水坝大战）",
+                  "duration": 79,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 209958417,
+              "aid": 116947496733169,
+              "cid": 40108887913,
+              "title": "【变形金刚】好汉歌",
+              "attribute": 0,
+              "arc": {
+                "aid": 116947496733169,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/fd37f1b61a7eaba1a9b28039c82f4768f53e6572.jpg",
+                "title": "【变形金刚】好汉歌",
+                "pubdate": 1784477521,
+                "ctime": 1784477521,
+                "desc": "",
+                "state": 0,
+                "duration": 130,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 116947496733169,
+                  "view": 3317,
+                  "danmaku": 26,
+                  "reply": 18,
+                  "fav": 115,
+                  "coin": 30,
+                  "share": 21,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 183,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3317
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40108887913,
+                "page": 1,
+                "from": "vupload",
+                "part": "【变形金刚】好汉歌",
+                "duration": 130,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1102,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1H8K66iEbd",
+              "pages": [
+                {
+                  "cid": 40108887913,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【变形金刚】好汉歌",
+                  "duration": 130,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1102,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 210445416,
+              "aid": 116958737467048,
+              "cid": 40171341302,
+              "title": "霸天虎的铁腕",
+              "attribute": 0,
+              "arc": {
+                "aid": 116958737467048,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/ddbfcadcea1c7e7ca46c4eb0752cc012bda2196e.jpg",
+                "title": "霸天虎的铁腕",
+                "pubdate": 1784648952,
+                "ctime": 1784648952,
+                "desc": "",
+                "state": 0,
+                "duration": 192,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 116958737467048,
+                  "view": 1725,
+                  "danmaku": 1,
+                  "reply": 3,
+                  "fav": 36,
+                  "coin": 8,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 78,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1725
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40171341302,
+                "page": 1,
+                "from": "vupload",
+                "part": "霸天虎的铁腕",
+                "duration": 192,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ZNKY6zEgL",
+              "pages": [
+                {
+                  "cid": 40171341302,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "霸天虎的铁腕",
+                  "duration": 192,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 211027804,
+              "aid": 116973065209830,
+              "cid": 40245921922,
+              "title": "【TF】擎天柱和艾丽塔何尝不是一对苦命鸳鸯呢",
+              "attribute": 0,
+              "arc": {
+                "aid": 116973065209830,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b71afbe1635c5912ae63d4d3cb9bb57d06276f70.jpg",
+                "title": "【TF】擎天柱和艾丽塔何尝不是一对苦命鸳鸯呢",
+                "pubdate": 1784867657,
+                "ctime": 1784867657,
+                "desc": "",
+                "state": 0,
+                "duration": 135,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 116973065209830,
+                  "view": 1073,
+                  "danmaku": 1,
+                  "reply": 7,
+                  "fav": 24,
+                  "coin": 9,
+                  "share": 7,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 56,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1073
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40245921922,
+                "page": 1,
+                "from": "vupload",
+                "part": "【TF】擎天柱和艾丽塔何尝不是一对苦命鸳鸯呢",
+                "duration": 135,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV15kgh63Er2",
+              "pages": [
+                {
+                  "cid": 40245921922,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【TF】擎天柱和艾丽塔何尝不是一对苦命鸳鸯呢",
+                  "duration": 135,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 213395348,
+              "aid": 117026785919910,
+              "cid": 40538737864,
+              "title": "汽车人征兵宣传",
+              "attribute": 0,
+              "arc": {
+                "aid": 117026785919910,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/f743f9f4ec6a8cc22a0fad897774b45f0d4b1619.jpg",
+                "title": "汽车人征兵宣传",
+                "pubdate": 1785687267,
+                "ctime": 1785687267,
+                "desc": "",
+                "state": 0,
+                "duration": 101,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 117026785919910,
+                  "view": 5926,
+                  "danmaku": 6,
+                  "reply": 7,
+                  "fav": 142,
+                  "coin": 15,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 202,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 5926
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40538737864,
+                "page": 1,
+                "from": "vupload",
+                "part": "汽车人征兵宣传",
+                "duration": 101,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1wn3d64EvD",
+              "pages": [
+                {
+                  "cid": 40538737864,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "汽车人征兵宣传",
+                  "duration": 101,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 220681400,
+              "aid": 117216737561763,
+              "cid": 41600483460,
+              "title": "【TF】刀子，别点开",
+              "attribute": 0,
+              "arc": {
+                "aid": 117216737561763,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/cd34bf3ef1c32d960809df59dc8278d3dd05f283.jpg",
+                "title": "【TF】刀子，别点开",
+                "pubdate": 1788585680,
+                "ctime": 1788585680,
+                "desc": "",
+                "state": 0,
+                "duration": 59,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 117216737561763,
+                  "view": 836,
+                  "danmaku": 0,
+                  "reply": 1,
+                  "fav": 23,
+                  "coin": 6,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 42,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 836
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41600483460,
+                "page": 1,
+                "from": "vupload",
+                "part": "【TF】刀子，别点开",
+                "duration": 59,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18dty6DE2g",
+              "pages": [
+                {
+                  "cid": 41600483460,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【TF】刀子，别点开",
+                  "duration": 59,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 225960869,
+              "aid": 117386220929995,
+              "cid": 42474668280,
+              "title": "通二：“我不可能告诉你任何事情啊——”",
+              "attribute": 0,
+              "arc": {
+                "aid": 117386220929995,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/e502e5487d371b35ffafd8546824dc094bd97915.jpg",
+                "title": "通二：“我不可能告诉你任何事情啊——”",
+                "pubdate": 1791171848,
+                "ctime": 1791171848,
+                "desc": "",
+                "state": 0,
+                "duration": 113,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 117386220929995,
+                  "view": 720,
+                  "danmaku": 1,
+                  "reply": 1,
+                  "fav": 11,
+                  "coin": 8,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 20,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 720
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42474668280,
+                "page": 1,
+                "from": "vupload",
+                "part": "通二：“我不可能告诉你任何事情啊——”",
+                "duration": 113,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1c2Hp6dEaz",
+              "pages": [
+                {
+                  "cid": 42474668280,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "通二：“我不可能告诉你任何事情啊——”",
+                  "duration": 113,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 226184618,
+              "aid": 117393200251873,
+              "cid": 42510057901,
+              "title": "这谁崩得住啊",
+              "attribute": 0,
+              "arc": {
+                "aid": 117393200251873,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/fda5c6ef3f699f26e34145b0c39c16224c41fce4.jpg",
+                "title": "这谁崩得住啊",
+                "pubdate": 1791278813,
+                "ctime": 1791278813,
+                "desc": "",
+                "state": 0,
+                "duration": 58,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 117393200251873,
+                  "view": 952,
+                  "danmaku": 0,
+                  "reply": 14,
+                  "fav": 30,
+                  "coin": 2,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 31,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 952
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42510057901,
+                "page": 1,
+                "from": "vupload",
+                "part": "这谁崩得住啊",
+                "duration": 58,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1886,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1foHf69EEQ",
+              "pages": [
+                {
+                  "cid": 42510057901,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "这谁崩得住啊",
+                  "duration": 58,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1886,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 228200635,
+              "aid": 117455007582054,
+              "cid": 42814213953,
+              "title": "当我用TF打开高中生日常生活",
+              "attribute": 0,
+              "arc": {
+                "aid": 117455007582054,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/4610b65a0fab8e6285cb3b41087c1d7331143983.jpg",
+                "title": "当我用TF打开高中生日常生活",
+                "pubdate": 1792221396,
+                "ctime": 1792221396,
+                "desc": "",
+                "state": 0,
+                "duration": 501,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 117455007582054,
+                  "view": 2462,
+                  "danmaku": 6,
+                  "reply": 18,
+                  "fav": 71,
+                  "coin": 6,
+                  "share": 7,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 110,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2462
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42814213953,
+                "page": 1,
+                "from": "vupload",
+                "part": "当我用TF打开高中生日常生活",
+                "duration": 501,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1908,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1EeJe62EDi",
+              "pages": [
+                {
+                  "cid": 42814213953,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "当我用TF打开高中生日常生活",
+                  "duration": 501,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1908,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 229245945,
+              "aid": 117485407833308,
+              "cid": 42963963699,
+              "title": "热破，你并不比擎天柱差",
+              "attribute": 0,
+              "arc": {
+                "aid": 117485407833308,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/827ff8a0598a5a349425719cd971cf309b44e54e.jpg",
+                "title": "热破，你并不比擎天柱差",
+                "pubdate": 1792685364,
+                "ctime": 1792685364,
+                "desc": "",
+                "state": 0,
+                "duration": 188,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 117485407833308,
+                  "view": 45965,
+                  "danmaku": 6,
+                  "reply": 129,
+                  "fav": 1439,
+                  "coin": 91,
+                  "share": 22,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2220,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 45965
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42963963699,
+                "page": 1,
+                "from": "vupload",
+                "part": "热破，你并不比擎天柱差",
+                "duration": 188,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1048,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cQnn6DEDc",
+              "pages": [
+                {
+                  "cid": 42963963699,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "热破，你并不比擎天柱差",
+                  "duration": 188,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1048,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8617263,
+              "section_id": 9599602,
+              "id": 234030090,
+              "aid": 117626487441161,
+              "cid": 43659888916,
+              "title": "【TF】地球和塞星是这样的（当我用征服打开变形金刚）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117626487441161,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/94f6079525f9e913685f83a9070384a8a6fc4398.jpg",
+                "title": "【TF】地球和塞星是这样的（当我用征服打开变形金刚）",
+                "pubdate": 1794837785,
+                "ctime": 1794837785,
+                "desc": "",
+                "state": 0,
+                "duration": 343,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 361184019,
+                  "name": "第十四天元冰天炽",
+                  "face": "https://i0.hdslb.com/bfs/face/fa9945a088aff45e17762aa8611de1cd80629532.jpg"
+                },
+                "stat": {
+                  "aid": 117626487441161,
+                  "view": 542,
+                  "danmaku": 1,
+                  "reply": 8,
+                  "fav": 18,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 19,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 542
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43659888916,
+                "page": 1,
+                "from": "vupload",
+                "part": "【TF】地球和塞星是这样的（当我用征服打开变形金刚）",
+                "duration": 343,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1yGsK6REoM",
+              "pages": [
+                {
+                  "cid": 43659888916,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【TF】地球和塞星是这样的（当我用征服打开变形金刚）",
+                  "duration": 343,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

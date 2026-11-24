@@ -1,0 +1,9 @@
+{
+  "url": "https://search.bilibili.com/all?keyword=%E5%AE%8B%E8%80%81%E8%99%8E&order=pubdate&page=3",
+  "captured_at": "2026-11-24T03:22:47+00:00",
+  "sha256": "7540bf3bfd962500a21c56d7fe72f256223023c76e43c20896b58ba2708e0806",
+  "bytes": 143996,
+  "items_parsed": 80,
+  "numResults_total": null,
+  "note": "原始 HTML 不入库（ADR-0002），仅留哈希与解析计数"
+}

@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1CJyezYEkF",
+    "aid": 117654622898457,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/0dde21dfca799ad4932d416d1d5cc925ec6a50b2.jpg",
+    "title": "华强，买瓜被吓了一跳，小猫，及时出来制止",
+    "pubdate": 1795267576,
+    "ctime": 1795267576,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 121,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546953667316100,
+      "name": "天翊只是个新人",
+      "face": "https://i2.hdslb.com/bfs/face/09254d48afce2f9c658cd47690085c998f998fd6.jpg"
+    },
+    "stat": {
+      "aid": 117654622898457,
+      "view": 148,
+      "danmaku": 1,
+      "reply": 0,
+      "favorite": 2,
+      "coin": 2,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "可能含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43800200782,
+    "dimension": {
+      "width": 2358,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43800200782,
+        "page": 1,
+        "from": "vupload",
+        "part": "studio_video_1795266961055.mp4",
+        "duration": 121,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2358,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003tv5ive2is7lx2d393s8z2mzgcb_firsti.jpg",
+        "ctime": 1795267576,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

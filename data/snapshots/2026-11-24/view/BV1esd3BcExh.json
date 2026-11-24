@@ -1,0 +1,2055 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1esd3BcExh",
+    "aid": 116537662901295,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b55e267cf2de637f5ad984d63832311317eb3388.jpg",
+    "title": "2026年5月7日全网（华强买瓜）集锦",
+    "pubdate": 1778224487,
+    "ctime": 1778224487,
+    "desc": "本视频涵盖2026年5月7日全网《华强买瓜》全部作品，因字数限制原因无法把视频中全部UP主标注，请各位小主及up主理解，请各位小主们尽情享受吧。涉及的up主也可以在评论区@我。",
+    "desc_v2": [
+      {
+        "raw_text": "本视频涵盖2026年5月7日全网《华强买瓜》全部作品，因字数限制原因无法把视频中全部UP主标注，请各位小主及up主理解，请各位小主们尽情享受吧。涉及的up主也可以在评论区@我。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 16069,
+    "mission_id": 4062378,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546852020456004,
+      "name": "西红柿炒鹅卵石",
+      "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+    },
+    "stat": {
+      "aid": 116537662901295,
+      "view": 16011,
+      "danmaku": 42,
+      "reply": 77,
+      "favorite": 519,
+      "coin": 88,
+      "share": 105,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 715,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "该内容疑似使用AI技术合成，请谨慎甄别",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 38181012901,
+    "dimension": {
+      "width": 1912,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 8089062,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 38181012901,
+        "page": 1,
+        "from": "vupload",
+        "part": "《华强买瓜》融合全学科以华强视角叙述的超级加长版（2026年5月7日正文及参考文献）",
+        "duration": 16069,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1912,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00001vx08yorempav2h2h29xg1li1wb_firsti.jpg",
+        "ctime": 1778224487,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8089062,
+      "title": "《华强买瓜》二次元",
+      "cover": "https://i0.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "mid": 3546852020456004,
+      "intro": "本合集正在不断补充全网每日up主新更华强买瓜所有视频。",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8089062,
+        "view": 211483,
+        "danmaku": 1044,
+        "reply": 708,
+        "fav": 6959,
+        "coin": 992,
+        "share": 1699,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 7993,
+        "vt": 0,
+        "vv": 211483
+      },
+      "ep_count": 18,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8089062,
+          "id": 8988308,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 194449629,
+              "aid": 116541387442724,
+              "cid": 38199624972,
+              "title": "全网各路方言版华强买瓜，越看越上头",
+              "attribute": 0,
+              "arc": {
+                "aid": 116541387442724,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/2a1b85a20998f09da597ca0e9ddc53b9a847194a.jpg",
+                "title": "全网各路方言版华强买瓜，越看越上头",
+                "pubdate": 1778280764,
+                "ctime": 1778280764,
+                "desc": "",
+                "state": 0,
+                "duration": 3668,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116541387442724,
+                  "view": 3045,
+                  "danmaku": 8,
+                  "reply": 34,
+                  "fav": 73,
+                  "coin": 15,
+                  "share": 11,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 78,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3045
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38199624972,
+                "page": 1,
+                "from": "vupload",
+                "part": "全网各路方言版华强买瓜，越看越上头",
+                "duration": 3668,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17jRUBMEDe",
+              "pages": [
+                {
+                  "cid": 38199624972,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "全网各路方言版华强买瓜，越看越上头",
+                  "duration": 3668,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 194449641,
+              "aid": 116537662901295,
+              "cid": 38181012901,
+              "title": "2026年5月7日全网（华强买瓜）集锦",
+              "attribute": 0,
+              "arc": {
+                "aid": 116537662901295,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/b55e267cf2de637f5ad984d63832311317eb3388.jpg",
+                "title": "2026年5月7日全网（华强买瓜）集锦",
+                "pubdate": 1778224487,
+                "ctime": 1778224487,
+                "desc": "",
+                "state": 0,
+                "duration": 16069,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116537662901295,
+                  "view": 16011,
+                  "danmaku": 42,
+                  "reply": 77,
+                  "fav": 519,
+                  "coin": 88,
+                  "share": 105,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 715,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 16011
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38181012901,
+                "page": 1,
+                "from": "vupload",
+                "part": "《华强买瓜》融合全学科以华强视角叙述的超级加长版（2026年5月7日正文及参考文献）",
+                "duration": 16069,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1esd3BcExh",
+              "pages": [
+                {
+                  "cid": 38181012901,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《华强买瓜》融合全学科以华强视角叙述的超级加长版（2026年5月7日正文及参考文献）",
+                  "duration": 16069,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 194449646,
+              "aid": 116532495517693,
+              "cid": 38158141464,
+              "title": "华强买瓜：全网版本一次性看完",
+              "attribute": 0,
+              "arc": {
+                "aid": 116532495517693,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/8c66208889418864083d4768bff2f5e0838f361b.jpg",
+                "title": "华强买瓜：全网版本一次性看完",
+                "pubdate": 1778145806,
+                "ctime": 1778145806,
+                "desc": "",
+                "state": 0,
+                "duration": 7882,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116532495517693,
+                  "view": 80109,
+                  "danmaku": 310,
+                  "reply": 356,
+                  "fav": 4725,
+                  "coin": 481,
+                  "share": 1043,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4875,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 80109
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38158141464,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜：全网版本一次性看完",
+                "duration": 7882,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19hdwBNEMh",
+              "pages": [
+                {
+                  "cid": 38158141464,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜：全网版本一次性看完",
+                  "duration": 7882,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 194663593,
+              "aid": 116553098002820,
+              "cid": 38247006366,
+              "title": "传世精品--三界众生，皆来买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116553098002820,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/4a2d9233926e73c5b6988f989516c2a5fc752b3d.jpg",
+                "title": "传世精品--三界众生，皆来买瓜",
+                "pubdate": 1778459497,
+                "ctime": 1778459497,
+                "desc": "",
+                "state": 0,
+                "duration": 5390,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116553098002820,
+                  "view": 2104,
+                  "danmaku": 2,
+                  "reply": 12,
+                  "fav": 64,
+                  "coin": 7,
+                  "share": 10,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 62,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2104
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38247006366,
+                "page": 1,
+                "from": "vupload",
+                "part": "传世精品--三界众生，皆来买瓜",
+                "duration": 5390,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Kq5p67EZU",
+              "pages": [
+                {
+                  "cid": 38247006366,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "传世精品--三界众生，皆来买瓜",
+                  "duration": 5390,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 194968455,
+              "aid": 116561167778275,
+              "cid": 38281808769,
+              "title": "岁月留梗·5月11日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116561167778275,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/506a9da9e04d4111323a9fe8529f39acc029c24c.jpg",
+                "title": "岁月留梗·5月11日 华强买瓜精品前十合集",
+                "pubdate": 1778582522,
+                "ctime": 1778582522,
+                "desc": "",
+                "state": 0,
+                "duration": 1716,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116561167778275,
+                  "view": 6230,
+                  "danmaku": 18,
+                  "reply": 8,
+                  "fav": 86,
+                  "coin": 21,
+                  "share": 20,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 128,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6230
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38281808769,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·5月11日 华强买瓜精品前十合集",
+                "duration": 1716,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1CJ5g6gEdn",
+              "pages": [
+                {
+                  "cid": 38281808769,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·5月11日 华强买瓜精品前十合集",
+                  "duration": 1716,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 195100321,
+              "aid": 116565462812150,
+              "cid": 38297076323,
+              "title": "岁月留梗·5月12日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116565462812150,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/eb1bd7b28ffea61e98237c4e3c459f0ab8f0d784.jpg",
+                "title": "岁月留梗·5月12日 华强买瓜精品前十合集",
+                "pubdate": 1778648070,
+                "ctime": 1778648070,
+                "desc": "",
+                "state": 0,
+                "duration": 1818,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116565462812150,
+                  "view": 2351,
+                  "danmaku": 1,
+                  "reply": 4,
+                  "fav": 38,
+                  "coin": 8,
+                  "share": 4,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 40,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2351
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38297076323,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·5月12日 华强买瓜精品前十合集",
+                "duration": 1818,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Gw5y6DEUU",
+              "pages": [
+                {
+                  "cid": 38297076323,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·5月12日 华强买瓜精品前十合集",
+                  "duration": 1818,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 195347134,
+              "aid": 116572173634117,
+              "cid": 38327552722,
+              "title": "岁月留梗·5月13日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116572173634117,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/5ac4eb3b2e7e9b0d9007a412fe6e49a7aa8c7a53.jpg",
+                "title": "岁月留梗·5月13日 华强买瓜精品前十合集",
+                "pubdate": 1778750293,
+                "ctime": 1778750293,
+                "desc": "",
+                "state": 0,
+                "duration": 1831,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116572173634117,
+                  "view": 41770,
+                  "danmaku": 157,
+                  "reply": 63,
+                  "fav": 547,
+                  "coin": 102,
+                  "share": 270,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 685,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 41770
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38327552722,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·5月13日 华强买瓜精品前十合集",
+                "duration": 1831,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1E4596sEDb",
+              "pages": [
+                {
+                  "cid": 38327552722,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·5月13日 华强买瓜精品前十合集",
+                  "duration": 1831,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 195477845,
+              "aid": 116576250627830,
+              "cid": 38344197022,
+              "title": "岁月留梗·5月14日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116576250627830,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/eaff19181355d9cb2ee58f1d16be96f724fa12bd.jpg",
+                "title": "岁月留梗·5月14日 华强买瓜精品前十合集",
+                "pubdate": 1778813274,
+                "ctime": 1778813274,
+                "desc": "",
+                "state": 0,
+                "duration": 3960,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116576250627830,
+                  "view": 37465,
+                  "danmaku": 445,
+                  "reply": 101,
+                  "fav": 575,
+                  "coin": 183,
+                  "share": 155,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 907,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 37465
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38344197022,
+                "page": 1,
+                "from": "vupload",
+                "part": "5月15日",
+                "duration": 3960,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1902,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1nu5e6KEEk",
+              "pages": [
+                {
+                  "cid": 38344197022,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "5月15日",
+                  "duration": 3960,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1902,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 195531447,
+              "aid": 116577525565050,
+              "cid": 38349308521,
+              "title": "岁月留梗·5月14日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116577525565050,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/9fddbdda9a71a2cc2c770ff89715fc73d774dc40.jpg",
+                "title": "岁月留梗·5月14日 华强买瓜精品前十合集",
+                "pubdate": 1778833087,
+                "ctime": 1778833087,
+                "desc": "",
+                "state": 0,
+                "duration": 1481,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116577525565050,
+                  "view": 2822,
+                  "danmaku": 1,
+                  "reply": 8,
+                  "fav": 24,
+                  "coin": 10,
+                  "share": 10,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 49,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2822
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38349308521,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·5月14日 华强买瓜精品前十合集",
+                "duration": 1481,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1wb5v63Ew2",
+              "pages": [
+                {
+                  "cid": 38349308521,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·5月14日 华强买瓜精品前十合集",
+                  "duration": 1481,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 195815709,
+              "aid": 116584404225968,
+              "cid": 38389679155,
+              "title": "岁月留梗·5月15日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116584404225968,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/0f99c186d9d2e4f9009eeb986406af70c73284c8.jpg",
+                "title": "岁月留梗·5月15日 华强买瓜精品前十合集",
+                "pubdate": 1778937024,
+                "ctime": 1778937024,
+                "desc": "",
+                "state": 0,
+                "duration": 1208,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116584404225968,
+                  "view": 2184,
+                  "danmaku": 9,
+                  "reply": 9,
+                  "fav": 21,
+                  "coin": 6,
+                  "share": 11,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 45,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2184
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38389679155,
+                "page": 1,
+                "from": "vupload",
+                "part": "5月17日 (2)",
+                "duration": 1208,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV11KLG6DEJB",
+              "pages": [
+                {
+                  "cid": 38389679155,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "5月17日 (2)",
+                  "duration": 1208,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 195895195,
+              "aid": 116586769810900,
+              "cid": 38389222398,
+              "title": "买瓜元年（2021）精品视频合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116586769810900,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/16d289cde02dd1fcf3a5dd4df257b312729173f3.jpg",
+                "title": "买瓜元年（2021）精品视频合集",
+                "pubdate": 1778973820,
+                "ctime": 1778973820,
+                "desc": "",
+                "state": 0,
+                "duration": 24427,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116586769810900,
+                  "view": 1538,
+                  "danmaku": 7,
+                  "reply": 4,
+                  "fav": 53,
+                  "coin": 16,
+                  "share": 13,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 47,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1538
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38389222398,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜元年（2021）精品视频合集",
+                "duration": 24427,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2160,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1nALL6nEg3",
+              "pages": [
+                {
+                  "cid": 38389222398,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜元年（2021）精品视频合集",
+                  "duration": 24427,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2160,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 196255214,
+              "aid": 116595426855832,
+              "cid": 38426902701,
+              "title": "岁月留梗·5月16日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116595426855832,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c99aa1c83688da0a60488ac530d0d41e0d906e66.jpg",
+                "title": "岁月留梗·5月16日 华强买瓜精品前十合集",
+                "pubdate": 1779105213,
+                "ctime": 1779105213,
+                "desc": "",
+                "state": 0,
+                "duration": 1347,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116595426855832,
+                  "view": 1710,
+                  "danmaku": 3,
+                  "reply": 4,
+                  "fav": 28,
+                  "coin": 6,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 32,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1710
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38426902701,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·5月16日 华强买瓜精品前十合集",
+                "duration": 1347,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1CQLc6nEqJ",
+              "pages": [
+                {
+                  "cid": 38426902701,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·5月16日 华强买瓜精品前十合集",
+                  "duration": 1347,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 196372876,
+              "aid": 116599252060369,
+              "cid": 38439816219,
+              "title": "岁月留梗·5月17日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116599252060369,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/f2f2784719b59ed0a8d364ac14885f7c69315861.jpg",
+                "title": "岁月留梗·5月17日 华强买瓜精品前十合集",
+                "pubdate": 1779163616,
+                "ctime": 1779163616,
+                "desc": "",
+                "state": 0,
+                "duration": 1560,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116599252060369,
+                  "view": 4275,
+                  "danmaku": 17,
+                  "reply": 11,
+                  "fav": 68,
+                  "coin": 24,
+                  "share": 21,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 100,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4275
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38439816219,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·5月17日 华强买瓜精品前十合集",
+                "duration": 1560,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1WkLM66E9h",
+              "pages": [
+                {
+                  "cid": 38439816219,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·5月17日 华强买瓜精品前十合集",
+                  "duration": 1560,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 198372165,
+              "aid": 116651714415206,
+              "cid": 38674170420,
+              "title": "岁月留梗·5月28日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116651714415206,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/0142c7f6016298488d8a84e3cf212a066b61eaac.jpg",
+                "title": "岁月留梗·5月28日 华强买瓜精品前十合集",
+                "pubdate": 1779964023,
+                "ctime": 1779964023,
+                "desc": "",
+                "state": 0,
+                "duration": 2285,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116651714415206,
+                  "view": 4971,
+                  "danmaku": 7,
+                  "reply": 6,
+                  "fav": 63,
+                  "coin": 10,
+                  "share": 14,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 132,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4971
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38674170420,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·5月28日 华强买瓜精品前十合集",
+                "duration": 2285,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 2560,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1c7Vp6TE9k",
+              "pages": [
+                {
+                  "cid": 38674170420,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·5月28日 华强买瓜精品前十合集",
+                  "duration": 2285,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 2560,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 199455897,
+              "aid": 116680051197172,
+              "cid": 38797708678,
+              "title": "岁月留梗·6月1日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116680051197172,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/540d48c5c9d6e84a655d32071483dcc91a9dc424.jpg",
+                "title": "岁月留梗·6月1日 华强买瓜精品前十合集",
+                "pubdate": 1780396564,
+                "ctime": 1780396564,
+                "desc": "",
+                "state": 0,
+                "duration": 1718,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116680051197172,
+                  "view": 1003,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 17,
+                  "coin": 2,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 20,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1003
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38797708678,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·6月1日 华强买瓜精品前十合集",
+                "duration": 1718,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1oiVB6uE7e",
+              "pages": [
+                {
+                  "cid": 38797708678,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·6月1日 华强买瓜精品前十合集",
+                  "duration": 1718,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 199648169,
+              "aid": 116685604391029,
+              "cid": 38827131273,
+              "title": "岁月留梗·6月2日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116685604391029,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f1c8fa2c033273bd44bd4b14f5d4aea22bd0105d.jpg",
+                "title": "岁月留梗·6月2日 华强买瓜精品前十合集",
+                "pubdate": 1780481481,
+                "ctime": 1780481481,
+                "desc": "",
+                "state": 0,
+                "duration": 1261,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116685604391029,
+                  "view": 2305,
+                  "danmaku": 14,
+                  "reply": 1,
+                  "fav": 39,
+                  "coin": 5,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 44,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2305
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38827131273,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·6月2日 华强买瓜精品前十合集",
+                "duration": 1261,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1v9V26fEM5",
+              "pages": [
+                {
+                  "cid": 38827131273,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·6月2日 华强买瓜精品前十合集",
+                  "duration": 1261,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 199815001,
+              "aid": 116690520117243,
+              "cid": 38848237564,
+              "title": "岁月留梗·6月3日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116690520117243,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/8f05c31c66a3aa65dcc46cd8b1fa2ae0fbfd1af5.jpg",
+                "title": "岁月留梗·6月3日 华强买瓜精品前十合集",
+                "pubdate": 1780556332,
+                "ctime": 1780556332,
+                "desc": "",
+                "state": 0,
+                "duration": 2478,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116690520117243,
+                  "view": 759,
+                  "danmaku": 3,
+                  "reply": 7,
+                  "fav": 8,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 759
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38848237564,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·6月3日 华强买瓜精品前十合集",
+                "duration": 2478,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Hd7f6DEx4",
+              "pages": [
+                {
+                  "cid": 38848237564,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·6月3日 华强买瓜精品前十合集",
+                  "duration": 2478,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8089062,
+              "section_id": 8988308,
+              "id": 200753287,
+              "aid": 116714226452202,
+              "cid": 38959515085,
+              "title": "岁月留梗·6月3日 华强买瓜精品前十合集",
+              "attribute": 0,
+              "arc": {
+                "aid": 116714226452202,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/102124fda2af02bc002ae2afa040af3d6bfb1fc1.jpg",
+                "title": "岁月留梗·6月3日 华强买瓜精品前十合集",
+                "pubdate": 1780918203,
+                "ctime": 1780918203,
+                "desc": "",
+                "state": 0,
+                "duration": 1137,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546852020456004,
+                  "name": "西红柿炒鹅卵石",
+                  "face": "https://i0.hdslb.com/bfs/face/a6396d677f543a173aa11f3d3cd2943a96121dda.jpg"
+                },
+                "stat": {
+                  "aid": 116714226452202,
+                  "view": 831,
+                  "danmaku": 0,
+                  "reply": 3,
+                  "fav": 11,
+                  "coin": 6,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 21,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 831
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38959515085,
+                "page": 1,
+                "from": "vupload",
+                "part": "岁月留梗·6月3日 华强买瓜精品前十合集",
+                "duration": 1137,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17CEu66EQe",
+              "pages": [
+                {
+                  "cid": 38959515085,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "岁月留梗·6月3日 华强买瓜精品前十合集",
+                  "duration": 1137,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

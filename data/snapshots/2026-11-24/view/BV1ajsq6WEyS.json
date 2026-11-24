@@ -1,0 +1,296 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ajsq6WEyS",
+    "aid": 117647291259705,
+    "videos": 11,
+    "tid": 21,
+    "tid_v2": 2207,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/b9df88be5dffd2a75a87f1e8c6d68beb02f42004.jpg",
+    "title": "妈祖在人间首映会",
+    "pubdate": 1795155513,
+    "ctime": 1795155513,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 4495,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3747580391459699,
+      "name": "父母CP爱情好看",
+      "face": "https://i2.hdslb.com/bfs/face/6f83259b0f87dc025748f24ce0b7de931a5898f8.jpg"
+    },
+    "stat": {
+      "aid": 117647291259705,
+      "view": 145,
+      "danmaku": 0,
+      "reply": 0,
+      "favorite": 1,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43759566987,
+    "dimension": {
+      "width": 448,
+      "height": 960,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43759566987,
+        "page": 1,
+        "from": "vupload",
+        "part": "IMG_9746",
+        "duration": 345,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_0000392zg2tg9tlu727xnav2m5xxixb_firsti.jpg",
+        "ctime": 1795155513,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43759567559,
+        "page": 2,
+        "from": "vupload",
+        "part": "IMG_9747",
+        "duration": 314,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000007ejig743sm1j2bm9n1qek3gzeb_firsti.jpg",
+        "ctime": 1795155513,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43760158084,
+        "page": 3,
+        "from": "vupload",
+        "part": "IMG_9752",
+        "duration": 519,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002k9jmiv0n0k1m2mknuek09mojxb_firsti.jpg",
+        "ctime": 1795156845,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43760158166,
+        "page": 4,
+        "from": "vupload",
+        "part": "IMG_9753",
+        "duration": 502,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003bdt4am7ktzql262dbgggmervrb_firsti.jpg",
+        "ctime": 1795156845,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43761141928,
+        "page": 5,
+        "from": "vupload",
+        "part": "IMG_9758",
+        "duration": 516,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 960,
+          "height": 448,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002gwyru8iwapur2gr42vv31sh54b_firsti.jpg",
+        "ctime": 1795159310,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43761142210,
+        "page": 6,
+        "from": "vupload",
+        "part": "IMG_9759",
+        "duration": 439,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 960,
+          "height": 448,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_000005dfghlsr3z2l2fxif1fse5mjtb_firsti.jpg",
+        "ctime": 1795159310,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43761142160,
+        "page": 7,
+        "from": "vupload",
+        "part": "IMG_9760",
+        "duration": 380,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 960,
+          "height": 448,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00003jtq6ssowz6ma26pl2hf2lntaob_firsti.jpg",
+        "ctime": 1795159310,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43763502016,
+        "page": 8,
+        "from": "vupload",
+        "part": "IMG_9774",
+        "duration": 472,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000rfwck2q3ylfe2vm083mre327nb_firsti.jpg",
+        "ctime": 1795164798,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43763502199,
+        "page": 9,
+        "from": "vupload",
+        "part": "IMG_9773",
+        "duration": 467,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003fv9a9mwq2j4d2mnrevls49k5eb_firsti.jpg",
+        "ctime": 1795164798,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43763502307,
+        "page": 10,
+        "from": "vupload",
+        "part": "IMG_9772",
+        "duration": 398,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002r7vso4wava4f2wl15cuimnmt5b_firsti.jpg",
+        "ctime": 1795164798,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 43763502384,
+        "page": 11,
+        "from": "vupload",
+        "part": "IMG_9771",
+        "duration": 143,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 448,
+          "height": 960,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003vs27nmvzppe72rh3nzr1e3xk5b_firsti.jpg",
+        "ctime": 1795164798,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 0,
+    "is_view_self": false
+  }
+}

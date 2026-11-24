@@ -1,0 +1,898 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1wwBrBmEUo",
+    "aid": 115789164322286,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/5d2cdab85853d9c4feb52302d86b6a15c2d91e5f.jpg",
+    "title": "华强退役了，JK大佬继续买瓜",
+    "pubdate": 1766802681,
+    "ctime": 1766802681,
+    "desc": "华强退役了，JK大佬继续买瓜",
+    "desc_v2": [
+      {
+        "raw_text": "华强退役了，JK大佬继续买瓜",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 107,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 407301887,
+      "name": "童芯乱剪",
+      "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+    },
+    "stat": {
+      "aid": 115789164322286,
+      "view": 58474,
+      "danmaku": 95,
+      "reply": 79,
+      "favorite": 233,
+      "coin": 17,
+      "share": 14,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 782,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "作者声明：该视频使用人工智能合成技术",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 35005988887,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 7172056,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 35005988887,
+        "page": 1,
+        "from": "vupload",
+        "part": "华强退役了，JK大佬继续买瓜",
+        "duration": 107,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003gfam9nuttp1g2ke0wqald5fghb_firsti.jpg",
+        "ctime": 1766802681
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 7172056,
+      "title": "华强买瓜",
+      "cover": "https://archive.biliimg.com/bfs/archive/9ecc19b52dba6889a4fc0eec5aca8325a3b65651.jpg",
+      "mid": 407301887,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 7172056,
+        "view": 499534,
+        "danmaku": 620,
+        "reply": 970,
+        "fav": 3926,
+        "coin": 1344,
+        "share": 1506,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 21952,
+        "vt": 0,
+        "vv": 499534
+      },
+      "ep_count": 7,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 7172056,
+          "id": 7910433,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 7172056,
+              "section_id": 7910433,
+              "id": 170120509,
+              "aid": 115891689755154,
+              "cid": 35375284933,
+              "title": "华强买酸黄瓜：保熟吗？郝哥：不保熟能咋地！",
+              "attribute": 0,
+              "arc": {
+                "aid": 115891689755154,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/40e691ebab6f3b3a50c43eb34ea01c6b2328ff30.jpg",
+                "title": "华强买酸黄瓜：保熟吗？郝哥：不保熟能咋地！",
+                "pubdate": 1768366879,
+                "ctime": 1768366879,
+                "desc": "",
+                "state": 0,
+                "duration": 86,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 407301887,
+                  "name": "童芯乱剪",
+                  "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+                },
+                "stat": {
+                  "aid": 115891689755154,
+                  "view": 8356,
+                  "danmaku": 14,
+                  "reply": 16,
+                  "fav": 45,
+                  "coin": 11,
+                  "share": 13,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 445,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 8356
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35375284933,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买酸黄瓜：保熟吗？郝哥：不保熟能咋地！",
+                "duration": 86,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1x1rnBqE6L",
+              "pages": [
+                {
+                  "cid": 35375284933,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买酸黄瓜：保熟吗？郝哥：不保熟能咋地！",
+                  "duration": 86,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7172056,
+              "section_id": 7910433,
+              "id": 170120510,
+              "aid": 115814531470496,
+              "cid": 35104820187,
+              "title": "《华强买瓜》元旦大和解，但没完全和解！",
+              "attribute": 0,
+              "arc": {
+                "aid": 115814531470496,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/02258ecc5ef46eecafe8d620f1aefa33d24a9f4f.jpg",
+                "title": "《华强买瓜》元旦大和解，但没完全和解！",
+                "pubdate": 1767189676,
+                "ctime": 1767189676,
+                "desc": "",
+                "state": 0,
+                "duration": 54,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 407301887,
+                  "name": "童芯乱剪",
+                  "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+                },
+                "stat": {
+                  "aid": 115814531470496,
+                  "view": 19463,
+                  "danmaku": 35,
+                  "reply": 54,
+                  "fav": 207,
+                  "coin": 47,
+                  "share": 74,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 838,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 19463
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35104820187,
+                "page": 1,
+                "from": "vupload",
+                "part": "《华强买瓜》元旦大和解，但没完全和解！",
+                "duration": 54,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1XSiuBqExB",
+              "pages": [
+                {
+                  "cid": 35104820187,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《华强买瓜》元旦大和解，但没完全和解！",
+                  "duration": 54,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7172056,
+              "section_id": 7910433,
+              "id": 170120511,
+              "aid": 115789164322286,
+              "cid": 35005988887,
+              "title": "华强退役了，JK大佬继续买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 115789164322286,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/5d2cdab85853d9c4feb52302d86b6a15c2d91e5f.jpg",
+                "title": "华强退役了，JK大佬继续买瓜",
+                "pubdate": 1766802681,
+                "ctime": 1766802681,
+                "desc": "",
+                "state": 0,
+                "duration": 107,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 407301887,
+                  "name": "童芯乱剪",
+                  "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+                },
+                "stat": {
+                  "aid": 115789164322286,
+                  "view": 58474,
+                  "danmaku": 95,
+                  "reply": 79,
+                  "fav": 233,
+                  "coin": 17,
+                  "share": 14,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 782,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 58474
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35005988887,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强退役了，JK大佬继续买瓜",
+                "duration": 107,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1wwBrBmEUo",
+              "pages": [
+                {
+                  "cid": 35005988887,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强退役了，JK大佬继续买瓜",
+                  "duration": 107,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7172056,
+              "section_id": 7910433,
+              "id": 170120512,
+              "aid": 115774836512198,
+              "cid": 34955592651,
+              "title": "《华强买瓜》之圣诞篇：卖瓜不如跳舞",
+              "attribute": 0,
+              "arc": {
+                "aid": 115774836512198,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/bc20883b197e0203bc0d46aae96d537b11adfc3e.jpg",
+                "title": "《华强买瓜》之圣诞篇：卖瓜不如跳舞",
+                "pubdate": 1766584027,
+                "ctime": 1766584027,
+                "desc": "",
+                "state": 0,
+                "duration": 60,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 407301887,
+                  "name": "童芯乱剪",
+                  "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+                },
+                "stat": {
+                  "aid": 115774836512198,
+                  "view": 5371,
+                  "danmaku": 13,
+                  "reply": 8,
+                  "fav": 41,
+                  "coin": 6,
+                  "share": 13,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 166,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 5371
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34955592651,
+                "page": 1,
+                "from": "vupload",
+                "part": "《华强买瓜》之圣诞篇：卖瓜不如跳舞",
+                "duration": 60,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1NeBjBUE5H",
+              "pages": [
+                {
+                  "cid": 34955592651,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《华强买瓜》之圣诞篇：卖瓜不如跳舞",
+                  "duration": 60,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7172056,
+              "section_id": 7910433,
+              "id": 170120513,
+              "aid": 115762354329086,
+              "cid": 34904277580,
+              "title": "华强买瓜遇上“智能”客服，郝哥扳回一局！",
+              "attribute": 0,
+              "arc": {
+                "aid": 115762354329086,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/a1d4361505f37fbbec04968888dd5fde0031466a.jpg",
+                "title": "华强买瓜遇上“智能”客服，郝哥扳回一局！",
+                "pubdate": 1766393614,
+                "ctime": 1766393614,
+                "desc": "",
+                "state": 0,
+                "duration": 53,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 407301887,
+                  "name": "童芯乱剪",
+                  "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+                },
+                "stat": {
+                  "aid": 115762354329086,
+                  "view": 246295,
+                  "danmaku": 276,
+                  "reply": 442,
+                  "fav": 2625,
+                  "coin": 1006,
+                  "share": 1010,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13604,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 246295
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34904277580,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜遇上“智能”客服，郝哥扳回一局！",
+                "duration": 53,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1uHBxBUE6A",
+              "pages": [
+                {
+                  "cid": 34904277580,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜遇上“智能”客服，郝哥扳回一局！",
+                  "duration": 53,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7172056,
+              "section_id": 7910433,
+              "id": 170120514,
+              "aid": 115754955446205,
+              "cid": 34875114355,
+              "title": "华强买榴莲：瓤是臭的！",
+              "attribute": 0,
+              "arc": {
+                "aid": 115754955446205,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/52c449c9d134d1c2817d28bf6bfc52e1de5b6705.jpg",
+                "title": "华强买榴莲：瓤是臭的！",
+                "pubdate": 1766280646,
+                "ctime": 1766280646,
+                "desc": "",
+                "state": 0,
+                "duration": 73,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 407301887,
+                  "name": "童芯乱剪",
+                  "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+                },
+                "stat": {
+                  "aid": 115754955446205,
+                  "view": 63391,
+                  "danmaku": 87,
+                  "reply": 73,
+                  "fav": 413,
+                  "coin": 65,
+                  "share": 94,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2430,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 63391
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34875114355,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买榴莲：瓤是臭的！",
+                "duration": 73,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1zQq2B9Etj",
+              "pages": [
+                {
+                  "cid": 34875114355,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买榴莲：瓤是臭的！",
+                  "duration": 73,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7172056,
+              "section_id": 7910433,
+              "id": 170120590,
+              "aid": 115673099476398,
+              "cid": 34552811221,
+              "title": "《华强买电动》新国标技术保熟吗？",
+              "attribute": 0,
+              "arc": {
+                "aid": 115673099476398,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/7a8092d32d6af7a363ff036375ee0c6fb05036fe.jpg",
+                "title": "《华强买电动》新国标技术保熟吗？",
+                "pubdate": 1765031696,
+                "ctime": 1765031696,
+                "desc": "",
+                "state": 0,
+                "duration": 60,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 407301887,
+                  "name": "童芯乱剪",
+                  "face": "https://i2.hdslb.com/bfs/face/13b887a47e66b54d49ecf2b3a0bf733123368831.jpg"
+                },
+                "stat": {
+                  "aid": 115673099476398,
+                  "view": 98184,
+                  "danmaku": 100,
+                  "reply": 298,
+                  "fav": 361,
+                  "coin": 192,
+                  "share": 288,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3687,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 98184
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34552811221,
+                "page": 1,
+                "from": "vupload",
+                "part": "《华强买电动》新国标技术保熟吗？",
+                "duration": 60,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1eT2XBHEwN",
+              "pages": [
+                {
+                  "cid": 34552811221,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《华强买电动》新国标技术保熟吗？",
+                  "duration": 60,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

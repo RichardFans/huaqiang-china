@@ -1,0 +1,51 @@
+{
+  "bvid": "BV13Fsb6AEyU",
+  "aid": 117642258025258,
+  "title": "霸道穷鬼宋老虎【AI MV大赛】",
+  "owner": {
+    "mid": 1298657234,
+    "name": "Raymondsese"
+  },
+  "pubdate": "2026-11-19T08:57:15Z",
+  "duration_s": 264,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "标题显式命中桥段词（song-laohu-banquet）；检索词『宋老虎』补全",
+  "scene_status": "confirmed",
+  "form": "ai-cover",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI+声音/音乐关键词：AI+MV",
+  "tier": "rising",
+  "tier_basis": "播放 375,739 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i2.hdslb.com/bfs/archive/e188102b66308fa2c209dde43b5a84bbbaf02f91.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 375739,
+      "like": 13423,
+      "coin": 1373,
+      "favorite": 2847,
+      "share": 741,
+      "danmaku": 501,
+      "reply": 204
+    }
+  ],
+  "notes": ""
+}

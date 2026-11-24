@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1kfsB6CEGK",
+    "aid": 117631201910425,
+    "videos": 1,
+    "tid": 256,
+    "tid_v2": 2009,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/026716b7ebad2cb59d565bc56791c6140ef52a85.jpg",
+    "title": "大型纪录片《黄渤：孙红雷不演戏，对社会一点好处没有》",
+    "pubdate": 1794909959,
+    "ctime": 1794909959,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 91,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546696988494150,
+      "name": "蝴蝶队长乐",
+      "face": "https://i0.hdslb.com/bfs/face/304364f0bb504b2150d7a5d0447fca32b8f89cce.jpg"
+    },
+    "stat": {
+      "aid": 117631201910425,
+      "view": 502,
+      "danmaku": 0,
+      "reply": 0,
+      "favorite": 2,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 13,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43681973128,
+    "dimension": {
+      "width": 1440,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43681973128,
+        "page": 1,
+        "from": "vupload",
+        "part": "大型纪录片《黄渤：孙红雷不演戏，对社会一点好处没有》",
+        "duration": 91,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1440,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001taxfyfuuyt86287hn3a2b06cqb_firsti.jpg",
+        "ctime": 1794909959,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

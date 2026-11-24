@@ -1,0 +1,51 @@
+{
+  "bvid": "BV16psB6MENZ",
+  "aid": 117646905317581,
+  "title": "华强连退三块牛排，直接走上人生巅峰",
+  "owner": {
+    "mid": 1205504765,
+    "name": "向日葵小魔女"
+  },
+  "pubdate": "2026-11-20T04:38:54Z",
+  "duration_s": 407,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『刘华强』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 240,860 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i0.hdslb.com/bfs/archive/dfd55a796b963edf46d986f77a00220af86184dc.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "刘华强",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 240860,
+      "like": 219,
+      "coin": 8,
+      "favorite": 217,
+      "share": 0,
+      "danmaku": 0,
+      "reply": 2
+    }
+  ],
+  "notes": ""
+}

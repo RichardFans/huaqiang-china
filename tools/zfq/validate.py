@@ -9,6 +9,9 @@
   R5 快照 (endpoint, date) 唯一
   R6 seed 必填 tier_basis；auto 形态必填 form_evidence（模型层兜底，此处复查）
   R8 cover 与最晚 view 快照的 pic 一致，且有 cover_evidence（ADR-0007；跑 zfq mine 修复）
+  R9 data/curated/graph.json 与按当前数据重建的图谱一致（ADR-0008；重跑 zfq build 修复）
+  R10 时间线 SVG 三变体与按当前数据重建结果逐字节一致（README hero / 站点桌面 / 站点移动）
+  R11 创作者星图 SVG（README 与站点各一份）与重建结果逐字节一致（ADR-0008）
 """
 from __future__ import annotations
 
@@ -50,6 +53,46 @@ def _readme_drift_errors() -> list[str]:
         if current != expected:
             errs.append(f"R7 {path.name} 与数据漂移（重跑 zfq build 后提交）")
     return errs
+
+
+def _generated_svg_errors() -> list[str]:
+    """R10/R11：由数据生成的 SVG（时间线三变体、创作者星图两份）必须与按当前数据
+    重建的结果逐字节一致（重跑 zfq build 修复）。"""
+    from .build import TIMELINE_ASSETS
+    from .graph import build_graph, to_svg
+    from .timeline import build_timeline_svg
+    from .track import load_entries
+
+    entries = load_entries()
+    checks = [(f"R10 {rel}", build_timeline_svg(entries, variant=v, chrome=c))
+              for rel, v, c in TIMELINE_ASSETS]
+    svg = to_svg(build_graph(entries))
+    checks += [("R11 docs/assets/creator-map.svg", svg),
+               ("R11 site/src/data/generated/creator-map.svg", svg)]
+    errs: list[str] = []
+    for label, expected in checks:
+        path = config.ROOT / label.split(" ", 1)[1]
+        if not path.exists():
+            errs.append(f"{label} 缺失（跑 zfq build 生成）")
+        elif path.read_text(encoding="utf-8") != expected:
+            errs.append(f"{label} 与数据漂移（重跑 zfq build 后提交）")
+    return errs
+
+
+def _graph_drift_errors() -> list[str]:
+    """R9：graph.json 必须与当前数据+快照重建结果一致。"""
+    from .graph import build_graph
+
+    path = config.CURATED_DIR / "graph.json"
+    if not path.exists():
+        return ["R9 data/curated/graph.json 缺失（跑 zfq build 生成）"]
+    import json as _json
+
+    current = _json.loads(path.read_text(encoding="utf-8"))
+    expected = build_graph()
+    if current != expected:
+        return ["R9 graph.json 与数据漂移（重跑 zfq build 后提交）"]
+    return []
 
 
 def validate_all(check_readme: bool = True) -> tuple[list[str], dict, list[str]]:
@@ -120,6 +163,8 @@ def validate_all(check_readme: bool = True) -> tuple[list[str], dict, list[str]]
             errors.append(f"R2 {p.name}: {ex.message}")
 
     errors += _slug_sync_ok()
+    errors += _graph_drift_errors()
+    errors += _generated_svg_errors()
     if check_readme:
         errors += _readme_drift_errors()
     return errors, dict(stats), warnings

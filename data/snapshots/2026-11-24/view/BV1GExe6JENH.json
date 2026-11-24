@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1GExe6JENH",
+    "aid": 117527686545540,
+    "videos": 1,
+    "tid": 243,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/ff3860ada4a27750757c181c6c88918ae9df7980.jpg",
+    "title": "宋老虎等了刘华强二十年，强子刚来啊是什么梗",
+    "pubdate": 1793330323,
+    "ctime": 1793330323,
+    "desc": "信息来源：相关影视片段及网友二创视频整理，仅代表个人观点。",
+    "desc_v2": [
+      {
+        "raw_text": "信息来源：相关影视片段及网友二创视频整理，仅代表个人观点。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 104,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3706934551120632,
+      "name": "胡说观察社",
+      "face": "https://i0.hdslb.com/bfs/face/83c0ef6e649f29e02c39a20a8cc2d1a06ea8e142.jpg"
+    },
+    "stat": {
+      "aid": 117527686545540,
+      "view": 300,
+      "danmaku": 0,
+      "reply": 3,
+      "favorite": 0,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 5,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "个人观点，仅供参考",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43168632744,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43168632744,
+        "page": 1,
+        "from": "vupload",
+        "part": "宋老虎等了刘华强二十年，强子刚来啊是什么梗",
+        "duration": 104,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001xkalrkhoeh2y2fezw616im1v2b_firsti.jpg",
+        "ctime": 1793330323,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1k8sG6qETw",
+  "aid": 117613837419799,
+  "title": "强子找工作啊，我是你们的面试官宋老虎【AI MV大赛】",
+  "owner": {
+    "mid": 1298657234,
+    "name": "Raymondsese"
+  },
+  "pubdate": "2026-11-14T08:29:40Z",
+  "duration_s": 257,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "标题显式命中桥段词（song-laohu-banquet）；检索词『宋老虎』补全",
+  "scene_status": "confirmed",
+  "form": "ai-cover",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI+声音/音乐关键词：AI+MV",
+  "tier": "rising",
+  "tier_basis": "播放 245,382 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i1.hdslb.com/bfs/archive/7d0c40eed472b87a62243f553ee73dccb3478bfa.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 245382,
+      "like": 6212,
+      "coin": 689,
+      "favorite": 1399,
+      "share": 347,
+      "danmaku": 408,
+      "reply": 132
+    }
+  ],
+  "notes": ""
+}

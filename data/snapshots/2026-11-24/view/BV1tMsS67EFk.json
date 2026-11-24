@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1tMsS67EFk",
+    "aid": 117637359082310,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2207,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/180d24c9af25b6ceaa9c5bb090455d1cfeb11bf5.jpg",
+    "title": "雷霆广告，船新版本 （看完的奖励去一次异世界)#抽象广告 #名场面 #搞笑 #童年回忆 #大运",
+    "pubdate": 1795003852,
+    "ctime": 1795003852,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 208,
+    "mission_id": 4071918,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1371061372,
+      "name": "生产队的驴ll",
+      "face": "https://i1.hdslb.com/bfs/face/2bdd75b568df74c84ed5d1c49dd10f551f2cbecb.jpg"
+    },
+    "stat": {
+      "aid": 117637359082310,
+      "view": 747,
+      "danmaku": 0,
+      "reply": 0,
+      "favorite": 5,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 19,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "雷霆广告，船新版本 （看完的奖励去一次异世界)#抽象广告 #名场面 #搞笑 #童年回忆 #大运",
+    "cid": 43713496343,
+    "dimension": {
+      "width": 1440,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43713496343,
+        "page": 1,
+        "from": "vupload",
+        "part": "雷霆广告，船新版本 （看完的奖励去一次异世界)#抽象广告 #名场面 #搞笑 #童年回忆 #大运",
+        "duration": 208,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1440,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00003c0pkf7yj3agn23so8cabw4wtgb_firsti.jpg",
+        "ctime": 1795003852,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

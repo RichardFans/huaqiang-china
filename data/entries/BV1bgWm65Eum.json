@@ -1,0 +1,51 @@
+{
+  "bvid": "BV1bgWm65Eum",
+  "aid": 117597328641059,
+  "title": "巴巴强强2.0【AI MV大赛】",
+  "owner": {
+    "mid": 1298657234,
+    "name": "Raymondsese"
+  },
+  "pubdate": "2026-11-11T10:29:31Z",
+  "duration_s": 202,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "仅检索词『宋老虎』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "ai-cover",
+  "form_status": "auto",
+  "form_evidence": "标题命中 AI+声音/音乐关键词：AI+MV",
+  "tier": "rising",
+  "tier_basis": "播放 381,867 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "cover": "http://i1.hdslb.com/bfs/archive/e4ea46bc5427786b4b05d44bc4e2261e5508b77f.jpg",
+  "cover_evidence": "mined: api-view@2026-11-24",
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "pubdate",
+    "captured_at": "2026-11-24T03:22:54.156056Z"
+  },
+  "first_seen": "2026-11-24T03:22:54.156056Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T03:22:54.156056Z",
+      "endpoint": "api-view",
+      "view": 381867,
+      "like": 16031,
+      "coin": 1848,
+      "favorite": 4704,
+      "share": 2864,
+      "danmaku": 387,
+      "reply": 484
+    }
+  ],
+  "notes": ""
+}

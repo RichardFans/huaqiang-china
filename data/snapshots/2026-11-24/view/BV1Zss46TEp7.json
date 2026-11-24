@@ -1,0 +1,893 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Zss46TEp7",
+    "aid": 117641217836446,
+    "videos": 1,
+    "tid": 85,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/47b9983eb58682a8e926e8eed721e2eaba085de7.jpg",
+    "title": "梦境纪录之《十万人宿舍》（第七期）在冥界偶遇郝哥",
+    "pubdate": 1795062711,
+    "ctime": 1795062711,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 169,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 168287441,
+      "name": "巫喵王king",
+      "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+    },
+    "stat": {
+      "aid": 117641217836446,
+      "view": 1176,
+      "danmaku": 4,
+      "reply": 5,
+      "favorite": 0,
+      "coin": 0,
+      "share": 0,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 18,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43730341186,
+    "dimension": {
+      "width": 1080,
+      "height": 1920,
+      "rotate": 0
+    },
+    "season_id": 8722976,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43730341186,
+        "page": 1,
+        "from": "vupload",
+        "part": "梦境纪录之《十万人宿舍》（第七期）在冥界偶遇郝哥",
+        "duration": 169,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 1920,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_000025d5xmai86gez2t6j0r52sfxe8b_firsti.jpg",
+        "ctime": 1795062711,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8722976,
+      "title": "梦境生活记录第二季",
+      "cover": "https://archive.biliimg.com/bfs/archive/ab7aa474be1ca6d4e1866b5160a7692ab75623c5.jpg",
+      "mid": 168287441,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8722976,
+        "view": 133219,
+        "danmaku": 83,
+        "reply": 88,
+        "fav": 636,
+        "coin": 69,
+        "share": 27,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 2788,
+        "vt": 0,
+        "vv": 133219
+      },
+      "ep_count": 7,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8722976,
+          "id": 9721212,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8722976,
+              "section_id": 9721212,
+              "id": 213001392,
+              "aid": 117019403881052,
+              "cid": 40498890931,
+              "title": "梦境纪录之《十万人宿舍》（第一期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117019403881052,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/6da36a072a88cef17aa299de03dc626c34c9f3fe.jpg",
+                "title": "梦境纪录之《十万人宿舍》（第一期）",
+                "pubdate": 1785574581,
+                "ctime": 1785574581,
+                "desc": "",
+                "state": 0,
+                "duration": 114,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 168287441,
+                  "name": "巫喵王king",
+                  "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+                },
+                "stat": {
+                  "aid": 117019403881052,
+                  "view": 9198,
+                  "danmaku": 11,
+                  "reply": 8,
+                  "fav": 84,
+                  "coin": 15,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 301,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 9198
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40498890931,
+                "page": 1,
+                "from": "vupload",
+                "part": "梦境纪录之十万人宿舍（第一期）",
+                "duration": 114,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 720,
+                  "height": 1254,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1D4Gg6mEfk",
+              "pages": [
+                {
+                  "cid": 40498890931,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "梦境纪录之十万人宿舍（第一期）",
+                  "duration": 114,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 720,
+                    "height": 1254,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8722976,
+              "section_id": 9721212,
+              "id": 215336801,
+              "aid": 117075439782218,
+              "cid": 40803895895,
+              "title": "梦境纪录之《十万人宿舍》（第二期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117075439782218,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/c618ec160248e65478e00a3b5eceb44d66fe06dc.jpg",
+                "title": "梦境纪录之《十万人宿舍》（第二期）",
+                "pubdate": 1786429529,
+                "ctime": 1786429529,
+                "desc": "",
+                "state": 0,
+                "duration": 116,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 168287441,
+                  "name": "巫喵王king",
+                  "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+                },
+                "stat": {
+                  "aid": 117075439782218,
+                  "view": 12683,
+                  "danmaku": 20,
+                  "reply": 10,
+                  "fav": 88,
+                  "coin": 9,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 367,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 12683
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40803895895,
+                "page": 1,
+                "from": "vupload",
+                "part": "梦境纪录之十万人宿舍（第二期）",
+                "duration": 116,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 720,
+                  "height": 1254,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1JRuq6YEJT",
+              "pages": [
+                {
+                  "cid": 40803895895,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "梦境纪录之十万人宿舍（第二期）",
+                  "duration": 116,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 720,
+                    "height": 1254,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8722976,
+              "section_id": 9721212,
+              "id": 217978062,
+              "aid": 117137330932632,
+              "cid": 41151104872,
+              "title": "梦境纪录之《十万人宿舍》（第三期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117137330932632,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/226fc155ea0f9ce05f6d1629fbbb4ebc0e5707d0.jpg",
+                "title": "梦境纪录之《十万人宿舍》（第三期）",
+                "pubdate": 1787374000,
+                "ctime": 1787374000,
+                "desc": "",
+                "state": 0,
+                "duration": 172,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 168287441,
+                  "name": "巫喵王king",
+                  "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+                },
+                "stat": {
+                  "aid": 117137330932632,
+                  "view": 84744,
+                  "danmaku": 12,
+                  "reply": 20,
+                  "fav": 188,
+                  "coin": 32,
+                  "share": 9,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1247,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 84744
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41151104872,
+                "page": 1,
+                "from": "vupload",
+                "part": "梦10",
+                "duration": 172,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 720,
+                  "height": 1254,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1v68C6fEDu",
+              "pages": [
+                {
+                  "cid": 41151104872,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "梦10",
+                  "duration": 172,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 720,
+                    "height": 1254,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8722976,
+              "section_id": 9721212,
+              "id": 220567498,
+              "aid": 117212794850934,
+              "cid": 41583247617,
+              "title": "梦境纪录之《十万人宿舍》（第四期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117212794850934,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/fff26b47255dd5233cc50b1e2b9f07478e4103bc.jpg",
+                "title": "梦境纪录之《十万人宿舍》（第四期）",
+                "pubdate": 1788525468,
+                "ctime": 1788525468,
+                "desc": "",
+                "state": 0,
+                "duration": 108,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 168287441,
+                  "name": "巫喵王king",
+                  "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+                },
+                "stat": {
+                  "aid": 117212794850934,
+                  "view": 4731,
+                  "danmaku": 7,
+                  "reply": 6,
+                  "fav": 17,
+                  "coin": 1,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 102,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4731
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41583247617,
+                "page": 1,
+                "from": "vupload",
+                "part": "梦境纪录之《十万人宿舍》（第四期）",
+                "duration": 108,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1WLtB69E9f",
+              "pages": [
+                {
+                  "cid": 41583247617,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "梦境纪录之《十万人宿舍》（第四期）",
+                  "duration": 108,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8722976,
+              "section_id": 9721212,
+              "id": 223691035,
+              "aid": 117314162788505,
+              "cid": 42109567585,
+              "title": "梦境纪录之《十万人宿舍》（第五期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117314162788505,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/b733c31c469ec4aafa1bf5fd7728b8ed46426a18.jpg",
+                "title": "梦境纪录之《十万人宿舍》（第五期）",
+                "pubdate": 1790072235,
+                "ctime": 1790072235,
+                "desc": "",
+                "state": 0,
+                "duration": 178,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 168287441,
+                  "name": "巫喵王king",
+                  "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+                },
+                "stat": {
+                  "aid": 117314162788505,
+                  "view": 8246,
+                  "danmaku": 22,
+                  "reply": 14,
+                  "fav": 93,
+                  "coin": 4,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 266,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 8246
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42109567585,
+                "page": 1,
+                "from": "vupload",
+                "part": "梦境纪录之《十万人宿舍》（第五期）",
+                "duration": 178,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19MhJ64EbC",
+              "pages": [
+                {
+                  "cid": 42109567585,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "梦境纪录之《十万人宿舍》（第五期）",
+                  "duration": 178,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8722976,
+              "section_id": 9721212,
+              "id": 227981828,
+              "aid": 117448732903091,
+              "cid": 42783868799,
+              "title": "梦境纪录之《十万人宿舍》（第六期）",
+              "attribute": 0,
+              "arc": {
+                "aid": 117448732903091,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/d963dc235f031a4740f4fcb47554db17542b8239.jpg",
+                "title": "梦境纪录之《十万人宿舍》（第六期）",
+                "pubdate": 1792125638,
+                "ctime": 1792125638,
+                "desc": "",
+                "state": 0,
+                "duration": 141,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 168287441,
+                  "name": "巫喵王king",
+                  "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+                },
+                "stat": {
+                  "aid": 117448732903091,
+                  "view": 12442,
+                  "danmaku": 7,
+                  "reply": 25,
+                  "fav": 166,
+                  "coin": 8,
+                  "share": 12,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 487,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 12442
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42783868799,
+                "page": 1,
+                "from": "vupload",
+                "part": "梦境纪录之《十万人宿舍》（第六期）",
+                "duration": 141,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1L3JQ6xERQ",
+              "pages": [
+                {
+                  "cid": 42783868799,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "梦境纪录之《十万人宿舍》（第六期）",
+                  "duration": 141,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8722976,
+              "section_id": 9721212,
+              "id": 234476563,
+              "aid": 117641217836446,
+              "cid": 43730341186,
+              "title": "梦境纪录之《十万人宿舍》（第七期）在冥界偶遇郝哥",
+              "attribute": 0,
+              "arc": {
+                "aid": 117641217836446,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/47b9983eb58682a8e926e8eed721e2eaba085de7.jpg",
+                "title": "梦境纪录之《十万人宿舍》（第七期）在冥界偶遇郝哥",
+                "pubdate": 1795062711,
+                "ctime": 1795062711,
+                "desc": "",
+                "state": 0,
+                "duration": 169,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 168287441,
+                  "name": "巫喵王king",
+                  "face": "https://i2.hdslb.com/bfs/face/efd590ed8ed0c94a6da145eb773f654223088d4a.jpg"
+                },
+                "stat": {
+                  "aid": 117641217836446,
+                  "view": 1176,
+                  "danmaku": 4,
+                  "reply": 5,
+                  "fav": 0,
+                  "coin": 0,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 18,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1176
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43730341186,
+                "page": 1,
+                "from": "vupload",
+                "part": "梦境纪录之《十万人宿舍》（第七期）在冥界偶遇郝哥",
+                "duration": 169,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Zss46TEp7",
+              "pages": [
+                {
+                  "cid": 43730341186,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "梦境纪录之《十万人宿舍》（第七期）在冥界偶遇郝哥",
+                  "duration": 169,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

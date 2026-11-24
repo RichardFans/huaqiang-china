@@ -1,0 +1,899 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1DgyszmEQr",
+    "aid": 117649824552235,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/fe0d95b11a39719eaefb1ee8cd8e9754cd7acc9b.jpg",
+    "title": "买瓜！我要证明，用咕咕嘎嘎配音刘华强也是能上首页的！",
+    "pubdate": 1795194183,
+    "ctime": 1795194184,
+    "desc": "本视频均由闲人哥哥一人配音一人编辑",
+    "desc_v2": [
+      {
+        "raw_text": "本视频均由闲人哥哥一人配音一人编辑",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 113,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 431015218,
+      "name": "废人兄弟搞配音",
+      "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+    },
+    "stat": {
+      "aid": 117649824552235,
+      "view": 16342,
+      "danmaku": 132,
+      "reply": 21,
+      "favorite": 384,
+      "coin": 132,
+      "share": 67,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1217,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43776081956,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 5563858,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43776081956,
+        "page": 1,
+        "from": "vupload",
+        "part": "lv_0_20260907064843.mp4",
+        "duration": 113,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000024ocdr7tej9w52ok1ctqa14n7nb_firsti.jpg",
+        "ctime": 1795194184
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 5563858,
+      "title": "咕咕嘎嘎系列配音",
+      "cover": "https://archive.biliimg.com/bfs/archive/f71e2ce9633bd421f0f1d13a3791896fcaa774db.jpg",
+      "mid": 431015218,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 5563858,
+        "view": 834076,
+        "danmaku": 4243,
+        "reply": 4790,
+        "fav": 25546,
+        "coin": 4826,
+        "share": 26188,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 99165,
+        "vt": 0,
+        "vv": 834076
+      },
+      "ep_count": 7,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 5563858,
+          "id": 6176482,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 5563858,
+              "section_id": 6176482,
+              "id": 127892370,
+              "aid": 114616822662565,
+              "cid": 30296968316,
+              "title": "大草！gugugaga版的迪奥！？！？",
+              "attribute": 0,
+              "arc": {
+                "aid": 114616822662565,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/48c4775707feeec6504643fb3f0a392e022c8826.jpg",
+                "title": "大草！gugugaga版的迪奥！？！？",
+                "pubdate": 1748914247,
+                "ctime": 1748914247,
+                "desc": "",
+                "state": 0,
+                "duration": 131,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 431015218,
+                  "name": "废人兄弟搞配音",
+                  "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+                },
+                "stat": {
+                  "aid": 114616822662565,
+                  "view": 271232,
+                  "danmaku": 1563,
+                  "reply": 941,
+                  "fav": 7489,
+                  "coin": 1120,
+                  "share": 10212,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 38362,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 271232
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 30296968316,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20250603092133",
+                "duration": 131,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1EW7bz3EiY",
+              "pages": [
+                {
+                  "cid": 30296968316,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20250603092133",
+                  "duration": 131,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 5563858,
+              "section_id": 6176482,
+              "id": 171671887,
+              "aid": 115936837239967,
+              "cid": 35537357742,
+              "title": "知道！犯什么事了吗~但是gugugaga版~",
+              "attribute": 0,
+              "arc": {
+                "aid": 115936837239967,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/3ec708cf8496000ee0436ad4d61ec193698c23b6.jpg",
+                "title": "知道！犯什么事了吗~但是gugugaga版~",
+                "pubdate": 1769055956,
+                "ctime": 1769055956,
+                "desc": "",
+                "state": 0,
+                "duration": 61,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 431015218,
+                  "name": "废人兄弟搞配音",
+                  "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+                },
+                "stat": {
+                  "aid": 115936837239967,
+                  "view": 283965,
+                  "danmaku": 1352,
+                  "reply": 2205,
+                  "fav": 13045,
+                  "coin": 2203,
+                  "share": 9284,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 40185,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 283965
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35537357742,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20260122121952",
+                "duration": 61,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1RgzpBHEqF",
+              "pages": [
+                {
+                  "cid": 35537357742,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20260122121952",
+                  "duration": 61,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 5563858,
+              "section_id": 6176482,
+              "id": 172039669,
+              "aid": 115947624990389,
+              "cid": 35576153349,
+              "title": "海柱！如果刘海柱说的是gugugaga语……",
+              "attribute": 0,
+              "arc": {
+                "aid": 115947624990389,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/1d77e8f7f0d920aa7eeb2f22e270b41b07c8af40.jpg",
+                "title": "海柱！如果刘海柱说的是gugugaga语……",
+                "pubdate": 1769220576,
+                "ctime": 1769220576,
+                "desc": "",
+                "state": 0,
+                "duration": 87,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 431015218,
+                  "name": "废人兄弟搞配音",
+                  "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+                },
+                "stat": {
+                  "aid": 115947624990389,
+                  "view": 61451,
+                  "danmaku": 357,
+                  "reply": 309,
+                  "fav": 987,
+                  "coin": 364,
+                  "share": 1194,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3485,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 61451
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35576153349,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20250607140159",
+                "duration": 87,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1X1zzBaE6n",
+              "pages": [
+                {
+                  "cid": 35576153349,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20250607140159",
+                  "duration": 87,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 5563858,
+              "section_id": 6176482,
+              "id": 173615616,
+              "aid": 115990641773783,
+              "cid": 35738226271,
+              "title": "元首！来看看元首说gugugaga语的时候会是什么样子的吧~！",
+              "attribute": 0,
+              "arc": {
+                "aid": 115990641773783,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/aae222790730fd05303eb6624cd890ccca510fec.jpg",
+                "title": "元首！来看看元首说gugugaga语的时候会是什么样子的吧~！",
+                "pubdate": 1769877059,
+                "ctime": 1769877059,
+                "desc": "",
+                "state": 0,
+                "duration": 80,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 431015218,
+                  "name": "废人兄弟搞配音",
+                  "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+                },
+                "stat": {
+                  "aid": 115990641773783,
+                  "view": 69351,
+                  "danmaku": 416,
+                  "reply": 901,
+                  "fav": 2326,
+                  "coin": 535,
+                  "share": 3982,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 7768,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 69351
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35738226271,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20250605132605",
+                "duration": 80,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19R6JBmEim",
+              "pages": [
+                {
+                  "cid": 35738226271,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20250605132605",
+                  "duration": 80,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 5563858,
+              "section_id": 6176482,
+              "id": 175278075,
+              "aid": 116035084618850,
+              "cid": 35914321644,
+              "title": "皮鞋！《赌侠之上海滩赌圣》这段“给我擦皮鞋”的名场面如果是gugugaga语的话……",
+              "attribute": 0,
+              "arc": {
+                "aid": 116035084618850,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/e9e5a6cf1741b9b85ded3d028e46a92a9d646372.jpg",
+                "title": "皮鞋！《赌侠之上海滩赌圣》这段“给我擦皮鞋”的名场面如果是gugugaga语的话……",
+                "pubdate": 1770555007,
+                "ctime": 1770555007,
+                "desc": "",
+                "state": 0,
+                "duration": 104,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 431015218,
+                  "name": "废人兄弟搞配音",
+                  "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+                },
+                "stat": {
+                  "aid": 116035084618850,
+                  "view": 51468,
+                  "danmaku": 275,
+                  "reply": 210,
+                  "fav": 611,
+                  "coin": 230,
+                  "share": 702,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2732,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 51468
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35914321644,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20260208203913",
+                "duration": 104,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1sbcwzNEgV",
+              "pages": [
+                {
+                  "cid": 35914321644,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20260208203913",
+                  "duration": 104,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 5563858,
+              "section_id": 6176482,
+              "id": 184844954,
+              "aid": 116294292604252,
+              "cid": 36992716523,
+              "title": "咕起！田文静，我＊你＊，但是gugugaga语",
+              "attribute": 0,
+              "arc": {
+                "aid": 116294292604252,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3e3840fead86cee51425f6929b521c9ce3ca2938.jpg",
+                "title": "咕起！田文静，我＊你＊，但是gugugaga语",
+                "pubdate": 1774510232,
+                "ctime": 1774510232,
+                "desc": "",
+                "state": 0,
+                "duration": 62,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 431015218,
+                  "name": "废人兄弟搞配音",
+                  "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+                },
+                "stat": {
+                  "aid": 116294292604252,
+                  "view": 80268,
+                  "danmaku": 148,
+                  "reply": 203,
+                  "fav": 704,
+                  "coin": 242,
+                  "share": 747,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 5416,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 80268
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 36992716523,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20260326152338",
+                "duration": 62,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1YpXpBnECA",
+              "pages": [
+                {
+                  "cid": 36992716523,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20260326152338",
+                  "duration": 62,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 5563858,
+              "section_id": 6176482,
+              "id": 234730174,
+              "aid": 117649824552235,
+              "cid": 43776081956,
+              "title": "买瓜！我要证明，用咕咕嘎嘎配音刘华强也是能上首页的！",
+              "attribute": 0,
+              "arc": {
+                "aid": 117649824552235,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/fe0d95b11a39719eaefb1ee8cd8e9754cd7acc9b.jpg",
+                "title": "买瓜！我要证明，用咕咕嘎嘎配音刘华强也是能上首页的！",
+                "pubdate": 1795194183,
+                "ctime": 1795194183,
+                "desc": "",
+                "state": 0,
+                "duration": 113,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 431015218,
+                  "name": "废人兄弟搞配音",
+                  "face": "https://i1.hdslb.com/bfs/face/2c3a71936fa7293b76d87c388567a91086badcb9.jpg"
+                },
+                "stat": {
+                  "aid": 117649824552235,
+                  "view": 16342,
+                  "danmaku": 132,
+                  "reply": 21,
+                  "fav": 384,
+                  "coin": 132,
+                  "share": 67,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1217,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 16342
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43776081956,
+                "page": 1,
+                "from": "vupload",
+                "part": "lv_0_20260907064843.mp4",
+                "duration": 113,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1DgyszmEQr",
+              "pages": [
+                {
+                  "cid": 43776081956,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "lv_0_20260907064843.mp4",
+                  "duration": 113,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

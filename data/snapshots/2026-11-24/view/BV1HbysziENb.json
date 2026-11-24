@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1HbysziENb",
+    "aid": 117649354917873,
+    "videos": 1,
+    "tid": 27,
+    "tid_v2": 2037,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/d504fbf5058343f2c24d6a1f964a13af8c3ff3be.jpg",
+    "title": "【伪原作】马桶人vs监控人 skibidi toilet 83 (part 2)",
+    "pubdate": 1795187550,
+    "ctime": 1795186930,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 216,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3632304547171105,
+      "name": "RUBY动画",
+      "face": "https://i1.hdslb.com/bfs/face/0d513837273b7ede778e90687cc9360dbaa1fe27.jpg"
+    },
+    "stat": {
+      "aid": 117649354917873,
+      "view": 273,
+      "danmaku": 4,
+      "reply": 11,
+      "favorite": 7,
+      "coin": 7,
+      "share": 6,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 9,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "个人观点，仅供参考",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43773462985,
+    "dimension": {
+      "width": 1922,
+      "height": 880,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43773462985,
+        "page": 1,
+        "from": "vupload",
+        "part": "VID_20261120_224657",
+        "duration": 216,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1922,
+          "height": 880,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000ybr5vt7ry1lx24c1eqfmbdaogb_firsti.jpg",
+        "ctime": 1795186930,
+        "asr_language": "zxx"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}
