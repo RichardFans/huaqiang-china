@@ -25,6 +25,7 @@ jobs:
       - name: 发现+入册（新条目默认 pending，人工合并为门）
         run: |
           python -m zfq.ingest --keywords "华强买瓜,刘华强,宋老虎,封彪,征服 鬼畜" --order click --pages 1
+          python -m zfq.mine
           python -m zfq.build
           python -m zfq.validate
         env:

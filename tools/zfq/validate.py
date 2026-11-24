@@ -8,6 +8,7 @@
   R4 计数单调性：view/like/coin/favorite/share/danmaku 随时间不减（相等允许）
   R5 快照 (endpoint, date) 唯一
   R6 seed 必填 tier_basis；auto 形态必填 form_evidence（模型层兜底，此处复查）
+  R8 cover 与最晚 view 快照的 pic 一致，且有 cover_evidence（ADR-0007；跑 zfq mine 修复）
 """
 from __future__ import annotations
 
@@ -20,6 +21,7 @@ from pathlib import Path
 import jsonschema
 
 from . import config
+from .mine import latest_cover_from_snapshots
 from .schema import CREATOR_JSON_SCHEMA, ENTRY_JSON_SCHEMA, Creator, Entry
 
 
@@ -97,6 +99,13 @@ def validate_all(check_readme: bool = True) -> tuple[list[str], dict, list[str]]
             errors.append(f"R6 {e.bvid}: seed 缺 tier_basis")
         if e.form_status == "auto" and not e.form_evidence:
             errors.append(f"R6 {e.bvid}: auto 形态缺 form_evidence")
+        # R8 封面一致性（ADR-0007；与 mine.latest_cover_from_snapshots 同源）
+        pic, _ = latest_cover_from_snapshots(e.bvid)
+        if e.cover != pic:
+            errors.append(f"R8 {e.bvid}: cover 应为快照 pic {pic!r}，"
+                          f"实际 {e.cover!r}（跑 python -m zfq.mine 修复）")
+        elif pic and not e.cover_evidence:
+            errors.append(f"R8 {e.bvid}: 有 cover 但缺 cover_evidence")
 
     for p in creators:
         raw = json.loads(p.read_text(encoding="utf-8"))

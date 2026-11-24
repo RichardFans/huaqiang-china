@@ -29,66 +29,66 @@
 ## 🏆 殿堂级总榜（播放 ≥ 1000 万，共 17 条）
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
 |---|---|---|---|---|---|---|---|
-| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | 夜雨星繁y | 2021-07 | 51,177,035 | 1,316,798 | 剧情剪辑 | 华强买瓜 |
-| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | 特效小哥studio | 2021-08 | 24,043,475 | 593,823 | 剧情剪辑 | 华强买瓜 |
-| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | 小猪要吃好果子 | 2021-07 | 22,970,561 | 244,433 | 剧情剪辑 | 华强买瓜 |
-| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | 无牙人 | 2021-07 | 15,950,284 | 216,748 | 剧情剪辑 | 华强买瓜 |
-| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | 干物快乐宅 | 2021-07 | 15,254,583 | 74,485 | 剧情剪辑 | 华强买瓜 |
-| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | 伊介书生 | 2022-12 | 15,025,553 | 175,364 | 剧情剪辑 | 华强买瓜 |
-| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | 岩罗Crv | 2026-04 | 14,923,430 | 412,741 | 剧情剪辑 | 华强买瓜 |
-| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | 一大筐会飞的草莓 | 2021-11 | 14,173,672 | 129,827 | 剧情剪辑 | 华强买瓜 |
-| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | 酸奶煎个蛋 | 2026-05 | 14,165,953 | 64,686 | 剧情剪辑 | 华强买瓜 |
-| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | 特效小哥studio | 2021-12 | 13,541,302 | 2,253,929 | 剧情剪辑 | 华强买瓜 |
-| 11 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | 机智的Kason | 2021-09 | 12,634,678 | 158,798 | 剧情剪辑 | 华强买瓜 |
-| 12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ⚠ | 一大筐会飞的草莓 | 2023-02 | 12,189,902 | 263,686 | 剧情剪辑 | 华强买瓜 |
-| 13 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ⚠ | 周小闹是周小闹 | 2025-02 | 11,775,977 | 2,064 | 剧情剪辑 | 华强买瓜 |
-| 14 | [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ⚠ | 增殖的发呆 | 2026-05 | 11,567,529 | 108,872 | 剧情剪辑 | 华强买瓜 |
-| 15 | [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ⚠ | 谭乔 | 2022-03 | 11,252,992 | 215,973 | 剧情剪辑 | 华强买瓜 |
-| 16 | [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ⚠ | 康师傅红烧甜不辣 | 2021-08 | 10,721,862 | 289,972 | 剧情剪辑 | 华强买瓜 |
-| 17 | [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ⚠ | Captive柠檬 | 2021-08 | 10,263,109 | 234,465 | 剧情剪辑 | 华强买瓜 |
+| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | [夜雨星繁y](https://space.bilibili.com/39422678) | 2021-07 | 51,177,035 | 1,316,798 | 剧情剪辑 | 华强买瓜 |
+| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-08 | 24,043,475 | 593,823 | 剧情剪辑 | 华强买瓜 |
+| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | [小猪要吃好果子](https://space.bilibili.com/445423006) | 2021-07 | 22,970,561 | 244,433 | 剧情剪辑 | 华强买瓜 |
+| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | [无牙人](https://space.bilibili.com/509993026) | 2021-07 | 15,950,284 | 216,748 | 剧情剪辑 | 华强买瓜 |
+| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | [干物快乐宅](https://space.bilibili.com/2074416895) | 2021-07 | 15,254,583 | 74,485 | 剧情剪辑 | 华强买瓜 |
+| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2022-12 | 15,025,553 | 175,364 | 剧情剪辑 | 华强买瓜 |
+| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | [岩罗Crv](https://space.bilibili.com/438256074) | 2026-04 | 14,923,430 | 412,741 | 剧情剪辑 | 华强买瓜 |
+| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2021-11 | 14,173,672 | 129,827 | 剧情剪辑 | 华强买瓜 |
+| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,165,953 | 64,686 | 剧情剪辑 | 华强买瓜 |
+| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,302 | 2,253,929 | 剧情剪辑 | 华强买瓜 |
+| 11 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | [机智的Kason](https://space.bilibili.com/8549577) | 2021-09 | 12,634,678 | 158,798 | 剧情剪辑 | 华强买瓜 |
+| 12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2023-02 | 12,189,902 | 263,686 | 剧情剪辑 | 华强买瓜 |
+| 13 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ⚠ | [周小闹是周小闹](https://space.bilibili.com/3546640096954436) | 2025-02 | 11,775,977 | 2,064 | 剧情剪辑 | 华强买瓜 |
+| 14 | [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ⚠ | [增殖的发呆](https://space.bilibili.com/13641305) | 2026-05 | 11,567,529 | 108,872 | 剧情剪辑 | 华强买瓜 |
+| 15 | [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ⚠ | [谭乔](https://space.bilibili.com/330415548) | 2022-03 | 11,252,992 | 215,973 | 剧情剪辑 | 华强买瓜 |
+| 16 | [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ⚠ | [康师傅红烧甜不辣](https://space.bilibili.com/32837037) | 2021-08 | 10,721,862 | 289,972 | 剧情剪辑 | 华强买瓜 |
+| 17 | [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ⚠ | [Captive柠檬](https://space.bilibili.com/398622703) | 2021-08 | 10,263,109 | 234,465 | 剧情剪辑 | 华强买瓜 |
 
 ## 🍉 华强买瓜 · Top 10
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
 |---|---|---|---|---|---|---|---|
-| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | 夜雨星繁y | 2021-07 | 51,177,035 | 1,316,798 | 剧情剪辑 | 华强买瓜 |
-| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | 特效小哥studio | 2021-08 | 24,043,475 | 593,823 | 剧情剪辑 | 华强买瓜 |
-| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | 小猪要吃好果子 | 2021-07 | 22,970,561 | 244,433 | 剧情剪辑 | 华强买瓜 |
-| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | 无牙人 | 2021-07 | 15,950,284 | 216,748 | 剧情剪辑 | 华强买瓜 |
-| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | 干物快乐宅 | 2021-07 | 15,254,583 | 74,485 | 剧情剪辑 | 华强买瓜 |
-| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | 伊介书生 | 2022-12 | 15,025,553 | 175,364 | 剧情剪辑 | 华强买瓜 |
-| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | 岩罗Crv | 2026-04 | 14,923,430 | 412,741 | 剧情剪辑 | 华强买瓜 |
-| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | 一大筐会飞的草莓 | 2021-11 | 14,173,672 | 129,827 | 剧情剪辑 | 华强买瓜 |
-| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | 酸奶煎个蛋 | 2026-05 | 14,165,953 | 64,686 | 剧情剪辑 | 华强买瓜 |
-| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | 特效小哥studio | 2021-12 | 13,541,302 | 2,253,929 | 剧情剪辑 | 华强买瓜 |
+| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | [夜雨星繁y](https://space.bilibili.com/39422678) | 2021-07 | 51,177,035 | 1,316,798 | 剧情剪辑 | 华强买瓜 |
+| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-08 | 24,043,475 | 593,823 | 剧情剪辑 | 华强买瓜 |
+| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | [小猪要吃好果子](https://space.bilibili.com/445423006) | 2021-07 | 22,970,561 | 244,433 | 剧情剪辑 | 华强买瓜 |
+| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | [无牙人](https://space.bilibili.com/509993026) | 2021-07 | 15,950,284 | 216,748 | 剧情剪辑 | 华强买瓜 |
+| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | [干物快乐宅](https://space.bilibili.com/2074416895) | 2021-07 | 15,254,583 | 74,485 | 剧情剪辑 | 华强买瓜 |
+| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2022-12 | 15,025,553 | 175,364 | 剧情剪辑 | 华强买瓜 |
+| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | [岩罗Crv](https://space.bilibili.com/438256074) | 2026-04 | 14,923,430 | 412,741 | 剧情剪辑 | 华强买瓜 |
+| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2021-11 | 14,173,672 | 129,827 | 剧情剪辑 | 华强买瓜 |
+| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,165,953 | 64,686 | 剧情剪辑 | 华强买瓜 |
+| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,302 | 2,253,929 | 剧情剪辑 | 华强买瓜 |
 
 → 全部 98 条：[docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/maigua/)
 
 ## 🍜 宋老虎请客 · Top 10
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
 |---|---|---|---|---|---|---|---|
-| 1 | [胡 言 乱 语](https://www.bilibili.com/video/BV15q4y197TJ) ⚠ | 小朱佩琪66 | 2021-08 | 7,703,797 | 82,326 | 剧情剪辑 | 宋老虎请客 |
-| 2 | [华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】](https://www.bilibili.com/video/BV1Hy4k64Erk) ⚠ | 多梦综合征 | 2026-08 | 7,063,932 | 255,859 | 剧情剪辑 | 宋老虎请客、华强买瓜 |
-| 3 | [【梗百科】控告律师是啥梗？扣税国王的后继梗？](https://www.bilibili.com/video/BV1dA4m1c7XM) ⚠ | 梗百科 | 2024-04 | 6,009,954 | 4,603 | 剧情剪辑 | 宋老虎请客 |
-| 4 | [这是我弟弟 我的刀盾](https://www.bilibili.com/video/BV1vnftBUErw) ⚠ | 伊介书生 | 2026-02 | 4,501,821 | 11,444 | 剧情剪辑 | 宋老虎请客 |
-| 5 | [原始人，起洞！](https://www.bilibili.com/video/BV1iu4y1f7SZ) ⚠ | 黑猫的泪水 | 2023-05 | 4,435,608 | 24,158 | 剧情剪辑 | 宋老虎请客 |
-| 6 | [这是我弟弟吴京](https://www.bilibili.com/video/BV1QWaCzBE5Q) ⚠ | 伊介书生 | 2025-09 | 4,161,344 | 17,434 | 剧情剪辑 | 宋老虎请客 |
-| 7 | [贾斯汀 · 比瓜](https://www.bilibili.com/video/BV1tv41137Th) ⚠ | 潮汕好男人 | 2021-09 | 4,120,900 | 145,867 | 剧情剪辑 | 宋老虎请客 |
-| 8 | [【梗百科】私人音效是啥梗？](https://www.bilibili.com/video/BV1cw4m1m7uZ) ⚠ | 梗百科 | 2024-04 | 3,395,969 | 2,017 | 剧情剪辑 | 宋老虎请客 |
-| 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | 乌贼酱 | 2026-07 | 2,617,382 | 21,885 | 剧情剪辑 | 宋老虎请客 |
-| 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | Raymondsese | 2026-10 | 2,531,911 | 22,656 | AI其他 | 宋老虎请客 |
+| 1 | [胡 言 乱 语](https://www.bilibili.com/video/BV15q4y197TJ) ⚠ | [小朱佩琪66](https://space.bilibili.com/430362460) | 2021-08 | 7,703,797 | 82,326 | 剧情剪辑 | 宋老虎请客 |
+| 2 | [华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】](https://www.bilibili.com/video/BV1Hy4k64Erk) ⚠ | [多梦综合征](https://space.bilibili.com/110071473) | 2026-08 | 7,063,932 | 255,859 | 剧情剪辑 | 宋老虎请客、华强买瓜 |
+| 3 | [【梗百科】控告律师是啥梗？扣税国王的后继梗？](https://www.bilibili.com/video/BV1dA4m1c7XM) ⚠ | [梗百科](https://space.bilibili.com/1544008396) | 2024-04 | 6,009,954 | 4,603 | 剧情剪辑 | 宋老虎请客 |
+| 4 | [这是我弟弟 我的刀盾](https://www.bilibili.com/video/BV1vnftBUErw) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2026-02 | 4,501,821 | 11,444 | 剧情剪辑 | 宋老虎请客 |
+| 5 | [原始人，起洞！](https://www.bilibili.com/video/BV1iu4y1f7SZ) ⚠ | [黑猫的泪水](https://space.bilibili.com/111161461) | 2023-05 | 4,435,608 | 24,158 | 剧情剪辑 | 宋老虎请客 |
+| 6 | [这是我弟弟吴京](https://www.bilibili.com/video/BV1QWaCzBE5Q) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2025-09 | 4,161,344 | 17,434 | 剧情剪辑 | 宋老虎请客 |
+| 7 | [贾斯汀 · 比瓜](https://www.bilibili.com/video/BV1tv41137Th) ⚠ | [潮汕好男人](https://space.bilibili.com/19071708) | 2021-09 | 4,120,900 | 145,867 | 剧情剪辑 | 宋老虎请客 |
+| 8 | [【梗百科】私人音效是啥梗？](https://www.bilibili.com/video/BV1cw4m1m7uZ) ⚠ | [梗百科](https://space.bilibili.com/1544008396) | 2024-04 | 3,395,969 | 2,017 | 剧情剪辑 | 宋老虎请客 |
+| 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | [乌贼酱](https://space.bilibili.com/242014) | 2026-07 | 2,617,382 | 21,885 | 剧情剪辑 | 宋老虎请客 |
+| 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 2,531,911 | 22,656 | AI其他 | 宋老虎请客 |
 
 → 全部 38 条：[docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
 
 ## 🔪 封彪桥段 · 全部 7 条
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
 |---|---|---|---|---|---|---|---|
-| 1 | [快点吃，一会儿华强该来了](https://www.bilibili.com/video/BV1iA411F7N5) ⚠ | 烹鲤鱼 | 2021-09 | 3,218,417 | 2,421 | 剧情剪辑 | 封彪桥段 |
-| 2 | [电视剧《征服》中那些黑老大们的原型，封彪真的下跪叫爷爷了吗？](https://www.bilibili.com/video/BV1Af4y1d7fv) ⚠ | 胆子不小的郑吉祥 | 2020-07 | 2,887,884 | 15,869 | 剧情剪辑 | 封彪桥段 |
-| 3 | [奥德修斯，跟我牛来拼你有这个实力吗？！](https://www.bilibili.com/video/BV1ZE8H6eE5W) ⚠ | 阿游Kidding | 2026-08 | 2,629,399 | 16,010 | 剧情剪辑 | 封彪桥段 |
-| 4 | [爷料定不中用](https://www.bilibili.com/video/BV1d6421c7uT) ⚠ | 关节拉伤 | 2024-03 | 1,121,562 | 5,726 | 剧情剪辑 | 封彪桥段 |
-| 5 | [听说你这段时间一直在找我！](https://www.bilibili.com/video/BV1rxbAzPEWy) ⚠ | GK影视Cut | 2025-08 | 1,085,569 | 341 | 剧情剪辑 | 封彪桥段 |
-| 6 | [各位郝哥 节目叫《非常骚扰》](https://www.bilibili.com/video/BV1VWGJ6kEKo) ⚠ | 韩历飞羽666 | 2026-05 | 300,930 | 2,036 | 剧情剪辑 | 封彪桥段 |
-| 7 | [葫芦恶霸【AI MV大赛】](https://www.bilibili.com/video/BV1QHYP6JEmh) ⚠ | Raymondsese | 2026-10 | 279,382 | 181 | AI其他 | 封彪桥段 |
+| 1 | [快点吃，一会儿华强该来了](https://www.bilibili.com/video/BV1iA411F7N5) ⚠ | [烹鲤鱼](https://space.bilibili.com/2045439) | 2021-09 | 3,218,417 | 2,421 | 剧情剪辑 | 封彪桥段 |
+| 2 | [电视剧《征服》中那些黑老大们的原型，封彪真的下跪叫爷爷了吗？](https://www.bilibili.com/video/BV1Af4y1d7fv) ⚠ | [胆子不小的郑吉祥](https://space.bilibili.com/405036467) | 2020-07 | 2,887,884 | 15,869 | 剧情剪辑 | 封彪桥段 |
+| 3 | [奥德修斯，跟我牛来拼你有这个实力吗？！](https://www.bilibili.com/video/BV1ZE8H6eE5W) ⚠ | [阿游Kidding](https://space.bilibili.com/1650750) | 2026-08 | 2,629,399 | 16,010 | 剧情剪辑 | 封彪桥段 |
+| 4 | [爷料定不中用](https://www.bilibili.com/video/BV1d6421c7uT) ⚠ | [关节拉伤](https://space.bilibili.com/1324510) | 2024-03 | 1,121,562 | 5,726 | 剧情剪辑 | 封彪桥段 |
+| 5 | [听说你这段时间一直在找我！](https://www.bilibili.com/video/BV1rxbAzPEWy) ⚠ | [GK影视Cut](https://space.bilibili.com/1700797777) | 2025-08 | 1,085,569 | 341 | 剧情剪辑 | 封彪桥段 |
+| 6 | [各位郝哥 节目叫《非常骚扰》](https://www.bilibili.com/video/BV1VWGJ6kEKo) ⚠ | [韩历飞羽666](https://space.bilibili.com/1172349285) | 2026-05 | 300,930 | 2,036 | 剧情剪辑 | 封彪桥段 |
+| 7 | [葫芦恶霸【AI MV大赛】](https://www.bilibili.com/video/BV1QHYP6JEmh) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 279,382 | 181 | AI其他 | 封彪桥段 |
 
 ## 📅 编年速览
 | 年份 | 在册 | 形态构成 | 年度之最 |
@@ -133,7 +133,7 @@ python -m zfq.build        # 重建视图/列表/README/订阅源/站点数据
 | `data/vocabulary.md` | 规范词表（canonical 名 + 变体/错写映射，检索的基石） |
 | `data/entries/` `data/creators/` | 档案本体（每视频/每 UP 主一 JSON，带快照证据链） |
 | `data/candidates/` | 拒绝日志——「为什么没收录」也是档案 |
-| `docs/decisions/` | ADR ×6：收录标准 / 合规姿态 / 命名 / 选型 / 发现路线 / 评审门控 |
+| `docs/decisions/` | ADR ×7：收录标准 / 合规姿态 / 命名 / 选型 / 发现路线 / 评审门控 / 封面与链接 |
 | `docs/methodology.md` `docs/verification.md` | 分期方法（预先注册）与验证协议 |
 | `reports/` | 编年初稿 / 跟踪报告 / 交叉验证记录 |
 | `tools/zfq/` | 数据管线（限速客户端 · 入册 · 跟踪 · 校验 · 构建 · issuebot） |

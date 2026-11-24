@@ -22,7 +22,9 @@ const fmt = (n) => (n == null ? '—' : n.toLocaleString('en-US'));
           <a href={x.url} target="_blank" rel="noopener">{x.title}</a>
           {x.status !== 'ok' && <span class="badge b-seed">已失效</span>}
         </td>
-        <td style="white-space:nowrap">{x.owner.name}</td>
+        <td style="white-space:nowrap">
+          <a href={`https://space.bilibili.com/${x.owner.mid}`} target="_blank" rel="noopener">{x.owner.name}</a>
+        </td>
         <td style="white-space:nowrap">{x.pubdate.slice(0, 10)}</td>
         <td class="num">{fmt(x.latest?.view)}</td>
         <td class="num">{fmt(x.latest?.coin)}</td>

@@ -22,9 +22,10 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install requests pydantic jsonschema
-      - name: 跟踪刷新（增量快照+交叉验证+涨幅）
+      - name: 跟踪刷新（增量快照+交叉验证+涨幅+封面回填）
         run: |
           python -m zfq.track --cross-check 8
+          python -m zfq.mine
           python -m zfq.build
           python -m zfq.validate
         env:

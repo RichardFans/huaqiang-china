@@ -55,7 +55,7 @@ python -m zfq.build        # 重建视图/列表/README/订阅源/站点数据
 | `data/vocabulary.md` | 规范词表（canonical 名 + 变体/错写映射，检索的基石） |
 | `data/entries/` `data/creators/` | 档案本体（每视频/每 UP 主一 JSON，带快照证据链） |
 | `data/candidates/` | 拒绝日志——「为什么没收录」也是档案 |
-| `docs/decisions/` | ADR ×6：收录标准 / 合规姿态 / 命名 / 选型 / 发现路线 / 评审门控 |
+| `docs/decisions/` | ADR ×7：收录标准 / 合规姿态 / 命名 / 选型 / 发现路线 / 评审门控 / 封面与链接 |
 | `docs/methodology.md` `docs/verification.md` | 分期方法（预先注册）与验证协议 |
 | `reports/` | 编年初稿 / 跟踪报告 / 交叉验证记录 |
 | `tools/zfq/` | 数据管线（限速客户端 · 入册 · 跟踪 · 校验 · 构建 · issuebot） |

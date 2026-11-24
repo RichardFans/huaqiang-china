@@ -104,9 +104,68 @@ def test_monotonicity_detector_via_validate(tmp_path, monkeypatch):
     (ed / "BV2Ku4y1f7oe.json").write_text(good.model_dump_json(), encoding="utf-8")
     monkeypatch.setattr(config, "ENTRIES_DIR", ed)
     monkeypatch.setattr(config, "CREATORS_DIR", tmp_path / "creators")
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "snapshots")
     (tmp_path / "creators").mkdir()
 
     errors, stats, warnings = V.validate_all(check_readme=False)
     assert stats["entries"] == 2
     r4 = [e for e in errors if e.startswith("R4")]
     assert len(r4) >= 1, f"应检出计数回退：{errors}"
+
+
+def test_cover_mining_picks_latest_snapshot(tmp_path, monkeypatch):
+    """R8 前置：挖掘取最晚日期快照的 pic，无快照返回 (None, '')。"""
+    from zfq import config, mine
+
+    snap = tmp_path / "snapshots"
+    (snap / "2026-01-01" / "view").mkdir(parents=True)
+    (snap / "2026-01-02" / "view").mkdir(parents=True)
+    (snap / "2026-01-01" / "view" / "BV1Ku4y1f7oe.json").write_text(
+        json.dumps({"code": 0, "data": {"pic": "http://x/old.jpg"}}), encoding="utf-8")
+    (snap / "2026-01-02" / "view" / "BV1Ku4y1f7oe.json").write_text(
+        json.dumps({"code": 0, "data": {"pic": "http://x/new.jpg"}}), encoding="utf-8")
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", snap)
+
+    assert mine.latest_cover_from_snapshots("BV1Ku4y1f7oe") == \
+        ("http://x/new.jpg", "mined: api-view@2026-01-02")
+    assert mine.latest_cover_from_snapshots("BV2Ku4y1f7oe") == (None, "")
+
+
+def test_cover_consistency_rule_via_validate(tmp_path, monkeypatch):
+    """R8：entries.cover 与快照 pic 不一致必须报错。"""
+    from zfq import config
+
+    snap = tmp_path / "snapshots"
+    d = snap / "2026-01-02" / "view"
+    d.mkdir(parents=True)
+    (d / "BV1Ku4y1f7oe.json").write_text(
+        json.dumps({"code": 0, "data": {"pic": "http://x/1.jpg"}}), encoding="utf-8")
+    monkeypatch.setattr(config, "SNAPSHOTS_DIR", snap)
+
+    e = _mk_entry("BV1Ku4y1f7oe", [100])
+    raw = json.loads(e.model_dump_json())
+    raw["cover"] = "http://x/wrong.jpg"
+    raw["cover_evidence"] = "mined: api-view@2026-01-02"
+    ed = tmp_path / "entries"
+    ed.mkdir(parents=True)
+    (ed / "BV1Ku4y1f7oe.json").write_text(
+        json.dumps(raw, ensure_ascii=False), encoding="utf-8")
+    monkeypatch.setattr(config, "ENTRIES_DIR", ed)
+    monkeypatch.setattr(config, "CREATORS_DIR", tmp_path / "creators")
+    (tmp_path / "creators").mkdir()
+
+    errors, stats, warnings = V.validate_all(check_readme=False)
+    r8 = [x for x in errors if x.startswith("R8")]
+    assert len(r8) == 1, f"应检出封面不一致：{errors}"
+
+
+def test_readme_table_links_creator_space():
+    """README 榜单的 UP主 单元格必须是 mid 主页链接（名字会改，mid 恒定）。"""
+    from zfq import build as B
+
+    row = {"title": "t", "url": "https://www.bilibili.com/video/BV1Ku4y1f7oe",
+           "owner": {"mid": 42, "name": "u"}, "pubdate": "2021-06-01T00:00:00+00:00",
+           "form": "clip", "scenes": ["maigua"], "review": "pending", "status": "ok",
+           "latest": {"view": 10, "coin": 1}}
+    lines = B._readme_table([row], "zh")
+    assert any("https://space.bilibili.com/42" in ln for ln in lines), lines

@@ -83,6 +83,9 @@ class Entry(BaseModel):
     archive_url: str | None = None
     original_bvid: str | None = None  # 盗转关系指向原创
 
+    cover: str | None = None           # 封面 URL（B站图床引用，字节不入库；ADR-0007）
+    cover_evidence: str = ""           # 如 "mined: api-view@2026-11-21"，与 R8 校验联动
+
     discovered_via: DiscoveryInfo
     first_seen: datetime
     snapshots: list[Snapshot] = []

@@ -53,6 +53,7 @@ const jsonLd = {
   </p>
   <EntryTable rows={rows} />
   <p class="footnote">
-    <a href="/chronicle/">← 编年视图</a> · <a href="/creators/">UP主视图 →</a>
+    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/chronicle/`}>← 编年视图</a> ·
+    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/creators/`}>UP主视图 →</a>
   </p>
 </Base>

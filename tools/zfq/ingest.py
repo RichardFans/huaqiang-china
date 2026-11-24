@@ -170,6 +170,8 @@ def ingest_candidates(
             pubdate=pub_iso,
             duration_s=data.get("duration"),
             tname=data.get("tname"),
+            cover=data.get("pic"),
+            cover_evidence=f"mined: api-view@{now:%Y-%m-%d}" if data.get("pic") else "",
             kind="derivative",
             scenes=scenes,  # type: ignore[arg-type]
             scene_evidence=scene_evidence,

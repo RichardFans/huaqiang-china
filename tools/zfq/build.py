@@ -33,6 +33,7 @@ def _slim(e: Entry) -> dict:
     return {
         "bvid": e.bvid, "title": e.title, "url": e.url,
         "owner": {"mid": e.owner.mid, "name": e.owner.name},
+        "cover": e.cover,
         "pubdate": iso(e.pubdate),
         "kind": e.kind, "scenes": e.scenes, "form": e.form, "tier": e.tier,
         "scene_status": e.scene_status, "form_status": e.form_status,
@@ -102,7 +103,9 @@ def build_lists_md(curated: dict) -> None:
     lines = ["# 按 UP 主", "", "> 自动生成（zfq build），勿手改。", ""]
     for mid, rows in sorted(curated["by-creator"].items(),
                             key=lambda kv: -len(kv[1])):
-        lines.append(f"## {rows[0]['owner']['name']}（mid:{mid}，{len(rows)} 条）")
+        lines.append(
+            f"## [{rows[0]['owner']['name']}]"
+            f"(https://space.bilibili.com/{mid})（mid:{mid}，{len(rows)} 条）")
         lines += [fmt(x) for x in rows]
         lines.append("")
     (base / "by-creator.md").write_text("\n".join(lines), encoding="utf-8")
@@ -284,9 +287,11 @@ def _readme_table(rows: list[dict], lang: str) -> list[str]:
             " / ".join(SCENE_EN[k] for k in x["scenes"])
         flag = " ⚠" if x["review"] != "confirmed" else ""
         dead = "（已失效）" if zh and x["status"] != "ok" else (" (gone)" if x["status"] != "ok" else "")
+        owner = (f"[{x['owner']['name']}]"
+                 f"(https://space.bilibili.com/{x['owner']['mid']})")
         out.append(
             f"| {i} | [{_md_escape(x['title'])}]({x['url']}){flag}{dead} "
-            f"| {x['owner']['name']} | {x['pubdate'][:7]} | {view} | {coin} "
+            f"| {owner} | {x['pubdate'][:7]} | {view} | {coin} "
             f"| {form} | {scenes} |")
     return head + out
 

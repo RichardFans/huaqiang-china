@@ -2,25 +2,28 @@
 const { title, description, lang = 'zh-CN', en = false } = Astro.props;
 const siteName = '征服二创宇宙档案';
 const siteNameEn = 'The Conquest Remix Archive';
+// 项目页部署（base=/huaqiang-china）：所有站内链接必须带前缀
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const withBase = (p) => `${base}${p}`;
 const nav = en
   ? [
-      ['/en/', 'Home'],
-      ['/scene/maigua/', 'Watermelon scene'],
-      ['/scene/song-laohu-banquet/', 'Banquet scene'],
-      ['/scene/feng-biao/', 'Feng Biao scene'],
-      ['/creators/', 'Creators'],
-      ['/chronicle/', 'Chronicle'],
-      ['/', '中文'],
+      [withBase('/en/'), 'Home'],
+      [withBase('/scene/maigua/'), 'Watermelon scene'],
+      [withBase('/scene/song-laohu-banquet/'), 'Banquet scene'],
+      [withBase('/scene/feng-biao/'), 'Feng Biao scene'],
+      [withBase('/creators/'), 'Creators'],
+      [withBase('/chronicle/'), 'Chronicle'],
+      [withBase('/'), '中文'],
     ]
   : [
-      ['/', '首页'],
-      ['/scene/maigua/', '华强买瓜'],
-      ['/scene/song-laohu-banquet/', '宋老虎请客'],
-      ['/scene/feng-biao/', '封彪桥段'],
-      ['/creators/', 'UP主'],
-      ['/chronicle/', '编年'],
-      ['/about/', '关于'],
-      ['/en/', 'English'],
+      [withBase('/'), '首页'],
+      [withBase('/scene/maigua/'), '华强买瓜'],
+      [withBase('/scene/song-laohu-banquet/'), '宋老虎请客'],
+      [withBase('/scene/feng-biao/'), '封彪桥段'],
+      [withBase('/creators/'), 'UP主'],
+      [withBase('/chronicle/'), '编年'],
+      [withBase('/about/'), '关于'],
+      [withBase('/en/'), 'English'],
     ];
 ---
 <!doctype html>
@@ -28,16 +31,18 @@ const nav = en
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- B站图床对非常规 Referer 返回 403：封面热链必须 no-referrer -->
+  <meta name="referrer" content="no-referrer" />
   <title>{title ? `${title} · ${siteName}` : `${siteName} · ${siteNameEn}`}</title>
   <meta name="description" content={description || '《征服》(2003) 二创生态的收集·整理·跟踪：名场面谱系、代表作数据档案、热度追踪与研究笔记。'} />
   <meta property="og:title" content={title || siteName} />
   <meta property="og:site_name" content={siteName} />
   <meta property="og:description" content={description || 'The Conquest (2003) remix universe archive'} />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-  <link rel="alternate" type="application/rss+xml" title="新收录 New entries (中文)" href="/feeds/new.rss.xml" />
-  <link rel="alternate" type="application/rss+xml" title="New entries (English)" href="/feeds/new.en.rss.xml" />
-  <link rel="alternate" type="application/atom+xml" title="Atom" href="/feeds/atom.xml" />
-  <link rel="alternate" type="application/json" title="JSON Feed" href="/feeds/feed.json" />
+  <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
+  <link rel="alternate" type="application/rss+xml" title="新收录 New entries (中文)" href={withBase('/feeds/new.rss.xml')} />
+  <link rel="alternate" type="application/rss+xml" title="New entries (English)" href={withBase('/feeds/new.en.rss.xml')} />
+  <link rel="alternate" type="application/atom+xml" title="Atom" href={withBase('/feeds/atom.xml')} />
+  <link rel="alternate" type="application/json" title="JSON Feed" href={withBase('/feeds/feed.json')} />
   <style>
     :root {
       --ink: #211d19;
@@ -95,12 +100,20 @@ const nav = en
     .glossary dt { font-weight: 700; margin-top: 10px; }
     .glossary dd { margin: 2px 0 0 0; font-size: .92rem; }
     .footnote { font-size: .8rem; color: var(--muted); }
+    /* 封面墙（ADR-0007：热链 B站图床，字节不入库） */
+    .covers { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; margin: 14px 0 4px; }
+    .cover { display: block; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+    .cover img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; margin: 0; }
+    .cover .cv-title { display: block; font-size: .8rem; color: var(--ink); padding: 6px 8px 7px; line-height: 1.4;
+      overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+    .cover:hover { border-color: var(--red); }
+    .cover:hover .cv-title { color: var(--red); }
   </style>
 </head>
 <body>
   <header class="site">
     <div class="wrap">
-      <a class="brand" href={en ? '/en/' : '/'}><span class="melon">🍉</span>{siteName}<small>{siteNameEn}</small></a>
+      <a class="brand" href={en ? withBase('/en/') : withBase('/')}><span class="melon">🍉</span>{siteName}<small>{siteNameEn}</small></a>
       <nav class="main">
         {nav.map(([href, label]) => <a href={href}>{label}</a>)}
       </nav>
@@ -112,14 +125,14 @@ const nav = en
   <footer class="site">
     <div class="wrap">
       <p>
-        📡 订阅：<a href="/feeds/new.rss.xml">新收录 RSS（中文）</a> ·
-        <a href="/feeds/new.en.rss.xml">New entries RSS (EN)</a> ·
-        <a href="/feeds/movers.rss.xml">周涨幅榜 RSS</a> ·
-        <a href="/feeds/atom.xml">Atom</a> · <a href="/feeds/feed.json">JSON Feed</a>
+        📡 订阅：<a href={withBase('/feeds/new.rss.xml')}>新收录 RSS（中文）</a> ·
+        <a href={withBase('/feeds/new.en.rss.xml')}>New entries RSS (EN)</a> ·
+        <a href={withBase('/feeds/movers.rss.xml')}>周涨幅榜 RSS</a> ·
+        <a href={withBase('/feeds/atom.xml')}>Atom</a> · <a href={withBase('/feeds/feed.json')}>JSON Feed</a>
       </p>
       <p>
         本档案仅收录元数据与链接；视频内容版权归原权利人与创作者所有。
-        采集遵循 <a href="https://github.com/huaqiang-china/huaqiang-china/blob/main/docs/decisions/0002-collection-legal-posture.md">合规姿态</a>（浏览器等价访问·仅元数据·限速·可叫停）。
+        采集遵循 <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/decisions/0002-collection-legal-posture.md">合规姿态</a>（浏览器等价访问·仅元数据·限速·可叫停）。
         数据为时点快照，抓取时间见各条目。内容 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · 代码 MIT。
       </p>
     </div>

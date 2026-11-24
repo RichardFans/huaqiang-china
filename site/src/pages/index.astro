@@ -4,6 +4,8 @@ import EntryTable from '../components/EntryTable.astro';
 import views from '../data/generated/views.json';
 import deltas from '../data/generated/deltas.json';
 
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const withBase = (p) => `${base}${p}`;
 const all = Object.values(
   Object.values(views['by-form']).flat().reduce((acc, x) => ({ ...acc, [x.bvid]: x }), {}),
 );
@@ -11,6 +13,9 @@ const sorted = all
   .filter((x) => x.status === 'ok' && x.kind === 'derivative')
   .sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0));
 const top = sorted.slice(0, 15);
+const hall = (views['by-tier'].hall || [])
+  .filter((x) => x.status === 'ok' && x.cover)
+  .slice(0, 18);
 const rising = sorted.filter((x) => x.tier === 'rising').slice(0, 10);
 const movers = (deltas.rows || []).filter((r) => r.growth_7d != null).slice(0, 10);
 const c = views.counts;
@@ -39,7 +44,26 @@ const sceneZh = {
 
   <p class="footnote">
     数据快照：{views.generated_at.slice(0, 10)}（UTC）· 计数为抓取时点值 ·
-    带「⚠ 待复核」的条目为自动入册，归属判定未经人工确认（<a href="/about/">治理说明</a>）。
+    带「⚠ 待复核」的条目为自动入册，归属判定未经人工确认（<a href={withBase('/about/')}>治理说明</a>）。
+  </p>
+
+  <h2>🏆 殿堂封面墙（播放 ≥ 1000 万）</h2>
+  {hall.length ? (
+    <div class="covers">
+      {hall.map((x) => (
+        <a class="cover" href={x.url} target="_blank" rel="noopener"
+           title={`${x.title} — ${x.owner.name}（${fmt(x.latest?.view || 0)} 播放）`}>
+          <img src={x.cover} alt={x.title} loading="lazy" referrerpolicy="no-referrer" />
+          <span class="cv-title">{x.title}</span>
+        </a>
+      ))}
+    </div>
+  ) : (
+    <p class="footnote">封面数据待回填（ADR-0007 挖掘管线）。</p>
+  )}
+  <p class="footnote">
+    封面为 B站 图床热链（no-referrer 引用，本仓库不存储图片字节，
+    <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/decisions/0007-cover-and-creator-links.md">ADR-0007</a>）。
   </p>
 
   <h2>🔥 热度总榜 Top 15</h2>
@@ -72,7 +96,7 @@ const sceneZh = {
   <h2>🧭 按桥段浏览</h2>
   <p>
     {Object.entries(sceneZh).map(([slug, zh]) => (
-      <a href={`/scene/${slug}/`}>{zh}（{c.scenes[slug] || 0}）</a>
+      <a href={withBase(`/scene/${slug}/`)}>{zh}（{c.scenes[slug] || 0}）</a>
     )).reduce((a, b) => [a, ' · ', b])}
   </p>
 </Base>
