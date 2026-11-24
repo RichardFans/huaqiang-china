@@ -113,18 +113,21 @@
 
 > 一手 pubdate 已见 **2021-07-16 至 19 四天引爆窗口**（《买瓜大队》《内向顾客》《萨日朗》密集出现）；2026 样本出现平台「疑似AI合成」标注作品。分期结论待 pubdate 深页补采后定稿：[编年初稿](reports/chronicle-draft.md) · [方法学](docs/methodology.md)。⚠=待人工复核（[ADR-0006](docs/decisions/0006-review-gate.md)）。
 
-## 🕸 创作者星图
-137 位创作者与 196 部在册作品，分成 126 个互不相连的创作单元，其中 26 位 有 2 部以上在册作品。圆点是作品（大小随播放量、颜色是桥段），菱形是创作者，虚线是平台标注的合作关系（参演 4、后期 2、文案 2、剪辑 1、赞助商 1、配音 1）。
+## 🌌 作品全景
+横轴是发布时间，纵轴是播放量（对数刻度），每个点是一部在册作品：颜色是桥段，菱形是 AI 系形态（翻唱、视频、其他），点越大播放量越高。2021 年 7 月的着色月带是引爆窗口；右侧 2026 年的菱形密集区，就是这个梗的 AI 再爆发。
 
-<p align="center"><img src="docs/assets/creator-map.svg" alt="创作者星图：137 位创作者、196 部作品、126 个创作单元，按桥段着色" width="880"></p>
+<p align="center"><img src="docs/assets/works-scatter.svg" alt="作品全景散点：发布时间与播放量，按桥段着色，AI 系为菱形，2021-07 引爆窗口高亮" width="880"></p>
 
-→ 可筛选、可悬停的交互版：[站点图谱页](https://richardfans.github.io/huaqiang-china/graph/)。边只来自确定性字段，每条带证据（[ADR-0008](docs/decisions/0008-knowledge-graph.md)）。
+→ 形态演化（这个梗的工业化）、可筛选的交互版与关系数据：[站点全景页](https://richardfans.github.io/huaqiang-china/graph/)；按点赞、投币、评论等指标排序：[榜单实验室](https://richardfans.github.io/huaqiang-china/charts/)。图由 `zfq build` 确定性生成（[ADR-0008](docs/decisions/0008-knowledge-graph.md)）。
 <!-- zfq:generated:end -->
 
-## 📡 订阅
+## 📡 订阅与切面
 
 - 新收录 RSS（中文）`/feeds/new.rss.xml` ｜ New entries RSS (EN) `/feeds/new.en.rss.xml`
 - 周涨幅榜 `/feeds/movers.rss.xml` ｜ Atom `/feeds/atom.xml` ｜ JSON Feed `/feeds/feed.json`
+- 站点：[榜单实验室](https://richardfans.github.io/huaqiang-china/charts/)（按点赞/投币/评论等排序与筛选）、
+  [作品全景](https://richardfans.github.io/huaqiang-china/graph/)、
+  [编年](https://richardfans.github.io/huaqiang-china/chronicle/)
 - 仓库内完整切面：[docs/lists/](docs/lists/)（桥段 / UP主 / 分级，自动生成）
 
 ## 🚀 快速开始（开发者）

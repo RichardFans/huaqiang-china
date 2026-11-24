@@ -1,167 +1,142 @@
 ---
 import Base from '../layouts/Base.astro';
-import cmap from '../data/generated/creator-map.svg?raw';
+import scatter from '../data/generated/works-scatter.svg?raw';
+import evolution from '../data/generated/form-evolution.svg?raw';
 import graph from '../data/generated/graph.json';
 import { withBase } from '../lib/base';
 
-const m = graph.meta;
-const sceneCount: Record<string, number> = {};
-for (const n of graph.nodes) {
-  if (n.kind === 'work') sceneCount[n.scene] = (sceneCount[n.scene] || 0) + 1;
-}
+const m = (graph as any).meta;
+const fmt = (n: number) => n.toLocaleString('en-US');
+const roles = Object.entries(m.roles || {});
 const scenes = [
   { key: 'maigua', label: '华强买瓜', sw: 'sw-maigua' },
   { key: 'song-laohu-banquet', label: '宋老虎请客', sw: 'sw-song' },
   { key: 'feng-biao', label: '封彪桥段', sw: 'sw-feng' },
   { key: 'other', label: '其他名场面', sw: 'sw-other' },
 ];
-const roles = Object.entries(m.roles || {});
-const fmt = (n: number) => n.toLocaleString('en-US');
 ---
 
 <Base
-  title="图谱"
+  title="全景"
   current="/graph/"
-  description={`征服二创宇宙的关系图谱：${m.n_creators} 位创作者、${m.n_works} 部在册作品、${m.n_components} 个创作单元，每条边都可回溯证据。`}
+  description={`作品全景：发布时间与播放量、形态演化，以及创作者关系数据（${m.n_creators} 位创作者、${m.n_works} 部在册作品）。`}
 >
-  <h1 class="page-title">关系图谱</h1>
+  <h1 class="page-title">作品全景</h1>
   <p class="page-lede">
-    {m.n_creators} 位创作者与 {m.n_works} 部在册作品，组成 {m.n_components}
-    个互不相连的创作单元，其中只有 {m.n_serial} 位有 2 部以上在册作品。
-    每条边都由确定性字段生成并带证据，不从标题臆造关系。
+    同一批在册数据的俯瞰视图：每部作品一个点，看引爆、长尾与 2026 年的 AI
+    再爆发；再看形态构成如何工业化；关系数据附在最后。
   </p>
 
-  <div class="controls">
-    {
-      scenes.map((s) => (
-        <button class="chip" type="button" data-scene-chip={s.key} aria-pressed="false">
-          <span class={`sw ${s.sw}`} aria-hidden="true" />
-          {s.label}
-          <span class="c">{fmt(sceneCount[s.key] || 0)}</span>
-        </button>
-      ))
-    }
-    <input
-      id="cmap-q"
-      class="input"
-      type="search"
-      autocomplete="off"
-      placeholder="按标题或 UP主 昵称查找"
-      aria-label="按标题或 UP主 昵称查找节点"
-    />
-  </div>
-  <p id="cmap-status" class="footnote" aria-live="polite"></p>
+  <section class="section" aria-labelledby="h-scatter">
+    <h2 id="h-scatter" class="section-title">发布时间 × 播放量</h2>
+    <p class="section-note">
+      纵轴为对数刻度；点越大播放量越高，菱形是 AI 系形态（翻唱、视频、其他）；
+      着色月带是 2021 年 7 月的引爆窗口。悬停或用 Tab 聚焦可看每部作品。
+    </p>
+    <div class="controls">
+      {
+        scenes.map((s) => (
+          <button class="chip" type="button" data-scene-chip={s.key} aria-pressed="false">
+            <span class={`sw ${s.sw}`} aria-hidden="true" />
+            {s.label}
+          </button>
+        ))
+      }
+      <button class="chip" type="button" data-scene-chip="" aria-pressed="false">
+        <span class="sw" aria-hidden="true" style="border:1px solid var(--line-strong)" />
+        显示全部
+      </button>
+    </div>
+    <p id="sc-status" class="footnote" aria-live="polite"></p>
+    <p class="footnote sc-hint">散点图较宽，可左右拖动查看。</p>
+    <div id="scatter" class="sc-wrap" set:html={scatter} />
+    <ul class="legend" aria-label="图例">
+      <li><span class="sw" style="width:14px;height:14px" aria-hidden="true" />播放量越高，点越大</li>
+      <li><span class="sw sw-diamond" aria-hidden="true" />AI 系形态（菱形）</li>
+      <li>颜色为桥段</li>
+    </ul>
+  </section>
 
-  <p class="footnote cm-hint">星图较宽，可左右拖动查看。</p>
-  <div id="cmap" class="cm-wrap" set:html={cmap} />
+  <section class="section" aria-labelledby="h-evolution">
+    <h2 id="h-evolution" class="section-title">形态演化：这个梗的工业化</h2>
+    <p class="section-note">
+      按发布季度堆叠的形态构成。AI 系自 2023 年出现，2026
+      年成为主力之一：同一批名场面，换了新喉咙。
+    </p>
+    <div class="chart-box" set:html={evolution} />
+  </section>
 
-  <ul class="legend" aria-label="图例">
-    <li><span class="sw sw-maigua" aria-hidden="true" />作品，大小随播放量</li>
-    <li><span class="sw sw-creator" aria-hidden="true" />创作者</li>
-    <li><span class="sw sw-ring" aria-hidden="true" />殿堂级（播放 1000 万以上）</li>
-    <li><span class="sw sw-collab" aria-hidden="true" />平台标注的合作关系</li>
-  </ul>
-
-  <p class="footnote">
-    {
-      roles.length > 0 && (
-        <>
-          合作角色（平台原字面量）：
-          {roles.map(([role, n], i) => (
-            <>
-              {i > 0 && '、'}
-              {role} {n}
-            </>
-          ))}
-          。
-        </>
-      )
-    }
-    悬停节点，或用 Tab 键逐个聚焦，可高亮它的关系。做网络分析可下载带证据属性的
-    <a href={withBase('/graph.gexf')} download>graph.gexf</a>（Gephi 可直接打开）。
-    全部条目为自动入册、待人工复核；方法见
-    <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/decisions/0008-knowledge-graph.md">ADR-0008</a>。
-  </p>
+  <section class="section" aria-labelledby="h-rel">
+    <h2 id="h-rel" class="section-title">创作者关系数据</h2>
+    <p class="section-note">
+      诚实地说：在册创作者大多是「一人一片」——这不是画不出大图，是档案当前的本来形状。
+    </p>
+    <div class="stats">
+      <div class="stat">
+        <b>{fmt(m.n_creators)}</b>
+        <span>在册创作者</span>
+      </div>
+      <div class="stat">
+        <b>{fmt(m.n_components)}</b>
+        <span>互不相连的创作单元</span>
+      </div>
+      <div class="stat">
+        <b>{fmt(m.n_serial)}</b>
+        <span>有 2 部以上在册作品的创作者</span>
+      </div>
+      <div class="stat">
+        <b>{fmt(m.n_collaborated)}</b>
+        <span>平台标注的合作关系</span>
+      </div>
+    </div>
+    <p class="footnote">
+      {
+        roles.length > 0 && (
+          <>
+            合作角色（平台原字面量）：
+            {roles.map(([role, n], i) => (
+              <>
+                {i > 0 && '、'}
+                {role} {n}
+              </>
+            ))}
+            。
+          </>
+        )
+      }
+      每条边都由确定性字段生成并带证据，不从标题臆造关系。做网络分析（社区检测等）可下载带证据属性的
+      <a href={withBase('/graph.gexf')} download>graph.gexf</a>（Gephi 可直接打开）。方法见
+      <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/decisions/0008-knowledge-graph.md">ADR-0008</a>。
+    </p>
+  </section>
 
   <script>
-    const wrap = document.getElementById('cmap');
-    const svg = wrap?.querySelector('svg.cm');
-    const status = document.getElementById('cmap-status');
-    if (wrap && svg) {
-      const nodes = Array.from(svg.querySelectorAll<SVGElement>('.cm-n'));
-      const edges = Array.from(svg.querySelectorAll<SVGElement>('.cm-e'));
-      const labels = Array.from(svg.querySelectorAll<SVGElement>('.cm-l'));
-
-      // 关系高亮（悬停 / 键盘聚焦）：只提亮当前节点及其邻接边、邻接节点
-      const lit = new Set<string>();
-      const mark = () => {
-        for (const n of nodes) n.classList.toggle('lit', lit.has(`n:${n.dataset.id}`));
-        for (const e of edges)
-          e.classList.toggle('lit', lit.has(`e:${e.dataset.s}|${e.dataset.t}`));
-        for (const l of labels) l.classList.toggle('lit', lit.has(`n:${l.dataset.for}`));
-      };
-      const clearFocus = () => {
-        lit.clear();
-        wrap.classList.remove('is-focus');
-        mark();
-      };
-      const focusNode = (el: Element) => {
-        lit.clear();
-        const id = (el as SVGElement).dataset.id;
-        lit.add(`n:${id}`);
-        for (const e of edges) {
-          if (e.dataset.s === id || e.dataset.t === id) {
-            lit.add(`e:${e.dataset.s}|${e.dataset.t}`);
-            lit.add(`n:${e.dataset.s}`);
-            lit.add(`n:${e.dataset.t}`);
-          }
-        }
-        wrap.classList.add('is-focus');
-        mark();
-      };
-      for (const n of nodes) {
-        n.addEventListener('pointerenter', () => focusNode(n));
-        n.addEventListener('focus', () => focusNode(n));
-        n.addEventListener('pointerleave', clearFocus);
-        n.addEventListener('blur', clearFocus);
-      }
-
-      // 按桥段筛选（再点一次取消）
+    // 散点的桥段筛选（渐进增强）：再点一次或点「显示全部」恢复。
+    const wrap = document.getElementById('scatter');
+    const status = document.getElementById('sc-status');
+    if (wrap) {
       const chips = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-scene-chip]'));
       const announce = (text: string) => {
         if (status) status.textContent = text;
       };
-      for (const chip of chips) {
+      chips.forEach((chip) => {
         chip.addEventListener('click', () => {
           const key = chip.dataset.sceneChip || '';
-          const on = wrap.dataset.scene !== key;
-          wrap.dataset.scene = on ? key : '';
-          for (const c of chips) c.setAttribute('aria-pressed', String(on && c === chip));
+          const on = key !== '' && wrap.dataset.scene !== key;
+          if (on) wrap.dataset.scene = key;
+          else delete wrap.dataset.scene;
+          chips.forEach((c) =>
+            c.setAttribute('aria-pressed', String(on && c === chip || (!on && c.dataset.sceneChip === ''))));
+          if (!on) chips.forEach((c) => c.setAttribute('aria-pressed', 'false'));
+          chips.find((c) => c.dataset.sceneChip === '')?.setAttribute('aria-pressed', String(!on));
           if (!on) {
             announce('');
             return;
           }
-          const shown = nodes.filter((n) => (n.dataset.scene || '').split(' ').includes(key)).length;
-          announce(`已按桥段筛选，显示 ${shown} 个节点；再点一次可取消。`);
+          const pts = Array.from(wrap.querySelectorAll<SVGElement>('.scw-pt'));
+          const shown = pts.filter((p) => (p.dataset.scene || '').split(' ').includes(key)).length;
+          announce(`已按桥段筛选，显示 ${shown} 部作品；再点一次可恢复。`);
         });
-      }
-
-      // 查找：标题或 UP主 昵称包含关键词的节点保留，其余淡出
-      const input = document.getElementById('cmap-q') as HTMLInputElement | null;
-      input?.addEventListener('input', () => {
-        const q = input.value.trim().toLowerCase();
-        const hit = new Set<string>();
-        if (q) {
-          for (const n of nodes) {
-            if ((n.dataset.search || '').toLowerCase().includes(q)) hit.add(n.dataset.id || '');
-          }
-        }
-        wrap.classList.toggle('is-query', q.length > 0);
-        for (const n of nodes) n.classList.toggle('hit', hit.has(n.dataset.id || ''));
-        for (const e of edges)
-          e.classList.toggle('hit', hit.has(e.dataset.s || '') && hit.has(e.dataset.t || ''));
-        for (const l of labels) l.classList.toggle('hit', hit.has(l.dataset.for || ''));
-        announce(q ? `找到 ${hit.size} 个节点。` : '');
       });
     }
   </script>

@@ -11,7 +11,7 @@
   R8 cover 与最晚 view 快照的 pic 一致，且有 cover_evidence（ADR-0007；跑 zfq mine 修复）
   R9 data/curated/graph.json 与按当前数据重建的图谱一致（ADR-0008；重跑 zfq build 修复）
   R10 时间线 SVG 三变体与按当前数据重建结果逐字节一致（README hero / 站点桌面 / 站点移动）
-  R11 创作者星图 SVG（README 与站点各一份）与重建结果逐字节一致（ADR-0008）
+  R11 作品全景散点与形态演化 SVG（README 与站点各一份）与重建结果逐字节一致（ADR-0008 修订二）
 """
 from __future__ import annotations
 
@@ -56,19 +56,20 @@ def _readme_drift_errors() -> list[str]:
 
 
 def _generated_svg_errors() -> list[str]:
-    """R10/R11：由数据生成的 SVG（时间线三变体、创作者星图两份）必须与按当前数据
-    重建的结果逐字节一致（重跑 zfq build 修复）。"""
-    from .build import TIMELINE_ASSETS
-    from .graph import build_graph, to_svg
+    """R10/R11：由数据生成的 SVG 必须与按当前数据重建的结果逐字节一致（重跑修复）。
+    R10 = 时间线三变体；R11 = 作品全景散点与形态演化各两变体。"""
+    from .build import CHART_ASSETS, TIMELINE_ASSETS
+    from .charts import form_evolution_svg, works_scatter_svg
     from .timeline import build_timeline_svg
     from .track import load_entries
 
     entries = load_entries()
     checks = [(f"R10 {rel}", build_timeline_svg(entries, variant=v, chrome=c))
               for rel, v, c in TIMELINE_ASSETS]
-    svg = to_svg(build_graph(entries))
-    checks += [("R11 docs/assets/creator-map.svg", svg),
-               ("R11 site/src/data/generated/creator-map.svg", svg)]
+    for rel, kind, chrome in CHART_ASSETS:
+        svg = (works_scatter_svg(entries, chrome=chrome) if kind == "scatter"
+               else form_evolution_svg(entries, chrome=chrome))
+        checks.append((f"R11 {rel}", svg))
     errs: list[str] = []
     for label, expected in checks:
         path = config.ROOT / label.split(" ", 1)[1]

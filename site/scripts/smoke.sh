@@ -36,7 +36,7 @@ abs() {
   esac
 }
 
-for path in / /graph/ /chronicle/ /creators/ /scene/maigua/ /en/ /graph.gexf; do
+for path in / /graph/ /charts/ /chronicle/ /creators/ /scene/maigua/ /en/ /graph.gexf; do
   expect_200 "${URL}${path}" "page"
 done
 

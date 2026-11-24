@@ -314,67 +314,74 @@ def test_graph_staff_semantics_and_evidence(tmp_path, monkeypatch):
     assert g1["meta"]["roles"] == {"剪辑": 1, "参演": 1}
 
 
-def test_creator_map_svg_deterministic_wellformed_no_overlap(tmp_path, monkeypatch):
-    """星图：确定性、良构 XML、节点可点、分量外接框互不相交（R11 前置）。"""
+def test_charts_scatter_and_evolution(tmp_path, monkeypatch):
+    """作品全景散点与形态演化：确定性、良构、引爆带/AI 菱形/图例齐全（R11 前置）。"""
     from xml.etree import ElementTree as ET
-    from zfq import config, graph as G
+    from zfq import charts as C, config
     from zfq.schema import DiscoveryInfo, Owner
 
     monkeypatch.setattr(config, "SNAPSHOTS_DIR", tmp_path / "snapshots")
     (tmp_path / "snapshots").mkdir()
 
-    def mk(bvid, mid, view, month, tier="hot", scenes=("maigua",)):
+    def mk(bvid, mid, view, month, tier="hot", scenes=("maigua",), form="clip"):
         n = utcnow()
         return Entry.model_validate(dict(
             bvid=bvid, title=f"作品{mid}", owner=Owner(mid=mid, name=f"UP{mid}"),
             pubdate=f"{month}-10T00:00:00+00:00", scenes=list(scenes), scene_evidence="x",
-            form="clip", form_status="confirmed", tier=tier, tier_basis="测试",
+            form=form, form_status="confirmed", tier=tier, tier_basis="测试",
             discovered_via=DiscoveryInfo(method="manual-issue", captured_at=n),
             first_seen=n, snapshots=[
-                Snapshot(captured_at=n, endpoint="api-view", view=view, like=0, coin=0,
-                         favorite=0, share=0, danmaku=0, reply=0)]))
+                Snapshot(captured_at=n, endpoint="api-view", view=view, like=view // 10,
+                         coin=view // 20, favorite=view // 5, share=view // 30,
+                         danmaku=view // 50, reply=view // 40)]))
 
     entries = [mk(f"BV1Ku4y1f7{i:02d}", i, 10_000_000 * (i + 1), "2021-07", "hall")
-               for i in range(12)]
-    entries += [mk("BV2Ku4y1f7o1", 1, 5000, "2021-08"), mk("BV2Ku4y1f7o2", 1, 5000, "2021-09"),
-                mk("BV3Ku4y1f7o2", 2, 5000, "2021-10", scenes=("zhengfu-other", "maigua")),
-                mk("BV4Ku4y1f7o2", 2, 5000, "2021-11", scenes=("song-laohu-banquet",))]
-    g = G.build_graph(entries)
-    svg1, svg2 = G.to_svg(g), G.to_svg(g)
-    assert svg1 == svg2 and "@media (prefers-color-scheme: dark)" in svg1
+               for i in range(6)]
+    entries += [
+        mk("BV2Ku4y1f7o1", 1, 5_000_000, "2021-08"),
+        mk("BV2Ku4y1f7o2", 1, 500_000, "2021-09", scenes=("song-laohu-banquet",)),
+        mk("BV3Ku4y1f7o1", 2, 300_000, "2022-01", scenes=("zhengfu-other",)),
+        mk("BV3Ku4y1f7o2", 2, 300_000, "2026-05", form="ai-cover"),
+        mk("BV4Ku4y1f7o1", 3, 2_000_000, "2026-09", form="ai-video"),
+        mk("BV4Ku4y1f7o2", 3, 100_000, "2026-11", form="guichu", scenes=("feng-biao",)),
+    ]
+
+    s1, s2 = C.works_scatter_svg(entries), C.works_scatter_svg(entries)
+    assert s1 == s2, "散点必须确定性"
+    assert "@media (prefers-color-scheme: dark)" in s1
+    assert "引爆窗口 2021-07" in s1
+    assert "—" not in s1 and "–" not in s1, "图内不出现破折号字符"
 
     ns = "{http://www.w3.org/2000/svg}"
-    root = ET.fromstring(svg1)
-    links = root.findall(f".//{ns}a")
-    assert links and all(a.get("href", "").startswith("https://") for a in links)
-    assert len(root.findall(f".//{ns}circle[@class='cm-ring']")) == 12   # 殿堂级外环
-
-    lay = G.layout_graph(g)
-    assert lay["components"] == 12 and len(lay["boxes"]) == 12
-    boxes = lay["boxes"]
-    for i in range(len(boxes)):
-        for j in range(i + 1, len(boxes)):
-            a, b = boxes[i], boxes[j]
-            apart = (a[2] <= b[0] or b[2] <= a[0] or a[3] <= b[1] or b[3] <= a[1])
-            assert apart, f"分量 {i} 与 {j} 外接框相交：{a} {b}"
-    xs = [p["x"] for p in lay["pos"].values()]
-    ys = [p["y"] for p in lay["pos"].values()]
-    assert min(xs) >= 0 and max(xs) <= lay["width"] and max(ys) <= lay["height"]
-    # 站点交互依赖的属性：查找文本与桥段筛选（节点、边、标签都要带 data-scene）
-    assert 'data-search=' in svg1
-    assert svg1.count('<text class="cm-t cm-l') == svg1.count('data-for="')
+    root = ET.fromstring(s1)
+    pts = root.findall(f".//{ns}g[@class='scw-pt']")
+    assert len(pts) == len(entries)
+    assert 'data-scene="ai' not in s1  # AI 是形状通道不是桥段词
+    diamonds = [r for r in root.iter(f"{ns}rect")
+                if (r.get("transform") or "").startswith("rotate(45")]
+    assert len(diamonds) == 2          # 两条 AI 系作品
     import re as _re
-    for key in ("maigua", "other", "song-laohu-banquet"):      # 属性是空格分隔的词表
-        assert _re.search(rf'data-scene="([^"]* )?{key}( [^"]*)?"', svg1), key
+    for key in ("maigua", "other", "song-laohu-banquet"):
+        assert _re.search(rf'data-scene="([^"]* )?{key}( [^"]*)?"', s1), key
+
+    e1, e2 = C.form_evolution_svg(entries, chrome=True), C.form_evolution_svg(entries, chrome=True)
+    assert e1 == e2
+    ET.fromstring(e1)
+    for label in ("剧情剪辑", "鬼畜·音MAD", "AI 系", "其他"):
+        assert label in e1, label
+    assert "形态演化" in e1
 
 
-def test_site_graph_palette_in_sync():
-    """站点图例/筛选用的色值必须与 graph.SCENE_COLOR 一致（Python 回退值与 CSS 两处，防漂移）。"""
+def test_site_chart_palette_in_sync():
+    """站点图表令牌必须与 Python 回退色一致（散点桥段色 + 形态色，防两处漂移）。"""
+    from zfq import charts as C
     from zfq import config, graph as G
 
     css = (config.ROOT / "site" / "src" / "styles" / "global.css").read_text(encoding="utf-8")
     for pair in list(G.SCENE_COLOR.values()) + [G.OTHER_COLOR]:
         for hexv in pair:
-            assert hexv.lower() in css.lower(), f"站点样式缺少图谱色值 {hexv}"
-    # 图谱色只允许三个色相 + 中性灰（dataviz：任意两点相邻的图形式上限）
+            assert hexv.lower() in css.lower(), f"站点样式缺少桥段色 {hexv}"
+    for pair in C.FORM_COLOR.values():
+        for hexv in pair:
+            assert hexv.lower() in css.lower(), f"站点样式缺少形态色 {hexv}"
     assert set(G.SCENE_COLOR) == {"maigua", "song-laohu-banquet", "feng-biao"}

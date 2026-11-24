@@ -42,7 +42,7 @@ def _slim(e: Entry) -> dict:
         "first_seen": iso(e.first_seen),
         "latest": {"captured_at": iso(s.captured_at), "view": s.view, "like": s.like,
                    "coin": s.coin, "favorite": s.favorite, "share": s.share,
-                   "danmaku": s.danmaku} if s else None,
+                   "danmaku": s.danmaku, "reply": s.reply} if s else None,
     }
 
 
@@ -426,44 +426,41 @@ def _readme_block(curated: dict, lang: str) -> str:
             "[methodology](docs/methodology.md). ⚠ = pending human review "
             "([ADR-0006](docs/decisions/0006-review-gate.md)).")
 
-    # 创作者星图（确定性 SVG，R11 防漂移）
-    gm = curated.get("graph_meta") or {}
-    if gm:
-        roles = "、".join(f"{k} {v}" for k, v in (gm.get("roles") or {}).items())
-        if zh:
-            parts += [
-                "", "## 🕸 创作者星图",
-                f"{gm['n_creators']} 位创作者与 {gm['n_works']} 部在册作品，分成 "
-                f"{gm['n_components']} 个互不相连的创作单元，其中 {gm['n_serial']} 位 "
-                "有 2 部以上在册作品。圆点是作品（大小随播放量、颜色是桥段），菱形是创作者，"
-                + (f"虚线是平台标注的合作关系（{roles}）。" if roles
-                   else "目前没有平台标注的合作关系。"),
-                "",
-                '<p align="center"><img src="docs/assets/creator-map.svg" '
-                f'alt="创作者星图：{gm["n_creators"]} 位创作者、{gm["n_works"]} 部作品、'
-                f'{gm["n_components"]} 个创作单元，按桥段着色" width="880"></p>',
-                "",
-                f"→ 可筛选、可悬停的交互版：[站点图谱页]({SITE_URL}/graph/)。"
-                "边只来自确定性字段，每条带证据"
-                "（[ADR-0008](docs/decisions/0008-knowledge-graph.md)）。"]
-        else:
-            parts += [
-                "", "## 🕸 Creator constellation map",
-                f"{gm['n_creators']} creators and {gm['n_works']} catalogued works form "
-                f"{gm['n_components']} disconnected creative units; {gm['n_serial']} "
-                "creators have two or more catalogued works. Dots are works (size follows "
-                "views, colour is the scene), diamonds are creators, "
-                + (f"dashed lines are platform-labelled collaborations ({roles})."
-                   if roles else "with no platform-labelled collaborations so far."),
-                "",
-                '<p align="center"><img src="docs/assets/creator-map.svg" '
-                f'alt="Creator constellation map: {gm["n_creators"]} creators, '
-                f'{gm["n_works"]} works, {gm["n_components"]} units, coloured by scene" '
-                'width="880"></p>',
-                "",
-                f"→ Filterable, hoverable version: [the graph page]({SITE_URL}/graph/). "
-                "Every edge comes from a deterministic field and carries its evidence "
-                "([ADR-0008](docs/decisions/0008-knowledge-graph.md))."]
+    # 作品全景散点（确定性 SVG，R11 防漂移；ADR-0008 修订二：星图退役，散点接棒）
+    if zh:
+        parts += [
+            "", "## 🌌 作品全景",
+            "横轴是发布时间，纵轴是播放量（对数刻度），每个点是一部在册作品：颜色是桥段，"
+            "菱形是 AI 系形态（翻唱、视频、其他），点越大播放量越高。2021 年 7 月的着色月带"
+            "是引爆窗口；右侧 2026 年的菱形密集区，就是这个梗的 AI 再爆发。",
+            "",
+            '<p align="center"><img src="docs/assets/works-scatter.svg" '
+            'alt="作品全景散点：发布时间与播放量，按桥段着色，AI 系为菱形，'
+            '2021-07 引爆窗口高亮" width="880"></p>',
+            "",
+            f"→ 形态演化（这个梗的工业化）、可筛选的交互版与关系数据："
+            f"[站点全景页]({SITE_URL}/graph/)；按点赞、投币、评论等指标排序："
+            f"[榜单实验室]({SITE_URL}/charts/)。图由 `zfq build` 确定性生成"
+            "（[ADR-0008](docs/decisions/0008-knowledge-graph.md)）。"]
+    else:
+        parts += [
+            "", "## 🌌 Works panorama",
+            "Every catalogued work is one dot: the x-axis is its publication date, the "
+            "y-axis its view count (log scale); colour is the scene, diamonds are AI-era "
+            "forms (covers, video, other), and larger dots mean more views. The shaded "
+            "band marks the ignition window of July 2021; the diamond cluster on the "
+            "right in 2026 is the meme's AI revival.",
+            "",
+            '<p align="center"><img src="docs/assets/works-scatter.svg" '
+            'alt="Works panorama scatter: publication date versus view count on a log '
+            'scale, coloured by scene, AI-era forms as diamonds, July 2021 ignition '
+            'window highlighted" width="880"></p>',
+            "",
+            f"→ Form evolution (the meme industrializing), a filterable interactive "
+            f"version and the relationship data: [the panorama page]({SITE_URL}/graph/); "
+            f"rank by likes, coins, comments and more: [the charts page]({SITE_URL}/charts/). "
+            "Charts are generated deterministically by `zfq build` "
+            "([ADR-0008](docs/decisions/0008-knowledge-graph.md))."]
     return "\n".join(parts)
 
 
@@ -517,8 +514,8 @@ def build_readme(curated: dict, entries: list[Entry]) -> None:
 
 
 def build_graph_outputs(entries: list[Entry]) -> dict:
-    """图谱产物：graph.json（R9 对象）+ gexf 下载 + 创作者星图 SVG（R11）+ 站点数据。"""
-    from .graph import build_graph, to_gexf, to_svg
+    """图谱数据层：graph.json（R9 对象）+ gexf 下载 + 站点数据（视图见 charts）。"""
+    from .graph import build_graph, to_gexf
 
     g = build_graph(entries)
     (config.CURATED_DIR / "graph.json").write_text(
@@ -527,19 +524,36 @@ def build_graph_outputs(entries: list[Entry]) -> dict:
     config.SITE_DATA_DIR.mkdir(parents=True, exist_ok=True)
     (config.SITE_DATA_DIR / "graph.json").write_text(
         json.dumps(g, ensure_ascii=False), encoding="utf-8")
-    svg = to_svg(g)
-    for rel in ("docs/assets/creator-map.svg", "site/src/data/generated/creator-map.svg"):
-        p = config.ROOT / rel
-        p.parent.mkdir(parents=True, exist_ok=True)
-        p.write_text(svg, encoding="utf-8")
     dl = config.ROOT / "site" / "public" / "graph.gexf"
     dl.parent.mkdir(parents=True, exist_ok=True)
     dl.write_text(to_gexf(g), encoding="utf-8")
     m = g["meta"]
-    print(f"[build] 图谱：{m['n_nodes']} 节点 / {m['n_edges']} 边（创作单元 "
+    print(f"[build] 图谱数据：{m['n_nodes']} 节点 / {m['n_edges']} 边（创作单元 "
           f"{m['n_components']} · 合作 {m['n_collaborated']} · 常驻创作者 "
           f"{m['n_serial']}）")
     return g
+
+
+CHART_ASSETS = (
+    # (相对路径, 生成器参数)  R11 对象：README 用 chrome 变体，站点内联用 bare 变体
+    ("docs/assets/works-scatter.svg", "scatter", True),
+    ("site/src/data/generated/works-scatter.svg", "scatter", False),
+    ("docs/assets/form-evolution.svg", "evolution", True),
+    ("site/src/data/generated/form-evolution.svg", "evolution", False),
+)
+
+
+def build_chart_outputs(entries: list[Entry]) -> None:
+    """表现力图表（ADR-0008 修订二）：作品全景散点 + 形态演化（R11 逐字节防漂移）。"""
+    from .charts import form_evolution_svg, works_scatter_svg
+
+    for rel, kind, chrome in CHART_ASSETS:
+        svg = (works_scatter_svg(entries, chrome=chrome) if kind == "scatter"
+               else form_evolution_svg(entries, chrome=chrome))
+        p = config.ROOT / rel
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(svg, encoding="utf-8")
+    print(f"[build] 图表：作品全景散点 + 形态演化 × {len(CHART_ASSETS)} 变体（R11）")
 
 
 def _search_manifests() -> list[dict]:
@@ -668,6 +682,7 @@ def main() -> int:
     build_site_data(curated, creators)
     build_feeds(curated)
     build_timeline_outputs(entries)
+    build_chart_outputs(entries)
     build_readme(curated, entries)
     build_badges(curated["development"], curated)
     build_search_evidence()

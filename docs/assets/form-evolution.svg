@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 300" width="920" height="300" class="fev" role="img" aria-labelledby="fev-t fev-d">
+<style>.fev-t{font-family:system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', 'Noto Sans SC', sans-serif}
+.fev-ink{fill:var(--fe-ink,#1a1d1a)}.fev-mut{fill:var(--fe-muted,#66706a)}
+.fev-grid{stroke:var(--fe-grid,#e3e7e2);stroke-width:1}
+.fev-edit{fill:var(--fe-edit,#2a78d6)}
+.fev-guichu{fill:var(--fe-guichu,#eb6834)}
+.fev-ai{fill:var(--fe-ai,#1baf7a)}
+.fev-other{fill:var(--fe-other,#8a9490)}
+@media (prefers-color-scheme: dark){
+.fev-ink{fill:var(--fe-ink,#e9ece8)}
+.fev-mut{fill:var(--fe-muted,#96a098)}
+.fev-grid{stroke:var(--fe-grid,#2a302a)}
+.fev-edit{fill:var(--fe-edit,#3987e5)}
+.fev-guichu{fill:var(--fe-guichu,#d95926)}
+.fev-ai{fill:var(--fe-ai,#199e70)}
+.fev-other{fill:var(--fe-other,#8f978f)}
+}</style>
+<title id="fev-t">形态演化：季度投稿构成（在册样本 196 部）</title>
+<desc id="fev-d">按发布季度堆叠的形态构成：剧情剪辑、鬼畜与音MAD、AI 系（翻唱、视频、其他）、其他。2026 年起 AI 系占比显著上升。</desc>
+<text class="fev-t fev-ink" x="46" y="24" font-size="15" font-weight="600">形态演化：这个梗的工业化（季度构成，196 部）</text>
+<text class="fev-t fev-mut" x="46" y="44" font-size="11">按发布季度堆叠的形态构成。AI 系（翻唱/视频/其他）自 2023 年出现，2026 年成为主力之一——同一批名场面，换了新喉咙。</text>
+<rect class="fev-edit" x="46.0" y="59" width="10" height="10" rx="2"/>
+<text class="fev-t fev-mut" x="61.0" y="68" font-size="11">剧情剪辑</text>
+<rect class="fev-guichu" x="127.0" y="59" width="10" height="10" rx="2"/>
+<text class="fev-t fev-mut" x="142.0" y="68" font-size="11">鬼畜·音MAD</text>
+<rect class="fev-ai" x="222.5" y="59" width="10" height="10" rx="2"/>
+<text class="fev-t fev-mut" x="237.5" y="68" font-size="11">AI 系</text>
+<rect class="fev-other" x="289.7" y="59" width="10" height="10" rx="2"/>
+<text class="fev-t fev-mut" x="304.7" y="68" font-size="11">其他</text>
+<line class="fev-grid" x1="46" y1="247.1" x2="902" y2="247.1"/>
+<text class="fev-t fev-mut" x="39" y="250.6" font-size="10" text-anchor="end">5</text>
+<line class="fev-grid" x1="46" y1="228.1" x2="902" y2="228.1"/>
+<text class="fev-t fev-mut" x="39" y="231.6" font-size="10" text-anchor="end">10</text>
+<line class="fev-grid" x1="46" y1="209.2" x2="902" y2="209.2"/>
+<text class="fev-t fev-mut" x="39" y="212.7" font-size="10" text-anchor="end">15</text>
+<line class="fev-grid" x1="46" y1="190.3" x2="902" y2="190.3"/>
+<text class="fev-t fev-mut" x="39" y="193.8" font-size="10" text-anchor="end">20</text>
+<line class="fev-grid" x1="46" y1="171.3" x2="902" y2="171.3"/>
+<text class="fev-t fev-mut" x="39" y="174.8" font-size="10" text-anchor="end">25</text>
+<line class="fev-grid" x1="46" y1="152.4" x2="902" y2="152.4"/>
+<text class="fev-t fev-mut" x="39" y="155.9" font-size="10" text-anchor="end">30</text>
+<line class="fev-grid" x1="46" y1="133.4" x2="902" y2="133.4"/>
+<text class="fev-t fev-mut" x="39" y="136.9" font-size="10" text-anchor="end">35</text>
+<line class="fev-grid" x1="46" y1="114.5" x2="902" y2="114.5"/>
+<text class="fev-t fev-mut" x="39" y="118.0" font-size="10" text-anchor="end">40</text>
+<line class="fev-grid" x1="46" y1="95.6" x2="902" y2="95.6"/>
+<text class="fev-t fev-mut" x="39" y="99.1" font-size="10" text-anchor="end">45</text>
+<line class="fev-grid" x1="46" y1="266" x2="902" y2="266" stroke-width="1.4"/>
+<rect class="fev-edit" x="47.5" y="263.2" width="29.9" height="1.8" rx="1.5"><title>2020Q3 · 剧情剪辑：1 部（共 1 部）</title></rect>
+<text class="fev-t fev-mut" x="62.5" y="283" font-size="10.5" text-anchor="middle">2020</text>
+<text class="fev-t fev-mut" x="128.3" y="283" font-size="10.5" text-anchor="middle">2021</text>
+<rect class="fev-edit" x="179.2" y="100.4" width="29.9" height="164.6" rx="1.5"><title>2021Q3 · 剧情剪辑：44 部（共 47 部）</title></rect>
+<rect class="fev-guichu" x="179.2" y="89.0" width="29.9" height="9.4" rx="1.5"><title>2021Q3 · 鬼畜·音MAD：3 部（共 47 部）</title></rect>
+<rect class="fev-edit" x="212.1" y="229.1" width="29.9" height="35.9" rx="1.5"><title>2021Q4 · 剧情剪辑：10 部（共 13 部）</title></rect>
+<rect class="fev-guichu" x="212.1" y="217.8" width="29.9" height="9.4" rx="1.5"><title>2021Q4 · 鬼畜·音MAD：3 部（共 13 部）</title></rect>
+<rect class="fev-edit" x="245.0" y="259.4" width="29.9" height="5.6" rx="1.5"><title>2022Q1 · 剧情剪辑：2 部（共 2 部）</title></rect>
+<text class="fev-t fev-mut" x="260.0" y="283" font-size="10.5" text-anchor="middle">2022</text>
+<rect class="fev-edit" x="278.0" y="259.4" width="29.9" height="5.6" rx="1.5"><title>2022Q2 · 剧情剪辑：2 部（共 5 部）</title></rect>
+<rect class="fev-guichu" x="278.0" y="248.1" width="29.9" height="9.4" rx="1.5"><title>2022Q2 · 鬼畜·音MAD：3 部（共 5 部）</title></rect>
+<rect class="fev-edit" x="310.9" y="255.6" width="29.9" height="9.4" rx="1.5"><title>2022Q3 · 剧情剪辑：3 部（共 3 部）</title></rect>
+<rect class="fev-edit" x="343.8" y="244.3" width="29.9" height="20.7" rx="1.5"><title>2022Q4 · 剧情剪辑：6 部（共 6 部）</title></rect>
+<rect class="fev-edit" x="376.7" y="251.9" width="29.9" height="13.1" rx="1.5"><title>2023Q1 · 剧情剪辑：4 部（共 4 部）</title></rect>
+<text class="fev-t fev-mut" x="391.7" y="283" font-size="10.5" text-anchor="middle">2023</text>
+<rect class="fev-edit" x="409.7" y="244.3" width="29.9" height="20.7" rx="1.5"><title>2023Q2 · 剧情剪辑：6 部（共 6 部）</title></rect>
+<rect class="fev-edit" x="442.6" y="263.2" width="29.9" height="1.8" rx="1.5"><title>2023Q3 · 剧情剪辑：1 部（共 1 部）</title></rect>
+<rect class="fev-edit" x="475.5" y="255.6" width="29.9" height="9.4" rx="1.5"><title>2023Q4 · 剧情剪辑：3 部（共 3 部）</title></rect>
+<rect class="fev-edit" x="508.4" y="248.1" width="29.9" height="16.9" rx="1.5"><title>2024Q1 · 剧情剪辑：5 部（共 5 部）</title></rect>
+<text class="fev-t fev-mut" x="523.4" y="283" font-size="10.5" text-anchor="middle">2024</text>
+<rect class="fev-edit" x="541.3" y="259.4" width="29.9" height="5.6" rx="1.5"><title>2024Q2 · 剧情剪辑：2 部（共 2 部）</title></rect>
+<rect class="fev-edit" x="607.2" y="263.2" width="29.9" height="1.8" rx="1.5"><title>2024Q4 · 剧情剪辑：1 部（共 1 部）</title></rect>
+<rect class="fev-edit" x="640.1" y="263.2" width="29.9" height="1.8" rx="1.5"><title>2025Q1 · 剧情剪辑：1 部（共 1 部）</title></rect>
+<text class="fev-t fev-mut" x="655.1" y="283" font-size="10.5" text-anchor="middle">2025</text>
+<rect class="fev-edit" x="706.0" y="255.6" width="29.9" height="9.4" rx="1.5"><title>2025Q3 · 剧情剪辑：3 部（共 3 部）</title></rect>
+<rect class="fev-edit" x="738.9" y="255.6" width="29.9" height="9.4" rx="1.5"><title>2025Q4 · 剧情剪辑：3 部（共 3 部）</title></rect>
+<rect class="fev-edit" x="771.8" y="248.1" width="29.9" height="16.9" rx="1.5"><title>2026Q1 · 剧情剪辑：5 部（共 5 部）</title></rect>
+<text class="fev-t fev-mut" x="786.8" y="283" font-size="10.5" text-anchor="middle">2026</text>
+<rect class="fev-edit" x="804.7" y="172.3" width="29.9" height="92.7" rx="1.5"><title>2026Q2 · 剧情剪辑：25 部（共 27 部）</title></rect>
+<rect class="fev-guichu" x="804.7" y="168.5" width="29.9" height="1.8" rx="1.5"><title>2026Q2 · 鬼畜·音MAD：1 部（共 27 部）</title></rect>
+<rect class="fev-ai" x="804.7" y="164.7" width="29.9" height="1.8" rx="1.5"><title>2026Q2 · AI 系：1 部（共 27 部）</title></rect>
+<rect class="fev-edit" x="837.7" y="210.2" width="29.9" height="54.8" rx="1.5"><title>2026Q3 · 剧情剪辑：15 部（共 18 部）</title></rect>
+<rect class="fev-guichu" x="837.7" y="202.6" width="29.9" height="5.6" rx="1.5"><title>2026Q3 · 鬼畜·音MAD：2 部（共 18 部）</title></rect>
+<rect class="fev-ai" x="837.7" y="198.8" width="29.9" height="1.8" rx="1.5"><title>2026Q3 · AI 系：1 部（共 18 部）</title></rect>
+<rect class="fev-edit" x="870.6" y="161.0" width="29.9" height="104.0" rx="1.5"><title>2026Q4 · 剧情剪辑：28 部（共 40 部）</title></rect>
+<rect class="fev-guichu" x="870.6" y="149.6" width="29.9" height="9.4" rx="1.5"><title>2026Q4 · 鬼畜·音MAD：3 部（共 40 部）</title></rect>
+<rect class="fev-ai" x="870.6" y="115.5" width="29.9" height="32.1" rx="1.5"><title>2026Q4 · AI 系：9 部（共 40 部）</title></rect>
+<text class="fev-t fev-mut" x="194.2" y="81.0" font-size="10.5" text-anchor="middle">47 部</text>
+<text class="fev-t fev-mut" x="46" y="292" font-size="9.5">数据：仓库一手快照（CC BY-SA 4.0）· zfq build 确定性生成</text>
+</svg>

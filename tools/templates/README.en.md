@@ -55,10 +55,13 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
   Auto-catalogued entries are marked ⚠ (*pending human review*) — we show uncertainty
   instead of hiding it.
 
-## 📡 Subscribe (feeds)
+## 📡 Subscribe & facets
 
 - New entries RSS (EN) `/feeds/new.en.rss.xml` ｜ 新收录 RSS（中文）`/feeds/new.rss.xml`
 - Weekly movers `/feeds/movers.rss.xml` ｜ Atom `/feeds/atom.xml` ｜ JSON Feed `/feeds/feed.json`
+- Site: [charts lab](https://richardfans.github.io/huaqiang-china/charts/) (rank by likes, coins, comments and more),
+  [works panorama](https://richardfans.github.io/huaqiang-china/graph/),
+  [chronicle](https://richardfans.github.io/huaqiang-china/chronicle/)
 - Full faceted lists (scene / creator / tier): [docs/lists/](docs/lists/) — auto-generated.
 
 ## 🚀 Quick start (developers)

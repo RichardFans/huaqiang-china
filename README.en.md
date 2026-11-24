@@ -119,12 +119,12 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 
 > First-hand pubdates already show the **ignition window of 2021-07-16 to 19** (hall-of-fame works clustered within four days); the 2026 sample includes works carrying Bilibili's official “AI-synthesized” label. Staging conclusions await deeper pubdate paging: [chronicle draft](reports/chronicle-draft.md) · [methodology](docs/methodology.md). ⚠ = pending human review ([ADR-0006](docs/decisions/0006-review-gate.md)).
 
-## 🕸 Creator constellation map
-137 creators and 196 catalogued works form 126 disconnected creative units; 26 creators have two or more catalogued works. Dots are works (size follows views, colour is the scene), diamonds are creators, dashed lines are platform-labelled collaborations (参演 4、后期 2、文案 2、剪辑 1、赞助商 1、配音 1).
+## 🌌 Works panorama
+Every catalogued work is one dot: the x-axis is its publication date, the y-axis its view count (log scale); colour is the scene, diamonds are AI-era forms (covers, video, other), and larger dots mean more views. The shaded band marks the ignition window of July 2021; the diamond cluster on the right in 2026 is the meme's AI revival.
 
-<p align="center"><img src="docs/assets/creator-map.svg" alt="Creator constellation map: 137 creators, 196 works, 126 units, coloured by scene" width="880"></p>
+<p align="center"><img src="docs/assets/works-scatter.svg" alt="Works panorama scatter: publication date versus view count on a log scale, coloured by scene, AI-era forms as diamonds, July 2021 ignition window highlighted" width="880"></p>
 
-→ Filterable, hoverable version: [the graph page](https://richardfans.github.io/huaqiang-china/graph/). Every edge comes from a deterministic field and carries its evidence ([ADR-0008](docs/decisions/0008-knowledge-graph.md)).
+→ Form evolution (the meme industrializing), a filterable interactive version and the relationship data: [the panorama page](https://richardfans.github.io/huaqiang-china/graph/); rank by likes, coins, comments and more: [the charts page](https://richardfans.github.io/huaqiang-china/charts/). Charts are generated deterministically by `zfq build` ([ADR-0008](docs/decisions/0008-knowledge-graph.md)).
 <!-- zfq:generated:end -->
 
 ## A very short cultural guide
@@ -141,10 +141,13 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
   Auto-catalogued entries are marked ⚠ (*pending human review*) — we show uncertainty
   instead of hiding it.
 
-## 📡 Subscribe (feeds)
+## 📡 Subscribe & facets
 
 - New entries RSS (EN) `/feeds/new.en.rss.xml` ｜ 新收录 RSS（中文）`/feeds/new.rss.xml`
 - Weekly movers `/feeds/movers.rss.xml` ｜ Atom `/feeds/atom.xml` ｜ JSON Feed `/feeds/feed.json`
+- Site: [charts lab](https://richardfans.github.io/huaqiang-china/charts/) (rank by likes, coins, comments and more),
+  [works panorama](https://richardfans.github.io/huaqiang-china/graph/),
+  [chronicle](https://richardfans.github.io/huaqiang-china/chronicle/)
 - Full faceted lists (scene / creator / tier): [docs/lists/](docs/lists/) — auto-generated.
 
 ## 🚀 Quick start (developers)

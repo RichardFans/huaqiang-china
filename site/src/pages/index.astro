@@ -20,7 +20,6 @@ const sorted = all
 const top = sorted.slice(0, 15);
 const rising = sorted.filter((x) => x.tier === 'rising').slice(0, 8);
 const hallAll = (views['by-tier'].hall || []).filter((x) => x.status === 'ok');
-const mosaic = hallAll.filter((x) => x.cover).slice(0, 5);
 const movers = ((deltas as any).rows || []).filter((r: any) => r.growth_7d != null).slice(0, 10);
 
 const c = views.counts;
@@ -32,6 +31,12 @@ const capNote =
   dev.capped
     ? `华强开发度的分母不可知：平台检索每个关键词最多只给看 ${fmt(dev.cap)} 条（${dev.denominator_date} 实测封顶），账面照记。`
     : '';
+const tabs = [
+  { id: 'hall', label: `殿堂封面（${hallAll.length}）` },
+  { id: 'top', label: '热度总榜' },
+  { id: 'rising', label: '新晋佳作' },
+  { id: 'movers', label: '7 日涨幅' },
+];
 ---
 
 <Base
@@ -43,27 +48,30 @@ const capNote =
       <h1>征服二创宇宙档案</h1>
       <p class="hero-lede">《征服》(2003) 二创生态的收集、整理与跟踪。这个梗火了五年，还没人给它记账。</p>
       <div class="hero-cta">
-        <a class="btn btn-primary" href="#top">看热度总榜</a>
-        <a class="btn btn-ghost" href={withBase('/graph/')}>关系图谱</a>
+        <a class="btn btn-primary" href="#rank">看榜单</a>
+        <a class="btn btn-ghost" href={withBase('/graph/')}>作品全景</a>
       </div>
     </div>
     <div class="mosaic" role="group" aria-label="殿堂级作品封面节选">
       {
-        mosaic.map((x, i) => (
-          <a class="tile" href={x.url} target="_blank" rel="noopener" title={`${x.title}　${x.owner.name}`}>
-            <Cover cover={x.cover} alt={x.title} sizes="(max-width: 899px) 45vw, 28vw" eager={i < 2} />
-          </a>
-        ))
+        hallAll
+          .filter((x) => x.cover)
+          .slice(0, 5)
+          .map((x, i) => (
+            <a class="tile" href={x.url} target="_blank" rel="noopener" title={`${x.title}　${x.owner.name}`}>
+              <Cover cover={x.cover} alt={x.title} sizes="(max-width: 899px) 45vw, 28vw" eager={i < 2} />
+            </a>
+          ))
       }
     </div>
   </section>
 
   <section class="stats" aria-label="关键数字">
-    <a class="stat" href="#top">
+    <a class="stat" href="#rank">
       <b>{fmt(c.derivative)}</b>
       <span>在册二创</span>
     </a>
-    <a class="stat" href="#hall">
+    <a class="stat" href="#rank">
       <b>{fmt(hallAll.length)}</b>
       <span>殿堂级作品（播放 1000 万以上）</span>
     </a>
@@ -94,49 +102,72 @@ const capNote =
     </div>
   </section>
 
-  <section id="hall" class="section" aria-labelledby="h-hall">
-    <h2 id="h-hall" class="section-title">殿堂封面墙</h2>
-    <p class="section-note">播放量 1000 万以上的 {hallAll.length} 部在册作品，按播放量排序。</p>
-    <div class="wall">
+  <section id="rank" class="section" aria-labelledby="h-rank">
+    <h2 id="h-rank" class="section-title">榜单</h2>
+    <p class="section-note">
+      同一批在册数据的四种看法。想按点赞、投币、评论等指标排序、按桥段和形态筛选，
+      去 <a href={withBase('/charts/')}>榜单实验室</a>。
+    </p>
+    <noscript>
+      <style>
+        [role='tabpanel'][hidden] { display: block; }
+        .tabs { display: none; }
+      </style>
+    </noscript>
+    <div class="tabs" role="tablist" aria-label="榜单视图">
       {
-        hallAll.map((x) => (
-          <article>
-            <a class="card-main" href={x.url} target="_blank" rel="noopener">
-              <span class="thumb">
-                <Cover cover={x.cover} alt="" sizes="(max-width: 639px) 45vw, (max-width: 899px) 30vw, (max-width: 1159px) 22vw, 176px" />
-              </span>
-              <span class="t">{x.title}</span>
-            </a>
-            <span class="m">
-              <span class="num">{fmtCn(x.latest?.view)}播放</span>
-              <a href={`https://space.bilibili.com/${x.owner.mid}`} target="_blank" rel="noopener">
-                {x.owner.name}
-              </a>
-            </span>
-          </article>
+        tabs.map((t, i) => (
+          <button
+            type="button"
+            role="tab"
+            id={`tab-${t.id}`}
+            aria-controls={`panel-${t.id}`}
+            aria-selected={i === 0 ? 'true' : 'false'}
+            tabindex={i === 0 ? undefined : -1}
+          >
+            {t.label}
+          </button>
         ))
       }
     </div>
-    <p class="footnote">
-      封面为 B 站图床热链，按原比例完整显示、不裁切；本仓库不存储任何图片字节。
-    </p>
-  </section>
 
-  <section id="top" class="section" aria-labelledby="h-top">
-    <h2 id="h-top" class="section-title">热度总榜</h2>
-    <p class="section-note">在册作品按播放量排序的前 15。</p>
-    <WorkList rows={top} eager={2} />
-  </section>
+    <div id="panel-hall" role="tabpanel" aria-labelledby="tab-hall">
+      <p class="section-note" style="margin-top:14px">
+        播放量 1000 万以上的 {hallAll.length} 部在册作品。封面按原比例完整显示、不裁切；本仓库不存储任何图片字节。
+      </p>
+      <div class="wall">
+        {
+          hallAll.map((x) => (
+            <article>
+              <a class="card-main" href={x.url} target="_blank" rel="noopener">
+                <span class="thumb">
+                  <Cover cover={x.cover} alt="" sizes="(max-width: 639px) 45vw, (max-width: 899px) 30vw, (max-width: 1159px) 22vw, 176px" />
+                </span>
+                <span class="t">{x.title}</span>
+              </a>
+              <span class="m">
+                <span class="num">{fmtCn(x.latest?.view)}播放</span>
+                <a href={`https://space.bilibili.com/${x.owner.mid}`} target="_blank" rel="noopener">
+                  {x.owner.name}
+                </a>
+              </span>
+            </article>
+          ))
+        }
+      </div>
+    </div>
 
-  <section class="split section" aria-label="新晋与涨幅">
-    <div>
-      <h2 class="section-title">新晋佳作</h2>
-      <p class="section-note">近 180 天发布、播放量 10 万以上。</p>
+    <div id="panel-top" role="tabpanel" aria-labelledby="tab-top" hidden>
+      <WorkList rows={top} eager={0} />
+    </div>
+
+    <div id="panel-rising" role="tabpanel" aria-labelledby="tab-rising" hidden>
+      <p class="section-note" style="margin-top:14px">近 180 天发布、播放量 10 万以上。</p>
       <WorkList rows={rising} compact />
     </div>
-    <div>
-      <h2 class="section-title">7 日播放涨幅</h2>
-      <p class="section-note">相邻两次快照对比得出。</p>
+
+    <div id="panel-movers" role="tabpanel" aria-labelledby="tab-movers" hidden>
+      <p class="section-note" style="margin-top:14px">相邻两次快照对比得出。</p>
       {
         movers.length ? (
           <ol class="movers">
@@ -155,4 +186,33 @@ const capNote =
       }
     </div>
   </section>
+
+  <script>
+    // 标签切换（渐进增强）：无 JS 时 noscript 样式展开全部面板。
+    const tablist = document.querySelector('.tabs[role="tablist"]');
+    const tabs = Array.from(tablist?.querySelectorAll<HTMLButtonElement>('[role="tab"]') || []);
+    const panels = tabs
+      .map((t) => document.getElementById(t.getAttribute('aria-controls') || ''))
+      .filter((p): p is HTMLElement => p != null);
+    if (tablist && tabs.length && panels.length) {
+      const select = (idx: number) => {
+        tabs.forEach((t, i) => {
+          t.setAttribute('aria-selected', String(i === idx));
+          t.tabIndex = i === idx ? 0 : -1;
+          panels[i]?.toggleAttribute('hidden', i !== idx);
+        });
+      };
+      tabs.forEach((t, i) => {
+        t.addEventListener('click', () => select(i));
+        t.addEventListener('keydown', (ev) => {
+          if (ev.key === 'ArrowRight' || ev.key === 'ArrowLeft') {
+            ev.preventDefault();
+            const next = ev.key === 'ArrowRight' ? (i + 1) % tabs.length : (i - 1 + tabs.length) % tabs.length;
+            select(next);
+            tabs[next].focus();
+          }
+        });
+      });
+    }
+  </script>
 </Base>

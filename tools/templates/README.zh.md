@@ -35,10 +35,13 @@
 <!-- zfq:generated:start -->
 <!-- zfq:generated:end -->
 
-## 📡 订阅
+## 📡 订阅与切面
 
 - 新收录 RSS（中文）`/feeds/new.rss.xml` ｜ New entries RSS (EN) `/feeds/new.en.rss.xml`
 - 周涨幅榜 `/feeds/movers.rss.xml` ｜ Atom `/feeds/atom.xml` ｜ JSON Feed `/feeds/feed.json`
+- 站点：[榜单实验室](https://richardfans.github.io/huaqiang-china/charts/)（按点赞/投币/评论等排序与筛选）、
+  [作品全景](https://richardfans.github.io/huaqiang-china/graph/)、
+  [编年](https://richardfans.github.io/huaqiang-china/chronicle/)
 - 仓库内完整切面：[docs/lists/](docs/lists/)（桥段 / UP主 / 分级，自动生成）
 
 ## 🚀 快速开始（开发者）

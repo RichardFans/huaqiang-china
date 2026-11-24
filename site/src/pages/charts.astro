@@ -1,0 +1,272 @@
+---
+import Base from '../layouts/Base.astro';
+import Cover from '../components/Cover.astro';
+import views from '../data/generated/views.json';
+import { coverFallback, coverSrc, coverSrcset } from '../lib/cover';
+import { fmtCn } from '../lib/format';
+
+const all: any[] = Object.values(
+  Object.values(views['by-form'])
+    .flat()
+    .reduce((acc: Record<string, any>, x: any) => ({ ...acc, [x.bvid]: x }), {}),
+)
+  .filter((x) => x.status === 'ok' && x.kind === 'derivative')
+  .map((x) => ({
+    b: x.bvid,
+    t: x.title,
+    u: x.url,
+    c: coverSrc(x.cover) || '',
+    c2: coverSrcset(x.cover) || '',
+    cf: coverFallback(x.cover) || '',
+    o: [x.owner.mid, x.owner.name],
+    p: x.pubdate,
+    sc: x.scenes,
+    f: x.form,
+    tier: x.tier,
+    rv: x.review,
+    m: [
+      x.latest?.view || 0,
+      x.latest?.like || 0,
+      x.latest?.coin || 0,
+      x.latest?.favorite || 0,
+      x.latest?.danmaku || 0,
+      x.latest?.reply || 0,
+    ],
+  }));
+const date = views.generated_at.slice(0, 10);
+const now = Date.parse(views.generated_at);
+const thisYear = new Date(now).getUTCFullYear();
+const cutoff30d = now - 30 * 86400_000;
+
+const windows = [
+  { key: 'all', label: '全部' },
+  { key: `y${thisYear}`, label: `今年（${thisYear}）` },
+  { key: 'd30', label: '近 30 天发布' },
+];
+const metrics = [
+  { key: 0, label: '播放' },
+  { key: 1, label: '点赞' },
+  { key: 2, label: '投币' },
+  { key: 3, label: '收藏' },
+  { key: 4, label: '弹幕' },
+  { key: 5, label: '评论' },
+];
+const sceneZh: Record<string, string> = {
+  maigua: '华强买瓜',
+  'song-laohu-banquet': '宋老虎请客',
+  'feng-biao': '封彪桥段',
+  'zhengfu-other': '其他名场面',
+  crossover: '跨素材联动',
+};
+const formZh: Record<string, string> = {
+  clip: '剧情剪辑',
+  guichu: '鬼畜',
+  yinmad: '音MAD',
+  'ai-cover': 'AI 翻唱',
+  'ai-video': 'AI 视频',
+  'ai-other': 'AI 其他',
+  other: '其他',
+};
+const scenes = ['maigua', 'song-laohu-banquet', 'feng-biao', 'zhengfu-other', 'crossover'];
+
+// 服务端默认视图（无 JS 也能看）：全部 × 播放 × 前 20
+const defaultRows = [...all].sort((a, b) => b.m[0] - a.m[0]).slice(0, 20);
+const dataJson = JSON.stringify({ works: all, thisYear, cutoff30d }).replace(/</g, '\\u003c');
+---
+
+<Base
+  title="榜单"
+  current="/charts/"
+  description={`榜单实验室：按播放、点赞、投币、收藏、弹幕、评论排序，按发布时间窗、桥段、形态筛选 ${all.length} 部在册作品。`}
+>
+  <h1 class="page-title">榜单实验室</h1>
+  <p class="page-lede">
+    {all.length} 部在册作品，按你关心的指标排序、按时间窗和分类筛选。
+    计数均为快照时点值（{date}，UTC）；在册条目均为自动入册、待人工复核。
+  </p>
+
+  <div class="controls">
+    <span class="ctl-label" aria-hidden="true">时间窗</span>
+    {
+      windows.map((w, i) => (
+        <button class="chip" type="button" data-win={w.key} aria-pressed={i === 0 ? 'true' : 'false'}>
+          {w.label}
+        </button>
+      ))
+    }
+  </div>
+  <div class="controls" style="margin-top:8px">
+    <span class="ctl-label" aria-hidden="true">指标</span>
+    {
+      metrics.map((m, i) => (
+        <button class="chip" type="button" data-metric={m.key} aria-pressed={i === 0 ? 'true' : 'false'}>
+          {m.label}
+        </button>
+      ))
+    }
+  </div>
+  <div class="controls" style="margin-top:8px">
+    <span class="ctl-label" aria-hidden="true">桥段</span>
+    <button class="chip" type="button" data-scene="" aria-pressed="true">全部</button>
+    {
+      scenes.map((s) => (
+        <button class="chip" type="button" data-scene={s} aria-pressed="false">
+          {sceneZh[s]}
+        </button>
+      ))
+    }
+    <label class="ctl-label" for="form-sel" style="margin-left:8px">形态</label>
+    <select id="form-sel" class="input" style="flex:0 1 auto;margin-left:0">
+      <option value="">全部形态</option>
+      {Object.entries(formZh).map(([k, v]) => <option value={k}>{v}</option>)}
+    </select>
+  </div>
+  <p id="ch-count" class="footnote" aria-live="polite"></p>
+
+  <div id="ch-rows">
+    <ol class="rank">
+      {
+        defaultRows.map((x, i) => (
+          <li>
+            <span class="rk num" aria-hidden="true">
+              {String(i + 1).padStart(2, '0')}
+            </span>
+            <a class="th thumb" href={x.u} target="_blank" rel="noopener" tabindex={-1} aria-hidden="true">
+              {x.c ? (
+                <img src={x.c} srcset={x.c2 || undefined} sizes="(min-width: 768px) 168px, 112px" width="480" height="270" alt="" loading={i < 2 ? 'eager' : 'lazy'} decoding="async" referrerpolicy="no-referrer" data-fallback={x.cf || undefined} />
+              ) : (
+                <span class="no-cover" />
+              )}
+            </a>
+            <div class="bd">
+              <a class="ti" href={x.u} target="_blank" rel="noopener">
+                {x.t}
+              </a>
+              <div class="mt">
+                <a href={`https://space.bilibili.com/${x.o[0]}`} target="_blank" rel="noopener">
+                  {x.o[1]}
+                </a>
+                <span class="num">{x.p.slice(0, 10)}</span>
+                {x.rv !== 'confirmed' && (
+                  <span class="badge b-pending" title="自动入册，归属判定尚未经人工复核（ADR-0006 评审门控）">
+                    <span aria-hidden="true">⚠︎</span>待复核
+                  </span>
+                )}
+                <span class="n-m num">
+                  <b>{fmtCn(x.m[0])}</b> 播放
+                </span>
+              </div>
+            </div>
+            <div class="ns">
+              <span class="n">
+                <b>{fmtCn(x.m[0])}</b>
+                <span>播放</span>
+              </span>
+              <span class="n">
+                <b>{fmtCn(x.m[2])}</b>
+                <span>硬币</span>
+              </span>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+  </div>
+  <noscript>
+    <p class="footnote">排序与筛选需要启用 JavaScript；上面是默认视图（全部 × 按播放 × 前 20）。</p>
+  </noscript>
+
+  <p class="footnote">
+    想看「周榜 / 月榜」的涨幅口径（而非按发布时间），需要跨日快照积累——跟踪管线自
+    2026-11-21 起每日刷新，快照积累后 <a href="/huaqiang-china/feeds/movers.rss.xml">周涨幅 RSS</a>
+    会先出结果。指标与时间窗的口径见
+    <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/decisions/0010-charts-page.md">ADR-0010</a>。
+  </p>
+
+  <script type="application/json" id="works-data" set:html={dataJson} />
+  <script>
+    // 榜单实验室：对同一份内联数据做客户端筛选与排序（渐进增强，SSR 默认视图见上）。
+    const payload = JSON.parse(document.getElementById('works-data')?.textContent || '{}');
+    const works: any[] = payload.works || [];
+    const thisYear: number = payload.thisYear;
+    const cutoff30d: number = payload.cutoff30d;
+    const metricLabels = ['播放', '点赞', '投币', '收藏', '弹幕', '评论'];
+    const sceneZh: Record<string, string> = {
+      maigua: '华强买瓜',
+      'song-laohu-banquet': '宋老虎请客',
+      'feng-biao': '封彪桥段',
+      'zhengfu-other': '其他名场面',
+      crossover: '跨素材联动',
+    };
+    const state = { win: 'all', metric: 0, scene: '', form: '' };
+    const fmtCn = (n?: number): string => {
+      if (n == null) return '';
+      if (n >= 1e8) return `${(n / 1e8).toFixed(n >= 1e9 ? 1 : 2).replace(/\.?0+$/, '')}亿`;
+      if (n >= 1e4) return `${(n / 1e4).toFixed(1).replace(/\.0$/, '')}万`;
+      return n.toLocaleString('en-US');
+    };
+    const esc = (s: string): string =>
+      s.replace(/[&<>"']/g, (ch) => `&${{ '&': 'amp', '<': 'lt', '>': 'gt', '"': 'quot', "'": 'apos' }[ch] as string};`);
+
+    const rows = document.getElementById('ch-rows');
+    const count = document.getElementById('ch-count');
+    const formSel = document.getElementById('form-sel') as HTMLSelectElement | null;
+
+    function render(): void {
+      if (!rows || !count) return;
+      const ts = (iso: string) => Date.parse(iso);
+      let list = works.filter((x) => {
+        if (state.win === `y${thisYear}` && ts(x.p.slice(0, 10)) < Date.UTC(thisYear, 0, 1)) return false;
+        if (state.win === 'd30' && ts(x.p.slice(0, 10)) < cutoff30d) return false;
+        if (state.scene && !(x.sc as string[]).includes(state.scene)) return false;
+        if (state.form && x.f !== state.form) return false;
+        return true;
+      });
+      list = list.sort((a, b) => b.m[state.metric] - a.m[state.metric] || b.m[0] - a.m[0]).slice(0, 50);
+      const metric = metricLabels[state.metric];
+      const winLabel =
+        state.win === 'all' ? '全部时间' : state.win === 'd30' ? '近 30 天发布' : `${thisYear} 年发布`;
+      count.textContent = `共 ${list.length} 部符合：${winLabel}，按${metric}排序${state.scene ? `，桥段「${sceneZh[state.scene]}」` : ''}${state.form ? `，形态已筛选` : ''}，显示前 ${Math.min(list.length, 50)}。`;
+      rows.innerHTML = `<ol class="rank">${list
+        .map((x, i) => {
+          const img = x.c
+            ? `<img src="${x.c}"${x.c2 ? ` srcset="${x.c2}"` : ''} sizes="(min-width: 768px) 168px, 112px" width="480" height="270" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"${x.cf ? ` data-fallback="${x.cf}"` : ''}>`
+            : `<span class="no-cover"></span>`;
+          return `<li><span class="rk num" aria-hidden="true">${String(i + 1).padStart(2, '0')}</span>` +
+            `<a class="th thumb" href="${x.u}" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true">${img}</a>` +
+            `<div class="bd"><a class="ti" href="${x.u}" target="_blank" rel="noopener">${esc(x.t)}</a>` +
+            `<div class="mt"><a href="https://space.bilibili.com/${x.o[0]}" target="_blank" rel="noopener">${esc(x.o[1])}</a>` +
+            `<span class="num">${x.p.slice(0, 10)}</span>` +
+            (x.rv !== 'confirmed'
+              ? `<span class="badge b-pending" title="自动入册，归属判定尚未经人工复核（ADR-0006 评审门控）"><span aria-hidden="true">⚠︎</span>待复核</span>`
+              : '') +
+            `<span class="n-m num"><b>${fmtCn(x.m[0])}</b> 播放</span></div></div>` +
+            `<div class="ns"><span class="n"><b>${fmtCn(x.m[state.metric])}</b><span>${metric}</span></span>` +
+            (state.metric !== 0
+              ? `<span class="n"><b>${fmtCn(x.m[0])}</b><span>播放</span></span>`
+              : `<span class="n"><b>${fmtCn(x.m[2])}</b><span>硬币</span></span>`) +
+            `</div></li>`;
+        })
+        .join('')}</ol>`;
+    }
+
+    function wire(attr: string, key: 'win' | 'metric' | 'scene'): void {
+      const btns = Array.from(document.querySelectorAll<HTMLButtonElement>(`[${attr}]`));
+      btns.forEach((b) => {
+        b.addEventListener('click', () => {
+          const raw = b.getAttribute(attr) || '';
+          (state as any)[key] = key === 'metric' ? Number(raw) : raw;
+          btns.forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+          render();
+        });
+      });
+    }
+    wire('data-win', 'win');
+    wire('data-metric', 'metric');
+    wire('data-scene', 'scene');
+    formSel?.addEventListener('change', () => {
+      state.form = formSel.value;
+      render();
+    });
+  </script>
+</Base>

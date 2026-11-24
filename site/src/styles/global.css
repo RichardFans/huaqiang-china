@@ -1100,7 +1100,30 @@ td a:hover {
   }
 }
 
-/* ---------- 创作者星图（内联 SVG + 叠加交互） ---------- */
+/* ---------- 图表令牌：作品全景散点（--sc-）与形态演化（--fe-） ---------- */
+:root {
+  --sc-maigua: #b93a32;
+  --sc-song-laohu-banquet: #c98500;
+  --sc-feng-biao: #6250d6;
+  --sc-other: #8a9490;
+  --fe-edit: #2a78d6;
+  --fe-guichu: #eb6834;
+  --fe-ai: #1baf7a;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --sc-maigua: #e8607a;
+    --sc-song-laohu-banquet: #c98500;
+    --sc-feng-biao: #9085e9;
+    --sc-other: #8f978f;
+    --fe-edit: #3987e5;
+    --fe-guichu: #d95926;
+    --fe-ai: #199e70;
+  }
+}
+
+/* 图例色块（筛选标签与图例共用） */
 .controls {
   display: flex;
   flex-wrap: wrap;
@@ -1162,26 +1185,26 @@ td a:hover {
 }
 
 .sw-other {
-  background: var(--cm-other);
-}
-
-.sw-creator {
-  border-radius: 2px;
-  background: var(--cm-ink2);
-  transform: rotate(45deg) scale(0.8);
-}
-
-.sw-ring {
-  border: 2px solid var(--cm-ink);
-  background: var(--surface);
+  background: var(--sc-other);
 }
 
 .sw-collab {
   width: 20px;
   height: 0;
   border-radius: 0;
-  border-top: 2px dashed var(--cm-line);
+  border-top: 2px dashed var(--line-strong);
   background: none;
+}
+
+.sw-ai {
+  border-radius: 2px;
+  background: var(--fe-ai);
+  transform: rotate(45deg) scale(0.8);
+}
+
+.legend .sw-diamond {
+  border-radius: 2px;
+  transform: rotate(45deg) scale(0.8);
 }
 
 .input {
@@ -1225,11 +1248,26 @@ td a:hover {
   gap: 8px;
 }
 
-.cm-wrap {
-  --cm-ink: var(--ink);
-  --cm-ink2: var(--ink-2);
-  --cm-line: var(--line-strong);
-  --cm-surface: var(--surface);
+.chart-box {
+  margin-top: 16px;
+  padding: 8px;
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  background: var(--surface);
+}
+
+.chart-box svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* 作品全景散点的叠加交互（内联 SVG）：桥段筛选时淡出其余点 */
+.sc-wrap {
+  --sc-ink: var(--ink);
+  --sc-muted: var(--muted);
+  --sc-grid: var(--line);
+  --sc-red: var(--red);
 
   margin-top: 16px;
   overflow: hidden;
@@ -1238,59 +1276,136 @@ td a:hover {
   background: var(--surface);
 }
 
-.cm-wrap svg.cm {
+.sc-wrap svg {
   display: block;
   width: 100%;
   height: auto;
 }
 
-/* 窄屏：整图缩到 350px 宽节点只剩 1 至 4px，改为保持可读宽度、横向拖动查看 */
-.cm-hint {
+/* 窄屏：920px 宽的散点缩到 350px 会看不清点，保持可读宽度、横向拖动 */
+.sc-hint {
   display: none;
 }
 
 @media (max-width: 839px) {
-  .cm-wrap {
+  .sc-wrap {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
 
-  .cm-wrap svg.cm {
-    width: 960px;
+  .sc-wrap svg {
+    width: 760px;
     max-width: none;
   }
 
-  .cm-hint {
+  .sc-hint {
     display: block;
   }
 }
 
-.cm-wrap :is(.cm-n, .cm-e, .cm-l) {
+.sc-wrap .scw-pt {
   transition: opacity 0.15s ease;
+  cursor: pointer;
 }
 
-.cm-wrap .cm-n:hover .cm-dot {
-  stroke: var(--cm-ink);
-  stroke-width: 1.5px;
-}
-
-.cm-wrap .cm-n:focus-visible {
+.sc-wrap .scw-pt:focus-visible {
   outline: none;
 }
 
-.cm-wrap .cm-n:focus-visible .cm-dot {
-  stroke: var(--cm-maigua);
-  stroke-width: 2px;
+.sc-wrap .scw-pt:focus-visible circle,
+.sc-wrap .scw-pt:focus-visible rect {
+  stroke: var(--sc-ink);
+  stroke-width: 1.6px;
 }
 
-.cm-wrap.is-focus :is(.cm-n, .cm-e, .cm-l):not(.lit),
-.cm-wrap[data-scene="maigua"] :is(.cm-n, .cm-e, .cm-l):not([data-scene~="maigua"]),
-.cm-wrap[data-scene="song-laohu-banquet"]
-  :is(.cm-n, .cm-e, .cm-l):not([data-scene~="song-laohu-banquet"]),
-.cm-wrap[data-scene="feng-biao"] :is(.cm-n, .cm-e, .cm-l):not([data-scene~="feng-biao"]),
-.cm-wrap[data-scene="other"] :is(.cm-n, .cm-e, .cm-l):not([data-scene~="other"]),
-.cm-wrap.is-query :is(.cm-n, .cm-e, .cm-l):not(.hit) {
-  opacity: 0.14;
+.sc-wrap[data-scene="maigua"] .scw-pt:not([data-scene~="maigua"]),
+.sc-wrap[data-scene="song-laohu-banquet"] .scw-pt:not([data-scene~="song-laohu-banquet"]),
+.sc-wrap[data-scene="feng-biao"] .scw-pt:not([data-scene~="feng-biao"]),
+.sc-wrap[data-scene="other"] .scw-pt:not([data-scene~="other"]) {
+  opacity: 0.12;
+}
+
+/* 控件行的小节标签（榜单实验室） */
+.ctl-label {
+  align-self: center;
+  color: var(--muted);
+  font-size: 0.8125rem;
+}
+
+/* ---------- GitHub 图标链接（页头） ---------- */
+.gh {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  height: 36px;
+  border-radius: var(--r);
+  color: var(--ink-2);
+}
+
+.gh:hover {
+  background: var(--surface-2);
+  color: var(--ink);
+}
+
+@media (max-width: 839px) {
+  .brand {
+    margin-right: auto;
+  }
+
+  .gh {
+    order: 3;
+  }
+}
+
+/* ---------- 标签切换（榜单视图；无 JS 时 noscript 展开全部面板） ---------- */
+.tabs {
+  display: flex;
+  gap: 4px;
+  margin-top: 16px;
+  padding: 4px;
+  border: 1px solid var(--line);
+  border-radius: var(--r);
+  background: var(--surface);
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
+}
+
+.tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.tabs [role="tab"] {
+  flex: none;
+  min-height: 36px;
+  padding: 0 14px;
+  border: 0;
+  border-radius: calc(var(--r) - 1px);
+  background: transparent;
+  color: var(--ink-2);
+  font: inherit;
+  font-size: 0.875rem;
+  cursor: pointer;
+}
+
+.tabs [role="tab"]:hover {
+  color: var(--ink);
+}
+
+.tabs [role="tab"][aria-selected="true"] {
+  background: var(--surface-2);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.tabs [role="tab"]:focus-visible {
+  outline: 2px solid var(--red);
+  outline-offset: -2px;
+}
+
+[role="tabpanel"] {
+  margin-top: 0;
 }
 
 /* ---------- 术语表（英文首页） ---------- */
