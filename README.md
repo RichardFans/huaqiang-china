@@ -1,10 +1,30 @@
 # 🍉 征服二创宇宙档案 · The Conquest Remix Archive
 
-> 《征服》(2003) 二创生态的**收集 · 整理 · 跟踪**——把过程本身做成可复现数据管线的开源研究档案。
-> **English? → [README.en.md](README.en.md)** ｜ 🌐 站点 / Site：`huaqiang-china.github.io`
+> 《征服》(2003) 二创生态的**收集 · 整理 · 跟踪**——这个梗火了五年，还没人给它记账。
+> 人类对华强的开发不足 0.1%，本档案负责记账。
+> **English? → [README.en.md](README.en.md)** ｜ 🌐 站点 / Site：[richardfans.github.io/huaqiang-china](https://richardfans.github.io/huaqiang-china/)
+
+## 🍉 这是什么
+
+2026 年 11 月，作者又一次在B站刷到新的华强买瓜二创——从《萨日朗》到 AI 翻唱，
+五年过去，这个梗还在长出新的形态，却没有任何一份系统的档案。
+
+本项目想做的不是技术演示，而是一件更简单的事：把这段正在发生的互联网文化
+**整理**清楚、持续**跟踪**它的演化，并把它**分享**给更多人——包括B站之外的世界。
+手段恰好是开源的：每条数据带快照证据链，每个榜单由管线从数据生成、可复现。
+
+## 🧑‍💻 关于作者
+
+作者是一名B站大会员，看华强二创下饭多年。本项目为爱发电、非商业、无任何平台
+官方背景；立项原因无他：喜欢，且觉得该有人做。
+
+发现错漏，或想以 UP主 身份校对自己的条目？欢迎提 issue：
+[投稿收录](.github/ISSUE_TEMPLATE/submit_video.yml) ·
+[勘误校对](.github/ISSUE_TEMPLATE/correction.yml) ·
+[申请下架](.github/ISSUE_TEMPLATE/takedown.yml)。
 
 <!-- zfq:generated:start -->
-**在册 124 条二创**（殿堂 16 · 热门 95 · 新晋 13 · 种子 0）｜ 人工复核 0 · 待复核 124（⚠）｜ 数据快照 2026-11-21（UTC）
+**在册 124 条二创**（殿堂 16 · 热门 95 · 新晋 13 · 种子 0）｜ 人工复核 0 · 待复核 124（⚠）｜ 数据快照 2026-11-24（UTC）
 
 ## 🏆 殿堂级总榜（播放 ≥ 1000 万，共 16 条）
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
@@ -40,7 +60,7 @@
 | 9 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | 特效小哥studio | 2021-12 | 13,541,302 | 2,253,929 | 剧情剪辑 | 华强买瓜 |
 | 10 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | 机智的Kason | 2021-09 | 12,634,678 | 158,798 | 剧情剪辑 | 华强买瓜 |
 
-→ 全部 84 条：[docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [站点切面](https://huaqiang-china.github.io/scene/maigua/)
+→ 全部 84 条：[docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/maigua/)
 
 ## 🍜 宋老虎请客 · Top 10
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
@@ -56,7 +76,7 @@
 | 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | 乌贼酱 | 2026-07 | 2,617,382 | 21,885 | 剧情剪辑 | 宋老虎请客 |
 | 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | Raymondsese | 2026-10 | 2,531,911 | 22,656 | AI其他 | 宋老虎请客 |
 
-→ 全部 35 条：[docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [站点切面](https://huaqiang-china.github.io/scene/song-laohu-banquet/)
+→ 全部 35 条：[docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [站点切面](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
 
 ## 🔪 封彪桥段 · 全部 7 条
 | # | 作品 | UP主 | 发布 | 播放 | 硬币 | 形态 | 桥段 |
@@ -83,13 +103,13 @@
 > 一手 pubdate 已见 **2021-07-16–19 四天引爆窗口**（《买瓜大队》《内向顾客》《萨日朗》密集出现）；2026 样本出现平台「疑似AI合成」标注作品。分期结论待 pubdate 深页补采后定稿：[编年初稿](reports/chronicle-draft.md) · [方法学](docs/methodology.md)。⚠=待人工复核（[ADR-0006](docs/decisions/0006-review-gate.md)）。
 <!-- zfq:generated:end -->
 
-## 📡 订阅（国际推广通道）
+## 📡 订阅
 
 - 新收录 RSS（中文）`/feeds/new.rss.xml` ｜ New entries RSS (EN) `/feeds/new.en.rss.xml`
 - 周涨幅榜 `/feeds/movers.rss.xml` ｜ Atom `/feeds/atom.xml` ｜ JSON Feed `/feeds/feed.json`
 - 仓库内完整切面：[docs/lists/](docs/lists/)（桥段 / UP主 / 分级，自动生成）
 
-## 🚀 快速开始
+## 🚀 快速开始（开发者）
 
 ```bash
 uv venv .venv && uv pip install --python .venv/Scripts/python.exe requests pydantic jsonschema pytest
@@ -103,6 +123,7 @@ python -m zfq.build        # 重建视图/列表/README/订阅源/站点数据
 ```
 
 站点（本地）：`cd site && npm install && npm run build` → `site/dist/`（纯静态）。
+部署与站点地址配置见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
 ## 🗂 治理与导览
 
@@ -129,7 +150,7 @@ bilibili-API-collect 律师函事件与 robots.txt 留档）：[ADR-0002](docs/d
 
 ## 🤖 自动化
 
-GitHub Actions：`ci`（门禁+站点构建）· `track`（每日刷新 → 自动 PR）·
+GitHub Actions：`ci`（门禁+站点构建+Pages 部署）· `track`（每日刷新 → 自动 PR）·
 `discover`（每周发现 → 待评审 PR）· `issue-bot`（提交视频 issue → 实时校验 → PR）。
 新条目默认 `review=pending`（[ADR-0006 评审门控](docs/decisions/0006-review-gate.md)），
 榜单以「⚠」明示待复核状态。
@@ -138,8 +159,3 @@ GitHub Actions：`ci`（门禁+站点构建）· `track`（每日刷新 → 自�
 
 - 代码：MIT ｜ 内容与数据：[CC BY-SA 4.0](LICENSE.content)
 - 视频内容版权归原权利人与创作者所有；本仓库不存储任何音视频字节。
-
-## 🚢 部署备注
-
-站点 URL 当前假设 `huaqiang-china.github.io`（根域 Pages）。实际仓库位置确定后，需同步修改
-`site/astro.config.mjs` 与 `tools/zfq/build.py` 的 `SITE_URL`，并重跑 `zfq build`。

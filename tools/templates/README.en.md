@@ -4,7 +4,30 @@
 > derivative-work universe around *The Conquest* (《征服》, 2003) — the TV drama behind
 > one of China's most beloved internet memes: **Liu Huaqiang buying a watermelon**
 > (“你这瓜保熟吗？” — “Is this melon *guaranteed ripe*?”).
-> **中文 → [README.md](README.md)** ｜ 🌐 Site: `huaqiang-china.github.io`
+> Conventional wisdom on Bilibili holds that humanity has unlocked less than 0.1% of
+> Huaqiang's potential. This archive keeps the ledger.
+> **中文 → [README.md](README.md)** ｜ 🌐 Site: [richardfans.github.io/huaqiang-china](https://richardfans.github.io/huaqiang-china/)
+
+## What is this?
+
+In November 2026, the author ran into yet another new watermelon-scene remix on
+Bilibili — from *Sa Ri Lang* to AI covers, five years on, the meme keeps sprouting
+new forms while nobody keeps a systematic record of it.
+
+This project is not a tech demo. It does one simpler thing: **organize** this ongoing
+piece of Chinese internet culture, keep **tracking** its evolution, and **share** it
+with more people — including the world beyond Bilibili. The means happen to be open
+source: every entry carries a timestamped evidence chain, and every leaderboard is
+regenerated from data by the pipeline.
+
+## About the author
+
+The author is a Bilibili premium member who has watched Huaqiang remixes over meals
+for years. This is a hobby-powered, non-commercial project with no platform
+affiliation. Spotted an error, or a creator wanting to fact-check your own entry?
+Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
+[correction](.github/ISSUE_TEMPLATE/correction.yml) ·
+[takedown](.github/ISSUE_TEMPLATE/takedown.yml).
 
 <!-- zfq:generated:start -->
 <!-- zfq:generated:end -->
@@ -29,7 +52,7 @@
 - Weekly movers `/feeds/movers.rss.xml` ｜ Atom `/feeds/atom.xml` ｜ JSON Feed `/feeds/feed.json`
 - Full faceted lists (scene / creator / tier): [docs/lists/](docs/lists/) — auto-generated.
 
-## 🚀 Quick start
+## 🚀 Quick start (developers)
 
 ```bash
 python -m pip install requests pydantic jsonschema pytest
@@ -41,6 +64,7 @@ python -m zfq.build       # rebuild views / lists / README / feeds / site data
 ```
 
 Site (local): `cd site && npm install && npm run build` → `site/dist/` (fully static).
+Deployment & site URL configuration: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## 🗂 Governance
 
@@ -55,9 +79,9 @@ Site (local): `cd site && npm install && npm run build` → `site/dist/` (fully 
 
 ## 🤖 Automation
 
-GitHub Actions: `ci` (gates + site build) · `track` (daily snapshot → auto PR) ·
-`discover` (weekly discovery → review PR) · `issue-bot` (submit-video issue → live
-validation → PR).
+GitHub Actions: `ci` (gates + site build + Pages deploy) · `track` (daily snapshot →
+auto PR) · `discover` (weekly discovery → review PR) · `issue-bot` (submit-video
+issue → live validation → PR).
 
 ## 📄 License
 
