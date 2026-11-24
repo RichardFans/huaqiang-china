@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1RyAVecEJA",
+    "aid": 114012087913510,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2154,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/f3b04cd5a2eaaf88b1a4660d811cd2cd6d0e8acf.jpg",
+    "title": "水果摊的刀竟然沾糖水？",
+    "pubdate": 1739686741,
+    "ctime": 1739686741,
+    "desc": "水果摊的刀竟然沾糖水？",
+    "desc_v2": [
+      {
+        "raw_text": "水果摊的刀竟然沾糖水？",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 71,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546640096954436,
+      "name": "周小闹是周小闹",
+      "face": "https://i2.hdslb.com/bfs/face/3c1e9f0e717c007cac23199fe9a704ccb3b35366.jpg"
+    },
+    "stat": {
+      "aid": 114012087913510,
+      "view": 11777164,
+      "danmaku": 122,
+      "reply": 358,
+      "favorite": 27900,
+      "coin": 2064,
+      "share": 473,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 120604,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含虚构演绎内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 28418441765,
+    "dimension": {
+      "width": 1080,
+      "height": 1920,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": true,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 28418441765,
+        "page": 1,
+        "from": "vupload",
+        "part": "水果摊的刀竟然沾糖水？",
+        "duration": 71,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1080,
+          "height": 1920,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n250216sa3kt3jj5w8kchdzyqjup9pqc_firsti.jpg",
+        "ctime": 1739686741
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

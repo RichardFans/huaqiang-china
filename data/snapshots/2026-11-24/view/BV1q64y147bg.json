@@ -1,0 +1,381 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1q64y147bg",
+    "aid": 761644169,
+    "videos": 1,
+    "tid": 138,
+    "tid_v2": 2155,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/0ed54d2031697114b105c179f8497b276ca2835f.jpg",
+    "title": "（文言文）华强买瓜",
+    "pubdate": 1626504900,
+    "ctime": 1626493036,
+    "desc": "阿巴阿巴 我也想买瓜\nPS:音效第一遍没处理好 已补充\n文案补充@铃蟾素心 ",
+    "desc_v2": [
+      {
+        "raw_text": "阿巴阿巴 我也想买瓜\nPS:音效第一遍没处理好 已补充\n文案补充",
+        "type": 1,
+        "biz_id": 0
+      },
+      {
+        "raw_text": "账号已注销",
+        "type": 2,
+        "biz_id": 435735961
+      }
+    ],
+    "state": 0,
+    "duration": 116,
+    "mission_id": 49807,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 1,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 95805972,
+      "name": "威生天霖",
+      "face": "https://i0.hdslb.com/bfs/face/c7319fde7e856dd7e71896c1443f9fd98159400f.jpg"
+    },
+    "stat": {
+      "aid": 761644169,
+      "view": 5946472,
+      "danmaku": 8665,
+      "reply": 4179,
+      "favorite": 133141,
+      "coin": 107303,
+      "share": 53563,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 318814,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "文言文配音华强买瓜",
+    "cid": 374136765,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 374136765,
+        "page": 1,
+        "from": "vupload",
+        "part": "补充过BGM的生瓜蛋子",
+        "duration": 116,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n210721a2phrpexn79cv12h6k2kyl3vu_firsti.jpg",
+        "ctime": 1626870345
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "staff": [
+      {
+        "mid": 95805972,
+        "title": "UP主",
+        "name": "威生天霖",
+        "face": "https://i0.hdslb.com/bfs/face/c7319fde7e856dd7e71896c1443f9fd98159400f.jpg",
+        "vip": {
+          "type": 2,
+          "status": 1,
+          "due_date": 1801929600000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "http://i0.hdslb.com/bfs/vip/label_annual.png",
+            "text": "年度大会员",
+            "label_theme": "annual_vip",
+            "text_color": "#FFFFFF",
+            "bg_style": 1,
+            "bg_color": "#FB7299",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png",
+            "label_id": -22,
+            "label_goto": {
+              "mobile": "https://big.bilibili.com/mobile/index?navhide=1&from_spmid=vipicon",
+              "pc_web": "https://account.bilibili.com/big?from_spmid=vipicon"
+            },
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 1
+          },
+          "avatar_subscript": 1,
+          "nickname_color": "#FB7299",
+          "role": 3,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 1700409600,
+          "avatar_icon": {
+            "icon_type": 1,
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 1,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 1700409600
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 2,
+          "title": "bilibili 新星UP主",
+          "desc": "第三届“bilibili 新星计划”获奖者",
+          "type": 0
+        },
+        "follower": 396016,
+        "label_style": 0
+      },
+      {
+        "mid": 18997484,
+        "title": "配音",
+        "name": "话说花生",
+        "face": "https://i2.hdslb.com/bfs/face/975b199c9440411d854401826c07b93d0a8d8744.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1795363200000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 43090,
+        "label_style": 0
+      },
+      {
+        "mid": 435735961,
+        "title": "文案",
+        "name": "账号已注销",
+        "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1645632000000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 2711,
+        "label_style": 0
+      },
+      {
+        "mid": 37640847,
+        "title": "文案",
+        "name": "吕中豪",
+        "face": "http://i0.hdslb.com/bfs/face/member/noface.jpg",
+        "vip": {
+          "type": 2,
+          "status": 1,
+          "due_date": 1830787200000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "http://i0.hdslb.com/bfs/vip/label_annual.png",
+            "text": "年度大会员",
+            "label_theme": "annual_vip",
+            "text_color": "#FFFFFF",
+            "bg_style": 1,
+            "bg_color": "#FB7299",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d4f8bfc713826a5412a0a27eaaac4d6b9ede1d9.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/VEW8fCC0hg.png",
+            "label_id": -22,
+            "label_goto": {
+              "mobile": "https://big.bilibili.com/mobile/index?navhide=1&from_spmid=vipicon",
+              "pc_web": "https://account.bilibili.com/big?from_spmid=vipicon"
+            },
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 1
+          },
+          "avatar_subscript": 1,
+          "nickname_color": "#FB7299",
+          "role": 3,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 1626451200,
+          "avatar_icon": {
+            "icon_type": 1,
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 1,
+            "pay_type": 0,
+            "pay_channel_id": "wechat",
+            "status": 0,
+            "overdue_time": 1626451200
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 0,
+          "title": "",
+          "desc": "",
+          "type": -1
+        },
+        "follower": 6074,
+        "label_style": 0
+      }
+    ],
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}
