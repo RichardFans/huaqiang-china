@@ -36,7 +36,20 @@
 - [偷西瓜的狐狸爸爸](https://www.bilibili.com/video/BV1Mtjd6JEiB) ｜ Raymondsese ｜ 2026-06-24 ｜ 播放 1,265,013 ｜ 热门 ｜ 剧情剪辑
 - [狠 活 弟 弟](https://www.bilibili.com/video/BV19M4y14796) ｜ 快乐阿依 ｜ 2023-05-13 ｜ 播放 1,262,784 ｜ 热门 ｜ 剧情剪辑
 - [这是我弟弟，刚满18岁](https://www.bilibili.com/video/BV1Mw411n7e7) ｜ 放纵的荷尔蒙 ｜ 2023-11-23 ｜ 播放 1,234,617 ｜ 热门 ｜ 剧情剪辑
+- [服务员华强](https://www.bilibili.com/video/BV1oya266EAg) ｜ 神威-狗剩 ｜ 2026-10-02 ｜ 播放 1,096,994 ｜ 热门 ｜ 剧情剪辑
+- [华强见宋老虎，但是一直在随份子钱](https://www.bilibili.com/video/BV1h5Hj6WE8H) ｜ 兰斯的画室LanceStudio ｜ 2026-10-04 ｜ 播放 968,001 ｜ 新晋 ｜ 剧情剪辑
+- [老虎请客，但死神来了](https://www.bilibili.com/video/BV1QA4a6yEQb) ｜ 伊介书生 ｜ 2026-11-06 ｜ 播放 875,946 ｜ 新晋 ｜ 剧情剪辑
+- [带着豆包去吃饭](https://www.bilibili.com/video/BV1A4xN6nETw) ｜ 阿游Kidding ｜ 2026-10-29 ｜ 播放 636,001 ｜ 新晋 ｜ AI其他
+- [强子太客气了，都送自己兄弟【AI MV大赛】](https://www.bilibili.com/video/BV1gc486uEmG) ｜ Raymondsese ｜ 2026-11-05 ｜ 播放 392,026 ｜ 新晋 ｜ AI翻唱/语音克隆
+- [巴巴强强2.0【AI MV大赛】](https://www.bilibili.com/video/BV1bgWm65Eum) ｜ Raymondsese ｜ 2026-11-11 ｜ 播放 381,867 ｜ 新晋 ｜ AI翻唱/语音克隆
+- [霸道穷鬼宋老虎【AI MV大赛】](https://www.bilibili.com/video/BV13Fsb6AEyU) ｜ Raymondsese ｜ 2026-11-19 ｜ 播放 375,739 ｜ 新晋 ｜ AI翻唱/语音克隆
 - [无能的宋老虎](https://www.bilibili.com/video/BV1bBWt6WEn3) ｜ 神威-狗剩 ｜ 2026-11-09 ｜ 播放 353,207 ｜ 新晋 ｜ 剧情剪辑
+- [华强等了宋老虎30年](https://www.bilibili.com/video/BV1SFyDznEAZ) ｜ 新世纪咖啡战士v ｜ 2026-11-23 ｜ 播放 343,416 ｜ 新晋 ｜ 剧情剪辑
 - [“你甚至不愿意叫我一声黑土！”](https://www.bilibili.com/video/BV19Z4b6gE5Q) ｜ 核动力路灯 ｜ 2026-11-05 ｜ 播放 267,100 ｜ 新晋 ｜ 剧情剪辑
+- [强子找工作啊，我是你们的面试官宋老虎【AI MV大赛】](https://www.bilibili.com/video/BV1k8sG6qETw) ｜ Raymondsese ｜ 2026-11-14 ｜ 播放 245,382 ｜ 新晋 ｜ AI翻唱/语音克隆
 - [《灭霸的爸爸叫灭建国》  灭霸演唱会](https://www.bilibili.com/video/BV1SJWQ69E8y) ｜ 神威-狗剩 ｜ 2026-11-12 ｜ 播放 237,863 ｜ 新晋 ｜ 剧情剪辑
+- [华强见宋老虎唱跳RAP 但是伴奏 【多梦综合征】](https://www.bilibili.com/video/BV1qMt26hE6G) ｜ 多梦综合征 ｜ 2026-09-05 ｜ 播放 231,412 ｜ 新晋 ｜ 剧情剪辑
+- [【大肉嘎】一起看：华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】（多梦综合征）](https://www.bilibili.com/video/BV1y7Yt6gERs) ｜ 疯狂矿泉水 ｜ 2026-09-09 ｜ 播放 168,146 ｜ 新晋 ｜ AI翻唱/语音克隆
 - [⚡只劈你有感觉⚡](https://www.bilibili.com/video/BV1bibi6xEwS) ｜ 掌控时光之龙 ｜ 2026-08-17 ｜ 播放 159,685 ｜ 新晋 ｜ 剧情剪辑
+- [【年度爽片】“感受下瓜摊最快神枪手的魅力”](https://www.bilibili.com/video/BV1bbWd6PEcH) ｜ 鲲局长 ｜ 2026-11-12 ｜ 播放 144,397 ｜ 新晋 ｜ 剧情剪辑
+- [振 涛 的 复 仇](https://www.bilibili.com/video/BV1Zuhd6aE8W) ｜ 小鸟游呆毛 ｜ 2026-09-26 ｜ 播放 107,495 ｜ 新晋 ｜ 鬼畜调教
