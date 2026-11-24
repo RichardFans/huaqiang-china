@@ -29,12 +29,14 @@ jobs:
           python -m zfq.validate
         env:
           PYTHONPATH: tools
+      - name: 记录日期
+        run: echo "TODAY=$(date -u +%F)" >> "$GITHUB_ENV"
       - name: 开 PR（数据变化时）
         id: cpr
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "track: 每日数据刷新（自动）"
-          title: "track: 数据快照刷新 $(date -u +%F)"
+          title: "track: 数据快照刷新 ${{ env.TODAY }}"
           body: |
             自动跟踪 PR（每日 20:30 UTC）。
 

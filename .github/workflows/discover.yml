@@ -29,11 +29,13 @@ jobs:
           python -m zfq.validate
         env:
           PYTHONPATH: tools
+      - name: 记录日期
+        run: echo "TODAY=$(date -u +%F)" >> "$GITHUB_ENV"
       - name: 开 PR（有新收录时）
         uses: peter-evans/create-pull-request@v7
         with:
           commit-message: "discover: 每周发现扫描（自动）"
-          title: "discover: 新收录候选 $(date -u +%F)"
+          title: "discover: 新收录候选 ${{ env.TODAY }}"
           body: |
             每周发现扫描（click 序首页 × 词表主组）。
 
