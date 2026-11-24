@@ -1,0 +1,2389 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1xf4y1u7UB",
+    "aid": 378979964,
+    "videos": 1,
+    "tid": 126,
+    "tid_v2": 2059,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/9ade750942cc22bdf96797fd8d385a82056154d8.jpg",
+    "title": "“这是一个审核了五年的鬼畜视频”",
+    "pubdate": 1635667409,
+    "ctime": 1635667409,
+    "desc": "标题纯属娱乐，内容新老结合。\n视频尽力了，但还是有凌乱的感觉，时代或许真的变了，全明星音乐向的鬼畜在逻辑和主题性方面太松散了，观感方面确实不如剧情向和单素材的鬼畜。\n但鬼畜内核不变，目的还是给人们带来欢乐和感动。\n喜欢的朋友可以三连一下，还是希望在新的时代下老鬼畜还能打。",
+    "desc_v2": [
+      {
+        "raw_text": "标题纯属娱乐，内容新老结合。\n视频尽力了，但还是有凌乱的感觉，时代或许真的变了，全明星音乐向的鬼畜在逻辑和主题性方面太松散了，观感方面确实不如剧情向和单素材的鬼畜。\n但鬼畜内核不变，目的还是给人们带来欢乐和感动。\n喜欢的朋友可以三连一下，还是希望在新的时代下老鬼畜还能打。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 235,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 159122,
+      "name": "惜缘、过去",
+      "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+    },
+    "stat": {
+      "aid": 378979964,
+      "view": 6913622,
+      "danmaku": 11560,
+      "reply": 8429,
+      "favorite": 220177,
+      "coin": 463407,
+      "share": 31991,
+      "now_rank": 0,
+      "his_rank": 2,
+      "like": 768179,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 433962046,
+    "dimension": {
+      "width": 1440,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 1238298,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 433962046,
+        "page": 1,
+        "from": "vupload",
+        "part": "素颜完整_x264",
+        "duration": 235,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1440,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211031a23mb9ke17gym1w3993qiu4ox_firsti.jpg",
+        "ctime": 1635667409
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 1238298,
+      "title": "文艺复兴-全明星",
+      "cover": "https://archive.biliimg.com/bfs/archive/6340f5473f7f1c5ca1335c1c8b2b76b15c343223.jpg",
+      "mid": 159122,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 1238298,
+        "view": 20357541,
+        "danmaku": 96322,
+        "reply": 82390,
+        "fav": 816751,
+        "coin": 1146847,
+        "share": 96163,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3130991,
+        "vt": 0,
+        "vv": 20357541
+      },
+      "ep_count": 21,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 1238298,
+          "id": 1425895,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 25597066,
+              "aid": 569226006,
+              "cid": 1073756110,
+              "title": "“很遗憾，在这一年鬼畜还是彻底没落了”",
+              "attribute": 0,
+              "arc": {
+                "aid": 569226006,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/7cd9fd202a3ad7dd274d3d82b02abdcefd98c5b9.jpg",
+                "title": "“很遗憾，在这一年鬼畜还是彻底没落了”",
+                "pubdate": 1679975784,
+                "ctime": 1679975784,
+                "desc": "",
+                "state": 0,
+                "duration": 243,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 569226006,
+                  "view": 750146,
+                  "danmaku": 1646,
+                  "reply": 2442,
+                  "fav": 24742,
+                  "coin": 67120,
+                  "share": 1619,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 103224,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 750146
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1073756110,
+                "page": 1,
+                "from": "vupload",
+                "part": "“很遗憾，鬼畜在这一年终究没落”",
+                "duration": 243,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Mv4y1V7VX",
+              "pages": [
+                {
+                  "cid": 1073756110,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“很遗憾，鬼畜在这一年终究没落”",
+                  "duration": 243,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 28331585,
+              "aid": 400528806,
+              "cid": 1113696912,
+              "title": "“这个时代应有鬼畜一席之地！如若没有，我们就自己开辟！”",
+              "attribute": 0,
+              "arc": {
+                "aid": 400528806,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/e85e1aba2c405bd7c3c00dbe4b1495f46b9f9367.jpg",
+                "title": "“这个时代应有鬼畜一席之地！如若没有，我们就自己开辟！”",
+                "pubdate": 1682827226,
+                "ctime": 1682827226,
+                "desc": "",
+                "state": 0,
+                "duration": 234,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 400528806,
+                  "view": 862515,
+                  "danmaku": 2183,
+                  "reply": 4062,
+                  "fav": 32430,
+                  "coin": 51795,
+                  "share": 2910,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 145415,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 862515
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1113696912,
+                "page": 1,
+                "from": "vupload",
+                "part": "“能看懂这些梗的人都是B站老用户了吧”",
+                "duration": 234,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ko4y1L7nu",
+              "pages": [
+                {
+                  "cid": 1113696912,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“能看懂这些梗的人都是B站老用户了吧”",
+                  "duration": 234,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 34695509,
+              "aid": 871164579,
+              "cid": 1203082800,
+              "title": "“这不只是鬼畜，这是我们的青春”",
+              "attribute": 0,
+              "arc": {
+                "aid": 871164579,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/3e2e1a4bb90209dd42897df727bc85854864e348.jpg",
+                "title": "“这不只是鬼畜，这是我们的青春”",
+                "pubdate": 1689826144,
+                "ctime": 1689826144,
+                "desc": "",
+                "state": 0,
+                "duration": 148,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 871164579,
+                  "view": 755561,
+                  "danmaku": 2744,
+                  "reply": 1423,
+                  "fav": 39577,
+                  "coin": 50292,
+                  "share": 3500,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 125912,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 755561
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1203082800,
+                "page": 1,
+                "from": "vupload",
+                "part": "“这才是哔哩哔哩的青春！！”",
+                "duration": 148,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1QV4y147FS",
+              "pages": [
+                {
+                  "cid": 1203082800,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“这才是哔哩哔哩的青春！！”",
+                  "duration": 148,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 61292542,
+              "aid": 1553133991,
+              "cid": 1506615539,
+              "title": "“有个简单的问题，还有人记得他们是谁吗？”",
+              "attribute": 0,
+              "arc": {
+                "aid": 1553133991,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/67bd9db52be6c28e2d3973d6f3423d02461b431f.jpg",
+                "title": "“有个简单的问题，还有人记得他们是谁吗？”",
+                "pubdate": 1713150794,
+                "ctime": 1713150794,
+                "desc": "",
+                "state": 0,
+                "duration": 201,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 1553133991,
+                  "view": 328744,
+                  "danmaku": 559,
+                  "reply": 844,
+                  "fav": 5786,
+                  "coin": 7881,
+                  "share": 559,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 30741,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 328744
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1506615539,
+                "page": 1,
+                "from": "vupload",
+                "part": "“有个简单的问题，他们是否已成为历史？”",
+                "duration": 201,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1f1421o7JQ",
+              "pages": [
+                {
+                  "cid": 1506615539,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“有个简单的问题，他们是否已成为历史？”",
+                  "duration": 201,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 74677604,
+              "aid": 378979964,
+              "cid": 433962046,
+              "title": "“这是一个审核了五年的鬼畜视频”",
+              "attribute": 0,
+              "arc": {
+                "aid": 378979964,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/9ade750942cc22bdf96797fd8d385a82056154d8.jpg",
+                "title": "“这是一个审核了五年的鬼畜视频”",
+                "pubdate": 1635667409,
+                "ctime": 1635667409,
+                "desc": "",
+                "state": 0,
+                "duration": 235,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 378979964,
+                  "view": 6913622,
+                  "danmaku": 11560,
+                  "reply": 8429,
+                  "fav": 220177,
+                  "coin": 463407,
+                  "share": 31991,
+                  "now_rank": 0,
+                  "his_rank": 2,
+                  "like": 768179,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6913622
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 433962046,
+                "page": 1,
+                "from": "vupload",
+                "part": "素颜完整_x264",
+                "duration": 235,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1xf4y1u7UB",
+              "pages": [
+                {
+                  "cid": 433962046,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "素颜完整_x264",
+                  "duration": 235,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 74195858,
+              "aid": 1506023576,
+              "cid": 1614772416,
+              "title": "“还是会想起，那年鬼畜区，群星闪耀充满欢声笑语”",
+              "attribute": 0,
+              "arc": {
+                "aid": 1506023576,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b327777cf99f5e8aed7e0625d42b9c09c4133a00.jpg",
+                "title": "“还是会想起，那年鬼畜区，群星闪耀充满欢声笑语”",
+                "pubdate": 1720928989,
+                "ctime": 1720928989,
+                "desc": "",
+                "state": 0,
+                "duration": 166,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 1506023576,
+                  "view": 670566,
+                  "danmaku": 2393,
+                  "reply": 1584,
+                  "fav": 26763,
+                  "coin": 39762,
+                  "share": 2748,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 111020,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 670566
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1614772416,
+                "page": 1,
+                "from": "vupload",
+                "part": "我 怎 么 用 力 也 走 不 到 新 时 代 里",
+                "duration": 166,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1RS421971W",
+              "pages": [
+                {
+                  "cid": 1614772416,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "我 怎 么 用 力 也 走 不 到 新 时 代 里",
+                  "duration": 166,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 79764441,
+              "aid": 1556327605,
+              "cid": 1653526790,
+              "title": "目 标 是 抽 象 鬼 畜 大 师",
+              "attribute": 0,
+              "arc": {
+                "aid": 1556327605,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/edf62a50d11d23dbad69d3d05e35a5385712200e.jpg",
+                "title": "目 标 是 抽 象 鬼 畜 大 师",
+                "pubdate": 1723866823,
+                "ctime": 1723866823,
+                "desc": "",
+                "state": 0,
+                "duration": 155,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 1556327605,
+                  "view": 153522,
+                  "danmaku": 604,
+                  "reply": 268,
+                  "fav": 5270,
+                  "coin": 4802,
+                  "share": 870,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 18570,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 153522
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1653526790,
+                "page": 1,
+                "from": "vupload",
+                "part": "目 标 是 抽 象 鬼 畜 大 师",
+                "duration": 155,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1b142187oY",
+              "pages": [
+                {
+                  "cid": 1653526790,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "目 标 是 抽 象 鬼 畜 大 师",
+                  "duration": 155,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 85385631,
+              "aid": 113173462058388,
+              "cid": 25942689242,
+              "title": "\"我把鬼畜最后的回忆拼好给你\"",
+              "attribute": 0,
+              "arc": {
+                "aid": 113173462058388,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/d5dc6f80c34beaeff8c0c08833e6fbcc8a518383.jpg",
+                "title": "\"我把鬼畜最后的回忆拼好给你\"",
+                "pubdate": 1726890318,
+                "ctime": 1726890318,
+                "desc": "",
+                "state": 0,
+                "duration": 213,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 113173462058388,
+                  "view": 312747,
+                  "danmaku": 1301,
+                  "reply": 1124,
+                  "fav": 15081,
+                  "coin": 17095,
+                  "share": 1581,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 51722,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 312747
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 25942689242,
+                "page": 1,
+                "from": "vupload",
+                "part": "\"我们也曾是哔哩哔哩最巅峰的存在！！！\"",
+                "duration": 213,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV13ctreaEmU",
+              "pages": [
+                {
+                  "cid": 25942689242,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "\"我们也曾是哔哩哔哩最巅峰的存在！！！\"",
+                  "duration": 213,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 105365719,
+              "aid": 113875756254222,
+              "cid": 28028111056,
+              "title": "“我来小破站不就是为了看鬼畜！！”",
+              "attribute": 0,
+              "arc": {
+                "aid": 113875756254222,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/b77c1d376ead75bfdef39a4752b7f47fb0665bf9.jpg",
+                "title": "“我来小破站不就是为了看鬼畜！！”",
+                "pubdate": 1737606342,
+                "ctime": 1737606342,
+                "desc": "",
+                "state": 0,
+                "duration": 191,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 113875756254222,
+                  "view": 433775,
+                  "danmaku": 6487,
+                  "reply": 1776,
+                  "fav": 24850,
+                  "coin": 16412,
+                  "share": 1567,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 65128,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 433775
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 28028111056,
+                "page": 1,
+                "from": "vupload",
+                "part": "“曾经，B站只有两个区，它们是____和____！”",
+                "duration": 191,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BSfBYFErD",
+              "pages": [
+                {
+                  "cid": 28028111056,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“曾经，B站只有两个区，它们是____和____！”",
+                  "duration": 191,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 110379967,
+              "aid": 114039904538507,
+              "cid": 28499116884,
+              "title": "“你 到 B 站 来，见 证 鬼 畜 辉 煌 的 时 代”",
+              "attribute": 0,
+              "arc": {
+                "aid": 114039904538507,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/d23649f64b92894f537a28bda6132d33aadb81b4.jpg",
+                "title": "“你 到 B 站 来，见 证 鬼 畜 辉 煌 的 时 代”",
+                "pubdate": 1740111179,
+                "ctime": 1740111179,
+                "desc": "",
+                "state": 0,
+                "duration": 166,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 114039904538507,
+                  "view": 183515,
+                  "danmaku": 1076,
+                  "reply": 347,
+                  "fav": 6552,
+                  "coin": 7037,
+                  "share": 588,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 29421,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 183515
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 28499116884,
+                "page": 1,
+                "from": "vupload",
+                "part": "“你 从 丹 东 来，看 看 传 统 鬼 畜 多 带 派！”",
+                "duration": 166,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1njAte2EQP",
+              "pages": [
+                {
+                  "cid": 28499116884,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“你 从 丹 东 来，看 看 传 统 鬼 畜 多 带 派！”",
+                  "duration": 166,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 118559959,
+              "aid": 114305974405932,
+              "cid": 29312484160,
+              "title": "“鬼畜的兴衰好像跳楼机”",
+              "attribute": 0,
+              "arc": {
+                "aid": 114305974405932,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/f918b43a3752db4a4f72287a03d3bc3dbe52c397.jpg",
+                "title": "“鬼畜的兴衰好像跳楼机”",
+                "pubdate": 1744171058,
+                "ctime": 1744171058,
+                "desc": "",
+                "state": 0,
+                "duration": 190,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 114305974405932,
+                  "view": 1642804,
+                  "danmaku": 21746,
+                  "reply": 8033,
+                  "fav": 59980,
+                  "coin": 118751,
+                  "share": 9532,
+                  "now_rank": 0,
+                  "his_rank": 20,
+                  "like": 238992,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1642804
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 29312484160,
+                "page": 1,
+                "from": "vupload",
+                "part": "“兄弟，鬼畜的兴衰好像跳楼机”",
+                "duration": 190,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rcdbYcEuH",
+              "pages": [
+                {
+                  "cid": 29312484160,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“兄弟，鬼畜的兴衰好像跳楼机”",
+                  "duration": 190,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 127080266,
+              "aid": 114589106703493,
+              "cid": 30226317622,
+              "title": "你可能不认识我，但也许看过我做的逆天鬼畜",
+              "attribute": 0,
+              "arc": {
+                "aid": 114589106703493,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/95c986d183b67e2e894551c218dc02a6607214a8.jpg",
+                "title": "你可能不认识我，但也许看过我做的逆天鬼畜",
+                "pubdate": 1748491290,
+                "ctime": 1748491290,
+                "desc": "",
+                "state": 0,
+                "duration": 234,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 114589106703493,
+                  "view": 345611,
+                  "danmaku": 1126,
+                  "reply": 2506,
+                  "fav": 5402,
+                  "coin": 5291,
+                  "share": 293,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 55715,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 345611
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 30226317622,
+                "page": 1,
+                "from": "vupload",
+                "part": "你可能不认识我，但或许看过我做的鬼畜..............吧",
+                "duration": 234,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1AYjyz4Ein",
+              "pages": [
+                {
+                  "cid": 30226317622,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "你可能不认识我，但或许看过我做的鬼畜..............吧",
+                  "duration": 234,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 143495600,
+              "aid": 115093027163642,
+              "cid": 31947030787,
+              "title": "鬼畜全明星的天天天国地狱国",
+              "attribute": 0,
+              "arc": {
+                "aid": 115093027163642,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/35164e32e54ef434b9e8e5d2cd1234e7fc8c04bf.jpg",
+                "title": "鬼畜全明星的天天天国地狱国",
+                "pubdate": 1756180734,
+                "ctime": 1756180734,
+                "desc": "",
+                "state": 0,
+                "duration": 136,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 115093027163642,
+                  "view": 520130,
+                  "danmaku": 4354,
+                  "reply": 2169,
+                  "fav": 23504,
+                  "coin": 15626,
+                  "share": 3080,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 64628,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 520130
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 31947030787,
+                "page": 1,
+                "from": "vupload",
+                "part": "不是B站老用户都认不全这视频里的所有梗！",
+                "duration": 136,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18QvczFE9N",
+              "pages": [
+                {
+                  "cid": 31947030787,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "不是B站老用户都认不全这视频里的所有梗！",
+                  "duration": 136,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 151007451,
+              "aid": 115330844198949,
+              "cid": 32890487531,
+              "title": "“这是鬼畜？不，这是最初的B站和我们曾经的青春！”",
+              "attribute": 0,
+              "arc": {
+                "aid": 115330844198949,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/2e0c49b0e2ed6ab014dfefe10a26d8f8dbbf01a5.jpg",
+                "title": "“这是鬼畜？不，这是最初的B站和我们曾经的青春！”",
+                "pubdate": 1759809208,
+                "ctime": 1759809208,
+                "desc": "",
+                "state": 0,
+                "duration": 214,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 115330844198949,
+                  "view": 455314,
+                  "danmaku": 3880,
+                  "reply": 5447,
+                  "fav": 32099,
+                  "coin": 27382,
+                  "share": 2978,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 116225,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 455314
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32890487531,
+                "page": 1,
+                "from": "vupload",
+                "part": "“谁还记得这些素材和画面？”",
+                "duration": 214,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1djxQzXEMh",
+              "pages": [
+                {
+                  "cid": 32890487531,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“谁还记得这些素材和画面？”",
+                  "duration": 214,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 161422684,
+              "aid": 115649225687344,
+              "cid": 34632699818,
+              "title": "“鬼 畜 区 众 神 归 位！”",
+              "attribute": 0,
+              "arc": {
+                "aid": 115649225687344,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/e00b08f727b385822a51f843508cc41700467793.jpg",
+                "title": "“鬼 畜 区 众 神 归 位！”",
+                "pubdate": 1764667317,
+                "ctime": 1764667317,
+                "desc": "",
+                "state": 0,
+                "duration": 199,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 115649225687344,
+                  "view": 653385,
+                  "danmaku": 1737,
+                  "reply": 5789,
+                  "fav": 21574,
+                  "coin": 21673,
+                  "share": 3527,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 87441,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 653385
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34632699818,
+                "page": 1,
+                "from": "vupload",
+                "part": "Nevada最终3_x264",
+                "duration": 199,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1HySsBwEm3",
+              "pages": [
+                {
+                  "cid": 34632699818,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "Nevada最终3_x264",
+                  "duration": 199,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 165854740,
+              "aid": 115773678880088,
+              "cid": 34948776507,
+              "title": "“高燃！鬼畜让我 Lose Control！”",
+              "attribute": 0,
+              "arc": {
+                "aid": 115773678880088,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/bea349bd9c315025e5404c30a43a1b55e909fbd5.jpg",
+                "title": "“高燃！鬼畜让我 Lose Control！”",
+                "pubdate": 1766566338,
+                "ctime": 1766566338,
+                "desc": "",
+                "state": 0,
+                "duration": 210,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 115773678880088,
+                  "view": 1457086,
+                  "danmaku": 4802,
+                  "reply": 18333,
+                  "fav": 61731,
+                  "coin": 85691,
+                  "share": 9014,
+                  "now_rank": 0,
+                  "his_rank": 9,
+                  "like": 315224,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1457086
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 34948776507,
+                "page": 1,
+                "from": "vupload",
+                "part": "“高燃！鬼畜让我 Lose Control！”",
+                "duration": 210,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1DZB5BWE72",
+              "pages": [
+                {
+                  "cid": 34948776507,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“高燃！鬼畜让我 Lose Control！”",
+                  "duration": 210,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 175231271,
+              "aid": 116034161870651,
+              "cid": 35958097941,
+              "title": "鬼畜的终点不是死亡，而是彻底的遗忘",
+              "attribute": 0,
+              "arc": {
+                "aid": 116034161870651,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/66c95578803bdf83ae551ee1aec5f43687d2681e.jpg",
+                "title": "鬼畜的终点不是死亡，而是彻底的遗忘",
+                "pubdate": 1770540963,
+                "ctime": 1770540963,
+                "desc": "",
+                "state": 0,
+                "duration": 147,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 116034161870651,
+                  "view": 161534,
+                  "danmaku": 818,
+                  "reply": 391,
+                  "fav": 5919,
+                  "coin": 3716,
+                  "share": 477,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 24643,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 161534
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 35958097941,
+                "page": 1,
+                "from": "vupload",
+                "part": "嗵嗵全明星改1_x264",
+                "duration": 147,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1TccczvEom",
+              "pages": [
+                {
+                  "cid": 35958097941,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "嗵嗵全明星改1_x264",
+                  "duration": 147,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 194046665,
+              "aid": 116536924702230,
+              "cid": 38177081600,
+              "title": "曾经巅峰的鬼畜真的回不去了吗？",
+              "attribute": 0,
+              "arc": {
+                "aid": 116536924702230,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/fccc8c214c5bf08e787094cdb0fe1175380622d6.jpg",
+                "title": "曾经巅峰的鬼畜真的回不去了吗？",
+                "pubdate": 1778212573,
+                "ctime": 1778212573,
+                "desc": "",
+                "state": 0,
+                "duration": 224,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 116536924702230,
+                  "view": 271647,
+                  "danmaku": 1540,
+                  "reply": 2051,
+                  "fav": 15569,
+                  "coin": 13188,
+                  "share": 1279,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 73173,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 271647
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38177081600,
+                "page": 1,
+                "from": "vupload",
+                "part": "曾经巅峰的鬼畜真的回不去了吗？",
+                "duration": 224,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1qLduBbEhc",
+              "pages": [
+                {
+                  "cid": 38177081600,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "曾经巅峰的鬼畜真的回不去了吗？",
+                  "duration": 224,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 209075246,
+              "aid": 116927515067617,
+              "cid": 39995182358,
+              "title": "“我用鬼畜全明星拼接在这十年的遗憾”",
+              "attribute": 0,
+              "arc": {
+                "aid": 116927515067617,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/7041d075f0a9b4b917efae925ef76631a90cae3b.jpg",
+                "title": "“我用鬼畜全明星拼接在这十年的遗憾”",
+                "pubdate": 1784172615,
+                "ctime": 1784172615,
+                "desc": "",
+                "state": 0,
+                "duration": 115,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 116927515067617,
+                  "view": 2080448,
+                  "danmaku": 22928,
+                  "reply": 11409,
+                  "fav": 139905,
+                  "coin": 107599,
+                  "share": 14710,
+                  "now_rank": 0,
+                  "his_rank": 20,
+                  "like": 490201,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2080448
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39995182358,
+                "page": 1,
+                "from": "vupload",
+                "part": "“我用鬼畜全明星拼接在这十年的遗憾”",
+                "duration": 115,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1otK365Evg",
+              "pages": [
+                {
+                  "cid": 39995182358,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“我用鬼畜全明星拼接在这十年的遗憾”",
+                  "duration": 115,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 213521337,
+              "aid": 117031433210266,
+              "cid": 40562000240,
+              "title": "鬼 畜 复 兴 摇 一 摇",
+              "attribute": 0,
+              "arc": {
+                "aid": 117031433210266,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3469b7791e0bbad26f48f73246268a070ca0ccce.jpg",
+                "title": "鬼 畜 复 兴 摇 一 摇",
+                "pubdate": 1785816000,
+                "ctime": 1785816000,
+                "desc": "",
+                "state": 0,
+                "duration": 83,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 117031433210266,
+                  "view": 1116182,
+                  "danmaku": 404,
+                  "reply": 1534,
+                  "fav": 10874,
+                  "coin": 4701,
+                  "share": 1574,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 87102,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1116182
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40562000240,
+                "page": 1,
+                "from": "vupload",
+                "part": "鬼 畜 复 兴 摇 一 摇",
+                "duration": 83,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bFMd6FEii",
+              "pages": [
+                {
+                  "cid": 40562000240,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "鬼 畜 复 兴 摇 一 摇",
+                  "duration": 83,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 1238298,
+              "section_id": 1425895,
+              "id": 222748394,
+              "aid": 117284383228276,
+              "cid": 41962898718,
+              "title": "“时代越是进步，我越还念这种鬼畜”",
+              "attribute": 0,
+              "arc": {
+                "aid": 117284383228276,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/05537343f484553ea53f575b93a76591b65194db.jpg",
+                "title": "“时代越是进步，我越还念这种鬼畜”",
+                "pubdate": 1789617938,
+                "ctime": 1789617938,
+                "desc": "",
+                "state": 0,
+                "duration": 99,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 159122,
+                  "name": "惜缘、过去",
+                  "face": "https://i2.hdslb.com/bfs/face/2e0a7fd546c62bbde3aa9c0eacd308a6b408891b.jpg"
+                },
+                "stat": {
+                  "aid": 117284383228276,
+                  "view": 288687,
+                  "danmaku": 2434,
+                  "reply": 2429,
+                  "fav": 38966,
+                  "coin": 17626,
+                  "share": 1766,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 128315,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 288687
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41962898718,
+                "page": 1,
+                "from": "vupload",
+                "part": "“时代越是进步，我越还念这种鬼畜”",
+                "duration": 99,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1SWeM6tEKy",
+              "pages": [
+                {
+                  "cid": 41962898718,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "“时代越是进步，我越还念这种鬼畜”",
+                  "duration": 99,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 378979964,
+          "type": 3,
+          "desc": "全站排行榜最高第2名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 378979964,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 378979964,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

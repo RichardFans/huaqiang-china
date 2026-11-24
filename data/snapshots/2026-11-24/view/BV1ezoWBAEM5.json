@@ -1,0 +1,153 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ezoWBAEM5",
+    "aid": 116446461959457,
+    "videos": 2,
+    "tid": 21,
+    "tid_v2": 2023,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/a0a0c3621383c67244a2679ea3567647e2f5c375.jpg",
+    "title": "华强买瓜 但是深情民谣MV",
+    "pubdate": 1776832426,
+    "ctime": 1776832426,
+    "desc": "有一个民谣歌手前来买瓜。\n专注歌曲，尊重原著，不做过度创作。",
+    "desc_v2": [
+      {
+        "raw_text": "有一个民谣歌手前来买瓜。\n专注歌曲，尊重原著，不做过度创作。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 402,
+    "mission_id": 4063053,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 110071473,
+      "name": "多梦综合征",
+      "face": "https://i0.hdslb.com/bfs/face/aa6fa35a4996e67ef8055849c11c319ebde49182.jpg"
+    },
+    "stat": {
+      "aid": 116446461959457,
+      "view": 2703696,
+      "danmaku": 3537,
+      "reply": 4509,
+      "favorite": 67000,
+      "coin": 75781,
+      "share": 29862,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 117903,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "该内容疑似使用AI技术合成，请谨慎甄别",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "新的MV来了，精品MV做起来太累了，这次恶搞一下。",
+    "cid": 37710988136,
+    "dimension": {
+      "width": 3840,
+      "height": 2160,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 37710988136,
+        "page": 1,
+        "from": "vupload",
+        "part": "华强买瓜 但是深情民谣MV",
+        "duration": 201,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00002jzw2mp6hhsla298mb96ar9or1b_firsti.jpg",
+        "ctime": 1776832426,
+        "asr_language": "cmn"
+      },
+      {
+        "cid": 37725932967,
+        "page": 2,
+        "from": "vupload",
+        "part": "华强买瓜 但是深情民谣 卡拉OK",
+        "duration": 201,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000laf6spr19jlc206648sisjgbpb_firsti.jpg",
+        "ctime": 1776863314,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 116446461959457,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 0,
+    "is_view_self": false
+  }
+}
