@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1g9xT66EN8",
+    "aid": 117511949454276,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/7ac820672b60dd09110745fe6a71427e3bcfa855.jpg",
+    "title": "鬼畜区能不能吃啊？",
+    "pubdate": 1793090516,
+    "ctime": 1793090516,
+    "desc": "不能吃，我炒着玩的",
+    "desc_v2": [
+      {
+        "raw_text": "不能吃，我炒着玩的",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 63,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 31783129,
+      "name": "打不倒の西撒",
+      "face": "https://i1.hdslb.com/bfs/face/e98a0fc61b6cf223cd994cde9aec7eee577bef29.jpg"
+    },
+    "stat": {
+      "aid": 117511949454276,
+      "view": 27761,
+      "danmaku": 40,
+      "reply": 95,
+      "favorite": 907,
+      "coin": 103,
+      "share": 125,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1844,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43095097459,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43095097459,
+        "page": 1,
+        "from": "vupload",
+        "part": "乾隆第一次吃鬼畜区，竟然被当成大傻子",
+        "duration": 63,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_000030hk3hfv6zqxg2fymhvgn2onfmb_firsti.jpg",
+        "ctime": 1793090516,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

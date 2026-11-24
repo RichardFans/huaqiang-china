@@ -1,0 +1,684 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Mh9SB9E8W",
+    "aid": 116486022700434,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2006,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/30d9376f3625e7f4d47ee9f7b53980ea02d81cf6.jpg",
+    "title": "华强出没（熊出没）",
+    "pubdate": 1777435805,
+    "ctime": 1777435805,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 87,
+    "mission_id": 4063053,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 75084257,
+      "name": "在下姓甚名谁",
+      "face": "https://i2.hdslb.com/bfs/face/d57c9e486cf45a20af6a7425b0f52739a435a66d.jpg"
+    },
+    "stat": {
+      "aid": 116486022700434,
+      "view": 125501,
+      "danmaku": 127,
+      "reply": 311,
+      "favorite": 3544,
+      "coin": 555,
+      "share": 704,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 6349,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "该内容疑似使用AI技术合成，请谨慎甄别",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 37933222882,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 7808428,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 37933222882,
+        "page": 1,
+        "from": "vupload",
+        "part": "华强出没（熊出没）",
+        "duration": 87,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_000009fa1ywhc397o2s7yjxh6zmj7ab_firsti.jpg",
+        "ctime": 1777435805,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 7808428,
+      "title": "华强系列",
+      "cover": "https://archive.biliimg.com/bfs/archive/7af09c4dabd36420a63e0384bdf7eb2632edde4d.jpg",
+      "mid": 75084257,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 7808428,
+        "view": 1169143,
+        "danmaku": 1650,
+        "reply": 1605,
+        "fav": 16549,
+        "coin": 3372,
+        "share": 4189,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 47618,
+        "vt": 0,
+        "vv": 1169143
+      },
+      "ep_count": 5,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 7808428,
+          "id": 8673782,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 7808428,
+              "section_id": 8673782,
+              "id": 186330323,
+              "aid": 116334188829214,
+              "cid": 37172808502,
+              "title": "有一个大学生前来面试",
+              "attribute": 0,
+              "arc": {
+                "aid": 116334188829214,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3a87cfd4b079039fc23509423a1387f7f470a2e1.jpg",
+                "title": "有一个大学生前来面试",
+                "pubdate": 1775188800,
+                "ctime": 1775188800,
+                "desc": "",
+                "state": 0,
+                "duration": 125,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 75084257,
+                  "name": "在下姓甚名谁",
+                  "face": "https://i2.hdslb.com/bfs/face/d57c9e486cf45a20af6a7425b0f52739a435a66d.jpg"
+                },
+                "stat": {
+                  "aid": 116334188829214,
+                  "view": 156795,
+                  "danmaku": 286,
+                  "reply": 348,
+                  "fav": 1824,
+                  "coin": 732,
+                  "share": 844,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 6826,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 156795
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37172808502,
+                "page": 1,
+                "from": "vupload",
+                "part": "有一个大学生前来面试",
+                "duration": 125,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1UfXZBkE7W",
+              "pages": [
+                {
+                  "cid": 37172808502,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "有一个大学生前来面试",
+                  "duration": 125,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7808428,
+              "section_id": 8673782,
+              "id": 188092023,
+              "aid": 116379889964437,
+              "cid": 37391174968,
+              "title": "人工智能卖瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116379889964437,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/238d7faf2190e4414fa0f837f4f2ffee97039757.jpg",
+                "title": "人工智能卖瓜",
+                "pubdate": 1775816355,
+                "ctime": 1775816355,
+                "desc": "",
+                "state": 0,
+                "duration": 190,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 75084257,
+                  "name": "在下姓甚名谁",
+                  "face": "https://i2.hdslb.com/bfs/face/d57c9e486cf45a20af6a7425b0f52739a435a66d.jpg"
+                },
+                "stat": {
+                  "aid": 116379889964437,
+                  "view": 365678,
+                  "danmaku": 427,
+                  "reply": 412,
+                  "fav": 3882,
+                  "coin": 666,
+                  "share": 937,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13533,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 365678
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37391174968,
+                "page": 1,
+                "from": "vupload",
+                "part": "人工智能卖瓜",
+                "duration": 190,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1MSQwBEERb",
+              "pages": [
+                {
+                  "cid": 37391174968,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "人工智能卖瓜",
+                  "duration": 190,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7808428,
+              "section_id": 8673782,
+              "id": 189580093,
+              "aid": 116419383531331,
+              "cid": 37580441536,
+              "title": "新 手 找 茬",
+              "attribute": 0,
+              "arc": {
+                "aid": 116419383531331,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/7602c90df1cb4fa46b382e567d64468ceaa1c7ee.jpg",
+                "title": "新 手 找 茬",
+                "pubdate": 1776418913,
+                "ctime": 1776418913,
+                "desc": "",
+                "state": 0,
+                "duration": 150,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 75084257,
+                  "name": "在下姓甚名谁",
+                  "face": "https://i2.hdslb.com/bfs/face/d57c9e486cf45a20af6a7425b0f52739a435a66d.jpg"
+                },
+                "stat": {
+                  "aid": 116419383531331,
+                  "view": 452651,
+                  "danmaku": 674,
+                  "reply": 417,
+                  "fav": 6364,
+                  "coin": 1238,
+                  "share": 1481,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 18630,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 452651
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37580441536,
+                "page": 1,
+                "from": "vupload",
+                "part": "新 手 找 茬",
+                "duration": 150,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Msd5BZEkm",
+              "pages": [
+                {
+                  "cid": 37580441536,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新 手 找 茬",
+                  "duration": 150,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7808428,
+              "section_id": 8673782,
+              "id": 192060924,
+              "aid": 116486022700434,
+              "cid": 37933222882,
+              "title": "华强出没（熊出没）",
+              "attribute": 0,
+              "arc": {
+                "aid": 116486022700434,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/30d9376f3625e7f4d47ee9f7b53980ea02d81cf6.jpg",
+                "title": "华强出没（熊出没）",
+                "pubdate": 1777435805,
+                "ctime": 1777435805,
+                "desc": "",
+                "state": 0,
+                "duration": 87,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 75084257,
+                  "name": "在下姓甚名谁",
+                  "face": "https://i2.hdslb.com/bfs/face/d57c9e486cf45a20af6a7425b0f52739a435a66d.jpg"
+                },
+                "stat": {
+                  "aid": 116486022700434,
+                  "view": 125501,
+                  "danmaku": 127,
+                  "reply": 311,
+                  "fav": 3544,
+                  "coin": 555,
+                  "share": 704,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 6349,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 125501
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37933222882,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强出没（熊出没）",
+                "duration": 87,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Mh9SB9E8W",
+              "pages": [
+                {
+                  "cid": 37933222882,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强出没（熊出没）",
+                  "duration": 87,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 7808428,
+              "section_id": 8673782,
+              "id": 193265915,
+              "aid": 116516389458294,
+              "cid": 38087298083,
+              "title": "有一个人前来学大象叫",
+              "attribute": 0,
+              "arc": {
+                "aid": 116516389458294,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/75de876c291ce47d259e14bbc7af319790cf244d.jpg",
+                "title": "有一个人前来学大象叫",
+                "pubdate": 1777899139,
+                "ctime": 1777899139,
+                "desc": "",
+                "state": 0,
+                "duration": 163,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 75084257,
+                  "name": "在下姓甚名谁",
+                  "face": "https://i2.hdslb.com/bfs/face/d57c9e486cf45a20af6a7425b0f52739a435a66d.jpg"
+                },
+                "stat": {
+                  "aid": 116516389458294,
+                  "view": 68518,
+                  "danmaku": 136,
+                  "reply": 117,
+                  "fav": 935,
+                  "coin": 181,
+                  "share": 223,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2280,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 68518
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38087298083,
+                "page": 1,
+                "from": "vupload",
+                "part": "有一个人前来学大象叫",
+                "duration": 163,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1MZRiBQE83",
+              "pages": [
+                {
+                  "cid": 38087298083,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "有一个人前来学大象叫",
+                  "duration": 163,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

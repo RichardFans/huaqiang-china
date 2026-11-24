@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1wu4y1N7tK",
+    "aid": 920695039,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/68e107babf2ded9ddd2b38f9f7077d5a74a04674.jpg",
+    "title": "横 竖 都 是 死",
+    "pubdate": 1699415100,
+    "ctime": 1699401468,
+    "desc": "被刀撅了（悲）",
+    "desc_v2": [
+      {
+        "raw_text": "被刀撅了（悲）",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 116,
+    "mission_id": 1698362,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1041965184,
+      "name": "原始意图",
+      "face": "https://i0.hdslb.com/bfs/face/e7d5339672ea532249e36da0aed0795574e77fb9.jpg"
+    },
+    "stat": {
+      "aid": 920695039,
+      "view": 102213,
+      "danmaku": 181,
+      "reply": 92,
+      "favorite": 1684,
+      "coin": 465,
+      "share": 273,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 5961,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1325099468,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1325099468,
+        "page": 1,
+        "from": "vupload",
+        "part": "横 竖 都 是 死",
+        "duration": 116,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n231108sa51xxjcgc0hac1iqr8ito6sr_firsti.jpg",
+        "ctime": 1699401468
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

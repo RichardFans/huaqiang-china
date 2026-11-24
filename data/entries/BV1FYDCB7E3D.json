@@ -1,0 +1,50 @@
+{
+  "bvid": "BV1FYDCB7E3D",
+  "aid": 116385107679884,
+  "title": "华强买瓜，但是是心理战",
+  "owner": {
+    "mid": 8031665,
+    "name": "小鸟游呆毛"
+  },
+  "pubdate": "2026-04-11T08:28:16Z",
+  "duration_s": 315,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua",
+    "zhengfu-other"
+  ],
+  "scene_evidence": "标题显式命中桥段词（maigua）；检索词『征服 鬼畜』补全",
+  "scene_status": "confirmed",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,133,293 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 2133293,
+      "like": 123380,
+      "coin": 15153,
+      "favorite": 42263,
+      "share": 11014,
+      "danmaku": 1921,
+      "reply": 3015
+    }
+  ],
+  "notes": ""
+}

@@ -1,0 +1,2782 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Fr421h7AG",
+    "aid": 1402136145,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2006,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/b94e5b5e389ec0eb673abe4bcb9ad4d095f11b5a.jpg",
+    "title": "上世纪征服战士：加持良治的理想世界",
+    "pubdate": 1711030945,
+    "ctime": 1711030945,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 242,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1324510,
+      "name": "关节拉伤",
+      "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+    },
+    "stat": {
+      "aid": 1402136145,
+      "view": 140358,
+      "danmaku": 213,
+      "reply": 280,
+      "favorite": 1477,
+      "coin": 592,
+      "share": 1888,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3651,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1477446750,
+    "dimension": {
+      "width": 1912,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 2192346,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1477446750,
+        "page": 1,
+        "from": "vupload",
+        "part": "上世纪征服战士：加持良治的理想世界",
+        "duration": 242,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1912,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n240321sa11u26cokn87d412zm6dwtlx_firsti.jpg",
+        "ctime": 1711030945
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 2192346,
+      "title": "新世纪福音栈士",
+      "cover": "https://archive.biliimg.com/bfs/archive/7bc46eced37da54a8b93bb4771446fbb8d671e36.png",
+      "mid": 1324510,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 2192346,
+        "view": 1095962,
+        "danmaku": 1159,
+        "reply": 1731,
+        "fav": 8446,
+        "coin": 1820,
+        "share": 7002,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 21815,
+        "vt": 0,
+        "vv": 1095962
+      },
+      "ep_count": 25,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 2192346,
+          "id": 2508525,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 51908836,
+              "aid": 1550261575,
+              "cid": 1433309631,
+              "title": "香喵，丽喵，电梯喵",
+              "attribute": 0,
+              "arc": {
+                "aid": 1550261575,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/06dcf50c3d5a160cc788a96be52fb179cd45c2bd.jpg",
+                "title": "香喵，丽喵，电梯喵",
+                "pubdate": 1707301492,
+                "ctime": 1707301492,
+                "desc": "",
+                "state": 0,
+                "duration": 127,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1550261575,
+                  "view": 41334,
+                  "danmaku": 29,
+                  "reply": 47,
+                  "fav": 406,
+                  "coin": 70,
+                  "share": 229,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1373,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 41334
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1433309631,
+                "page": 1,
+                "from": "vupload",
+                "part": "香喵，丽喵，电梯喵",
+                "duration": 127,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Vy421Y7Kb",
+              "pages": [
+                {
+                  "cid": 1433309631,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "香喵，丽喵，电梯喵",
+                  "duration": 127,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 51984357,
+              "aid": 1950364922,
+              "cid": 1434247439,
+              "title": "残酷橘猫的行动纲领",
+              "attribute": 0,
+              "arc": {
+                "aid": 1950364922,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3f5508160697a237c2da2a553b819a78a26fb2bb.jpg",
+                "title": "残酷橘猫的行动纲领",
+                "pubdate": 1707381658,
+                "ctime": 1707381658,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1950364922,
+                  "view": 5622,
+                  "danmaku": 5,
+                  "reply": 19,
+                  "fav": 46,
+                  "coin": 14,
+                  "share": 25,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 146,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 5622
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1434247439,
+                "page": 1,
+                "from": "vupload",
+                "part": "残酷橘猫的行动纲领",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1432,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1DC411x7zx",
+              "pages": [
+                {
+                  "cid": 1434247439,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "残酷橘猫的行动纲领",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1432,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 53452425,
+              "aid": 1051227141,
+              "cid": 1450117433,
+              "title": "新世纪福音战士稍加赛文",
+              "attribute": 0,
+              "arc": {
+                "aid": 1051227141,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/a8a610ca15117dba1ebfb78c5c0b86ec4b468083.jpg",
+                "title": "新世纪福音战士稍加赛文",
+                "pubdate": 1708792807,
+                "ctime": 1708792807,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1051227141,
+                  "view": 128667,
+                  "danmaku": 193,
+                  "reply": 234,
+                  "fav": 1221,
+                  "coin": 207,
+                  "share": 859,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2942,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 128667
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1450117433,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪福音战士稍加赛文",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bH4y1L7SK",
+              "pages": [
+                {
+                  "cid": 1450117433,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪福音战士稍加赛文",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 55631973,
+              "aid": 1901587188,
+              "cid": 1462846864,
+              "title": "新世纪弹头战士  人形兵器展示",
+              "attribute": 0,
+              "arc": {
+                "aid": 1901587188,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/16db4a978fed6f0b0ee0305d1f9831d59e6f29a0.jpg",
+                "title": "新世纪弹头战士  人形兵器展示",
+                "pubdate": 1709872566,
+                "ctime": 1709872566,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1901587188,
+                  "view": 82901,
+                  "danmaku": 52,
+                  "reply": 80,
+                  "fav": 793,
+                  "coin": 71,
+                  "share": 93,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1750,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 82901
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1462846864,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪弹头战士  人形兵器展示",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1956,
+                  "height": 1104,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Rm411Z7Vk",
+              "pages": [
+                {
+                  "cid": 1462846864,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪弹头战士  人形兵器展示",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1956,
+                    "height": 1104,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 57442434,
+              "aid": 1451811959,
+              "cid": 1475080536,
+              "title": "新世纪龙猫战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1451811959,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/5c73323d7474174aff7f92b5ad5a58856c0712fd.jpg",
+                "title": "新世纪龙猫战士",
+                "pubdate": 1710847738,
+                "ctime": 1710847738,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1451811959,
+                  "view": 4161,
+                  "danmaku": 8,
+                  "reply": 11,
+                  "fav": 20,
+                  "coin": 4,
+                  "share": 12,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 65,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4161
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1475080536,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪龙猫战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17i421R7aC",
+              "pages": [
+                {
+                  "cid": 1475080536,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪龙猫战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 57489091,
+              "aid": 1001949529,
+              "cid": 1475372685,
+              "title": "上世纪破自行车战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1001949529,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f6cd1989ee4d36aab99bb2511383370dded92489.jpg",
+                "title": "上世纪破自行车战士",
+                "pubdate": 1710864901,
+                "ctime": 1710864901,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1001949529,
+                  "view": 106534,
+                  "danmaku": 97,
+                  "reply": 162,
+                  "fav": 533,
+                  "coin": 140,
+                  "share": 531,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1227,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 106534
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1475372685,
+                "page": 1,
+                "from": "vupload",
+                "part": "上世纪破自行车战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cx4y1U7Pm",
+              "pages": [
+                {
+                  "cid": 1475372685,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "上世纪破自行车战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 57760518,
+              "aid": 1402136145,
+              "cid": 1477446750,
+              "title": "上世纪征服战士：加持良治的理想世界",
+              "attribute": 0,
+              "arc": {
+                "aid": 1402136145,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/b94e5b5e389ec0eb673abe4bcb9ad4d095f11b5a.jpg",
+                "title": "上世纪征服战士：加持良治的理想世界",
+                "pubdate": 1711030945,
+                "ctime": 1711030945,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1402136145,
+                  "view": 140358,
+                  "danmaku": 213,
+                  "reply": 280,
+                  "fav": 1477,
+                  "coin": 592,
+                  "share": 1888,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3651,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 140358
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1477446750,
+                "page": 1,
+                "from": "vupload",
+                "part": "上世纪征服战士：加持良治的理想世界",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Fr421h7AG",
+              "pages": [
+                {
+                  "cid": 1477446750,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "上世纪征服战士：加持良治的理想世界",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 57949161,
+              "aid": 1852138317,
+              "cid": 1479073655,
+              "title": "上世纪赛亚战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1852138317,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/d77a0b9bc526c31f8e7c30673433209d34477b32.jpg",
+                "title": "上世纪赛亚战士",
+                "pubdate": 1711166691,
+                "ctime": 1711166691,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1852138317,
+                  "view": 8285,
+                  "danmaku": 19,
+                  "reply": 17,
+                  "fav": 39,
+                  "coin": 7,
+                  "share": 29,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 132,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 8285
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1479073655,
+                "page": 1,
+                "from": "vupload",
+                "part": "上世纪赛亚战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV16p42127iq",
+              "pages": [
+                {
+                  "cid": 1479073655,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "上世纪赛亚战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 58170467,
+              "aid": 1702221503,
+              "cid": 1480688222,
+              "title": "新世纪凶猫战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1702221503,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/80a98017f8ed2e9a6aa817798d5860bb613a1745.jpg",
+                "title": "新世纪凶猫战士",
+                "pubdate": 1711276571,
+                "ctime": 1711276571,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1702221503,
+                  "view": 7364,
+                  "danmaku": 10,
+                  "reply": 18,
+                  "fav": 38,
+                  "coin": 8,
+                  "share": 35,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 92,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 7364
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1480688222,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪凶猫战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1JK421e7nM",
+              "pages": [
+                {
+                  "cid": 1480688222,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪凶猫战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 58360127,
+              "aid": 1102066189,
+              "cid": 1482060430,
+              "title": "上世纪红警战士2：每人一小块地（低配版）",
+              "attribute": 0,
+              "arc": {
+                "aid": 1102066189,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/7f3e0d9530aaa3ce4799689d8ef455ae2c2d62b7.jpg",
+                "title": "上世纪红警战士2：每人一小块地（低配版）",
+                "pubdate": 1711377810,
+                "ctime": 1711377810,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1102066189,
+                  "view": 42103,
+                  "danmaku": 22,
+                  "reply": 87,
+                  "fav": 217,
+                  "coin": 53,
+                  "share": 103,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 593,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 42103
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1482060430,
+                "page": 1,
+                "from": "vupload",
+                "part": "上世纪红警战士2：每人一小块地（低配版）",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1nA4m1P77b",
+              "pages": [
+                {
+                  "cid": 1482060430,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "上世纪红警战士2：每人一小块地（低配版）",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 58944257,
+              "aid": 1652355086,
+              "cid": 1486233681,
+              "title": "新世纪只因战士（完全崩坏）",
+              "attribute": 0,
+              "arc": {
+                "aid": 1652355086,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/c6756e54789f5c81c9c772c5a23295725988c1d8.jpg",
+                "title": "新世纪只因战士（完全崩坏）",
+                "pubdate": 1711716685,
+                "ctime": 1711716685,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1652355086,
+                  "view": 55212,
+                  "danmaku": 123,
+                  "reply": 122,
+                  "fav": 549,
+                  "coin": 185,
+                  "share": 931,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1476,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 55212
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1486233681,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪只因战士（完全崩坏）",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Lj42197i3",
+              "pages": [
+                {
+                  "cid": 1486233681,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪只因战士（完全崩坏）",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 60493244,
+              "aid": 1352789391,
+              "cid": 1499268245,
+              "title": "归来的EVA",
+              "attribute": 0,
+              "arc": {
+                "aid": 1352789391,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/cd183ea1f3a0a35b63da3607981d4bc65cfec3c8.jpg",
+                "title": "归来的EVA",
+                "pubdate": 1712653091,
+                "ctime": 1712653091,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1352789391,
+                  "view": 207532,
+                  "danmaku": 128,
+                  "reply": 199,
+                  "fav": 1066,
+                  "coin": 168,
+                  "share": 892,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2541,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 207532
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1499268245,
+                "page": 1,
+                "from": "vupload",
+                "part": "归来的EVA",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1az421y7tv",
+              "pages": [
+                {
+                  "cid": 1499268245,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "归来的EVA",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 60881486,
+              "aid": 1053197201,
+              "cid": 1502595856,
+              "title": "日版福音战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1053197201,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/f567ce667a92bedcdcffb3242f66fee4627ef29a.jpg",
+                "title": "日版福音战士",
+                "pubdate": 1712900756,
+                "ctime": 1712900756,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1053197201,
+                  "view": 42305,
+                  "danmaku": 24,
+                  "reply": 66,
+                  "fav": 52,
+                  "coin": 8,
+                  "share": 20,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 140,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 42305
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1502595856,
+                "page": 1,
+                "from": "vupload",
+                "part": "日版福音战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1oH4y1K7yS",
+              "pages": [
+                {
+                  "cid": 1502595856,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "日版福音战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 61817810,
+              "aid": 1103261359,
+              "cid": 1511612447,
+              "title": "福音战士：尤里的复仇",
+              "attribute": 0,
+              "arc": {
+                "aid": 1103261359,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/b28994ff64edaa2ad544f3a46ad543f94287e2dc.jpg",
+                "title": "福音战士：尤里的复仇",
+                "pubdate": 1713452980,
+                "ctime": 1713452980,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1103261359,
+                  "view": 3631,
+                  "danmaku": 3,
+                  "reply": 12,
+                  "fav": 16,
+                  "coin": 4,
+                  "share": 21,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 61,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3631
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1511612447,
+                "page": 1,
+                "from": "vupload",
+                "part": "福音战士：尤里的复仇",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1914,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV12w4m1m7K9",
+              "pages": [
+                {
+                  "cid": 1511612447,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "福音战士：尤里的复仇",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1914,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 64331735,
+              "aid": 1704118071,
+              "cid": 1534215924,
+              "title": "新世纪菌子战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1704118071,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/44240f3989192bd867e1a8d6c414232cbc8b9f9a.jpg",
+                "title": "新世纪菌子战士",
+                "pubdate": 1715015539,
+                "ctime": 1715015539,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1704118071,
+                  "view": 13132,
+                  "danmaku": 9,
+                  "reply": 25,
+                  "fav": 47,
+                  "coin": 5,
+                  "share": 22,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 161,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 13132
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1534215924,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪菌子战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1914,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1VT42197hb",
+              "pages": [
+                {
+                  "cid": 1534215924,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪菌子战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1914,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 65463770,
+              "aid": 1604662523,
+              "cid": 1545668327,
+              "title": "新世纪福音战士加微微奥，不要香菜，谢谢",
+              "attribute": 0,
+              "arc": {
+                "aid": 1604662523,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/a68462fca6ba67cecb0b70b631feed706fa35923.jpg",
+                "title": "新世纪福音战士加微微奥，不要香菜，谢谢",
+                "pubdate": 1715737014,
+                "ctime": 1715737014,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1604662523,
+                  "view": 69340,
+                  "danmaku": 30,
+                  "reply": 54,
+                  "fav": 318,
+                  "coin": 26,
+                  "share": 96,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1081,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 69340
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1545668327,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪福音战士加微微奥，不要香菜，谢谢",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1816,
+                  "height": 1024,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Pm421M7UC",
+              "pages": [
+                {
+                  "cid": 1545668327,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪福音战士加微微奥，不要香菜，谢谢",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1816,
+                    "height": 1024,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 68035247,
+              "aid": 1655296463,
+              "cid": 1569043820,
+              "title": "福音战士OP x猫鼠",
+              "attribute": 0,
+              "arc": {
+                "aid": 1655296463,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/22e494650320cd4e3c29171ec51fbd7544d1de45.jpg",
+                "title": "福音战士OP x猫鼠",
+                "pubdate": 1717327604,
+                "ctime": 1717327604,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1655296463,
+                  "view": 11093,
+                  "danmaku": 25,
+                  "reply": 42,
+                  "fav": 122,
+                  "coin": 32,
+                  "share": 90,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 340,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 11093
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1569043820,
+                "page": 1,
+                "from": "vupload",
+                "part": "福音战士OP x猫鼠",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1434,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1c7421o7nY",
+              "pages": [
+                {
+                  "cid": 1569043820,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "福音战士OP x猫鼠",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1434,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 73499943,
+              "aid": 1106014152,
+              "cid": 1610148473,
+              "title": "新世纪滑骂战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1106014152,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/53b70b6dc48eb45a8d032d44cffd0556e366c2ca.jpg",
+                "title": "新世纪滑骂战士",
+                "pubdate": 1720532049,
+                "ctime": 1720532049,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1106014152,
+                  "view": 24710,
+                  "danmaku": 21,
+                  "reply": 40,
+                  "fav": 71,
+                  "coin": 8,
+                  "share": 67,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 351,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 24710
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1610148473,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪滑骂战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1600,
+                  "height": 896,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Jw4m1a7FU",
+              "pages": [
+                {
+                  "cid": 1610148473,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪滑骂战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1600,
+                    "height": 896,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 73514510,
+              "aid": 1956081943,
+              "cid": 1610245036,
+              "title": "新世纪抛瓦战士",
+              "attribute": 0,
+              "arc": {
+                "aid": 1956081943,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/a83cdec9d70e64ce45614144441957c1350e8be8.jpg",
+                "title": "新世纪抛瓦战士",
+                "pubdate": 1720537192,
+                "ctime": 1720537192,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1956081943,
+                  "view": 67368,
+                  "danmaku": 88,
+                  "reply": 143,
+                  "fav": 892,
+                  "coin": 161,
+                  "share": 966,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2933,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 67368
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1610245036,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪抛瓦战士",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1600,
+                  "height": 896,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17y411B79r",
+              "pages": [
+                {
+                  "cid": 1610245036,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪抛瓦战士",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1600,
+                    "height": 896,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 73518537,
+              "aid": 1206211846,
+              "cid": 1610277183,
+              "title": "新世纪抛瓦战士OP",
+              "attribute": 0,
+              "arc": {
+                "aid": 1206211846,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/97e49568164351a2c52914db2e8c4a131f002786.jpg",
+                "title": "新世纪抛瓦战士OP",
+                "pubdate": 1720539114,
+                "ctime": 1720539114,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1206211846,
+                  "view": 4404,
+                  "danmaku": 11,
+                  "reply": 16,
+                  "fav": 22,
+                  "coin": 5,
+                  "share": 29,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 109,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4404
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1610277183,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪抛瓦战士OP",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1200,
+                  "height": 896,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Hf421q7PD",
+              "pages": [
+                {
+                  "cid": 1610277183,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪抛瓦战士OP",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1200,
+                    "height": 896,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 75887461,
+              "aid": 1506484537,
+              "cid": 1626295828,
+              "title": "新世纪福音战士（猫和老鼠重调",
+              "attribute": 0,
+              "arc": {
+                "aid": 1506484537,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/242c62104c9005dbffb5e1c693887b5935e7167d.jpg",
+                "title": "新世纪福音战士（猫和老鼠重调",
+                "pubdate": 1721840398,
+                "ctime": 1721840398,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1506484537,
+                  "view": 6731,
+                  "danmaku": 19,
+                  "reply": 17,
+                  "fav": 44,
+                  "coin": 13,
+                  "share": 43,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 177,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6731
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1626295828,
+                "page": 1,
+                "from": "vupload",
+                "part": "新世纪福音战士（猫和老鼠重调",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1600,
+                  "height": 896,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1qS42197VY",
+              "pages": [
+                {
+                  "cid": 1626295828,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新世纪福音战士（猫和老鼠重调",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1600,
+                    "height": 896,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 77951407,
+              "aid": 1106260333,
+              "cid": 1640271414,
+              "title": "福音战士（毕加索",
+              "attribute": 0,
+              "arc": {
+                "aid": 1106260333,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/70733c0430d4b9057e1491ac7f5ba6fef029528f.jpg",
+                "title": "福音战士（毕加索",
+                "pubdate": 1722938597,
+                "ctime": 1722938597,
+                "desc": "",
+                "state": 0,
+                "duration": 242,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 1106260333,
+                  "view": 14592,
+                  "danmaku": 9,
+                  "reply": 8,
+                  "fav": 346,
+                  "coin": 15,
+                  "share": 5,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 144,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 14592
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1640271414,
+                "page": 1,
+                "from": "vupload",
+                "part": "福音战士（毕加索",
+                "duration": 242,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 810,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Dw4m1r7pd",
+              "pages": [
+                {
+                  "cid": 1640271414,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "福音战士（毕加索",
+                  "duration": 242,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 810,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 88955127,
+              "aid": 113309944647048,
+              "cid": 26298550779,
+              "title": "EVA OP（很难描述",
+              "attribute": 0,
+              "arc": {
+                "aid": 113309944647048,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/b7ecc9163b4edb9ad7fcedc4ea780d09356e00aa.jpg",
+                "title": "EVA OP（很难描述",
+                "pubdate": 1728972739,
+                "ctime": 1728972739,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 113309944647048,
+                  "view": 4380,
+                  "danmaku": 17,
+                  "reply": 11,
+                  "fav": 94,
+                  "coin": 20,
+                  "share": 10,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 232,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4380
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26298550779,
+                "page": 1,
+                "from": "vupload",
+                "part": "EVA OP（很难描述",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1152,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18o2dYNEix",
+              "pages": [
+                {
+                  "cid": 26298550779,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "EVA OP（很难描述",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1152,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 89715699,
+              "aid": 113339338392507,
+              "cid": 26379946430,
+              "title": "EVA OP（妹",
+              "attribute": 0,
+              "arc": {
+                "aid": 113339338392507,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/4e3afdf65c8a72901b5f5f90baf0affa5e4d2f13.jpg",
+                "title": "EVA OP（妹",
+                "pubdate": 1729421630,
+                "ctime": 1729421630,
+                "desc": "",
+                "state": 0,
+                "duration": 92,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 113339338392507,
+                  "view": 2428,
+                  "danmaku": 2,
+                  "reply": 8,
+                  "fav": 7,
+                  "coin": 2,
+                  "share": 1,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 50,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2428
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26379946430,
+                "page": 1,
+                "from": "vupload",
+                "part": "EVA OP（妹",
+                "duration": 92,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1EryaY3EQ1",
+              "pages": [
+                {
+                  "cid": 26379946430,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "EVA OP（妹",
+                  "duration": 92,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2192346,
+              "section_id": 2508525,
+              "id": 89734188,
+              "aid": 113339824868137,
+              "cid": 26381779751,
+              "title": "EVA OP（牙",
+              "attribute": 0,
+              "arc": {
+                "aid": 113339824868137,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f2c99d413e2a629222f90bd57468e3d80b40752c.jpg",
+                "title": "EVA OP（牙",
+                "pubdate": 1729428576,
+                "ctime": 1729428576,
+                "desc": "",
+                "state": 0,
+                "duration": 92,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1324510,
+                  "name": "关节拉伤",
+                  "face": "https://i1.hdslb.com/bfs/face/2ba94d0df3e2e6421a8323c7577e63c585f0efab.jpg"
+                },
+                "stat": {
+                  "aid": 113339824868137,
+                  "view": 1776,
+                  "danmaku": 2,
+                  "reply": 13,
+                  "fav": 10,
+                  "coin": 2,
+                  "share": 5,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 48,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1776
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26381779751,
+                "page": 1,
+                "from": "vupload",
+                "part": "EVA OP（牙",
+                "duration": 92,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1pDyhYLEhz",
+              "pages": [
+                {
+                  "cid": 26381779751,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "EVA OP（牙",
+                  "duration": 92,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

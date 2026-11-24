@@ -1,0 +1,120 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV17R9BBBE4H",
+    "aid": 116480167449038,
+    "videos": 1,
+    "tid": 138,
+    "tid_v2": 2207,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 2,
+    "pic": "http://i1.hdslb.com/bfs/archive/a1758b8ffb0cc6f09ec094b9af6f2c7502fb922c.jpg",
+    "title": "沉浸式买瓜 华强第一视角",
+    "pubdate": 1777347365,
+    "ctime": 1777347365,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 158,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2114751565,
+      "name": "bili_27723932097",
+      "face": "https://i0.hdslb.com/bfs/face/member/noface.jpg"
+    },
+    "stat": {
+      "aid": 116480167449038,
+      "view": 27609,
+      "danmaku": 55,
+      "reply": 69,
+      "favorite": 562,
+      "coin": 24,
+      "share": 43,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 630,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 37900717655,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 37900717655,
+        "page": 1,
+        "from": "vupload",
+        "part": "沉浸式买瓜 华强第一视角",
+        "duration": 158,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003t8m290vefyy324307jjd0ulsjb_firsti.jpg",
+        "ctime": 1777347365,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

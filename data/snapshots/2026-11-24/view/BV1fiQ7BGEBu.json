@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1fiQ7BGEBu",
+    "aid": 116406632848324,
+    "videos": 1,
+    "tid": 21,
+    "tid_v2": 2207,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/24fe0d7d1026dda8a913349b7eaaf0c228b568cd.jpg",
+    "title": "华强买瓜，但是三角洲突围",
+    "pubdate": 1776224596,
+    "ctime": 1776224596,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 90,
+    "mission_id": 4062401,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 482728977,
+      "name": "我是搬史大王奥",
+      "face": "https://i0.hdslb.com/bfs/face/e013362cffc80f13cccefcbc2b0ca1b1ae1af9e8.jpg"
+    },
+    "stat": {
+      "aid": 116406632848324,
+      "view": 97188,
+      "danmaku": 178,
+      "reply": 178,
+      "favorite": 2173,
+      "coin": 230,
+      "share": 414,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3130,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "该内容疑似使用AI技术合成，请谨慎甄别",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 37517722390,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 37517722390,
+        "page": 1,
+        "from": "vupload",
+        "part": "studio_video_1776224232132.mp4",
+        "duration": 90,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000tpkasl1huebf2fv4tvc4ol74mb_firsti.jpg",
+        "ctime": 1776224596,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

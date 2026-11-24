@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1QfqMBvEAY",
+    "aid": 115851911042285,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2006,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/155e97bbe963798e778954f11a171ffcb9b1e4fa.jpg",
+    "title": "《宋老虎买瓜》",
+    "pubdate": 1767760121,
+    "ctime": 1767760121,
+    "desc": "如果觉得做得不错，请点赞分享鼓励一下吧。谢谢🙏",
+    "desc_v2": [
+      {
+        "raw_text": "如果觉得做得不错，请点赞分享鼓励一下吧。谢谢🙏",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 119,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 686977,
+      "name": "陈培旭",
+      "face": "https://i1.hdslb.com/bfs/face/3f55797d4d58e3958ff8b7eb8aa126acaf36feff.jpg"
+    },
+    "stat": {
+      "aid": 115851911042285,
+      "view": 107433,
+      "danmaku": 213,
+      "reply": 132,
+      "favorite": 1049,
+      "coin": 172,
+      "share": 135,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 2564,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "该内容疑似使用AI技术合成，请谨慎甄别",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 35236283939,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 35236283939,
+        "page": 1,
+        "from": "vupload",
+        "part": "《宋老虎买瓜》",
+        "duration": 119,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000tj8nb81k6s2g2s1p2sjz13xmob_firsti.jpg",
+        "ctime": 1767760121
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

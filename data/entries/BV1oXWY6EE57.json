@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1oXWY6EE57",
+  "aid": 117606321232610,
+  "title": "史上最惨“双11”，2026数据大跌眼镜，购物节彻底凉凉了？！",
+  "owner": {
+    "mid": 385921976,
+    "name": "MYS同学"
+  },
+  "pubdate": "2026-11-13T00:38:18Z",
+  "duration_s": 532,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "maigua"
+  ],
+  "scene_evidence": "仅检索词『华强买瓜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 227,632 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "华强买瓜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 227632,
+      "like": 1666,
+      "coin": 59,
+      "favorite": 659,
+      "share": 240,
+      "danmaku": 494,
+      "reply": 1922
+    }
+  ],
+  "notes": ""
+}

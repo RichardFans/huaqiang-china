@@ -1,0 +1,794 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1fZ421v7Dk",
+    "aid": 1152653164,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/b5ea39c14aacf60f6fbbdea4d90165d13438b94f.jpg",
+    "title": "黄 泉 买 瓜",
+    "pubdate": 1712193948,
+    "ctime": 1712193948,
+    "desc": "-",
+    "desc_v2": [
+      {
+        "raw_text": "-",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 121,
+    "mission_id": 1722080,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1479680,
+      "name": "骞影魔王k",
+      "face": "https://i2.hdslb.com/bfs/face/6d0c3702ff99e905418c6b6b4da00adb376c33c3.jpg"
+    },
+    "stat": {
+      "aid": 1152653164,
+      "view": 49934,
+      "danmaku": 175,
+      "reply": 93,
+      "favorite": 937,
+      "coin": 187,
+      "share": 262,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3589,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "#崩坏：星穹铁道##黄泉##鬼畜##崩坏：星穹铁道创作激励计划#",
+    "cid": 1493195482,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 2392329,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1493195482,
+        "page": 1,
+        "from": "vupload",
+        "part": "黄 泉 买 桃",
+        "duration": 121,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n240404sa5ycpq8sulskd24gn7in2qxx_firsti.jpg",
+        "ctime": 1712193948
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 2392329,
+      "title": "游戏联动鬼畜",
+      "cover": "https://archive.biliimg.com/bfs/archive/ae6be2accfafa41828ef6e04edd4e02388e8da06.jpg",
+      "mid": 1479680,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 2392329,
+        "view": 587522,
+        "danmaku": 983,
+        "reply": 883,
+        "fav": 7440,
+        "coin": 2860,
+        "share": 6630,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 37750,
+        "vt": 0,
+        "vv": 587522
+      },
+      "ep_count": 6,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 2392329,
+          "id": 2723439,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 2392329,
+              "section_id": 2723439,
+              "id": 59727555,
+              "aid": 1152653164,
+              "cid": 1493195482,
+              "title": "有一个路痴前来买桃",
+              "attribute": 0,
+              "arc": {
+                "aid": 1152653164,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/b5ea39c14aacf60f6fbbdea4d90165d13438b94f.jpg",
+                "title": "有一个路痴前来买桃",
+                "pubdate": 1712193948,
+                "ctime": 1712193948,
+                "desc": "",
+                "state": 0,
+                "duration": 121,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1479680,
+                  "name": "骞影魔王k",
+                  "face": "https://i2.hdslb.com/bfs/face/6d0c3702ff99e905418c6b6b4da00adb376c33c3.jpg"
+                },
+                "stat": {
+                  "aid": 1152653164,
+                  "view": 49934,
+                  "danmaku": 175,
+                  "reply": 93,
+                  "fav": 937,
+                  "coin": 187,
+                  "share": 262,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3589,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 49934
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1493195482,
+                "page": 1,
+                "from": "vupload",
+                "part": "黄 泉 买 桃",
+                "duration": 121,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1fZ421v7Dk",
+              "pages": [
+                {
+                  "cid": 1493195482,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "黄 泉 买 桃",
+                  "duration": 121,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2392329,
+              "section_id": 2723439,
+              "id": 55642619,
+              "aid": 644346238,
+              "cid": 796525100,
+              "title": "嘻宫pv：真夏菲焰",
+              "attribute": 0,
+              "arc": {
+                "aid": 644346238,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/4bf62fb15fd495b8273ccfc732f145a415884214.jpg",
+                "title": "嘻宫pv：真夏菲焰",
+                "pubdate": 1659876271,
+                "ctime": 1659876271,
+                "desc": "",
+                "state": 0,
+                "duration": 98,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1479680,
+                  "name": "骞影魔王k",
+                  "face": "https://i2.hdslb.com/bfs/face/6d0c3702ff99e905418c6b6b4da00adb376c33c3.jpg"
+                },
+                "stat": {
+                  "aid": 644346238,
+                  "view": 53312,
+                  "danmaku": 98,
+                  "reply": 69,
+                  "fav": 543,
+                  "coin": 317,
+                  "share": 374,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3653,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 53312
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 796525100,
+                "page": 1,
+                "from": "vupload",
+                "part": "《原神》角色演示-「嘻嗷宫：真夏夜菲焰」（喜）",
+                "duration": 98,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1xY4y1A7N6",
+              "pages": [
+                {
+                  "cid": 796525100,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《原神》角色演示-「嘻嗷宫：真夏夜菲焰」（喜）",
+                  "duration": 98,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2392329,
+              "section_id": 2723439,
+              "id": 55642623,
+              "aid": 939465665,
+              "cid": 729875587,
+              "title": "夜兰 就你还要抓我嗷",
+              "attribute": 0,
+              "arc": {
+                "aid": 939465665,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/7d471b7c11b74a4280ca10e3198df5e0c09e85a0.jpg",
+                "title": "夜兰 就你还要抓我嗷",
+                "pubdate": 1653517492,
+                "ctime": 1653517492,
+                "desc": "",
+                "state": 0,
+                "duration": 80,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1479680,
+                  "name": "骞影魔王k",
+                  "face": "https://i2.hdslb.com/bfs/face/6d0c3702ff99e905418c6b6b4da00adb376c33c3.jpg"
+                },
+                "stat": {
+                  "aid": 939465665,
+                  "view": 151185,
+                  "danmaku": 119,
+                  "reply": 168,
+                  "fav": 2101,
+                  "coin": 973,
+                  "share": 2890,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8645,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 151185
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 729875587,
+                "page": 1,
+                "from": "vupload",
+                "part": "夜兰就你还要抓我嗷2",
+                "duration": 80,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1gT4y1B7fS",
+              "pages": [
+                {
+                  "cid": 729875587,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "夜兰就你还要抓我嗷2",
+                  "duration": 80,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2392329,
+              "section_id": 2723439,
+              "id": 55642622,
+              "aid": 854504832,
+              "cid": 734311603,
+              "title": "璃 月 大 街 等 你 嗷",
+              "attribute": 0,
+              "arc": {
+                "aid": 854504832,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/9a71c6f870aa1a7f643571baa41dccd5a8372608.jpg",
+                "title": "璃 月 大 街 等 你 嗷",
+                "pubdate": 1653923081,
+                "ctime": 1653923081,
+                "desc": "",
+                "state": 0,
+                "duration": 156,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1479680,
+                  "name": "骞影魔王k",
+                  "face": "https://i2.hdslb.com/bfs/face/6d0c3702ff99e905418c6b6b4da00adb376c33c3.jpg"
+                },
+                "stat": {
+                  "aid": 854504832,
+                  "view": 29013,
+                  "danmaku": 35,
+                  "reply": 53,
+                  "fav": 203,
+                  "coin": 144,
+                  "share": 231,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 974,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 29013
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 734311603,
+                "page": 1,
+                "from": "vupload",
+                "part": "夜兰PV2鬼畜",
+                "duration": 156,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1q54y1o7YX",
+              "pages": [
+                {
+                  "cid": 734311603,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "夜兰PV2鬼畜",
+                  "duration": 156,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2392329,
+              "section_id": 2723439,
+              "id": 55642624,
+              "aid": 466696455,
+              "cid": 513996791,
+              "title": "❤️赵鹏 请好好的看着我❤️",
+              "attribute": 0,
+              "arc": {
+                "aid": 466696455,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/35aa3b13e42e9b07e14bc9fdb86a6adb76023827.jpg",
+                "title": "❤️赵鹏 请好好的看着我❤️",
+                "pubdate": 1645448374,
+                "ctime": 1645448374,
+                "desc": "",
+                "state": 0,
+                "duration": 89,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1479680,
+                  "name": "骞影魔王k",
+                  "face": "https://i2.hdslb.com/bfs/face/6d0c3702ff99e905418c6b6b4da00adb376c33c3.jpg"
+                },
+                "stat": {
+                  "aid": 466696455,
+                  "view": 160188,
+                  "danmaku": 205,
+                  "reply": 383,
+                  "fav": 1781,
+                  "coin": 994,
+                  "share": 2000,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 9338,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 160188
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 513996791,
+                "page": 1,
+                "from": "vupload",
+                "part": "范志毅 神里",
+                "duration": 89,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV12L411K7oQ",
+              "pages": [
+                {
+                  "cid": 513996791,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "范志毅 神里",
+                  "duration": 89,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2392329,
+              "section_id": 2723439,
+              "id": 55642616,
+              "aid": 615723592,
+              "cid": 1190745722,
+              "title": "外国原友vs穹友",
+              "attribute": 0,
+              "arc": {
+                "aid": 615723592,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/9122f2e1188a202ffd08287e98b0117b9d944a46.jpg",
+                "title": "外国原友vs穹友",
+                "pubdate": 1688909950,
+                "ctime": 1688909950,
+                "desc": "",
+                "state": 0,
+                "duration": 75,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1479680,
+                  "name": "骞影魔王k",
+                  "face": "https://i2.hdslb.com/bfs/face/6d0c3702ff99e905418c6b6b4da00adb376c33c3.jpg"
+                },
+                "stat": {
+                  "aid": 615723592,
+                  "view": 143890,
+                  "danmaku": 351,
+                  "reply": 117,
+                  "fav": 1875,
+                  "coin": 245,
+                  "share": 873,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 11551,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 143890
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1190745722,
+                "page": 1,
+                "from": "vupload",
+                "part": "外国原友vs穹友",
+                "duration": 75,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1eh4y1E7Uf",
+              "pages": [
+                {
+                  "cid": 1190745722,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "外国原友vs穹友",
+                  "duration": 75,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

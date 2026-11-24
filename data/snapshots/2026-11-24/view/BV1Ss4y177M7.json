@@ -1,0 +1,119 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Ss4y177M7",
+    "aid": 951942898,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2002,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/c81edd04b14195c7cb5be395e16192f823829c16.jpg",
+    "title": "征服：刘华强让小弟打探好杀人路线，再干一票就逃跑",
+    "pubdate": 1680491998,
+    "ctime": 1680491998,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 208,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1267140075,
+      "name": "前排吃瓜嗑瓜子",
+      "face": "https://i0.hdslb.com/bfs/face/24a5c35cfc303d6a075345bc308b07d0a338b060.jpg"
+    },
+    "stat": {
+      "aid": 951942898,
+      "view": 24742,
+      "danmaku": 24,
+      "reply": 40,
+      "favorite": 47,
+      "coin": 10,
+      "share": 4,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 233,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1081149589,
+    "dimension": {
+      "width": 1280,
+      "height": 736,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1081149589,
+        "page": 1,
+        "from": "vupload",
+        "part": "征服：刘华强让小弟打探好杀人路线，再干一票就逃跑",
+        "duration": 208,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 736,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230403a23jeoov3udvbm51dnezp7r3d_firsti.jpg",
+        "ctime": 1680491998
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

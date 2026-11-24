@@ -30,9 +30,9 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 [takedown](.github/ISSUE_TEMPLATE/takedown.yml).
 
 <!-- zfq:generated:start -->
-**124 derivative works catalogued** (Hall 16 · Hot 95 · Rising 13 · Seed 0) ｜ Human-reviewed 0 · Pending 124 (⚠) ｜ Data snapshot 2026-11-24 (UTC)
+**171 derivative works catalogued** (Hall 17 · Hot 128 · Rising 26 · Seed 0) ｜ Human-reviewed 0 · Pending 171 (⚠) ｜ Data snapshot 2026-11-24 (UTC)
 
-## 🏆 Hall of Fame (≥ 10M views, 16 works)
+## 🏆 Hall of Fame (≥ 10M views, 17 works)
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
 |---|---|---|---|---|---|---|---|
 | 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | 夜雨星繁y | 2021-07 | 51,177,035 | 1,316,798 | Fan edit | Watermelon scene |
@@ -41,16 +41,17 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 | 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | 无牙人 | 2021-07 | 15,950,284 | 216,748 | Fan edit | Watermelon scene |
 | 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | 干物快乐宅 | 2021-07 | 15,254,583 | 74,485 | Fan edit | Watermelon scene |
 | 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | 伊介书生 | 2022-12 | 15,025,553 | 175,364 | Fan edit | Watermelon scene |
-| 7 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | 一大筐会飞的草莓 | 2021-11 | 14,173,672 | 129,827 | Fan edit | Watermelon scene |
-| 8 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | 酸奶煎个蛋 | 2026-05 | 14,165,953 | 64,686 | Fan edit | Watermelon scene |
-| 9 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | 特效小哥studio | 2021-12 | 13,541,302 | 2,253,929 | Fan edit | Watermelon scene |
-| 10 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | 机智的Kason | 2021-09 | 12,634,678 | 158,798 | Fan edit | Watermelon scene |
-| 11 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ⚠ | 一大筐会飞的草莓 | 2023-02 | 12,189,902 | 263,686 | Fan edit | Watermelon scene |
-| 12 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ⚠ | 周小闹是周小闹 | 2025-02 | 11,775,977 | 2,064 | Fan edit | Watermelon scene |
-| 13 | [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ⚠ | 增殖的发呆 | 2026-05 | 11,567,529 | 108,872 | Fan edit | Watermelon scene |
-| 14 | [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ⚠ | 谭乔 | 2022-03 | 11,252,992 | 215,973 | Fan edit | Watermelon scene |
-| 15 | [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ⚠ | 康师傅红烧甜不辣 | 2021-08 | 10,721,862 | 289,972 | Fan edit | Watermelon scene |
-| 16 | [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ⚠ | Captive柠檬 | 2021-08 | 10,263,109 | 234,465 | Fan edit | Watermelon scene |
+| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | 岩罗Crv | 2026-04 | 14,923,430 | 412,741 | Fan edit | Watermelon scene |
+| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | 一大筐会飞的草莓 | 2021-11 | 14,173,672 | 129,827 | Fan edit | Watermelon scene |
+| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | 酸奶煎个蛋 | 2026-05 | 14,165,953 | 64,686 | Fan edit | Watermelon scene |
+| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | 特效小哥studio | 2021-12 | 13,541,302 | 2,253,929 | Fan edit | Watermelon scene |
+| 11 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | 机智的Kason | 2021-09 | 12,634,678 | 158,798 | Fan edit | Watermelon scene |
+| 12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ⚠ | 一大筐会飞的草莓 | 2023-02 | 12,189,902 | 263,686 | Fan edit | Watermelon scene |
+| 13 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ⚠ | 周小闹是周小闹 | 2025-02 | 11,775,977 | 2,064 | Fan edit | Watermelon scene |
+| 14 | [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ⚠ | 增殖的发呆 | 2026-05 | 11,567,529 | 108,872 | Fan edit | Watermelon scene |
+| 15 | [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ⚠ | 谭乔 | 2022-03 | 11,252,992 | 215,973 | Fan edit | Watermelon scene |
+| 16 | [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ⚠ | 康师傅红烧甜不辣 | 2021-08 | 10,721,862 | 289,972 | Fan edit | Watermelon scene |
+| 17 | [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ⚠ | Captive柠檬 | 2021-08 | 10,263,109 | 234,465 | Fan edit | Watermelon scene |
 
 ## 🍉 The Watermelon Scene · Top 10
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
@@ -61,12 +62,12 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 | 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | 无牙人 | 2021-07 | 15,950,284 | 216,748 | Fan edit | Watermelon scene |
 | 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | 干物快乐宅 | 2021-07 | 15,254,583 | 74,485 | Fan edit | Watermelon scene |
 | 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | 伊介书生 | 2022-12 | 15,025,553 | 175,364 | Fan edit | Watermelon scene |
-| 7 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | 一大筐会飞的草莓 | 2021-11 | 14,173,672 | 129,827 | Fan edit | Watermelon scene |
-| 8 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | 酸奶煎个蛋 | 2026-05 | 14,165,953 | 64,686 | Fan edit | Watermelon scene |
-| 9 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | 特效小哥studio | 2021-12 | 13,541,302 | 2,253,929 | Fan edit | Watermelon scene |
-| 10 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | 机智的Kason | 2021-09 | 12,634,678 | 158,798 | Fan edit | Watermelon scene |
+| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | 岩罗Crv | 2026-04 | 14,923,430 | 412,741 | Fan edit | Watermelon scene |
+| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | 一大筐会飞的草莓 | 2021-11 | 14,173,672 | 129,827 | Fan edit | Watermelon scene |
+| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | 酸奶煎个蛋 | 2026-05 | 14,165,953 | 64,686 | Fan edit | Watermelon scene |
+| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | 特效小哥studio | 2021-12 | 13,541,302 | 2,253,929 | Fan edit | Watermelon scene |
 
-→ Full list (84): [docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/maigua/)
+→ Full list (98): [docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/maigua/)
 
 ## 🍜 Song Laohu’s Banquet · Top 10
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
@@ -82,7 +83,7 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 | 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | 乌贼酱 | 2026-07 | 2,617,382 | 21,885 | Fan edit | Banquet scene |
 | 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | Raymondsese | 2026-10 | 2,531,911 | 22,656 | AI (other) | Banquet scene |
 
-→ Full list (35): [docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
+→ Full list (38): [docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
 
 ## 🔪 Feng Biao Scenes · all 7
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
@@ -99,12 +100,12 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 | Year | Works | Forms | Top work |
 |---|---|---|---|
 | 2020 | 1 | Fan edit×1 | [电视剧《征服》中那些黑老大们的原型，封彪真的下跪叫爷爷了吗？](https://www.bilibili.com/video/BV1Af4y1d7fv) |
-| 2021 | 44 | Fan edit×42 · Guichu×2 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) |
-| 2022 | 11 | Fan edit×11 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) |
-| 2023 | 11 | Fan edit×11 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) |
+| 2021 | 59 | Fan edit×53 · Guichu×6 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) |
+| 2022 | 16 | Fan edit×13 · Guichu×3 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) |
+| 2023 | 12 | Fan edit×12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) |
 | 2024 | 8 | Fan edit×8 | [【梗百科】扣税“国王”是啥梗？听好了！乡巴佬？！！](https://www.bilibili.com/video/BV1fJ4m1e7Gv) |
-| 2025 | 6 | Fan edit×6 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) |
-| 2026 | 43 | Fan edit×39 · AI cover×2 · AI (other)×2 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) |
+| 2025 | 7 | Fan edit×7 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) |
+| 2026 | 68 | Fan edit×60 · AI cover×3 · Guichu×3 · AI (other)×2 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) |
 
 > First-hand pubdates already show the **ignition window of 2021-07-16–19** (hall-of-fame works clustered within four days); the 2026 sample includes works carrying Bilibili's official “AI-synthesized” label. Staging conclusions await deeper pubdate paging: [chronicle draft](reports/chronicle-draft.md) · [methodology](docs/methodology.md). ⚠ = pending human review ([ADR-0006](docs/decisions/0006-review-gate.md)).
 <!-- zfq:generated:end -->

@@ -1,0 +1,49 @@
+{
+  "bvid": "BV15L4y1673u",
+  "aid": 848466236,
+  "title": "找 茬 专 家 4",
+  "owner": {
+    "mid": 1360095945,
+    "name": "天天买瓜"
+  },
+  "pubdate": "2021-10-04T03:16:48Z",
+  "duration_s": 215,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "guichu",
+  "form_status": "auto",
+  "form_evidence": "空格标题（鬼畜区命名文化特征，启发式，待复核）",
+  "tier": "hot",
+  "tier_basis": "播放 2,555,670 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 2555670,
+      "like": 162250,
+      "coin": 33404,
+      "favorite": 40327,
+      "share": 9358,
+      "danmaku": 2777,
+      "reply": 859
+    }
+  ],
+  "notes": ""
+}

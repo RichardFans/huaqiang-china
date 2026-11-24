@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1H44y1a7Uv",
+    "aid": 977185871,
+    "videos": 1,
+    "tid": 182,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/f4de93016601e3ddceb60ca65c737f3a51e56675.jpg",
+    "title": "【征服】03：西瓜摊主被砍、封彪酒店下跪、灭老虎提上日程",
+    "pubdate": 1638684254,
+    "ctime": 1638684254,
+    "desc": "高清无水印版",
+    "desc_v2": [
+      {
+        "raw_text": "高清无水印版",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 1030,
+    "mission_id": 272454,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1641744166,
+      "name": "朝羊先生",
+      "face": "https://i1.hdslb.com/bfs/face/09493a8d95b99332b847080603aa5ba5a643f6bc.jpg"
+    },
+    "stat": {
+      "aid": 977185871,
+      "view": 168555,
+      "danmaku": 707,
+      "reply": 81,
+      "favorite": 963,
+      "coin": 171,
+      "share": 106,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1923,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 455014689,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 455014689,
+        "page": 1,
+        "from": "vupload",
+        "part": "第三章 07.08.09 OK",
+        "duration": 1030,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n211205qn3is67efx22pzk1qhqaqtmny_firsti.jpg",
+        "ctime": 1638684254
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,1628 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1BPLi6gEoC",
+    "aid": 116616650032671,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2207,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i2.hdslb.com/bfs/archive/b11ec014cc27a8944e55a287b594e2b1a96b9dab.jpg",
+    "title": "当华强买瓜遇到崔佛卖瓜",
+    "pubdate": 1779444600,
+    "ctime": 1779428904,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 91,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3690998595061936,
+      "name": "GTA6星好市民-",
+      "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+    },
+    "stat": {
+      "aid": 116616650032671,
+      "view": 23394,
+      "danmaku": 93,
+      "reply": 178,
+      "favorite": 349,
+      "coin": 47,
+      "share": 121,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 745,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 38520686774,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 8112573,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 38520686774,
+        "page": 1,
+        "from": "vupload",
+        "part": "当华强买瓜遇到崔佛卖瓜",
+        "duration": 91,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000w8scpi1412qv2m6vxfslapmfwb_firsti.jpg",
+        "ctime": 1779428904,
+        "asr_language": "eng"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8112573,
+      "title": "《GTA5》崔佛中国行",
+      "cover": "https://s1.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "mid": 3690998595061936,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8112573,
+        "view": 360443,
+        "danmaku": 359,
+        "reply": 963,
+        "fav": 2081,
+        "coin": 300,
+        "share": 1886,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 10938,
+        "vt": 0,
+        "vv": 360443
+      },
+      "ep_count": 14,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8112573,
+          "id": 9014854,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195122255,
+              "aid": 116543249909570,
+              "cid": 38207358556,
+              "title": "GTA中国行之重庆——8D魔幻山城绕晕崔佛",
+              "attribute": 0,
+              "arc": {
+                "aid": 116543249909570,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f962a12368bd7ea10b09c9e64986629449279b9d.jpg",
+                "title": "GTA中国行之重庆——8D魔幻山城绕晕崔佛",
+                "pubdate": 1778321400,
+                "ctime": 1778321400,
+                "desc": "",
+                "state": 0,
+                "duration": 56,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116543249909570,
+                  "view": 4987,
+                  "danmaku": 7,
+                  "reply": 10,
+                  "fav": 40,
+                  "coin": 8,
+                  "share": 25,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 127,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4987
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38207358556,
+                "page": 1,
+                "from": "vupload",
+                "part": "GTA中国行之重庆——8D魔幻山城绕晕崔佛",
+                "duration": 56,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV166RQBJETa",
+              "pages": [
+                {
+                  "cid": 38207358556,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "GTA中国行之重庆——8D魔幻山城绕晕崔佛",
+                  "duration": 56,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195122256,
+              "aid": 116493337496813,
+              "cid": 37976999927,
+              "title": "《GTA5》崔佛勇闯武汉第四期——坐公交",
+              "attribute": 0,
+              "arc": {
+                "aid": 116493337496813,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/a0acfda3ea8db9de866cb35a6d8309e9ce2a5ed1.jpg",
+                "title": "《GTA5》崔佛勇闯武汉第四期——坐公交",
+                "pubdate": 1777975440,
+                "ctime": 1777975440,
+                "desc": "",
+                "state": 0,
+                "duration": 70,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116493337496813,
+                  "view": 8020,
+                  "danmaku": 7,
+                  "reply": 31,
+                  "fav": 52,
+                  "coin": 22,
+                  "share": 56,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 255,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 8020
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37976999927,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA5》崔佛勇闯武汉第四期——坐公交",
+                "duration": 70,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1u59aBrEVF",
+              "pages": [
+                {
+                  "cid": 37976999927,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA5》崔佛勇闯武汉第四期——坐公交",
+                  "duration": 70,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195122257,
+              "aid": 116493220186753,
+              "cid": 37976016964,
+              "title": "崔佛五一北京旅游vlog",
+              "attribute": 0,
+              "arc": {
+                "aid": 116493220186753,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/46e4d47d6ad019d860e7ffee11d30218519ae825.jpg",
+                "title": "崔佛五一北京旅游vlog",
+                "pubdate": 1777631460,
+                "ctime": 1777631460,
+                "desc": "",
+                "state": 0,
+                "duration": 51,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116493220186753,
+                  "view": 37027,
+                  "danmaku": 43,
+                  "reply": 84,
+                  "fav": 216,
+                  "coin": 37,
+                  "share": 149,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 842,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 37027
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37976016964,
+                "page": 1,
+                "from": "vupload",
+                "part": "崔佛五一北京旅游vlog",
+                "duration": 51,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1oc9aBnEKQ",
+              "pages": [
+                {
+                  "cid": 37976016964,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "崔佛五一北京旅游vlog",
+                  "duration": 51,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195122258,
+              "aid": 116459615355018,
+              "cid": 37785307743,
+              "title": "真正的主角总是最后出现",
+              "attribute": 0,
+              "arc": {
+                "aid": 116459615355018,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/7cb525cecb68ac396e833bd80f0b419e81a09d68.jpg",
+                "title": "真正的主角总是最后出现",
+                "pubdate": 1777032860,
+                "ctime": 1777032860,
+                "desc": "",
+                "state": 0,
+                "duration": 9,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116459615355018,
+                  "view": 3490,
+                  "danmaku": 0,
+                  "reply": 2,
+                  "fav": 10,
+                  "coin": 2,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 45,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3490
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37785307743,
+                "page": 1,
+                "from": "vupload",
+                "part": "真正的主角总是最后出现",
+                "duration": 9,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1LrojBUEaW",
+              "pages": [
+                {
+                  "cid": 37785307743,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真正的主角总是最后出现",
+                  "duration": 9,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195122260,
+              "aid": 116380527494334,
+              "cid": 37394580971,
+              "title": "《GTA5》崔佛勇闯武汉第二期——过早",
+              "attribute": 0,
+              "arc": {
+                "aid": 116380527494334,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/ea7608065a9c1e690f5de4751a59f60afba2dc66.jpg",
+                "title": "《GTA5》崔佛勇闯武汉第二期——过早",
+                "pubdate": 1775902800,
+                "ctime": 1775902800,
+                "desc": "",
+                "state": 0,
+                "duration": 66,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116380527494334,
+                  "view": 225575,
+                  "danmaku": 141,
+                  "reply": 488,
+                  "fav": 1032,
+                  "coin": 120,
+                  "share": 1121,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 7522,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 225575
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37394580971,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA5》崔佛勇闯武汉第二期——过早",
+                "duration": 66,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1DnQcBEEjD",
+              "pages": [
+                {
+                  "cid": 37394580971,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA5》崔佛勇闯武汉第二期——过早",
+                  "duration": 66,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195122261,
+              "aid": 116322830649299,
+              "cid": 37123000523,
+              "title": "当《GTA5》主角崔佛来到武汉，全员鄂人，崔佛破防",
+              "attribute": 0,
+              "arc": {
+                "aid": 116322830649299,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/9b54cf517531f22732d60cff5c4c009d9308327f.jpg",
+                "title": "当《GTA5》主角崔佛来到武汉，全员鄂人，崔佛破防",
+                "pubdate": 1774952100,
+                "ctime": 1774952100,
+                "desc": "",
+                "state": 0,
+                "duration": 71,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116322830649299,
+                  "view": 34733,
+                  "danmaku": 56,
+                  "reply": 138,
+                  "fav": 247,
+                  "coin": 38,
+                  "share": 260,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 842,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 34733
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37123000523,
+                "page": 1,
+                "from": "vupload",
+                "part": "3月23GTA武汉视频(2)",
+                "duration": 71,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18PXkBNES1",
+              "pages": [
+                {
+                  "cid": 37123000523,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "3月23GTA武汉视频(2)",
+                  "duration": 71,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195122743,
+              "aid": 116566033172393,
+              "cid": 38300091124,
+              "title": "GTA中国行之重庆无间道",
+              "attribute": 0,
+              "arc": {
+                "aid": 116566033172393,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/906ed7dcc3f2f4503edca42f237f853185087c51.jpg",
+                "title": "GTA中国行之重庆无间道",
+                "pubdate": 1778667600,
+                "ctime": 1778667600,
+                "desc": "",
+                "state": 0,
+                "duration": 109,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116566033172393,
+                  "view": 6901,
+                  "danmaku": 6,
+                  "reply": 15,
+                  "fav": 53,
+                  "coin": 19,
+                  "share": 21,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 210,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6901
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38300091124,
+                "page": 1,
+                "from": "vupload",
+                "part": "GTA中国行之重庆无间道",
+                "duration": 109,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1nP5C68Emm",
+              "pages": [
+                {
+                  "cid": 38300091124,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "GTA中国行之重庆无间道",
+                  "duration": 109,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195555689,
+              "aid": 116577978548537,
+              "cid": 38352849107,
+              "title": "《GTA长沙风云》坡子街支线任务成就达成",
+              "attribute": 0,
+              "arc": {
+                "aid": 116577978548537,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/9d3b3b98cec222418326a99781c8c7abba1b22f9.jpg",
+                "title": "《GTA长沙风云》坡子街支线任务成就达成",
+                "pubdate": 1778838862,
+                "ctime": 1778838862,
+                "desc": "",
+                "state": 0,
+                "duration": 20,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116577978548537,
+                  "view": 2016,
+                  "danmaku": 0,
+                  "reply": 3,
+                  "fav": 7,
+                  "coin": 0,
+                  "share": 4,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 27,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2016
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38352849107,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA长沙风云》坡子街支线任务成就达成",
+                "duration": 20,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1VN5v6oEAZ",
+              "pages": [
+                {
+                  "cid": 38352849107,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA长沙风云》坡子街支线任务成就达成",
+                  "duration": 20,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 195559954,
+              "aid": 116578045659988,
+              "cid": 38353307977,
+              "title": "《GTA长沙风云2》鉴茶大师成就达成",
+              "attribute": 0,
+              "arc": {
+                "aid": 116578045659988,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/511a7dc3401e3aa9fca3a11cca7b510997fe2eaf.jpg",
+                "title": "《GTA长沙风云2》鉴茶大师成就达成",
+                "pubdate": 1778926200,
+                "ctime": 1778926200,
+                "desc": "",
+                "state": 0,
+                "duration": 25,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116578045659988,
+                  "view": 1612,
+                  "danmaku": 1,
+                  "reply": 3,
+                  "fav": 12,
+                  "coin": 2,
+                  "share": 16,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 34,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1612
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38353307977,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA长沙风云2》鉴茶大师成就达成",
+                "duration": 25,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV14v5e67Eou",
+              "pages": [
+                {
+                  "cid": 38353307977,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA长沙风云2》鉴茶大师成就达成",
+                  "duration": 25,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 196640870,
+              "aid": 116606281714572,
+              "cid": 38475203529,
+              "title": "《GTA武汉风云》打卡斑马小镇",
+              "attribute": 0,
+              "arc": {
+                "aid": 116606281714572,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/bdf281379e36ffbad1b4f5fc33bfb6a57fc5f04d.jpg",
+                "title": "《GTA武汉风云》打卡斑马小镇",
+                "pubdate": 1779270824,
+                "ctime": 1779270824,
+                "desc": "",
+                "state": 0,
+                "duration": 27,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116606281714572,
+                  "view": 3069,
+                  "danmaku": 2,
+                  "reply": 5,
+                  "fav": 13,
+                  "coin": 1,
+                  "share": 53,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 71,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3069
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38475203529,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA武汉风云》打卡斑马小镇",
+                "duration": 27,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1SPLU6ZEM6",
+              "pages": [
+                {
+                  "cid": 38475203529,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA武汉风云》打卡斑马小镇",
+                  "duration": 27,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 197005957,
+              "aid": 116616650032671,
+              "cid": 38520686774,
+              "title": "当华强买瓜遇到崔佛卖瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116616650032671,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/b11ec014cc27a8944e55a287b594e2b1a96b9dab.jpg",
+                "title": "当华强买瓜遇到崔佛卖瓜",
+                "pubdate": 1779444600,
+                "ctime": 1779444600,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116616650032671,
+                  "view": 23394,
+                  "danmaku": 93,
+                  "reply": 178,
+                  "fav": 349,
+                  "coin": 47,
+                  "share": 121,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 745,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 23394
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38520686774,
+                "page": 1,
+                "from": "vupload",
+                "part": "当华强买瓜遇到崔佛卖瓜",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BPLi6gEoC",
+              "pages": [
+                {
+                  "cid": 38520686774,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "当华强买瓜遇到崔佛卖瓜",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 197919345,
+              "aid": 116639668372541,
+              "cid": 38622662371,
+              "title": "《GTA武汉风云》崔佛江汉路打卡",
+              "attribute": 0,
+              "arc": {
+                "aid": 116639668372541,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/2055c9bfb618071b28a6ca67ede8292e8fb46985.jpg",
+                "title": "《GTA武汉风云》崔佛江汉路打卡",
+                "pubdate": 1779790740,
+                "ctime": 1779790740,
+                "desc": "",
+                "state": 0,
+                "duration": 18,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116639668372541,
+                  "view": 3946,
+                  "danmaku": 2,
+                  "reply": 1,
+                  "fav": 19,
+                  "coin": 2,
+                  "share": 12,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 48,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3946
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38622662371,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA武汉风云》崔佛江汉路打卡",
+                "duration": 18,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1h1VP6NEyr",
+              "pages": [
+                {
+                  "cid": 38622662371,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA武汉风云》崔佛江汉路打卡",
+                  "duration": 18,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 200104932,
+              "aid": 116697683987756,
+              "cid": 38885721738,
+              "title": "《GTA潮汕任务》丸弹高手成就达成",
+              "attribute": 0,
+              "arc": {
+                "aid": 116697683987756,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/6ffbe5a6b15e7310f4a8184cf9ff408724bc1a5b.jpg",
+                "title": "《GTA潮汕任务》丸弹高手成就达成",
+                "pubdate": 1780740000,
+                "ctime": 1780740000,
+                "desc": "",
+                "state": 0,
+                "duration": 32,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116697683987756,
+                  "view": 1453,
+                  "danmaku": 0,
+                  "reply": 0,
+                  "fav": 6,
+                  "coin": 0,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 17,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1453
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38885721738,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA潮汕任务》丸弹高手成就达成",
+                "duration": 32,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1wu7161E4t",
+              "pages": [
+                {
+                  "cid": 38885721738,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA潮汕任务》丸弹高手成就达成",
+                  "duration": 32,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8112573,
+              "section_id": 9014854,
+              "id": 201411642,
+              "aid": 116731590806332,
+              "cid": 39040847473,
+              "title": "《GTA武汉风云》户部巷吃热干面",
+              "attribute": 0,
+              "arc": {
+                "aid": 116731590806332,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/fa0cbf1849174517c3a9e185599846b67e2efe69.jpg",
+                "title": "《GTA武汉风云》户部巷吃热干面",
+                "pubdate": 1781431200,
+                "ctime": 1781431200,
+                "desc": "",
+                "state": 0,
+                "duration": 26,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3690998595061936,
+                  "name": "GTA6星好市民-",
+                  "face": "https://i1.hdslb.com/bfs/face/695001d00779f395ee20e9e5246d79272c8feaae.jpg"
+                },
+                "stat": {
+                  "aid": 116731590806332,
+                  "view": 4220,
+                  "danmaku": 1,
+                  "reply": 5,
+                  "fav": 25,
+                  "coin": 2,
+                  "share": 43,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 153,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4220
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39040847473,
+                "page": 1,
+                "from": "vupload",
+                "part": "《GTA武汉风云》户部巷吃热干面",
+                "duration": 26,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1thEi6YEYt",
+              "pages": [
+                {
+                  "cid": 39040847473,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《GTA武汉风云》户部巷吃热干面",
+                  "duration": 26,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

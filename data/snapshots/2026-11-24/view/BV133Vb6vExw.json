@@ -1,0 +1,1529 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV133Vb6vExw",
+    "aid": 116656160380323,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i2.hdslb.com/bfs/archive/96f1fe25392242134b04c05d61dae07f2a310947.jpg",
+    "title": "❤️买 瓜 不 是 罪 过 ~❤️",
+    "pubdate": 1780032229,
+    "ctime": 1780032229,
+    "desc": "AI生成，仅供娱乐~",
+    "desc_v2": [
+      {
+        "raw_text": "AI生成，仅供娱乐~",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 92,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 4269384,
+      "name": "碎语碎念",
+      "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+    },
+    "stat": {
+      "aid": 116656160380323,
+      "view": 11467,
+      "danmaku": 11,
+      "reply": 5,
+      "favorite": 35,
+      "coin": 7,
+      "share": 7,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 112,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 38690817969,
+    "dimension": {
+      "width": 1280,
+      "height": 720,
+      "rotate": 0
+    },
+    "season_id": 8149856,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 38690817969,
+        "page": 1,
+        "from": "vupload",
+        "part": "❤️买 瓜 不 是 罪 过 ~❤️",
+        "duration": 92,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003j5dqs36hx3di2ngwnw6ihoh38b_firsti.jpg",
+        "ctime": 1780032229,
+        "asr_language": "vie"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8149856,
+      "title": "AI买瓜",
+      "cover": "https://archive.biliimg.com/bfs/archive/935d98f2e13fa72c62c7aa8f1e5171da97574379.jpg",
+      "mid": 4269384,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8149856,
+        "view": 691224,
+        "danmaku": 2901,
+        "reply": 2128,
+        "fav": 4722,
+        "coin": 2203,
+        "share": 2023,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 21478,
+        "vt": 0,
+        "vv": 691224
+      },
+      "ep_count": 13,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8149856,
+          "id": 9056577,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 196199009,
+              "aid": 116594353115298,
+              "cid": 38420418131,
+              "title": "华强买瓜，但是杂技表演",
+              "attribute": 0,
+              "arc": {
+                "aid": 116594353115298,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/afd0a37b6fc4aabf9649ace12e9779228c6cb026.jpg",
+                "title": "华强买瓜，但是杂技表演",
+                "pubdate": 1779088859,
+                "ctime": 1779088859,
+                "desc": "",
+                "state": 0,
+                "duration": 121,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116594353115298,
+                  "view": 7005,
+                  "danmaku": 5,
+                  "reply": 3,
+                  "fav": 36,
+                  "coin": 8,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 87,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 7005
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38420418131,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但是杂技表演",
+                "duration": 121,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1YVLF6tE3X",
+              "pages": [
+                {
+                  "cid": 38420418131,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但是杂技表演",
+                  "duration": 121,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 196827616,
+              "aid": 116577592744780,
+              "cid": 38349901592,
+              "title": "华强买瓜，但是人口老龄化",
+              "attribute": 0,
+              "arc": {
+                "aid": 116577592744780,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c88dbacf4ac2458a6116f9fdd831a1cb76f9fc30.jpg",
+                "title": "华强买瓜，但是人口老龄化",
+                "pubdate": 1778832999,
+                "ctime": 1778832999,
+                "desc": "",
+                "state": 0,
+                "duration": 121,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116577592744780,
+                  "view": 41179,
+                  "danmaku": 106,
+                  "reply": 103,
+                  "fav": 371,
+                  "coin": 43,
+                  "share": 33,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 984,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 41179
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38349901592,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但是人口老龄化",
+                "duration": 121,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1xp5v6LEpa",
+              "pages": [
+                {
+                  "cid": 38349901592,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但是人口老龄化",
+                  "duration": 121,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 197120570,
+              "aid": 116618747187682,
+              "cid": 38534513181,
+              "title": "学 姐 买 瓜 之 保 研 丹",
+              "attribute": 0,
+              "arc": {
+                "aid": 116618747187682,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/72c0d283cf89c8be7f2bb9ed76e77650b0ab96a8.jpg",
+                "title": "学 姐 买 瓜 之 保 研 丹",
+                "pubdate": 1779461416,
+                "ctime": 1779461416,
+                "desc": "",
+                "state": 0,
+                "duration": 123,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116618747187682,
+                  "view": 178581,
+                  "danmaku": 1300,
+                  "reply": 1033,
+                  "fav": 1392,
+                  "coin": 1511,
+                  "share": 1035,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 11289,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 178581
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38534513181,
+                "page": 1,
+                "from": "vupload",
+                "part": "杨 景 媛 买 瓜 之 保 研 丹",
+                "duration": 123,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1U3G868EjB",
+              "pages": [
+                {
+                  "cid": 38534513181,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "杨 景 媛 买 瓜 之 保 研 丹",
+                  "duration": 123,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 197778502,
+              "aid": 116635306300844,
+              "cid": 38606536937,
+              "title": "华 强 买 瓜 产 业 链",
+              "attribute": 0,
+              "arc": {
+                "aid": 116635306300844,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/2e0197143f3fc6c2034b8638d8ea95f304c15b3b.jpg",
+                "title": "华 强 买 瓜 产 业 链",
+                "pubdate": 1779713796,
+                "ctime": 1779713796,
+                "desc": "",
+                "state": 0,
+                "duration": 113,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116635306300844,
+                  "view": 19897,
+                  "danmaku": 14,
+                  "reply": 14,
+                  "fav": 118,
+                  "coin": 14,
+                  "share": 15,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 284,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 19897
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38606536937,
+                "page": 1,
+                "from": "vupload",
+                "part": "华 强 买 瓜 产 业 链",
+                "duration": 113,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2776,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Q9Go61EbW",
+              "pages": [
+                {
+                  "cid": 38606536937,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华 强 买 瓜 产 业 链",
+                  "duration": 113,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2776,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 198120478,
+              "aid": 116645221635094,
+              "cid": 38645532007,
+              "title": "慈  禧  太  后  买  瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116645221635094,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/0175e10e74daeddab34b1374d5e16356169061cb.jpg",
+                "title": "慈  禧  太  后  买  瓜",
+                "pubdate": 1779864874,
+                "ctime": 1779864874,
+                "desc": "",
+                "state": 0,
+                "duration": 108,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116645221635094,
+                  "view": 65188,
+                  "danmaku": 438,
+                  "reply": 209,
+                  "fav": 770,
+                  "coin": 115,
+                  "share": 222,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1785,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 65188
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38645532007,
+                "page": 1,
+                "from": "vupload",
+                "part": "慈  禧  太  后  买  瓜",
+                "duration": 108,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BZGy6sESx",
+              "pages": [
+                {
+                  "cid": 38645532007,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "慈  禧  太  后  买  瓜",
+                  "duration": 108,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 198513627,
+              "aid": 116656160380323,
+              "cid": 38690817969,
+              "title": "❤️买 瓜 不 是 罪 过 ~❤️",
+              "attribute": 0,
+              "arc": {
+                "aid": 116656160380323,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/96f1fe25392242134b04c05d61dae07f2a310947.jpg",
+                "title": "❤️买 瓜 不 是 罪 过 ~❤️",
+                "pubdate": 1780032229,
+                "ctime": 1780032229,
+                "desc": "",
+                "state": 0,
+                "duration": 92,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116656160380323,
+                  "view": 11467,
+                  "danmaku": 11,
+                  "reply": 5,
+                  "fav": 35,
+                  "coin": 7,
+                  "share": 7,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 112,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 11467
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38690817969,
+                "page": 1,
+                "from": "vupload",
+                "part": "❤️买 瓜 不 是 罪 过 ~❤️",
+                "duration": 92,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV133Vb6vExw",
+              "pages": [
+                {
+                  "cid": 38690817969,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "❤️买 瓜 不 是 罪 过 ~❤️",
+                  "duration": 92,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 199437079,
+              "aid": 116679732435791,
+              "cid": 38813959995,
+              "title": "数  学  天  才  买  瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 116679732435791,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/76626f855f5770ba1967d7a992452c4686b47ae7.jpg",
+                "title": "数  学  天  才  买  瓜",
+                "pubdate": 1780391528,
+                "ctime": 1780391528,
+                "desc": "",
+                "state": 0,
+                "duration": 113,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116679732435791,
+                  "view": 223376,
+                  "danmaku": 662,
+                  "reply": 676,
+                  "fav": 1294,
+                  "coin": 376,
+                  "share": 553,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4644,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 223376
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38813959995,
+                "page": 1,
+                "from": "vupload",
+                "part": "6月2日(2)",
+                "duration": 113,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bvVz6fE4Z",
+              "pages": [
+                {
+                  "cid": 38813959995,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "6月2日(2)",
+                  "duration": 113,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 199845661,
+              "aid": 116691107582396,
+              "cid": 38851838218,
+              "title": "《我恨华强不捅我》——小弟深情独唱",
+              "attribute": 0,
+              "arc": {
+                "aid": 116691107582396,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/b778c25a6a762eb6a7e09565de993f003752d84f.jpg",
+                "title": "《我恨华强不捅我》——小弟深情独唱",
+                "pubdate": 1780565227,
+                "ctime": 1780565227,
+                "desc": "",
+                "state": 0,
+                "duration": 211,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116691107582396,
+                  "view": 32139,
+                  "danmaku": 31,
+                  "reply": 10,
+                  "fav": 56,
+                  "coin": 9,
+                  "share": 4,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 127,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 32139
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38851838218,
+                "page": 1,
+                "from": "vupload",
+                "part": "《我恨华强不捅我》——小弟深情独唱",
+                "duration": 211,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19EEw6rEk2",
+              "pages": [
+                {
+                  "cid": 38851838218,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《我恨华强不捅我》——小弟深情独唱",
+                  "duration": 211,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 204584107,
+              "aid": 116815124503415,
+              "cid": 39420363474,
+              "title": "华强买瓜，但是乐高版（看到最后！）",
+              "attribute": 0,
+              "arc": {
+                "aid": 116815124503415,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/a263a7a24feb080f9680fa852b26e949c70b0801.jpg",
+                "title": "华强买瓜，但是乐高版（看到最后！）",
+                "pubdate": 1782457484,
+                "ctime": 1782457484,
+                "desc": "",
+                "state": 0,
+                "duration": 117,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116815124503415,
+                  "view": 6159,
+                  "danmaku": 110,
+                  "reply": 9,
+                  "fav": 168,
+                  "coin": 15,
+                  "share": 14,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 243,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6159
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39420363474,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但是乐高版（看到最后！）",
+                "duration": 117,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1qA7G66Eug",
+              "pages": [
+                {
+                  "cid": 39420363474,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但是乐高版（看到最后！）",
+                  "duration": 117,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 209388754,
+              "aid": 116934460839011,
+              "cid": 40037190010,
+              "title": "华 强 买 大 狗",
+              "attribute": 0,
+              "arc": {
+                "aid": 116934460839011,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/44f46fb4498dbcd01d1204d5957e4096d5ac63fb.jpg",
+                "title": "华 强 买 大 狗",
+                "pubdate": 1784278420,
+                "ctime": 1784278420,
+                "desc": "",
+                "state": 0,
+                "duration": 107,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116934460839011,
+                  "view": 8461,
+                  "danmaku": 19,
+                  "reply": 9,
+                  "fav": 106,
+                  "coin": 9,
+                  "share": 20,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 202,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 8461
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40037190010,
+                "page": 1,
+                "from": "vupload",
+                "part": "完整版",
+                "duration": 107,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BsKn6MEtz",
+              "pages": [
+                {
+                  "cid": 40037190010,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "完整版",
+                  "duration": 107,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 210248500,
+              "aid": 116955533022420,
+              "cid": 40148207356,
+              "title": "华强买瓜【deepseek v4正式版】",
+              "attribute": 0,
+              "arc": {
+                "aid": 116955533022420,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/ea9f94b65b1eb1f643c4af066ca43a1242ae0a0a.jpg",
+                "title": "华强买瓜【deepseek v4正式版】",
+                "pubdate": 1784600031,
+                "ctime": 1784600031,
+                "desc": "",
+                "state": 0,
+                "duration": 93,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116955533022420,
+                  "view": 4750,
+                  "danmaku": 39,
+                  "reply": 12,
+                  "fav": 17,
+                  "coin": 1,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 93,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4750
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40148207356,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜【deepseek v4正式版】",
+                "duration": 93,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2288,
+                  "height": 1320,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1HuKt6aEU2",
+              "pages": [
+                {
+                  "cid": 40148207356,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜【deepseek v4正式版】",
+                  "duration": 93,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2288,
+                    "height": 1320,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 211025677,
+              "aid": 116973048438587,
+              "cid": 40245724486,
+              "title": "勇 哥 连 线 郝 哥",
+              "attribute": 0,
+              "arc": {
+                "aid": 116973048438587,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/6bfc731dd45096bd437374b1832798e86375f16a.jpg",
+                "title": "勇 哥 连 线 郝 哥",
+                "pubdate": 1784867599,
+                "ctime": 1784867599,
+                "desc": "",
+                "state": 0,
+                "duration": 75,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 116973048438587,
+                  "view": 90793,
+                  "danmaku": 159,
+                  "reply": 44,
+                  "fav": 353,
+                  "coin": 95,
+                  "share": 110,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1601,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 90793
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40245724486,
+                "page": 1,
+                "from": "vupload",
+                "part": "勇 哥 连 线 郝 哥",
+                "duration": 75,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17qgh6yE8Q",
+              "pages": [
+                {
+                  "cid": 40245724486,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "勇 哥 连 线 郝 哥",
+                  "duration": 75,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8149856,
+              "section_id": 9056577,
+              "id": 216082612,
+              "aid": 117092435171167,
+              "cid": 40898462940,
+              "title": "华强买瓜【deepseek v4正式版0813】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117092435171167,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/8c5f5abae84ed8783a6fd2d72c2a663dc80a70b7.jpg",
+                "title": "华强买瓜【deepseek v4正式版0813】",
+                "pubdate": 1786688881,
+                "ctime": 1786688881,
+                "desc": "",
+                "state": 0,
+                "duration": 103,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 4269384,
+                  "name": "碎语碎念",
+                  "face": "https://i0.hdslb.com/bfs/face/dd586f0f296311bb1e7a46665f6dbe3c62488b55.jpg"
+                },
+                "stat": {
+                  "aid": 117092435171167,
+                  "view": 2230,
+                  "danmaku": 7,
+                  "reply": 1,
+                  "fav": 6,
+                  "coin": 0,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 27,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2230
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40898462940,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜【deepseek v4正式版0813】",
+                "duration": 103,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2424,
+                  "height": 1488,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1tKgw6VEPr",
+              "pages": [
+                {
+                  "cid": 40898462940,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜【deepseek v4正式版0813】",
+                  "duration": 103,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2424,
+                    "height": 1488,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

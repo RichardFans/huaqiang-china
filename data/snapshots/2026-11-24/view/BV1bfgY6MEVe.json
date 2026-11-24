@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1bfgY6MEVe",
+    "aid": 116973652477448,
+    "videos": 1,
+    "tid": 183,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/0a55e923a4b82910c79ee083025be0d1f47e1b83.jpg",
+    "title": "《 多 动 症 》",
+    "pubdate": 1784876313,
+    "ctime": 1784876297,
+    "desc": "这视频肝了咱三天三夜（还是四天？），剪完后浑身无力。\n永远站在食物链底端的郝哥（悲）",
+    "desc_v2": [
+      {
+        "raw_text": "这视频肝了咱三天三夜（还是四天？），剪完后浑身无力。\n永远站在食物链底端的郝哥（悲）",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 226,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3707024089025046,
+      "name": "威廉不败",
+      "face": "https://i0.hdslb.com/bfs/face/93c2a6064c4d723b8a20556eb899b7d6414c3eb4.jpg"
+    },
+    "stat": {
+      "aid": 116973652477448,
+      "view": 1489,
+      "danmaku": 2,
+      "reply": 2,
+      "favorite": 29,
+      "coin": 2,
+      "share": 5,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 47,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 40249330179,
+    "dimension": {
+      "width": 1920,
+      "height": 954,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 40249330179,
+        "page": 1,
+        "from": "vupload",
+        "part": "《 多 动 症 》",
+        "duration": 226,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 954,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000bp9g0qcbqscp25u04iz39w4n6b_firsti.jpg",
+        "ctime": 1784876297,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

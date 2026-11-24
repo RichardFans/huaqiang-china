@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1bibi6xEwS",
+  "aid": 117111393426391,
+  "title": "⚡只劈你有感觉⚡",
+  "owner": {
+    "mid": 320911654,
+    "name": "掌控时光之龙"
+  },
+  "pubdate": "2026-08-17T14:51:19Z",
+  "duration_s": 203,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "song-laohu-banquet"
+  ],
+  "scene_evidence": "仅检索词『宋老虎』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 159,678 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "宋老虎",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 159678,
+      "like": 6121,
+      "coin": 3347,
+      "favorite": 1728,
+      "share": 471,
+      "danmaku": 229,
+      "reply": 255
+    }
+  ],
+  "notes": ""
+}

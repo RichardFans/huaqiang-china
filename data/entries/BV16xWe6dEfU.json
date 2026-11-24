@@ -1,0 +1,49 @@
+{
+  "bvid": "BV16xWe6dEfU",
+  "aid": 117607764070830,
+  "title": "点开之前没想到这么逆天",
+  "owner": {
+    "mid": 1398957,
+    "name": "树深时见鹿dear"
+  },
+  "pubdate": "2026-11-13T09:00:00Z",
+  "duration_s": 139,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "无明确形态线索，默认 clip（待人工复核）",
+  "tier": "rising",
+  "tier_basis": "播放 753,429 ≥ 10万 且发布 ≤180 天（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 753429,
+      "like": 29659,
+      "coin": 4283,
+      "favorite": 5773,
+      "share": 5751,
+      "danmaku": 583,
+      "reply": 1090
+    }
+  ],
+  "notes": ""
+}

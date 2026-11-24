@@ -1,0 +1,147 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ZZ4y147XR",
+    "aid": 384720456,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/dd86a8f50c9265a21098bc3b2ff2b67f6d3cc074.jpg",
+    "title": "⚡️这 是 我 弟 弟 电 摇⚡️",
+    "pubdate": 1654398468,
+    "ctime": 1654398468,
+    "desc": "电老虎（确信）",
+    "desc_v2": [
+      {
+        "raw_text": "电老虎（确信）",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 95,
+    "mission_id": 644122,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 31783129,
+      "name": "打不倒の西撒",
+      "face": "https://i1.hdslb.com/bfs/face/e98a0fc61b6cf223cd994cde9aec7eee577bef29.jpg"
+    },
+    "stat": {
+      "aid": 384720456,
+      "view": 2950475,
+      "danmaku": 1704,
+      "reply": 865,
+      "favorite": 33322,
+      "coin": 15185,
+      "share": 9709,
+      "now_rank": 0,
+      "his_rank": 64,
+      "like": 151714,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 738368256,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 738368256,
+        "page": 1,
+        "from": "vupload",
+        "part": "电摇小子也是我弟弟",
+        "duration": 95,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n220605qn2oqrursh29lbn2kbyxlh3w5_firsti.jpg",
+        "ctime": 1654398468
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 384720456,
+          "type": 3,
+          "desc": "全站排行榜最高第64名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 384720456,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 384720456,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

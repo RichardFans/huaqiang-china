@@ -1,0 +1,1214 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV18r4YeMEeN",
+    "aid": 113113533779848,
+    "videos": 1,
+    "tid": 259,
+    "tid_v2": 2002,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/ef55eaf288b2fedf9b7a003f2f889726c713d759.jpg",
+    "title": "演 技 极 差 8.0",
+    "pubdate": 1725975705,
+    "ctime": 1725975705,
+    "desc": "老谋子再次尝试一镜到底（bushi",
+    "desc_v2": [
+      {
+        "raw_text": "老谋子再次尝试一镜到底（bushi",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 135,
+    "mission_id": 4019801,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 2986310,
+      "name": "冠希204",
+      "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+    },
+    "stat": {
+      "aid": 113113533779848,
+      "view": 203036,
+      "danmaku": 277,
+      "reply": 103,
+      "favorite": 1075,
+      "coin": 294,
+      "share": 378,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 3530,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 25814765556,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 3347896,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 25814765556,
+        "page": 1,
+        "from": "vupload",
+        "part": "演 技 极 差 8.0",
+        "duration": 135,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n240910tx254339ov9e2wm21dwfcjx3j_firsti.jpg",
+        "ctime": 1725975705
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 3347896,
+      "title": "演 技 极 差",
+      "cover": "https://archive.biliimg.com/bfs/archive/77e15fbda40efe04c431ed539a2a6e419d2239bc.jpg",
+      "mid": 2986310,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 3347896,
+        "view": 4491188,
+        "danmaku": 4322,
+        "reply": 2881,
+        "fav": 64873,
+        "coin": 17743,
+        "share": 30373,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 193123,
+        "vt": 0,
+        "vv": 4491188
+      },
+      "ep_count": 10,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 3347896,
+          "id": 3743597,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 72754698,
+              "aid": 1255972919,
+              "cid": 1599468809,
+              "title": "演 技 极 差",
+              "attribute": 0,
+              "arc": {
+                "aid": 1255972919,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/98b55285ef28448d07ab591df9583cca0ae5ca09.jpg",
+                "title": "演 技 极 差",
+                "pubdate": 1719636390,
+                "ctime": 1719636390,
+                "desc": "",
+                "state": 0,
+                "duration": 64,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 1255972919,
+                  "view": 789786,
+                  "danmaku": 404,
+                  "reply": 433,
+                  "fav": 9737,
+                  "coin": 3823,
+                  "share": 5748,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 37120,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 789786
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1599468809,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差",
+                "duration": 64,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1eJ4m1T7vG",
+              "pages": [
+                {
+                  "cid": 1599468809,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差",
+                  "duration": 64,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 72754594,
+              "aid": 1806209101,
+              "cid": 1605029827,
+              "title": "演 技 极 差 2.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 1806209101,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/c9a5922bfc2ee34487033ba1ad0aaebacdb9aeac.jpg",
+                "title": "演 技 极 差 2.0",
+                "pubdate": 1720104808,
+                "ctime": 1720104808,
+                "desc": "",
+                "state": 0,
+                "duration": 97,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 1806209101,
+                  "view": 188148,
+                  "danmaku": 194,
+                  "reply": 87,
+                  "fav": 1475,
+                  "coin": 365,
+                  "share": 455,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8111,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 188148
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1605029827,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 2.0",
+                "duration": 97,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV16b421E76n",
+              "pages": [
+                {
+                  "cid": 1605029827,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 2.0",
+                  "duration": 97,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 72981711,
+              "aid": 1756016435,
+              "cid": 1607474744,
+              "title": "演 技 极 差 3.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 1756016435,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/41f4e6d4862a9b66a55d155964cea60fa23b37f0.jpg",
+                "title": "演 技 极 差 3.0",
+                "pubdate": 1720248920,
+                "ctime": 1720248920,
+                "desc": "",
+                "state": 0,
+                "duration": 66,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 1756016435,
+                  "view": 374232,
+                  "danmaku": 624,
+                  "reply": 279,
+                  "fav": 6216,
+                  "coin": 1762,
+                  "share": 3024,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 28444,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 374232
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1607474744,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 3.0",
+                "duration": 66,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1H4421D7Rg",
+              "pages": [
+                {
+                  "cid": 1607474744,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 3.0",
+                  "duration": 66,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 77196148,
+              "aid": 1406463257,
+              "cid": 1635153105,
+              "title": "演 技 极 差 4.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 1406463257,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/a1988afe462f31353ce73edf0f0268ee61310765.jpg",
+                "title": "演 技 极 差 4.0",
+                "pubdate": 1722556800,
+                "ctime": 1722556800,
+                "desc": "",
+                "state": 0,
+                "duration": 55,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 1406463257,
+                  "view": 274010,
+                  "danmaku": 196,
+                  "reply": 158,
+                  "fav": 2344,
+                  "coin": 535,
+                  "share": 1072,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 10325,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 274010
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1635153105,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 4.0",
+                "duration": 55,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1tr421K76j",
+              "pages": [
+                {
+                  "cid": 1635153105,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 4.0",
+                  "duration": 55,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 78014408,
+              "aid": 1556303221,
+              "cid": 1640684529,
+              "title": "演 技 极 差 5.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 1556303221,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/c4dd77e638f26295017e3fb57b0ae487c231cfe2.jpg",
+                "title": "演 技 极 差 5.0",
+                "pubdate": 1722961827,
+                "ctime": 1722961827,
+                "desc": "",
+                "state": 0,
+                "duration": 92,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 1556303221,
+                  "view": 266366,
+                  "danmaku": 440,
+                  "reply": 275,
+                  "fav": 5456,
+                  "coin": 1434,
+                  "share": 2616,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 18205,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 266366
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1640684529,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 5.0",
+                "duration": 92,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1G142187Fp",
+              "pages": [
+                {
+                  "cid": 1640684529,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 5.0",
+                  "duration": 92,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 79697250,
+              "aid": 1256397079,
+              "cid": 1651813026,
+              "title": "演 技 极 差 6.0——年轻人不要哈哈哈哈哈（马",
+              "attribute": 0,
+              "arc": {
+                "aid": 1256397079,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/d61ba70e44f038c4defe6db87e4f987393381efc.jpg",
+                "title": "演 技 极 差 6.0——年轻人不要哈哈哈哈哈（马",
+                "pubdate": 1723817522,
+                "ctime": 1723817522,
+                "desc": "",
+                "state": 0,
+                "duration": 84,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 1256397079,
+                  "view": 769832,
+                  "danmaku": 842,
+                  "reply": 537,
+                  "fav": 13173,
+                  "coin": 4291,
+                  "share": 6163,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 45835,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 769832
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1651813026,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 6.0——年轻人不要哈哈哈哈哈（马",
+                "duration": 84,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17E4m1d734",
+              "pages": [
+                {
+                  "cid": 1651813026,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 6.0——年轻人不要哈哈哈哈哈（马",
+                  "duration": 84,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 82859874,
+              "aid": 113079727752596,
+              "cid": 25738740314,
+              "title": "演 技 极 差 7.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 113079727752596,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/d9a15883b9d288c2dac9eaec673a61a3fb887561.jpg",
+                "title": "演 技 极 差 7.0",
+                "pubdate": 1725459878,
+                "ctime": 1725459878,
+                "desc": "",
+                "state": 0,
+                "duration": 85,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 113079727752596,
+                  "view": 1435176,
+                  "danmaku": 957,
+                  "reply": 877,
+                  "fav": 23967,
+                  "coin": 4829,
+                  "share": 10488,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 35883,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1435176
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 25738740314,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 7.0",
+                "duration": 85,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ANpweZE8c",
+              "pages": [
+                {
+                  "cid": 25738740314,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 7.0",
+                  "duration": 85,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 83753925,
+              "aid": 113113533779848,
+              "cid": 25814765556,
+              "title": "演 技 极 差 8.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 113113533779848,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/ef55eaf288b2fedf9b7a003f2f889726c713d759.jpg",
+                "title": "演 技 极 差 8.0",
+                "pubdate": 1725975705,
+                "ctime": 1725975705,
+                "desc": "",
+                "state": 0,
+                "duration": 135,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 113113533779848,
+                  "view": 203036,
+                  "danmaku": 277,
+                  "reply": 103,
+                  "fav": 1075,
+                  "coin": 294,
+                  "share": 378,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3530,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 203036
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 25814765556,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 8.0",
+                "duration": 135,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18r4YeMEeN",
+              "pages": [
+                {
+                  "cid": 25814765556,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 8.0",
+                  "duration": 135,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 84342338,
+              "aid": 113136384346576,
+              "cid": 25860309251,
+              "title": "演 技 极 差 9.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 113136384346576,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/5ec133a280128cf339d35b0875635263e0504cc7.jpg",
+                "title": "演 技 极 差 9.0",
+                "pubdate": 1726324449,
+                "ctime": 1726324449,
+                "desc": "",
+                "state": 0,
+                "duration": 84,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 113136384346576,
+                  "view": 63781,
+                  "danmaku": 168,
+                  "reply": 39,
+                  "fav": 403,
+                  "coin": 121,
+                  "share": 93,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1358,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 63781
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 25860309251,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 9.0",
+                "duration": 84,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1w6tMedE87",
+              "pages": [
+                {
+                  "cid": 25860309251,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 9.0",
+                  "duration": 84,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 3347896,
+              "section_id": 3743597,
+              "id": 86441574,
+              "aid": 113214029301255,
+              "cid": 26043156409,
+              "title": "演 技 极 差 10.0",
+              "attribute": 0,
+              "arc": {
+                "aid": 113214029301255,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/8cc3df3750ec8a11db84417174476cee51e1f31f.jpg",
+                "title": "演 技 极 差 10.0",
+                "pubdate": 1727509016,
+                "ctime": 1727509016,
+                "desc": "",
+                "state": 0,
+                "duration": 93,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 2986310,
+                  "name": "冠希204",
+                  "face": "https://i2.hdslb.com/bfs/face/12815b2cb3a51c7c84ea5acdb7d4ea3becf0c28d.jpg"
+                },
+                "stat": {
+                  "aid": 113214029301255,
+                  "view": 126821,
+                  "danmaku": 220,
+                  "reply": 93,
+                  "fav": 1026,
+                  "coin": 289,
+                  "share": 336,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4312,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 126821
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26043156409,
+                "page": 1,
+                "from": "vupload",
+                "part": "演 技 极 差 10.0",
+                "duration": 93,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1YZxNefEVv",
+              "pages": [
+                {
+                  "cid": 26043156409,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "演 技 极 差 10.0",
+                  "duration": 93,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

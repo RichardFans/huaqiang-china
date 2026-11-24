@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1eV411H7oF",
+  "aid": 419195625,
+  "title": "给 你 机 会 你 不 中 用 啊",
+  "owner": {
+    "mid": 361654978,
+    "name": "J0hnnySilverhand"
+  },
+  "pubdate": "2021-07-18T12:16:40Z",
+  "duration_s": 114,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "guichu",
+  "form_status": "auto",
+  "form_evidence": "空格标题（鬼畜区命名文化特征，启发式，待复核）",
+  "tier": "hot",
+  "tier_basis": "播放 3,600,784 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 3600784,
+      "like": 98360,
+      "coin": 4739,
+      "favorite": 16126,
+      "share": 12249,
+      "danmaku": 2470,
+      "reply": 1098
+    }
+  ],
+  "notes": ""
+}

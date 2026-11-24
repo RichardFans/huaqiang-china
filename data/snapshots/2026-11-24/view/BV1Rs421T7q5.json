@@ -1,0 +1,2264 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Rs421T7q5",
+    "aid": 1855869753,
+    "videos": 1,
+    "tid": 260,
+    "tid_v2": 2155,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/e77c34f8be9b221a67f5fd51dbcb4f0c08745a5a.jpg",
+    "title": "【文言文】《史记 · 华强列传》之封彪篇",
+    "pubdate": 1719396000,
+    "ctime": 1719368946,
+    "desc": "配音均来自本人，未使用AI工具",
+    "desc_v2": [
+      {
+        "raw_text": "配音均来自本人，未使用AI工具",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 351,
+    "mission_id": 4013832,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 67193889,
+      "name": "猿配",
+      "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+    },
+    "stat": {
+      "aid": 1855869753,
+      "view": 523370,
+      "danmaku": 1185,
+      "reply": 246,
+      "favorite": 7229,
+      "coin": 2792,
+      "share": 1861,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 16976,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "【文言文】《史记 · 华强列传》之封彪篇",
+    "cid": 1596444316,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 2771056,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1596444316,
+        "page": 1,
+        "from": "vupload",
+        "part": "【文言文】《史记 · 华强列传》之封彪篇",
+        "duration": 351,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n240626sa2ahw1xi8a9qvp2i0hxku4tc_firsti.jpg",
+        "ctime": 1719368946
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 2771056,
+      "title": "文言文",
+      "cover": "https://archive.biliimg.com/bfs/archive/8d8ae538c3b53ccf763a5b513ba39fc6a4916b6c.jpg",
+      "mid": 67193889,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 2771056,
+        "view": 24044867,
+        "danmaku": 17761,
+        "reply": 19365,
+        "fav": 609331,
+        "coin": 371250,
+        "share": 233918,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 1774570,
+        "vt": 0,
+        "vv": 24044867
+      },
+      "ep_count": 20,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 2771056,
+          "id": 3125174,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 61593556,
+              "aid": 1253192151,
+              "cid": 1507562901,
+              "title": "【文言文】给牛接生",
+              "attribute": 0,
+              "arc": {
+                "aid": 1253192151,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/7acc65655ec9bba1e62090bca6a18e7387a51e9c.jpg",
+                "title": "【文言文】给牛接生",
+                "pubdate": 1713229200,
+                "ctime": 1713229200,
+                "desc": "",
+                "state": 0,
+                "duration": 123,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1253192151,
+                  "view": 3081061,
+                  "danmaku": 1608,
+                  "reply": 3977,
+                  "fav": 101310,
+                  "coin": 54589,
+                  "share": 41226,
+                  "now_rank": 0,
+                  "his_rank": 26,
+                  "like": 299470,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3081061
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1507562901,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】给牛接生",
+                "duration": 123,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1XJ4m1p7V5",
+              "pages": [
+                {
+                  "cid": 1507562901,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】给牛接生",
+                  "duration": 123,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 65495228,
+              "aid": 1154724457,
+              "cid": 1545891440,
+              "title": "【文言文】《史记 · 谭乔列传》之二仙桥",
+              "attribute": 0,
+              "arc": {
+                "aid": 1154724457,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/15f7d89134382284675358b645d3f94e51aa5c06.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之二仙桥",
+                "pubdate": 1715766900,
+                "ctime": 1715766900,
+                "desc": "",
+                "state": 0,
+                "duration": 379,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1154724457,
+                  "view": 2836438,
+                  "danmaku": 2282,
+                  "reply": 1741,
+                  "fav": 87333,
+                  "coin": 52737,
+                  "share": 25823,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 142299,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2836438
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1545891440,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之二仙桥",
+                "duration": 379,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1UZ42147Gm",
+              "pages": [
+                {
+                  "cid": 1545891440,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之二仙桥",
+                  "duration": 379,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 67900426,
+              "aid": 1505277655,
+              "cid": 1646471966,
+              "title": "【文言文】《史记 · 华强列传》之买瓜记",
+              "attribute": 0,
+              "arc": {
+                "aid": 1505277655,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/417ef1a4fb1e2859bf7eeba86bd4eb7fc8ebe430.jpg",
+                "title": "【文言文】《史记 · 华强列传》之买瓜记",
+                "pubdate": 1717240923,
+                "ctime": 1717240923,
+                "desc": "",
+                "state": 0,
+                "duration": 125,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1505277655,
+                  "view": 853435,
+                  "danmaku": 712,
+                  "reply": 402,
+                  "fav": 8939,
+                  "coin": 5447,
+                  "share": 4644,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 27397,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 853435
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1646471966,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 华强列传》之买瓜记",
+                "duration": 125,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1RD421u7eK",
+              "pages": [
+                {
+                  "cid": 1646471966,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 华强列传》之买瓜记",
+                  "duration": 125,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 69593070,
+              "aid": 1205549809,
+              "cid": 1580207499,
+              "title": "【文言文】《史记 · 谭乔列传》之真假父子",
+              "attribute": 0,
+              "arc": {
+                "aid": 1205549809,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/db6b864d4921d86c48efdb48bca4c991ab413dc5.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之真假父子",
+                "pubdate": 1718272800,
+                "ctime": 1718272800,
+                "desc": "",
+                "state": 0,
+                "duration": 343,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1205549809,
+                  "view": 870143,
+                  "danmaku": 1188,
+                  "reply": 605,
+                  "fav": 10625,
+                  "coin": 9028,
+                  "share": 6608,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 47906,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 870143
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1580207499,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之真假父子",
+                "duration": 343,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1df421X7LP",
+              "pages": [
+                {
+                  "cid": 1580207499,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之真假父子",
+                  "duration": 343,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 71468496,
+              "aid": 1855869753,
+              "cid": 1596444316,
+              "title": "【文言文】《史记 · 华强列传》之封彪篇",
+              "attribute": 0,
+              "arc": {
+                "aid": 1855869753,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/e77c34f8be9b221a67f5fd51dbcb4f0c08745a5a.jpg",
+                "title": "【文言文】《史记 · 华强列传》之封彪篇",
+                "pubdate": 1719396000,
+                "ctime": 1719396000,
+                "desc": "",
+                "state": 0,
+                "duration": 351,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1855869753,
+                  "view": 523370,
+                  "danmaku": 1185,
+                  "reply": 246,
+                  "fav": 7229,
+                  "coin": 2792,
+                  "share": 1861,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 16976,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 523370
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1596444316,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 华强列传》之封彪篇",
+                "duration": 351,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Rs421T7q5",
+              "pages": [
+                {
+                  "cid": 1596444316,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 华强列传》之封彪篇",
+                  "duration": 351,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 72985645,
+              "aid": 1656140062,
+              "cid": 1606638405,
+              "title": "【文言文】《美丽王朝》之电视辩论",
+              "attribute": 0,
+              "arc": {
+                "aid": 1656140062,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/43c931c7ba79b8d88662b3d14027ca5bc37088d5.jpg",
+                "title": "【文言文】《美丽王朝》之电视辩论",
+                "pubdate": 1720250337,
+                "ctime": 1720250337,
+                "desc": "",
+                "state": 0,
+                "duration": 255,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1656140062,
+                  "view": 515611,
+                  "danmaku": 644,
+                  "reply": 543,
+                  "fav": 14496,
+                  "coin": 11317,
+                  "share": 6211,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 44567,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 515611
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1606638405,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《美丽王朝》之电视辩论",
+                "duration": 255,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV13E421P7UX",
+              "pages": [
+                {
+                  "cid": 1606638405,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《美丽王朝》之电视辩论",
+                  "duration": 255,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 76151618,
+              "aid": 1606254853,
+              "cid": 1628060374,
+              "title": "【文言文】《史记 · 谭乔列传》之杀马特",
+              "attribute": 0,
+              "arc": {
+                "aid": 1606254853,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/4b59cea0d9db8141b22179989b071883b79cd297.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之杀马特",
+                "pubdate": 1721987831,
+                "ctime": 1721987831,
+                "desc": "",
+                "state": 0,
+                "duration": 340,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1606254853,
+                  "view": 701386,
+                  "danmaku": 625,
+                  "reply": 198,
+                  "fav": 23214,
+                  "coin": 4129,
+                  "share": 1689,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 26642,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 701386
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1628060374,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之杀马特",
+                "duration": 340,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Xm421g73q",
+              "pages": [
+                {
+                  "cid": 1628060374,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之杀马特",
+                  "duration": 340,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 77613482,
+              "aid": 1606467676,
+              "cid": 1638089629,
+              "title": "【文言文】《史记 · 华强列传》之老虎振涛",
+              "attribute": 0,
+              "arc": {
+                "aid": 1606467676,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/58e3abd855880ffdcf1a7139b5a82664129f805f.jpg",
+                "title": "【文言文】《史记 · 华强列传》之老虎振涛",
+                "pubdate": 1722768604,
+                "ctime": 1722768604,
+                "desc": "",
+                "state": 0,
+                "duration": 211,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1606467676,
+                  "view": 239740,
+                  "danmaku": 304,
+                  "reply": 125,
+                  "fav": 2666,
+                  "coin": 1298,
+                  "share": 616,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 9731,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 239740
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1638089629,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 华强列传》之老虎振涛",
+                "duration": 211,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1H2421Z7W2",
+              "pages": [
+                {
+                  "cid": 1638089629,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 华强列传》之老虎振涛",
+                  "duration": 211,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 79767950,
+              "aid": 1556328387,
+              "cid": 1652275892,
+              "title": "【文言文】《史记 · 谭乔列传》之腰马合一",
+              "attribute": 0,
+              "arc": {
+                "aid": 1556328387,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/e9679260dd2a21813af07c8e2d443964907821b4.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之腰马合一",
+                "pubdate": 1723973706,
+                "ctime": 1723973706,
+                "desc": "",
+                "state": 0,
+                "duration": 184,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 1556328387,
+                  "view": 744509,
+                  "danmaku": 351,
+                  "reply": 156,
+                  "fav": 19639,
+                  "coin": 3584,
+                  "share": 1922,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 30934,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 744509
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 1652275892,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之腰马合一",
+                "duration": 184,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18142187uE",
+              "pages": [
+                {
+                  "cid": 1652275892,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之腰马合一",
+                  "duration": 184,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 84290766,
+              "aid": 113135025462503,
+              "cid": 25653612919,
+              "title": "【文言文】《史记 · 法师列传》之三字真言",
+              "attribute": 0,
+              "arc": {
+                "aid": 113135025462503,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3d58905bf0b66e04eb4f839bf1611dd89016efac.jpg",
+                "title": "【文言文】《史记 · 法师列传》之三字真言",
+                "pubdate": 1726303737,
+                "ctime": 1726303737,
+                "desc": "",
+                "state": 0,
+                "duration": 71,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 113135025462503,
+                  "view": 1825296,
+                  "danmaku": 1191,
+                  "reply": 1319,
+                  "fav": 64816,
+                  "coin": 33402,
+                  "share": 35405,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 146704,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1825296
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 25653612919,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 法师列传》之三字真言",
+                "duration": 71,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cptTeJEtw",
+              "pages": [
+                {
+                  "cid": 25653612919,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 法师列传》之三字真言",
+                  "duration": 71,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 94659211,
+              "aid": 113531353635467,
+              "cid": 26932742434,
+              "title": "【文言文】《史记 · 谭乔列传》之仙桥世家",
+              "attribute": 0,
+              "arc": {
+                "aid": 113531353635467,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/0a96fea8da51676b941643016cad8cc181b2315e.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之仙桥世家",
+                "pubdate": 1732351167,
+                "ctime": 1732351167,
+                "desc": "",
+                "state": 0,
+                "duration": 137,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 113531353635467,
+                  "view": 516448,
+                  "danmaku": 259,
+                  "reply": 144,
+                  "fav": 21331,
+                  "coin": 4931,
+                  "share": 2128,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 24818,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 516448
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26932742434,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之仙桥世家",
+                "duration": 137,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV19NB1YDEYM",
+              "pages": [
+                {
+                  "cid": 26932742434,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之仙桥世家",
+                  "duration": 137,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 101146946,
+              "aid": 113756621312649,
+              "cid": 27655733623,
+              "title": "【文言文】《史记 · 谭乔列传》之川岛芳子",
+              "attribute": 0,
+              "arc": {
+                "aid": 113756621312649,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/fa5156bf57d1ddfd4e8a03a5ecf557de688cbd40.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之川岛芳子",
+                "pubdate": 1735795800,
+                "ctime": 1735795800,
+                "desc": "",
+                "state": 0,
+                "duration": 157,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 113756621312649,
+                  "view": 1144770,
+                  "danmaku": 644,
+                  "reply": 1018,
+                  "fav": 31979,
+                  "coin": 16921,
+                  "share": 8804,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 144708,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1144770
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 27655733623,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之川岛芳子",
+                "duration": 157,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1W86qYJE79",
+              "pages": [
+                {
+                  "cid": 27655733623,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之川岛芳子",
+                  "duration": 157,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 104436098,
+              "aid": 113847889303822,
+              "cid": 27935640098,
+              "title": "【文言文】《史记 · 谭乔列传》之贝斯特",
+              "attribute": 0,
+              "arc": {
+                "aid": 113847889303822,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/00ea8e19bb783726138b0a9bc53d42267368fe92.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之贝斯特",
+                "pubdate": 1737181002,
+                "ctime": 1737181002,
+                "desc": "",
+                "state": 0,
+                "duration": 194,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 113847889303822,
+                  "view": 2588573,
+                  "danmaku": 1460,
+                  "reply": 3151,
+                  "fav": 56102,
+                  "coin": 66307,
+                  "share": 40877,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 257400,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2588573
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 27935640098,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之贝斯特",
+                "duration": 194,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV18awPesEw8",
+              "pages": [
+                {
+                  "cid": 27935640098,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之贝斯特",
+                  "duration": 194,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 112701626,
+              "aid": 114114076611422,
+              "cid": 28933752862,
+              "title": "【文言文】《史记 · 美丽王朝》之舌战白宫",
+              "attribute": 0,
+              "arc": {
+                "aid": 114114076611422,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/4db9b8f0ae87240d71663e0e8f0cc15d54773fad.jpg",
+                "title": "【文言文】《史记 · 美丽王朝》之舌战白宫",
+                "pubdate": 1741247878,
+                "ctime": 1741247878,
+                "desc": "",
+                "state": 0,
+                "duration": 382,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 114114076611422,
+                  "view": 660405,
+                  "danmaku": 874,
+                  "reply": 870,
+                  "fav": 17609,
+                  "coin": 14327,
+                  "share": 8041,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 48355,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 660405
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 28933752862,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 美丽王朝》之舌战白宫",
+                "duration": 382,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cXRPYxEbD",
+              "pages": [
+                {
+                  "cid": 28933752862,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 美丽王朝》之舌战白宫",
+                  "duration": 382,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 115397481,
+              "aid": 114200814819033,
+              "cid": 28992540356,
+              "title": "【文言文】《史记 · 谭乔列传》之诸葛卧龙",
+              "attribute": 0,
+              "arc": {
+                "aid": 114200814819033,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/52d2e76fbd629180490786b6767130bb4c57f449.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之诸葛卧龙",
+                "pubdate": 1742605200,
+                "ctime": 1742605200,
+                "desc": "",
+                "state": 0,
+                "duration": 192,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 114200814819033,
+                  "view": 792633,
+                  "danmaku": 625,
+                  "reply": 647,
+                  "fav": 18019,
+                  "coin": 14612,
+                  "share": 4804,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 69716,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 792633
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 28992540356,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之诸葛卧龙",
+                "duration": 192,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1qgXkYDEWn",
+              "pages": [
+                {
+                  "cid": 28992540356,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之诸葛卧龙",
+                  "duration": 192,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 118879089,
+              "aid": 114317097702649,
+              "cid": 29348137433,
+              "title": "【文言文】《史记 · 谭乔列传》之陋车铭",
+              "attribute": 0,
+              "arc": {
+                "aid": 114317097702649,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/0a045cc13e0b855bce0081b977aec37b62c4ab81.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之陋车铭",
+                "pubdate": 1744362000,
+                "ctime": 1744362000,
+                "desc": "",
+                "state": 0,
+                "duration": 212,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 114317097702649,
+                  "view": 3090567,
+                  "danmaku": 1711,
+                  "reply": 2048,
+                  "fav": 84371,
+                  "coin": 47958,
+                  "share": 30616,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 253425,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3090567
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 29348137433,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之陋车铭",
+                "duration": 212,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV16BdmYmESK",
+              "pages": [
+                {
+                  "cid": 29348137433,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之陋车铭",
+                  "duration": 212,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 121074658,
+              "aid": 114387260085270,
+              "cid": 29570632040,
+              "title": "【文言文】《史记 · 潘嘎之交》",
+              "attribute": 0,
+              "arc": {
+                "aid": 114387260085270,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/0a3c6a5a1228cae89ec909b6040e70b8878aa7af.jpg",
+                "title": "【文言文】《史记 · 潘嘎之交》",
+                "pubdate": 1745487000,
+                "ctime": 1745487000,
+                "desc": "",
+                "state": 0,
+                "duration": 241,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 114387260085270,
+                  "view": 331422,
+                  "danmaku": 331,
+                  "reply": 279,
+                  "fav": 2227,
+                  "coin": 1892,
+                  "share": 1034,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 14090,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 331422
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 29570632040,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 潘嘎之交》",
+                "duration": 241,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1n4L8z3EZH",
+              "pages": [
+                {
+                  "cid": 29570632040,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 潘嘎之交》",
+                  "duration": 241,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 126802665,
+              "aid": 114578721610549,
+              "cid": 30176578723,
+              "title": "【文言文】《史记 · 谭乔列传》之鸳鸯录",
+              "attribute": 0,
+              "arc": {
+                "aid": 114578721610549,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/ce83740a394dc6ec4944db59929c20b60bd69fe0.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之鸳鸯录",
+                "pubdate": 1748340600,
+                "ctime": 1748340600,
+                "desc": "",
+                "state": 0,
+                "duration": 223,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 114578721610549,
+                  "view": 238361,
+                  "danmaku": 395,
+                  "reply": 323,
+                  "fav": 4104,
+                  "coin": 3015,
+                  "share": 1008,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 14860,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 238361
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 30176578723,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之神驹侠侣",
+                "duration": 223,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1DEj9zoEAq",
+              "pages": [
+                {
+                  "cid": 30176578723,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之神驹侠侣",
+                  "duration": 223,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 132627468,
+              "aid": 114775015037897,
+              "cid": 30783768366,
+              "title": "【文言文】《史记 · 谭乔列传》之荆轲刺谭",
+              "attribute": 0,
+              "arc": {
+                "aid": 114775015037897,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/14eeb0aa86c43512a6beca4707956c687409659d.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之荆轲刺谭",
+                "pubdate": 1751360400,
+                "ctime": 1751360400,
+                "desc": "",
+                "state": 0,
+                "duration": 174,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 114775015037897,
+                  "view": 2433880,
+                  "danmaku": 1286,
+                  "reply": 1494,
+                  "fav": 32414,
+                  "coin": 22459,
+                  "share": 10477,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 151511,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2433880
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 30783768366,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之荆轲刺谭",
+                "duration": 174,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1zBg2zuEBF",
+              "pages": [
+                {
+                  "cid": 30783768366,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之荆轲刺谭",
+                  "duration": 174,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 2771056,
+              "section_id": 3125174,
+              "id": 150062461,
+              "aid": 115301937061747,
+              "cid": 32782419416,
+              "title": "【文言文】《史记 · 谭乔列传》之气球哥",
+              "attribute": 0,
+              "arc": {
+                "aid": 115301937061747,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/e9ebce7cfcaf7b6687eff7e723c113a54bb3b238.jpg",
+                "title": "【文言文】《史记 · 谭乔列传》之气球哥",
+                "pubdate": 1759395600,
+                "ctime": 1759395600,
+                "desc": "",
+                "state": 0,
+                "duration": 244,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 67193889,
+                  "name": "猿配",
+                  "face": "https://i0.hdslb.com/bfs/face/c4c762e359482872f948c478a06e981e865f4da1.jpg"
+                },
+                "stat": {
+                  "aid": 115301937061747,
+                  "view": 56819,
+                  "danmaku": 86,
+                  "reply": 79,
+                  "fav": 908,
+                  "coin": 505,
+                  "share": 124,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3061,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 56819
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32782419416,
+                "page": 1,
+                "from": "vupload",
+                "part": "【文言文】《史记 · 谭乔列传》之气球哥",
+                "duration": 244,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1wgHbzREUE",
+              "pages": [
+                {
+                  "cid": 32782419416,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【文言文】《史记 · 谭乔列传》之气球哥",
+                  "duration": 244,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

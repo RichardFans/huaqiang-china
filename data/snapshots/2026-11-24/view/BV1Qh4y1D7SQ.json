@@ -1,0 +1,126 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Qh4y1D7SQ",
+    "aid": 659613145,
+    "videos": 1,
+    "tid": 182,
+    "tid_v2": 2001,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/18d42e40ed452ba4976c1377d6d3a630dd03bfda.jpg",
+    "title": "一口气看完《征服》电视剧全集解说，悍匪刘华强的传奇人生",
+    "pubdate": 1691657282,
+    "ctime": 1691657282,
+    "desc": "一口气看完《征服》电视剧全集解说，悍匪刘华强的传奇人生",
+    "desc_v2": [
+      {
+        "raw_text": "一口气看完《征服》电视剧全集解说，悍匪刘华强的传奇人生",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 18115,
+    "mission_id": 1624960,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1601036469,
+      "name": "兽兽追剧馆",
+      "face": "https://i0.hdslb.com/bfs/face/80c7740ed9c75710c1e4bd42a8416faa6c8e73cd.jpg"
+    },
+    "stat": {
+      "aid": 659613145,
+      "view": 63530,
+      "danmaku": 185,
+      "reply": 51,
+      "favorite": 518,
+      "coin": 110,
+      "share": 15,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 431,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1229262884,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1229262884,
+        "page": 1,
+        "from": "vupload",
+        "part": "一口气看完《征服》电视剧全集解说，悍匪刘华强的传奇人生",
+        "duration": 18115,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230810sab6c1rqbypdodqm5jbxn9mbl_firsti.jpg",
+        "ctime": 1691657282
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

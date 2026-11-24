@@ -1,0 +1,49 @@
+{
+  "bvid": "BV1Uh411W727",
+  "aid": 207749772,
+  "title": "华强速通硫磺岛",
+  "owner": {
+    "mid": 23273746,
+    "name": "罪恶岛市"
+  },
+  "pubdate": "2021-08-28T15:19:30Z",
+  "duration_s": 119,
+  "tname": "",
+  "platform": "bilibili",
+  "kind": "derivative",
+  "scenes": [
+    "zhengfu-other"
+  ],
+  "scene_evidence": "仅检索词『征服 鬼畜』相关性命中（标题无桥段词），低置信，复核优先",
+  "scene_status": "auto",
+  "form": "clip",
+  "form_status": "auto",
+  "form_evidence": "标题命中剪辑类关键词：速通",
+  "tier": "hot",
+  "tier_basis": "播放 2,433,536 ≥ 100万（ADR-0001 v1 门槛）",
+  "review": "pending",
+  "status": "ok",
+  "archive_url": null,
+  "original_bvid": null,
+  "discovered_via": {
+    "method": "search-html",
+    "keyword": "征服 鬼畜",
+    "order": "click",
+    "captured_at": "2026-11-24T02:12:10.600901Z"
+  },
+  "first_seen": "2026-11-24T02:12:10.600901Z",
+  "snapshots": [
+    {
+      "captured_at": "2026-11-24T02:12:10.600901Z",
+      "endpoint": "api-view",
+      "view": 2433536,
+      "like": 117675,
+      "coin": 22258,
+      "favorite": 37089,
+      "share": 17855,
+      "danmaku": 5298,
+      "reply": 1606
+    }
+  ],
+  "notes": ""
+}

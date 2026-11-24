@@ -1,0 +1,1215 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Cy8H62EmZ",
+    "aid": 117123154184447,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i2.hdslb.com/bfs/archive/6c0c4fd8bf07293ad438e6957bd861f075c22d34.jpg",
+    "title": "华强买瓜，但是要看广告",
+    "pubdate": 1787220000,
+    "ctime": 1787157773,
+    "desc": "QAQ 经历过抽卡抽成 9:16，素材横竖屏不一，无限返工的我终于搞完了。",
+    "desc_v2": [
+      {
+        "raw_text": "QAQ 经历过抽卡抽成 9:16，素材横竖屏不一，无限返工的我终于搞完了。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 197,
+    "mission_id": 4067773,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1702616,
+      "name": "梦魇天赋",
+      "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+    },
+    "stat": {
+      "aid": 117123154184447,
+      "view": 20752,
+      "danmaku": 67,
+      "reply": 52,
+      "favorite": 379,
+      "coin": 122,
+      "share": 29,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 821,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 41081374486,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9121734,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 41081374486,
+        "page": 1,
+        "from": "vupload",
+        "part": "8月20日",
+        "duration": 197,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001pez750ut26ij2g7od1utlzrxrb_firsti.jpg",
+        "ctime": 1787188809,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9121734,
+      "title": "买瓜",
+      "cover": "https://s1.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "mid": 1702616,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9121734,
+        "view": 128318,
+        "danmaku": 268,
+        "reply": 222,
+        "fav": 1410,
+        "coin": 364,
+        "share": 127,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 3989,
+        "vt": 0,
+        "vv": 128318
+      },
+      "ep_count": 10,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9121734,
+          "id": 10190220,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 223069884,
+              "aid": 117258814752903,
+              "cid": 41833924559,
+              "title": "每看一次广告，郝哥复活一次",
+              "attribute": 0,
+              "arc": {
+                "aid": 117258814752903,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/1311e8bd290822b341244be39c03444361f5acae.jpg",
+                "title": "每看一次广告，郝哥复活一次",
+                "pubdate": 1789227670,
+                "ctime": 1789227670,
+                "desc": "",
+                "state": 0,
+                "duration": 159,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117258814752903,
+                  "view": 31133,
+                  "danmaku": 33,
+                  "reply": 45,
+                  "fav": 425,
+                  "coin": 57,
+                  "share": 32,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1167,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 31133
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41833924559,
+                "page": 1,
+                "from": "vupload",
+                "part": "每看一次广告，郝哥复活一次",
+                "duration": 159,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17FYR6qEC9",
+              "pages": [
+                {
+                  "cid": 41833924559,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "每看一次广告，郝哥复活一次",
+                  "duration": 159,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 223069885,
+              "aid": 117168335293798,
+              "cid": 41335523507,
+              "title": "什么？买瓜还得先看60秒广告？",
+              "attribute": 0,
+              "arc": {
+                "aid": 117168335293798,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/55ab7edaaf87cc8c36fc02c55c5c2c1860b606f2.jpg",
+                "title": "什么？买瓜还得先看60秒广告？",
+                "pubdate": 1787884200,
+                "ctime": 1787884200,
+                "desc": "",
+                "state": 0,
+                "duration": 207,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117168335293798,
+                  "view": 19629,
+                  "danmaku": 97,
+                  "reply": 71,
+                  "fav": 179,
+                  "coin": 113,
+                  "share": 28,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 811,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 19629
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41335523507,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜，还得看广告",
+                "duration": 207,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1bh4d6CETT",
+              "pages": [
+                {
+                  "cid": 41335523507,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜，还得看广告",
+                  "duration": 207,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 223069886,
+              "aid": 117123154184447,
+              "cid": 41081374486,
+              "title": "华强买瓜，但是要看广告",
+              "attribute": 0,
+              "arc": {
+                "aid": 117123154184447,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/6c0c4fd8bf07293ad438e6957bd861f075c22d34.jpg",
+                "title": "华强买瓜，但是要看广告",
+                "pubdate": 1787220000,
+                "ctime": 1787220000,
+                "desc": "",
+                "state": 0,
+                "duration": 197,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117123154184447,
+                  "view": 20752,
+                  "danmaku": 67,
+                  "reply": 52,
+                  "fav": 379,
+                  "coin": 122,
+                  "share": 29,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 821,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 20752
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41081374486,
+                "page": 1,
+                "from": "vupload",
+                "part": "8月20日",
+                "duration": 197,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Cy8H62EmZ",
+              "pages": [
+                {
+                  "cid": 41081374486,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "8月20日",
+                  "duration": 197,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 223069887,
+              "aid": 117103457731814,
+              "cid": 40956725221,
+              "title": "华强买瓜，但是初中生",
+              "attribute": 0,
+              "arc": {
+                "aid": 117103457731814,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/c8aa50a2899fa2274aadf675b899abbee5dcd2bc.jpg",
+                "title": "华强买瓜，但是初中生",
+                "pubdate": 1786857200,
+                "ctime": 1786857200,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117103457731814,
+                  "view": 2574,
+                  "danmaku": 4,
+                  "reply": 7,
+                  "fav": 39,
+                  "coin": 2,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 66,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2574
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40956725221,
+                "page": 1,
+                "from": "vupload",
+                "part": "郝哥在打电话",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1344,
+                  "height": 768,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1XYbQ6kE7L",
+              "pages": [
+                {
+                  "cid": 40956725221,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "郝哥在打电话",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1344,
+                    "height": 768,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 223069888,
+              "aid": 117088760891030,
+              "cid": 40881881436,
+              "title": "郝哥在打电话",
+              "attribute": 0,
+              "arc": {
+                "aid": 117088760891030,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/385e58783d9c203a6bd934bf9701385f38fe500f.jpg",
+                "title": "郝哥在打电话",
+                "pubdate": 1786678200,
+                "ctime": 1786678200,
+                "desc": "",
+                "state": 0,
+                "duration": 78,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117088760891030,
+                  "view": 4084,
+                  "danmaku": 1,
+                  "reply": 3,
+                  "fav": 46,
+                  "coin": 8,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 136,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4084
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40881881436,
+                "page": 1,
+                "from": "vupload",
+                "part": "郝哥在打电话",
+                "duration": 78,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Gegs6pEfX",
+              "pages": [
+                {
+                  "cid": 40881881436,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "郝哥在打电话",
+                  "duration": 78,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 223069889,
+              "aid": 117077503510804,
+              "cid": 40819622970,
+              "title": "华强买瓜，但是要扫码进群",
+              "attribute": 0,
+              "arc": {
+                "aid": 117077503510804,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/af7e33ee9b43aa38d2db6b3f7026e85d145d157d.jpg",
+                "title": "华强买瓜，但是要扫码进群",
+                "pubdate": 1786505400,
+                "ctime": 1786505400,
+                "desc": "",
+                "state": 0,
+                "duration": 101,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117077503510804,
+                  "view": 2883,
+                  "danmaku": 1,
+                  "reply": 5,
+                  "fav": 35,
+                  "coin": 8,
+                  "share": 2,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 108,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2883
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40819622970,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但是网文",
+                "duration": 101,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rYuB6qEn6",
+              "pages": [
+                {
+                  "cid": 40819622970,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但是网文",
+                  "duration": 101,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 223069890,
+              "aid": 117063846723657,
+              "cid": 40739471937,
+              "title": "华强买瓜，但是网文",
+              "attribute": 0,
+              "arc": {
+                "aid": 117063846723657,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/7fa2e5afc99cf7bcfa25238d1614c6f75989e002.jpg",
+                "title": "华强买瓜，但是网文",
+                "pubdate": 1786252688,
+                "ctime": 1786252688,
+                "desc": "",
+                "state": 0,
+                "duration": 126,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117063846723657,
+                  "view": 1537,
+                  "danmaku": 0,
+                  "reply": 5,
+                  "fav": 26,
+                  "coin": 6,
+                  "share": 3,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 47,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1537
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40739471937,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜 但是网络小说",
+                "duration": 126,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Jgu26sEXs",
+              "pages": [
+                {
+                  "cid": 40739471937,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜 但是网络小说",
+                  "duration": 126,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 224112928,
+              "aid": 117327081245109,
+              "cid": 42173530384,
+              "title": "买瓜不拉人，那你怪谁",
+              "attribute": 0,
+              "arc": {
+                "aid": 117327081245109,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/0dde0e399a5a0648b7da95ad55724af880a63ca7.jpg",
+                "title": "买瓜不拉人，那你怪谁",
+                "pubdate": 1790301600,
+                "ctime": 1790301600,
+                "desc": "",
+                "state": 0,
+                "duration": 168,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117327081245109,
+                  "view": 33608,
+                  "danmaku": 39,
+                  "reply": 20,
+                  "fav": 128,
+                  "coin": 15,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 440,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 33608
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42173530384,
+                "page": 1,
+                "from": "vupload",
+                "part": "买瓜不拉人，那你怪谁",
+                "duration": 168,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rFaT6MEMh",
+              "pages": [
+                {
+                  "cid": 42173530384,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "买瓜不拉人，那你怪谁",
+                  "duration": 168,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 225526774,
+              "aid": 117371356513347,
+              "cid": 42399761643,
+              "title": "华强买瓜，但是内心小剧场",
+              "attribute": 0,
+              "arc": {
+                "aid": 117371356513347,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/f2379bcb35cf0a644ad57cb7ba2b966abd1f2522.jpg",
+                "title": "华强买瓜，但是内心小剧场",
+                "pubdate": 1790944860,
+                "ctime": 1790944860,
+                "desc": "",
+                "state": 0,
+                "duration": 178,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117371356513347,
+                  "view": 2959,
+                  "danmaku": 1,
+                  "reply": 2,
+                  "fav": 6,
+                  "coin": 3,
+                  "share": 0,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 21,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2959
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42399761643,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，但是内心小剧场",
+                "duration": 178,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1PhaU6FEbS",
+              "pages": [
+                {
+                  "cid": 42399761643,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，但是内心小剧场",
+                  "duration": 178,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9121734,
+              "section_id": 10190220,
+              "id": 234928205,
+              "aid": 117337197907479,
+              "cid": 42221701797,
+              "title": "华强买瓜，还得看广告？",
+              "attribute": 0,
+              "arc": {
+                "aid": 117337197907479,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/2a52d34dab1ae79650ffd02c7476a927714df4e5.jpg",
+                "title": "华强买瓜，还得看广告？",
+                "pubdate": 1790474400,
+                "ctime": 1790474400,
+                "desc": "",
+                "state": 0,
+                "duration": 167,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1702616,
+                  "name": "梦魇天赋",
+                  "face": "https://i2.hdslb.com/bfs/face/26c639557e89ad33e54b18a4bdafe79f1ec0bf1a.jpg"
+                },
+                "stat": {
+                  "aid": 117337197907479,
+                  "view": 9160,
+                  "danmaku": 25,
+                  "reply": 12,
+                  "fav": 147,
+                  "coin": 30,
+                  "share": 25,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 372,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 9160
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42221701797,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强买瓜，还得看广告？",
+                "duration": 167,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1eDh96dENK",
+              "pages": [
+                {
+                  "cid": 42221701797,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强买瓜，还得看广告？",
+                  "duration": 167,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV17wk9Y8EXV",
+    "aid": 113706994241212,
+    "videos": 1,
+    "tid": 260,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i0.hdslb.com/bfs/archive/d4f0fb7f70511bda7d5c697721f9ef7356aeb0ce.jpg",
+    "title": "刘华强和韶八（",
+    "pubdate": 1735031246,
+    "ctime": 1735031247,
+    "desc": "ky 低创（\n\n《征服》ep20 29:33（",
+    "desc_v2": [
+      {
+        "raw_text": "ky 低创（\n\n《征服》ep20 29:33（",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 26,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3493116141112125,
+      "name": "0x576174757559",
+      "face": "https://i0.hdslb.com/bfs/face/f1d04222083f8da457cf8c69a44830077d881059.jpg"
+    },
+    "stat": {
+      "aid": 113706994241212,
+      "view": 38323,
+      "danmaku": 35,
+      "reply": 120,
+      "favorite": 829,
+      "coin": 22,
+      "share": 125,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 1097,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 27506378240,
+    "dimension": {
+      "width": 1252,
+      "height": 720,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 27506378240,
+        "page": 1,
+        "from": "vupload",
+        "part": "刘华强和韶八（",
+        "duration": 26,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1252,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n241224adl5f5bg0wfjum3r9g3t5qp6k_firsti.jpg",
+        "ctime": 1735031247
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

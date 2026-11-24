@@ -1,0 +1,794 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1E9Ng6yEdG",
+    "aid": 116907701177107,
+    "videos": 1,
+    "tid": 17,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/f9b643054256d57377cf0e4ab2e1baf15e3ece6d.jpg",
+    "title": "有一个人前来刷余晖",
+    "pubdate": 1783869990,
+    "ctime": 1783869990,
+    "desc": "视频中的“核”指的是AI核心，表达出作者对余晖爆率之低的不满之情。",
+    "desc_v2": [
+      {
+        "raw_text": "视频中的“核”指的是AI核心，表达出作者对余晖爆率之低的不满之情。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 122,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 156916931,
+      "name": "余晖_ice",
+      "face": "https://i2.hdslb.com/bfs/face/04f0a16e38a6a724982137ad749b86db32d8521a.jpg"
+    },
+    "stat": {
+      "aid": 116907701177107,
+      "view": 3770,
+      "danmaku": 32,
+      "reply": 56,
+      "favorite": 28,
+      "coin": 67,
+      "share": 19,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 288,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含虚构演绎内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 39889275826,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9011532,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 39889275826,
+        "page": 1,
+        "from": "vupload",
+        "part": "有一个人前来刷余晖",
+        "duration": 122,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001un393kz3470f2ok0v4nkxi3rxb_firsti.jpg",
+        "ctime": 1783869990,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9011532,
+      "title": "远神沙雕视频",
+      "cover": "https://s1.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+      "mid": 156916931,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9011532,
+        "view": 113875,
+        "danmaku": 214,
+        "reply": 528,
+        "fav": 557,
+        "coin": 285,
+        "share": 182,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 2972,
+        "vt": 0,
+        "vv": 113875
+      },
+      "ep_count": 6,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9011532,
+          "id": 10056658,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9011532,
+              "section_id": 10056658,
+              "id": 220783949,
+              "aid": 117219052818133,
+              "cid": 41615820717,
+              "title": "远行星号神九门高燃手法集锦，看完不笑说明你是欧米茄",
+              "attribute": 0,
+              "arc": {
+                "aid": 117219052818133,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/33452b196e64802a3145f7d5c2b1c7f7aaac3a23.jpg",
+                "title": "远行星号神九门高燃手法集锦，看完不笑说明你是欧米茄",
+                "pubdate": 1788621027,
+                "ctime": 1788621027,
+                "desc": "",
+                "state": 0,
+                "duration": 124,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 156916931,
+                  "name": "余晖_ice",
+                  "face": "https://i2.hdslb.com/bfs/face/04f0a16e38a6a724982137ad749b86db32d8521a.jpg"
+                },
+                "stat": {
+                  "aid": 117219052818133,
+                  "view": 19626,
+                  "danmaku": 53,
+                  "reply": 99,
+                  "fav": 182,
+                  "coin": 87,
+                  "share": 52,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 622,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 19626
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41615820717,
+                "page": 1,
+                "from": "vupload",
+                "part": "远行星号神九门高燃手法集锦，看完不笑说明你是欧米茄",
+                "duration": 124,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1scbL6fEvv",
+              "pages": [
+                {
+                  "cid": 41615820717,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "远行星号神九门高燃手法集锦，看完不笑说明你是欧米茄",
+                  "duration": 124,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9011532,
+              "section_id": 10056658,
+              "id": 220569284,
+              "aid": 117199272413898,
+              "cid": 41510240371,
+              "title": "远行星号牢九门高燃手法集锦，看完不笑说明你是至高霸主",
+              "attribute": 0,
+              "arc": {
+                "aid": 117199272413898,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/25b9f35edc48eb3acecd75162f6dce4a76b23058.jpg",
+                "title": "远行星号牢九门高燃手法集锦，看完不笑说明你是至高霸主",
+                "pubdate": 1788319197,
+                "ctime": 1788319197,
+                "desc": "",
+                "state": 0,
+                "duration": 211,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 156916931,
+                  "name": "余晖_ice",
+                  "face": "https://i2.hdslb.com/bfs/face/04f0a16e38a6a724982137ad749b86db32d8521a.jpg"
+                },
+                "stat": {
+                  "aid": 117199272413898,
+                  "view": 22390,
+                  "danmaku": 60,
+                  "reply": 182,
+                  "fav": 125,
+                  "coin": 41,
+                  "share": 51,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 563,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 22390
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41510240371,
+                "page": 1,
+                "from": "vupload",
+                "part": "远行星号牢九门高燃手法集锦，看完不笑说明你是至高霸主",
+                "duration": 211,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rNtE6fEUJ",
+              "pages": [
+                {
+                  "cid": 41510240371,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "远行星号牢九门高燃手法集锦，看完不笑说明你是至高霸主",
+                  "duration": 211,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9011532,
+              "section_id": 10056658,
+              "id": 220510943,
+              "aid": 113321755805528,
+              "cid": 26329875927,
+              "title": "【远行星号】请选择您的对手",
+              "attribute": 0,
+              "arc": {
+                "aid": 113321755805528,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/765857ad7d2e1800a5a73232e8cdc1aa6647c145.jpg",
+                "title": "【远行星号】请选择您的对手",
+                "pubdate": 1729152874,
+                "ctime": 1729152874,
+                "desc": "",
+                "state": 0,
+                "duration": 49,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 156916931,
+                  "name": "余晖_ice",
+                  "face": "https://i2.hdslb.com/bfs/face/04f0a16e38a6a724982137ad749b86db32d8521a.jpg"
+                },
+                "stat": {
+                  "aid": 113321755805528,
+                  "view": 37208,
+                  "danmaku": 37,
+                  "reply": 74,
+                  "fav": 113,
+                  "coin": 28,
+                  "share": 22,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 693,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 37208
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26329875927,
+                "page": 1,
+                "from": "vupload",
+                "part": "【远行星号】请选择您的对手",
+                "duration": 49,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1YkyNYRE2x",
+              "pages": [
+                {
+                  "cid": 26329875927,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【远行星号】请选择您的对手",
+                  "duration": 49,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9011532,
+              "section_id": 10056658,
+              "id": 220510945,
+              "aid": 113286825641798,
+              "cid": 26237733202,
+              "title": "【远行星号】请选择你的势力",
+              "attribute": 0,
+              "arc": {
+                "aid": 113286825641798,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b2dd74d58231b7cc0fedd91788dfbaf93695fcfb.jpg",
+                "title": "【远行星号】请选择你的势力",
+                "pubdate": 1728619863,
+                "ctime": 1728619863,
+                "desc": "",
+                "state": 0,
+                "duration": 49,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 156916931,
+                  "name": "余晖_ice",
+                  "face": "https://i2.hdslb.com/bfs/face/04f0a16e38a6a724982137ad749b86db32d8521a.jpg"
+                },
+                "stat": {
+                  "aid": 113286825641798,
+                  "view": 26309,
+                  "danmaku": 29,
+                  "reply": 102,
+                  "fav": 104,
+                  "coin": 48,
+                  "share": 31,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 697,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 26309
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26237733202,
+                "page": 1,
+                "from": "vupload",
+                "part": "【远行星号】请选择你的势力",
+                "duration": 49,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1rL21YpEvk",
+              "pages": [
+                {
+                  "cid": 26237733202,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【远行星号】请选择你的势力",
+                  "duration": 49,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9011532,
+              "section_id": 10056658,
+              "id": 220510944,
+              "aid": 113298552916177,
+              "cid": 26269255984,
+              "title": "【远行星号】如果早知道AI也会被审查",
+              "attribute": 0,
+              "arc": {
+                "aid": 113298552916177,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/df9610dbde4841061c50ef625503e66c5c2868f9.jpg",
+                "title": "【远行星号】如果早知道AI也会被审查",
+                "pubdate": 1728799073,
+                "ctime": 1728799073,
+                "desc": "",
+                "state": 0,
+                "duration": 151,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 156916931,
+                  "name": "余晖_ice",
+                  "face": "https://i2.hdslb.com/bfs/face/04f0a16e38a6a724982137ad749b86db32d8521a.jpg"
+                },
+                "stat": {
+                  "aid": 113298552916177,
+                  "view": 4572,
+                  "danmaku": 3,
+                  "reply": 15,
+                  "fav": 5,
+                  "coin": 14,
+                  "share": 7,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 109,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4572
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 26269255984,
+                "page": 1,
+                "from": "vupload",
+                "part": "【远行星号】如果早知道AI也会被审查",
+                "duration": 151,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1vG2qYpE5z",
+              "pages": [
+                {
+                  "cid": 26269255984,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【远行星号】如果早知道AI也会被审查",
+                  "duration": 151,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9011532,
+              "section_id": 10056658,
+              "id": 220511035,
+              "aid": 116907701177107,
+              "cid": 39889275826,
+              "title": "有一个人前来刷余晖",
+              "attribute": 0,
+              "arc": {
+                "aid": 116907701177107,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/f9b643054256d57377cf0e4ab2e1baf15e3ece6d.jpg",
+                "title": "有一个人前来刷余晖",
+                "pubdate": 1783869990,
+                "ctime": 1783869990,
+                "desc": "",
+                "state": 0,
+                "duration": 122,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 156916931,
+                  "name": "余晖_ice",
+                  "face": "https://i2.hdslb.com/bfs/face/04f0a16e38a6a724982137ad749b86db32d8521a.jpg"
+                },
+                "stat": {
+                  "aid": 116907701177107,
+                  "view": 3770,
+                  "danmaku": 32,
+                  "reply": 56,
+                  "fav": 28,
+                  "coin": 67,
+                  "share": 19,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 288,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 3770
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 39889275826,
+                "page": 1,
+                "from": "vupload",
+                "part": "有一个人前来刷余晖",
+                "duration": 122,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1E9Ng6yEdG",
+              "pages": [
+                {
+                  "cid": 39889275826,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "有一个人前来刷余晖",
+                  "duration": 122,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}
