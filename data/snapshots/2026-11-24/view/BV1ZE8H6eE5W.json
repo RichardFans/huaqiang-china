@@ -1,0 +1,705 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1ZE8H6eE5W",
+    "aid": 117123439401104,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/ea2177b10f05d6664f3b1f0ca237187b1c68e6cf.jpg",
+    "title": "奥德修斯，跟我牛来拼你有这个实力吗？！",
+    "pubdate": 1787162162,
+    "ctime": 1787162162,
+    "desc": "无牛所来，亦无所去",
+    "desc_v2": [
+      {
+        "raw_text": "无牛所来，亦无所去",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 229,
+    "mission_id": 4067773,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 1650750,
+      "name": "阿游Kidding",
+      "face": "https://i0.hdslb.com/bfs/face/e2674ebae711274c4d8784184bd8f27f8042abbc.jpg"
+    },
+    "stat": {
+      "aid": 117123439401104,
+      "view": 2629960,
+      "danmaku": 3658,
+      "reply": 5738,
+      "favorite": 16351,
+      "coin": 16010,
+      "share": 30051,
+      "now_rank": 0,
+      "his_rank": 81,
+      "like": 66144,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 41076720029,
+    "dimension": {
+      "width": 2560,
+      "height": 1440,
+      "rotate": 0
+    },
+    "season_id": 8702705,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 41076720029,
+        "page": 1,
+        "from": "vupload",
+        "part": "奥德修斯，跟我牛来拼你有这个实力吗？！",
+        "duration": 229,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2560,
+          "height": 1440,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_000028srdnujne1hz2i9lzhy7j665sb_firsti.jpg",
+        "ctime": 1787162162,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8702705,
+      "title": "阿游的华强鬼畜",
+      "cover": "https://archive.biliimg.com/bfs/archive/9c266667b5e42b84f3a124c6cd2e91eec84f57aa.jpg",
+      "mid": 1650750,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8702705,
+        "view": 10574691,
+        "danmaku": 17005,
+        "reply": 16731,
+        "fav": 91131,
+        "coin": 86313,
+        "share": 72013,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 335013,
+        "vt": 0,
+        "vv": 10574691
+      },
+      "ep_count": 5,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8702705,
+          "id": 9697897,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8702705,
+              "section_id": 9697897,
+              "id": 212407602,
+              "aid": 116657251096758,
+              "cid": 38697045090,
+              "title": "【郝哥穿越】不要把瓜卖给他！",
+              "attribute": 0,
+              "arc": {
+                "aid": 116657251096758,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/0b9cd82ff2aca030ca2f8d3598d81f06c72446be.jpg",
+                "title": "【郝哥穿越】不要把瓜卖给他！",
+                "pubdate": 1780048963,
+                "ctime": 1780048963,
+                "desc": "",
+                "state": 0,
+                "duration": 404,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1650750,
+                  "name": "阿游Kidding",
+                  "face": "https://i0.hdslb.com/bfs/face/e2674ebae711274c4d8784184bd8f27f8042abbc.jpg"
+                },
+                "stat": {
+                  "aid": 116657251096758,
+                  "view": 2100098,
+                  "danmaku": 2620,
+                  "reply": 1868,
+                  "fav": 18548,
+                  "coin": 16456,
+                  "share": 5507,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 70031,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2100098
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 38697045090,
+                "page": 1,
+                "from": "vupload",
+                "part": "不要把瓜卖给他！",
+                "duration": 404,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1H9V86dEH6",
+              "pages": [
+                {
+                  "cid": 38697045090,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "不要把瓜卖给他！",
+                  "duration": 404,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8702705,
+              "section_id": 9697897,
+              "id": 212407603,
+              "aid": 116484462352496,
+              "cid": 37958782599,
+              "title": "华强🚬劝烟（终极版，郝哥封彪宋老虎都劝）",
+              "attribute": 0,
+              "arc": {
+                "aid": 116484462352496,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/33b4735bb802c8a7ef60b83f11fa3d8a97b5cb19.jpg",
+                "title": "华强🚬劝烟（终极版，郝哥封彪宋老虎都劝）",
+                "pubdate": 1777411997,
+                "ctime": 1777411997,
+                "desc": "",
+                "state": 0,
+                "duration": 453,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1650750,
+                  "name": "阿游Kidding",
+                  "face": "https://i0.hdslb.com/bfs/face/e2674ebae711274c4d8784184bd8f27f8042abbc.jpg"
+                },
+                "stat": {
+                  "aid": 116484462352496,
+                  "view": 614903,
+                  "danmaku": 3226,
+                  "reply": 2206,
+                  "fav": 13373,
+                  "coin": 13982,
+                  "share": 4587,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 40146,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 614903
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 37958782599,
+                "page": 1,
+                "from": "vupload",
+                "part": "华强劝烟 终极版",
+                "duration": 453,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1922,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV12t91BuEte",
+              "pages": [
+                {
+                  "cid": 37958782599,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "华强劝烟 终极版",
+                  "duration": 453,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1922,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8702705,
+              "section_id": 9697897,
+              "id": 217438443,
+              "aid": 117123439401104,
+              "cid": 41076720029,
+              "title": "奥德修斯，跟我牛来拼你有这个实力吗？！",
+              "attribute": 0,
+              "arc": {
+                "aid": 117123439401104,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/ea2177b10f05d6664f3b1f0ca237187b1c68e6cf.jpg",
+                "title": "奥德修斯，跟我牛来拼你有这个实力吗？！",
+                "pubdate": 1787162162,
+                "ctime": 1787162162,
+                "desc": "",
+                "state": 0,
+                "duration": 229,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1650750,
+                  "name": "阿游Kidding",
+                  "face": "https://i0.hdslb.com/bfs/face/e2674ebae711274c4d8784184bd8f27f8042abbc.jpg"
+                },
+                "stat": {
+                  "aid": 117123439401104,
+                  "view": 2629960,
+                  "danmaku": 3658,
+                  "reply": 5738,
+                  "fav": 16351,
+                  "coin": 16010,
+                  "share": 30051,
+                  "now_rank": 0,
+                  "his_rank": 81,
+                  "like": 66144,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2629960
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41076720029,
+                "page": 1,
+                "from": "vupload",
+                "part": "奥德修斯，跟我牛来拼你有这个实力吗？！",
+                "duration": 229,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2560,
+                  "height": 1440,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ZE8H6eE5W",
+              "pages": [
+                {
+                  "cid": 41076720029,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "奥德修斯，跟我牛来拼你有这个实力吗？！",
+                  "duration": 229,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2560,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8702705,
+              "section_id": 9697897,
+              "id": 223759493,
+              "aid": 117315823867089,
+              "cid": 42118614781,
+              "title": "带着豆包去买瓜",
+              "attribute": 0,
+              "arc": {
+                "aid": 117315823867089,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/4b366836adb2f277e367db3c31207b552769dd15.jpg",
+                "title": "带着豆包去买瓜",
+                "pubdate": 1790097720,
+                "ctime": 1790097720,
+                "desc": "",
+                "state": 0,
+                "duration": 320,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1650750,
+                  "name": "阿游Kidding",
+                  "face": "https://i0.hdslb.com/bfs/face/e2674ebae711274c4d8784184bd8f27f8042abbc.jpg"
+                },
+                "stat": {
+                  "aid": 117315823867089,
+                  "view": 4594012,
+                  "danmaku": 5746,
+                  "reply": 5987,
+                  "fav": 39107,
+                  "coin": 37604,
+                  "share": 29925,
+                  "now_rank": 0,
+                  "his_rank": 27,
+                  "like": 146117,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 4594012
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42118614781,
+                "page": 1,
+                "from": "vupload",
+                "part": "带着豆包去买瓜",
+                "duration": 320,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1w7hn63EBs",
+              "pages": [
+                {
+                  "cid": 42118614781,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "带着豆包去买瓜",
+                  "duration": 320,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8702705,
+              "section_id": 9697897,
+              "id": 230607666,
+              "aid": 117526444906367,
+              "cid": 43163716621,
+              "title": "带着豆包去喝酒",
+              "attribute": 0,
+              "arc": {
+                "aid": 117526444906367,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/7d57b6561eb605d116b11a0ac5e7a02c2e3ac011.jpg",
+                "title": "带着豆包去喝酒",
+                "pubdate": 1793311441,
+                "ctime": 1793311441,
+                "desc": "",
+                "state": 0,
+                "duration": 342,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 1650750,
+                  "name": "阿游Kidding",
+                  "face": "https://i0.hdslb.com/bfs/face/e2674ebae711274c4d8784184bd8f27f8042abbc.jpg"
+                },
+                "stat": {
+                  "aid": 117526444906367,
+                  "view": 635725,
+                  "danmaku": 1755,
+                  "reply": 932,
+                  "fav": 3752,
+                  "coin": 2261,
+                  "share": 1943,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 12575,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 635725
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43163716621,
+                "page": 1,
+                "from": "vupload",
+                "part": "带着豆包去喝酒",
+                "duration": 342,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1918,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1A4xN6nETw",
+              "pages": [
+                {
+                  "cid": 43163716621,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "带着豆包去喝酒",
+                  "duration": 342,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1918,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 117123439401104,
+          "type": 3,
+          "desc": "全站排行榜最高第81名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 117123439401104,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,752 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Ku411B7XR",
+    "aid": 510131240,
+    "videos": 1,
+    "tid": 138,
+    "tid_v2": 2083,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i2.hdslb.com/bfs/archive/106920be6df92da9d7bc41a0f49acc0ebb428d5f.jpg",
+    "title": "《梗王之王》多少梗，快来快来数一数，24678...",
+    "pubdate": 1648556536,
+    "ctime": 1648555908,
+    "desc": "谭sir、二仙桥大爷与演员李广奇一起卖瓜，携手登台，进军娱乐圈。B站站友用爱发电，助力三位五旬老者，挑战金鸡、百花、柏林、戛纳。",
+    "desc_v2": [
+      {
+        "raw_text": "谭sir、二仙桥大爷与演员李广奇一起卖瓜，携手登台，进军娱乐圈。B站站友用爱发电，助力三位五旬老者，挑战金鸡、百花、柏林、戛纳。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 350,
+    "mission_id": 517586,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 1,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 330415548,
+      "name": "谭乔",
+      "face": "https://i0.hdslb.com/bfs/face/42efc41c022661fa3a8a4f87d5e4c34f956f5a66.jpg"
+    },
+    "stat": {
+      "aid": 510131240,
+      "view": 11253195,
+      "danmaku": 27680,
+      "reply": 7575,
+      "favorite": 113867,
+      "coin": 215975,
+      "share": 50375,
+      "now_rank": 0,
+      "his_rank": 1,
+      "like": 734286,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "【华强买瓜】梦幻联动【二仙桥】 ",
+    "cid": 562085474,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 669716,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 562085474,
+        "page": 1,
+        "from": "vupload",
+        "part": "0329 重返帝国X二仙桥融梗视频 成成片",
+        "duration": 350,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n220329a225ghkxjskru3q1jaf7niymu_firsti.jpg",
+        "ctime": 1648555908
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "staff": [
+      {
+        "mid": 330415548,
+        "title": "UP主",
+        "name": "谭乔",
+        "face": "https://i0.hdslb.com/bfs/face/42efc41c022661fa3a8a4f87d5e4c34f956f5a66.jpg",
+        "vip": {
+          "type": 2,
+          "status": 1,
+          "due_date": 1826553600000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "http://i0.hdslb.com/bfs/vip/label_annual.png",
+            "text": "年度大会员",
+            "label_theme": "annual_vip",
+            "text_color": "#FFFFFF",
+            "bg_style": 1,
+            "bg_color": "#FB7299",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "https://i0.hdslb.com/bfs/activity-plat/static/20220608/e369244d0b14644f5e1a06431e22a4d5/0DFy9BHgwE.gif",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/8d7e624d13d3e134251e4174a7318c19a8edbd71.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/uckjAv3Npy.png",
+            "label_id": -22,
+            "label_goto": {
+              "mobile": "https://big.bilibili.com/mobile/index?navhide=1&from_spmid=vipicon",
+              "pc_web": "https://account.bilibili.com/big?from_spmid=vipicon"
+            },
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 2
+          },
+          "avatar_subscript": 1,
+          "nickname_color": "#FB7299",
+          "role": 3,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 1,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 1826553600,
+          "avatar_icon": {
+            "icon_type": 1,
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 1,
+            "pay_type": 0,
+            "pay_channel_id": "wechat",
+            "status": 1,
+            "overdue_time": 1826553600
+          },
+          "super_vip": {
+            "is_super_vip": true
+          }
+        },
+        "official": {
+          "role": 2,
+          "title": "bilibili 2022百大UP主、2022年度社会贡献奖UP主、成都《谭谈交通》主持人",
+          "desc": "",
+          "type": 0
+        },
+        "follower": 5302468,
+        "label_style": 0
+      },
+      {
+        "mid": 1803567406,
+        "title": "赞助商",
+        "name": "重返帝国手游",
+        "face": "https://i1.hdslb.com/bfs/face/ea52eb3e88f42be368f64c951afa0037b554638d.jpg",
+        "vip": {
+          "type": 1,
+          "status": 0,
+          "due_date": 1673020800000,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 3,
+          "title": "重返帝国手游官方账号",
+          "desc": "",
+          "type": 1
+        },
+        "follower": 78704,
+        "label_style": 1
+      },
+      {
+        "mid": 1589727142,
+        "title": "参演",
+        "name": "谭sir的朋友二仙桥大爷",
+        "face": "https://i1.hdslb.com/bfs/face/5de6bdd449c934e80122190e54e3bb6dea8add4f.jpg",
+        "vip": {
+          "type": 0,
+          "status": 0,
+          "due_date": 0,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 2,
+          "title": "二仙桥大爷官方账号",
+          "desc": "",
+          "type": 0
+        },
+        "follower": 338744,
+        "label_style": 0
+      },
+      {
+        "mid": 1528617278,
+        "title": "参演",
+        "name": "演员李广奇",
+        "face": "https://i2.hdslb.com/bfs/face/1678614672909b204adc9016f8adefdb1891915b.jpg",
+        "vip": {
+          "type": 0,
+          "status": 0,
+          "due_date": 0,
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+            "label_id": 0,
+            "label_goto": null,
+            "img_label_uri_i18n": "",
+            "img_label_uri_i18n_static": "",
+            "label_type": 0
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": 0,
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": 0,
+          "avatar_icon": {
+            "icon_resource": {}
+          },
+          "ott_info": {
+            "vip_type": 0,
+            "pay_type": 0,
+            "pay_channel_id": "",
+            "status": 0,
+            "overdue_time": 0
+          },
+          "super_vip": {
+            "is_super_vip": false
+          }
+        },
+        "official": {
+          "role": 2,
+          "title": "演员李广奇",
+          "desc": "演员，“华强买瓜”中瓜摊摊主扮演者",
+          "type": 0
+        },
+        "follower": 1208565,
+        "label_style": 0
+      }
+    ],
+    "ugc_season": {
+      "id": 669716,
+      "title": "梗王系列",
+      "cover": "https://archive.biliimg.com/bfs/archive/f933716fededb1d02b8d1319539dfa19fc57b3b6.jpg",
+      "mid": 330415548,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 669716,
+        "view": 29090926,
+        "danmaku": 89363,
+        "reply": 27512,
+        "fav": 388830,
+        "coin": 781967,
+        "share": 231577,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 2584662,
+        "vt": 0,
+        "vv": 29090926
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 669716,
+          "id": 775158,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 669716,
+              "section_id": 775158,
+              "id": 10795563,
+              "aid": 469972598,
+              "cid": 816120357,
+              "title": "⚡   梗 王 王 中 王   ⚡",
+              "attribute": 0,
+              "arc": {
+                "aid": 469972598,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/9512d737701a4f7651dfaf6177a5272e4b3b23dd.png",
+                "title": "⚡   梗 王 王 中 王   ⚡",
+                "pubdate": 1655129431,
+                "ctime": 1655129431,
+                "desc": "",
+                "state": 0,
+                "duration": 416,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 330415548,
+                  "name": "谭乔",
+                  "face": "https://i0.hdslb.com/bfs/face/42efc41c022661fa3a8a4f87d5e4c34f956f5a66.jpg"
+                },
+                "stat": {
+                  "aid": 469972598,
+                  "view": 9913986,
+                  "danmaku": 35397,
+                  "reply": 11453,
+                  "fav": 191980,
+                  "coin": 378701,
+                  "share": 102934,
+                  "now_rank": 0,
+                  "his_rank": 1,
+                  "like": 1040949,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 9913986
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 816120357,
+                "page": 1,
+                "from": "vupload",
+                "part": "重返帝国0827",
+                "duration": 416,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1zT41157n2",
+              "pages": [
+                {
+                  "cid": 816120357,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "重返帝国0827",
+                  "duration": 416,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 669716,
+              "section_id": 775158,
+              "id": 10795564,
+              "aid": 510131240,
+              "cid": 562085474,
+              "title": "《梗王之王》多少梗，快来快来数一数，24678...",
+              "attribute": 0,
+              "arc": {
+                "aid": 510131240,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/106920be6df92da9d7bc41a0f49acc0ebb428d5f.jpg",
+                "title": "《梗王之王》多少梗，快来快来数一数，24678...",
+                "pubdate": 1648556536,
+                "ctime": 1648556536,
+                "desc": "",
+                "state": 0,
+                "duration": 350,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 330415548,
+                  "name": "谭乔",
+                  "face": "https://i0.hdslb.com/bfs/face/42efc41c022661fa3a8a4f87d5e4c34f956f5a66.jpg"
+                },
+                "stat": {
+                  "aid": 510131240,
+                  "view": 11253195,
+                  "danmaku": 27680,
+                  "reply": 7575,
+                  "fav": 113867,
+                  "coin": 215975,
+                  "share": 50375,
+                  "now_rank": 0,
+                  "his_rank": 1,
+                  "like": 734286,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 11253195
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 562085474,
+                "page": 1,
+                "from": "vupload",
+                "part": "0329 重返帝国X二仙桥融梗视频 成成片",
+                "duration": 350,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Ku411B7XR",
+              "pages": [
+                {
+                  "cid": 562085474,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "0329 重返帝国X二仙桥融梗视频 成成片",
+                  "duration": 350,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 669716,
+              "section_id": 775158,
+              "id": 10805738,
+              "aid": 599994912,
+              "cid": 815926811,
+              "title": "⚡ 梗 王 但 爽 文 版  ⚡",
+              "attribute": 0,
+              "arc": {
+                "aid": 599994912,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/44e4eeae475f8606b21656ce0276f0fc9efc9fcc.jpg",
+                "title": "⚡ 梗 王 但 爽 文 版  ⚡",
+                "pubdate": 1661572800,
+                "ctime": 1661572800,
+                "desc": "",
+                "state": 0,
+                "duration": 396,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 330415548,
+                  "name": "谭乔",
+                  "face": "https://i0.hdslb.com/bfs/face/42efc41c022661fa3a8a4f87d5e4c34f956f5a66.jpg"
+                },
+                "stat": {
+                  "aid": 599994912,
+                  "view": 7923746,
+                  "danmaku": 26286,
+                  "reply": 8484,
+                  "fav": 82983,
+                  "coin": 187291,
+                  "share": 78268,
+                  "now_rank": 0,
+                  "his_rank": 1,
+                  "like": 809427,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 7923746
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 815926811,
+                "page": 1,
+                "from": "vupload",
+                "part": "爽文王中王最终版0826（无）",
+                "duration": 396,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 3840,
+                  "height": 2160,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1WB4y147MU",
+              "pages": [
+                {
+                  "cid": 815926811,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "爽文王中王最终版0826（无）",
+                  "duration": 396,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 510131240,
+          "type": 2,
+          "desc": "第158期每周必看",
+          "weekly_recommend_num": 158
+        },
+        {
+          "aid": 510131240,
+          "type": 3,
+          "desc": "全站排行榜最高第1名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 510131240,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 510131240,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

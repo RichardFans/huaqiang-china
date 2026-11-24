@@ -8,21 +8,21 @@
 - [【补档】对不起，我正式退站](https://www.bilibili.com/video/BV1ju411i7vg) ｜ 傻子未卫 ｜ 2022-04-01 ｜ 播放 4,663,286 ｜ 热门 ｜ 剧情剪辑
 - [「误导向」感人短片《英雄》](https://www.bilibili.com/video/BV1Z64y1z7Ye) ｜ 唐大师の超鬼畜大冒险 ｜ 2021-07-19 ｜ 播放 4,640,148 ｜ 热门 ｜ 剧情剪辑
 - [华强买瓜，但过于学术](https://www.bilibili.com/video/BV1rAQqBqE6A) ｜ 一起座谈会 ｜ 2026-03-24 ｜ 播放 4,627,143 ｜ 热门 ｜ 剧情剪辑
-- [他说的全是我的词儿啊！！！](https://www.bilibili.com/video/BV149ocBsEH1) ｜ 怪盗剧场 ｜ 2026-04-20 ｜ 播放 4,622,351 ｜ 热门 ｜ 剧情剪辑
+- [他说的全是我的词儿啊！！！](https://www.bilibili.com/video/BV149ocBsEH1) ｜ 怪盗剧场 ｜ 2026-04-20 ｜ 播放 4,622,352 ｜ 热门 ｜ 剧情剪辑
 - [找 茬 专 家](https://www.bilibili.com/video/BV17h411W7QX) ｜ 天天买瓜 ｜ 2021-08-28 ｜ 播放 4,051,990 ｜ 热门 ｜ 剧情剪辑
 - [百万英镑买瓜（国语版）](https://www.bilibili.com/video/BV1TzRUBpEP1) ｜ 司马拆迁 ｜ 2026-05-09 ｜ 播放 3,791,038 ｜ 热门 ｜ 剧情剪辑
-- [二 战 导 火 索](https://www.bilibili.com/video/BV1EL4y1a7Gk) ｜ 快乐阿依 ｜ 2021-09-12 ｜ 播放 3,642,043 ｜ 热门 ｜ 鬼畜调教
+- [二 战 导 火 索](https://www.bilibili.com/video/BV1EL4y1a7Gk) ｜ 快乐阿依 ｜ 2021-09-12 ｜ 播放 3,642,048 ｜ 热门 ｜ 鬼畜调教
 - [给 你 机 会 你 不 中 用 啊](https://www.bilibili.com/video/BV1eV411H7oF) ｜ J0hnnySilverhand ｜ 2021-07-18 ｜ 播放 3,600,784 ｜ 热门 ｜ 鬼畜调教
 - [瓜 神 斗 法](https://www.bilibili.com/video/BV1uZ4y1U76z) ｜ 青铃荼阳 ｜ 2022-04-08 ｜ 播放 3,115,464 ｜ 热门 ｜ 剧情剪辑
-- [⚡️这 是 我 弟 弟 电 摇⚡️](https://www.bilibili.com/video/BV1ZZ4y147XR) ｜ 打不倒の西撒 ｜ 2022-06-05 ｜ 播放 2,950,475 ｜ 热门 ｜ 鬼畜调教
-- [⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】](https://www.bilibili.com/video/BV14zHV6zE9m) ｜ 二哥他怕痒 ｜ 2026-10-25 ｜ 播放 2,883,496 ｜ 热门 ｜ AI翻唱/语音克隆
-- [【全站最雅】你唱歌剧是吧！](https://www.bilibili.com/video/BV1pS4y1R7mj) ｜ Ximenbao ｜ 2021-11-26 ｜ 播放 2,867,927 ｜ 热门 ｜ 剧情剪辑
+- [⚡️这 是 我 弟 弟 电 摇⚡️](https://www.bilibili.com/video/BV1ZZ4y147XR) ｜ 打不倒の西撒 ｜ 2022-06-05 ｜ 播放 2,950,476 ｜ 热门 ｜ 鬼畜调教
+- [⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】](https://www.bilibili.com/video/BV14zHV6zE9m) ｜ 二哥他怕痒 ｜ 2026-10-25 ｜ 播放 2,883,511 ｜ 热门 ｜ AI翻唱/语音克隆
+- [【全站最雅】你唱歌剧是吧！](https://www.bilibili.com/video/BV1pS4y1R7mj) ｜ Ximenbao ｜ 2021-11-26 ｜ 播放 2,867,928 ｜ 热门 ｜ 剧情剪辑
 - [印度买瓜](https://www.bilibili.com/video/BV1ZbQsBcEkk) ｜ 一起座谈会 ｜ 2026-04-13 ｜ 播放 2,756,236 ｜ 热门 ｜ 剧情剪辑
 - [找 茬 专 家 2](https://www.bilibili.com/video/BV1QL4y1h7Sk) ｜ 天天买瓜 ｜ 2021-09-11 ｜ 播放 2,738,673 ｜ 热门 ｜ 鬼畜调教
 - [《扫   毒》](https://www.bilibili.com/video/BV1Cq4y1H7JP) ｜ 无锋前沿大手 ｜ 2021-07-27 ｜ 播放 2,650,752 ｜ 热门 ｜ 剧情剪辑
 - [找 茬 专 家 4](https://www.bilibili.com/video/BV15L4y1673u) ｜ 天天买瓜 ｜ 2021-10-04 ｜ 播放 2,555,670 ｜ 热门 ｜ 鬼畜调教
-- [刘华强针对瓜价问题乱象展开整治会议](https://www.bilibili.com/video/BV1LamrBbEaz) ｜ 神威-狗剩 ｜ 2025-12-15 ｜ 播放 2,553,440 ｜ 热门 ｜ 剧情剪辑
-- [华强买瓜，但全员文青病](https://www.bilibili.com/video/BV1pWdbBREw3) ｜ TA_mae_ZK ｜ 2026-04-16 ｜ 播放 2,551,835 ｜ 热门 ｜ 剧情剪辑
+- [刘华强针对瓜价问题乱象展开整治会议](https://www.bilibili.com/video/BV1LamrBbEaz) ｜ 神威-狗剩 ｜ 2025-12-15 ｜ 播放 2,553,441 ｜ 热门 ｜ 剧情剪辑
+- [华强买瓜，但全员文青病](https://www.bilibili.com/video/BV1pWdbBREw3) ｜ TA_mae_ZK ｜ 2026-04-16 ｜ 播放 2,551,836 ｜ 热门 ｜ 剧情剪辑
 - [三句话，让强哥砍了18刀](https://www.bilibili.com/video/BV1uy4y1T78u) ｜ 卑鄙的南瓜骨头 ｜ 2021-07-17 ｜ 播放 2,523,647 ｜ 热门 ｜ 剧情剪辑
 - [幼  儿  员](https://www.bilibili.com/video/BV1Bg411N79x) ｜ 你的硬币是我dio哒 ｜ 2021-11-28 ｜ 播放 2,457,252 ｜ 热门 ｜ 剧情剪辑
 - [华强速通硫磺岛](https://www.bilibili.com/video/BV1Uh411W727) ｜ 罪恶岛市 ｜ 2021-08-28 ｜ 播放 2,433,536 ｜ 热门 ｜ 剧情剪辑
@@ -33,9 +33,9 @@
 - [氪金买瓜](https://www.bilibili.com/video/BV1Fid2B6Eo6) ｜ 一起座谈会 ｜ 2026-04-21 ｜ 播放 2,131,668 ｜ 热门 ｜ 剧情剪辑
 - [【郝哥穿越】不要把瓜卖给他！](https://www.bilibili.com/video/BV1H9V86dEH6) ｜ 阿游Kidding ｜ 2026-05-29 ｜ 播放 2,100,098 ｜ 热门 ｜ 剧情剪辑
 - [买吸铁石](https://www.bilibili.com/video/BV1Dg411T7Q6) ｜ 虹十尃 ｜ 2021-07-18 ｜ 播放 2,018,222 ｜ 热门 ｜ 剧情剪辑
-- [嘉 豪 买 瓜](https://www.bilibili.com/video/BV1zD5a6bEyT) ｜ 青时晚 ｜ 2026-05-15 ｜ 播放 1,157,105 ｜ 热门 ｜ 剧情剪辑
-- [点开之前没想到这么逆天](https://www.bilibili.com/video/BV16xWe6dEfU) ｜ 树深时见鹿dear ｜ 2026-11-13 ｜ 播放 753,429 ｜ 新晋 ｜ 剧情剪辑
+- [嘉 豪 买 瓜](https://www.bilibili.com/video/BV1zD5a6bEyT) ｜ 青时晚 ｜ 2026-05-15 ｜ 播放 1,157,107 ｜ 热门 ｜ 剧情剪辑
+- [点开之前没想到这么逆天](https://www.bilibili.com/video/BV16xWe6dEfU) ｜ 树深时见鹿dear ｜ 2026-11-13 ｜ 播放 753,542 ｜ 新晋 ｜ 剧情剪辑
 - [那 个 傲 慢 的 郝 哥 想 弄 伤 华 强 的 鳞 片！](https://www.bilibili.com/video/BV1td8C6UEGj) ｜ Crazy-face ｜ 2026-08-22 ｜ 播放 283,375 ｜ 新晋 ｜ 鬼畜调教
-- [华强买瓜之咏叹调《萨日朗》 瓜之交响乐团经典曲目](https://www.bilibili.com/video/BV133Vb6vEx2) ｜ 虚拟凯特 ｜ 2026-05-29 ｜ 播放 215,454 ｜ 新晋 ｜ 剧情剪辑
-- [“郝 门 的 世 界”](https://www.bilibili.com/video/BV1tYau6WE4k) ｜ 阿毛带你买橘子 ｜ 2026-10-01 ｜ 播放 156,279 ｜ 新晋 ｜ 鬼畜调教
+- [华强买瓜之咏叹调《萨日朗》 瓜之交响乐团经典曲目](https://www.bilibili.com/video/BV133Vb6vEx2) ｜ 虚拟凯特 ｜ 2026-05-29 ｜ 播放 215,455 ｜ 新晋 ｜ 剧情剪辑
+- [“郝 门 的 世 界”](https://www.bilibili.com/video/BV1tYau6WE4k) ｜ 阿毛带你买橘子 ｜ 2026-10-01 ｜ 播放 156,282 ｜ 新晋 ｜ 鬼畜调教
 - [【能畜没】⚡️忘情牛肉面争夺战⚡️](https://www.bilibili.com/video/BV11W8C66EgF) ｜ -郊区图鉴- ｜ 2026-08-22 ｜ 播放 110,997 ｜ 新晋 ｜ 剧情剪辑
