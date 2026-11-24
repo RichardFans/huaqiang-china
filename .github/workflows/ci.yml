@@ -92,6 +92,7 @@ jobs:
           URL: ${{ needs.deploy-pages.outputs.page_url }}
         run: |
           set -euo pipefail
+          URL="${URL%/}"          # deploy-pages 给出的地址带尾斜杠，统一去掉再拼路径
           code_of() { curl -s -o /dev/null -w '%{http_code}' --max-time 30 "$1"; }
           expect_200() {
             local url="$1" label="$2" code
