@@ -1,102 +1,158 @@
 ---
 import Base from '../layouts/Base.astro';
-import EntryTable from '../components/EntryTable.astro';
+import Cover from '../components/Cover.astro';
+import WorkList from '../components/WorkList.astro';
 import views from '../data/generated/views.json';
 import deltas from '../data/generated/deltas.json';
+import tlWide from '../data/generated/timeline-wide.svg?raw';
+import tlCompact from '../data/generated/timeline-compact.svg?raw';
+import { withBase } from '../lib/base';
+import { fmt, fmtCn } from '../lib/format';
 
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const withBase = (p) => `${base}${p}`;
-const all = Object.values(
-  Object.values(views['by-form']).flat().reduce((acc, x) => ({ ...acc, [x.bvid]: x }), {}),
+const all: any[] = Object.values(
+  Object.values(views['by-form'])
+    .flat()
+    .reduce((acc: Record<string, any>, x: any) => ({ ...acc, [x.bvid]: x }), {}),
 );
 const sorted = all
   .filter((x) => x.status === 'ok' && x.kind === 'derivative')
   .sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0));
 const top = sorted.slice(0, 15);
-const hall = (views['by-tier'].hall || [])
-  .filter((x) => x.status === 'ok' && x.cover)
-  .slice(0, 18);
-const rising = sorted.filter((x) => x.tier === 'rising').slice(0, 10);
-const movers = (deltas.rows || []).filter((r) => r.growth_7d != null).slice(0, 10);
+const rising = sorted.filter((x) => x.tier === 'rising').slice(0, 8);
+const hallAll = (views['by-tier'].hall || []).filter((x) => x.status === 'ok');
+const mosaic = hallAll.filter((x) => x.cover).slice(0, 5);
+const movers = ((deltas as any).rows || []).filter((r: any) => r.growth_7d != null).slice(0, 10);
+
 const c = views.counts;
-const reviewed = all.filter((x) => x.review === 'confirmed').length;
-const fmt = (n) => n.toLocaleString('en-US');
-const sceneZh = {
-  maigua: '华强买瓜', 'song-laohu-banquet': '宋老虎请客', 'feng-biao': '封彪桥段',
-  'zhengfu-other': '其他名场面', crossover: '跨素材联动',
-};
+const creatorN = Object.keys(views['by-creator'] || {}).length;
+const dev: any = (views as any).development || {};
+const date = views.generated_at.slice(0, 10);
+const devValue = dev.ratio_pct != null ? `${dev.ratio_pct}%` : dev.capped ? '<0.1%' : '勘探中';
+const capNote =
+  dev.capped
+    ? `华强开发度的分母不可知：平台检索每个关键词最多只给看 ${fmt(dev.cap)} 条（${dev.denominator_date} 实测封顶），账面照记。`
+    : '';
 ---
-<Base title="">
-  <h1>🍉 征服二创宇宙档案</h1>
-  <p class="sub">
-    电视剧《征服》(2003) 二创生态的<strong>收集 · 整理 · 跟踪</strong>：
-    名场面谱系、代表作数据档案（B站一手快照）、热度追踪与研究笔记。
-    The Conquest Remix Archive.
-  </p>
 
-  <div class="cards">
-    <div class="card"><b>{fmt(c.derivative)}</b><span>在册二创条目</span></div>
-    <div class="card"><b>{fmt(c.scenes.maigua || 0)}</b><span>华强买瓜</span></div>
-    <div class="card"><b>{fmt(c.scenes['song-laohu-banquet'] || 0)}</b><span>宋老虎请客</span></div>
-    <div class="card"><b>{fmt(c.scenes['feng-biao'] || 0)}</b><span>封彪桥段</span></div>
-    <div class="card"><b>{fmt(reviewed)}</b><span>已人工复核</span></div>
-  </div>
-
-  <p class="footnote">
-    数据快照：{views.generated_at.slice(0, 10)}（UTC）· 计数为抓取时点值 ·
-    带「⚠ 待复核」的条目为自动入册，归属判定未经人工确认（<a href={withBase('/about/')}>治理说明</a>）。
-  </p>
-
-  <h2>🏆 殿堂封面墙（播放 ≥ 1000 万）</h2>
-  {hall.length ? (
-    <div class="covers">
-      {hall.map((x) => (
-        <a class="cover" href={x.url} target="_blank" rel="noopener"
-           title={`${x.title} — ${x.owner.name}（${fmt(x.latest?.view || 0)} 播放）`}>
-          <img src={x.cover} alt={x.title} loading="lazy" referrerpolicy="no-referrer" />
-          <span class="cv-title">{x.title}</span>
-        </a>
-      ))}
+<Base
+  title=""
+  description="《征服》(2003) 二创生态的收集、整理与跟踪：殿堂封面墙、引爆时间线、热度总榜与创作者星图。"
+>
+  <section class="hero">
+    <div>
+      <h1>征服二创宇宙档案</h1>
+      <p class="hero-lede">《征服》(2003) 二创生态的收集、整理与跟踪。这个梗火了五年，还没人给它记账。</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="#top">看热度总榜</a>
+        <a class="btn btn-ghost" href={withBase('/graph/')}>关系图谱</a>
+      </div>
     </div>
-  ) : (
-    <p class="footnote">封面数据待回填（ADR-0007 挖掘管线）。</p>
-  )}
+    <div class="mosaic" role="group" aria-label="殿堂级作品封面节选">
+      {
+        mosaic.map((x, i) => (
+          <a class="tile" href={x.url} target="_blank" rel="noopener" title={`${x.title}　${x.owner.name}`}>
+            <Cover cover={x.cover} alt={x.title} sizes="(max-width: 899px) 45vw, 28vw" eager={i < 2} />
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="stats" aria-label="关键数字">
+    <a class="stat" href="#top">
+      <b>{fmt(c.derivative)}</b>
+      <span>在册二创</span>
+    </a>
+    <a class="stat" href="#hall">
+      <b>{fmt(hallAll.length)}</b>
+      <span>殿堂级作品（播放 1000 万以上）</span>
+    </a>
+    <a class="stat" href={withBase('/creators/')}>
+      <b>{fmt(creatorN)}</b>
+      <span>收录 UP主</span>
+    </a>
+    <a class="stat" href={withBase('/about/')}>
+      <b>{devValue}</b>
+      <span>华强开发度（民间口径）</span>
+    </a>
+  </section>
   <p class="footnote">
-    封面为 B站 图床热链（no-referrer 引用，本仓库不存储图片字节，
-    <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/decisions/0007-cover-and-creator-links.md">ADR-0007</a>）。
+    数据快照 {date}（UTC），计数为抓取时点值；在册条目均为自动入册、待人工复核。
+    {capNote && <br />}
+    {capNote}
   </p>
 
-  <h2>🔥 热度总榜 Top 15</h2>
-  <EntryTable rows={top} />
+  <section class="section" aria-labelledby="h-ignite">
+    <h2 id="h-ignite" class="section-title">引爆窗口：2021 年 7 月 16 至 19 日</h2>
+    <p class="section-note">
+      一手发布时间显示，殿堂级名作在这四天内密集出现。在册样本偏向播放头部，只讲故事，不下分期结论。
+      <a href={withBase('/chronicle/')}>完整编年</a>
+    </p>
+    <div class="chart">
+      <div class="tl-wide" set:html={tlWide} />
+      <div class="tl-compact" set:html={tlCompact} />
+    </div>
+  </section>
 
-  <h2>🆕 新晋佳作（rising）</h2>
-  {rising.length
-    ? <EntryTable rows={rising} />
-    : <p class="footnote">暂无新晋条目（发布 ≤180 天且播放 ≥10 万）。</p>}
+  <section id="hall" class="section" aria-labelledby="h-hall">
+    <h2 id="h-hall" class="section-title">殿堂封面墙</h2>
+    <p class="section-note">播放量 1000 万以上的 {hallAll.length} 部在册作品，按播放量排序。</p>
+    <div class="wall">
+      {
+        hallAll.map((x) => (
+          <article>
+            <a class="card-main" href={x.url} target="_blank" rel="noopener">
+              <span class="thumb">
+                <Cover cover={x.cover} alt="" sizes="(max-width: 639px) 45vw, (max-width: 899px) 30vw, (max-width: 1159px) 22vw, 176px" />
+              </span>
+              <span class="t">{x.title}</span>
+            </a>
+            <span class="m">
+              <span class="num">{fmtCn(x.latest?.view)}播放</span>
+              <a href={`https://space.bilibili.com/${x.owner.mid}`} target="_blank" rel="noopener">
+                {x.owner.name}
+              </a>
+            </span>
+          </article>
+        ))
+      }
+    </div>
+    <p class="footnote">
+      封面为 B 站图床热链，按原比例完整显示、不裁切；本仓库不存储任何图片字节。
+    </p>
+  </section>
 
-  <h2>📈 7 天播放涨幅</h2>
-  {movers.length ? (
-    <table>
-      <thead><tr><th>#</th><th>标题</th><th class="num">播放</th><th class="num">7d 增量</th></tr></thead>
-      <tbody>
-        {movers.map((r, i) => (
-          <tr>
-            <td>{i + 1}</td>
-            <td><a href={`https://www.bilibili.com/video/${r.bvid}`} target="_blank" rel="noopener">{r.title}</a></td>
-            <td class="num">{fmt(r.view)}</td>
-            <td class="num">+{fmt(r.growth_7d)}</td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  ) : (
-    <p class="footnote">跟踪管线已就绪，涨幅需要跨日快照积累后出现（当前多为同日基线）。</p>
-  )}
+  <section id="top" class="section" aria-labelledby="h-top">
+    <h2 id="h-top" class="section-title">热度总榜</h2>
+    <p class="section-note">在册作品按播放量排序的前 15。</p>
+    <WorkList rows={top} eager={2} />
+  </section>
 
-  <h2>🧭 按桥段浏览</h2>
-  <p>
-    {Object.entries(sceneZh).map(([slug, zh]) => (
-      <a href={withBase(`/scene/${slug}/`)}>{zh}（{c.scenes[slug] || 0}）</a>
-    )).reduce((a, b) => [a, ' · ', b])}
-  </p>
+  <section class="split section" aria-label="新晋与涨幅">
+    <div>
+      <h2 class="section-title">新晋佳作</h2>
+      <p class="section-note">近 180 天发布、播放量 10 万以上。</p>
+      <WorkList rows={rising} compact />
+    </div>
+    <div>
+      <h2 class="section-title">7 日播放涨幅</h2>
+      <p class="section-note">相邻两次快照对比得出。</p>
+      {
+        movers.length ? (
+          <ol class="movers">
+            {movers.map((r: any) => (
+              <li>
+                <a class="ti" href={`https://www.bilibili.com/video/${r.bvid}`} target="_blank" rel="noopener">
+                  {r.title}
+                </a>
+                <span class="d num">+{fmtCn(r.growth_7d)}</span>
+              </li>
+            ))}
+          </ol>
+        ) : (
+          <p class="empty">跟踪管线每日刷新一次，涨幅要等跨日快照积累后才会出现。</p>
+        )
+      }
+    </div>
+  </section>
 </Base>

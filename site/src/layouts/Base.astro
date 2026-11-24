@@ -1,141 +1,133 @@
 ---
-const { title, description, lang = 'zh-CN', en = false } = Astro.props;
+import '../styles/global.css';
+import { REPO, repoBlob, withBase } from '../lib/base';
+
+interface Props {
+  title?: string;
+  description?: string;
+  lang?: string;
+  en?: boolean;
+  /** 当前页路径（如 /scene/maigua/），用于导航高亮 */
+  current?: string;
+}
+
+const { title, description, lang = 'zh-CN', en = false, current = '' } = Astro.props;
 const siteName = '征服二创宇宙档案';
 const siteNameEn = 'The Conquest Remix Archive';
-// 项目页部署（base=/huaqiang-china）：所有站内链接必须带前缀
-const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const withBase = (p) => `${base}${p}`;
-const nav = en
+
+const nav: [string, string][] = en
   ? [
-      [withBase('/en/'), 'Home'],
-      [withBase('/scene/maigua/'), 'Watermelon scene'],
-      [withBase('/scene/song-laohu-banquet/'), 'Banquet scene'],
-      [withBase('/scene/feng-biao/'), 'Feng Biao scene'],
-      [withBase('/creators/'), 'Creators'],
-      [withBase('/chronicle/'), 'Chronicle'],
-      [withBase('/'), '中文'],
+      ['/en/', 'Home'],
+      ['/scene/maigua/', 'Watermelon scene'],
+      ['/scene/song-laohu-banquet/', 'Banquet scene'],
+      ['/scene/feng-biao/', 'Feng Biao scene'],
+      ['/creators/', 'Creators'],
+      ['/graph/', 'Graph'],
+      ['/chronicle/', 'Chronicle'],
+      ['/', '中文'],
     ]
   : [
-      [withBase('/'), '首页'],
-      [withBase('/scene/maigua/'), '华强买瓜'],
-      [withBase('/scene/song-laohu-banquet/'), '宋老虎请客'],
-      [withBase('/scene/feng-biao/'), '封彪桥段'],
-      [withBase('/creators/'), 'UP主'],
-      [withBase('/chronicle/'), '编年'],
-      [withBase('/about/'), '关于'],
-      [withBase('/en/'), 'English'],
+      ['/', '首页'],
+      ['/scene/maigua/', '华强买瓜'],
+      ['/scene/song-laohu-banquet/', '宋老虎请客'],
+      ['/scene/feng-biao/', '封彪桥段'],
+      ['/creators/', 'UP主'],
+      ['/graph/', '图谱'],
+      ['/chronicle/', '编年'],
+      ['/about/', '关于'],
+      ['/en/', 'English'],
     ];
+const fullTitle = title ? `${title} · ${siteName}` : `${siteName} · ${siteNameEn}`;
 ---
+
 <!doctype html>
 <html lang={lang}>
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <!-- B站图床对非常规 Referer 返回 403：封面热链必须 no-referrer -->
-  <meta name="referrer" content="no-referrer" />
-  <title>{title ? `${title} · ${siteName}` : `${siteName} · ${siteNameEn}`}</title>
-  <meta name="description" content={description || '《征服》(2003) 二创生态的收集·整理·跟踪：名场面谱系、代表作数据档案、热度追踪与研究笔记。'} />
-  <meta property="og:title" content={title || siteName} />
-  <meta property="og:site_name" content={siteName} />
-  <meta property="og:description" content={description || 'The Conquest (2003) remix universe archive'} />
-  <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
-  <link rel="alternate" type="application/rss+xml" title="新收录 New entries (中文)" href={withBase('/feeds/new.rss.xml')} />
-  <link rel="alternate" type="application/rss+xml" title="New entries (English)" href={withBase('/feeds/new.en.rss.xml')} />
-  <link rel="alternate" type="application/atom+xml" title="Atom" href={withBase('/feeds/atom.xml')} />
-  <link rel="alternate" type="application/json" title="JSON Feed" href={withBase('/feeds/feed.json')} />
-  <style>
-    :root {
-      --ink: #211d19;
-      --paper: #faf6ef;
-      --card: #fffdf8;
-      --red: #b93a32;        /* 西瓜瓤 */
-      --green: #2f6b4f;      /* 西瓜皮 */
-      --muted: #7a7168;
-      --line: #e8e0d4;
-      --warn-bg: #fff4e0;
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0; background: var(--paper); color: var(--ink);
-      font-family: "Source Han Serif SC", "Noto Serif SC", "Songti SC", system-ui, -apple-system, "Segoe UI", serif;
-      line-height: 1.7;
-    }
-    header.site {
-      border-bottom: 3px solid var(--ink);
-      background: var(--card);
-    }
-    .wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
-    header.site .wrap { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 24px; padding: 18px 20px 12px; }
-    .brand { font-size: 1.5rem; font-weight: 700; letter-spacing: .06em; text-decoration: none; color: var(--ink); }
-    .brand .melon { color: var(--red); }
-    .brand small { color: var(--muted); font-weight: 400; font-size: .72rem; letter-spacing: .02em; margin-left: 8px; }
-    nav.main { display: flex; flex-wrap: wrap; gap: 4px 18px; font-size: .92rem; }
-    nav.main a { color: var(--ink); text-decoration: none; border-bottom: 2px solid transparent; padding: 2px 0; }
-    nav.main a:hover { border-color: var(--red); color: var(--red); }
-    main { padding: 28px 0 48px; }
-    h1 { font-size: 1.6rem; margin: 0 0 6px; letter-spacing: .04em; }
-    h2 { font-size: 1.18rem; margin: 34px 0 10px; border-left: 5px solid var(--red); padding-left: 10px; }
-    h3 { font-size: 1.02rem; margin: 20px 0 8px; }
-    a { color: var(--red); }
-    .sub { color: var(--muted); font-size: .92rem; margin: 0 0 18px; }
-    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 12px; margin: 14px 0; }
-    .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; }
-    .card b { font-size: 1.45rem; display: block; }
-    .card span { color: var(--muted); font-size: .82rem; }
-    table { width: 100%; border-collapse: collapse; font-size: .9rem; background: var(--card); }
-    th { font-size: .78rem; color: var(--muted); text-align: left; font-weight: 600; }
-    th, td { padding: 7px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
-    tr:hover td { background: #fdf8ee; }
-    .num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
-    .badge { display: inline-block; font-size: .72rem; border-radius: 999px; padding: 1px 8px; border: 1px solid; white-space: nowrap; }
-    .b-hall { color: #8a6d1a; border-color: #d4b45a; background: #fdf6dd; }
-    .b-hot { color: var(--red); border-color: #e2a49f; background: #fdf0ee; }
-    .b-rising { color: var(--green); border-color: #a9c7b6; background: #eef6f0; }
-    .b-seed { color: var(--muted); border-color: var(--line); background: var(--paper); }
-    .b-pending { color: #a05a00; border-color: #e8c98d; background: var(--warn-bg); cursor: help; }
-    .b-ai { color: #5b4a8a; border-color: #b7abd8; background: #f1eefa; }
-    footer.site { border-top: 3px solid var(--ink); background: var(--card); margin-top: 30px; }
-    footer.site .wrap { padding: 16px 20px; font-size: .82rem; color: var(--muted); }
-    .note { background: var(--warn-bg); border: 1px solid #e8c98d; border-radius: 8px; padding: 10px 14px; font-size: .86rem; }
-    .glossary dt { font-weight: 700; margin-top: 10px; }
-    .glossary dd { margin: 2px 0 0 0; font-size: .92rem; }
-    .footnote { font-size: .8rem; color: var(--muted); }
-    /* 封面墙（ADR-0007：热链 B站图床，字节不入库） */
-    .covers { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; margin: 14px 0 4px; }
-    .cover { display: block; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
-    .cover img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; margin: 0; }
-    .cover .cv-title { display: block; font-size: .8rem; color: var(--ink); padding: 6px 8px 7px; line-height: 1.4;
-      overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-    .cover:hover { border-color: var(--red); }
-    .cover:hover .cv-title { color: var(--red); }
-  </style>
-</head>
-<body>
-  <header class="site">
-    <div class="wrap">
-      <a class="brand" href={en ? withBase('/en/') : withBase('/')}><span class="melon">🍉</span>{siteName}<small>{siteNameEn}</small></a>
-      <nav class="main">
-        {nav.map(([href, label]) => <a href={href}>{label}</a>)}
-      </nav>
-    </div>
-  </header>
-  <main class="wrap">
-    <slot />
-  </main>
-  <footer class="site">
-    <div class="wrap">
-      <p>
-        📡 订阅：<a href={withBase('/feeds/new.rss.xml')}>新收录 RSS（中文）</a> ·
-        <a href={withBase('/feeds/new.en.rss.xml')}>New entries RSS (EN)</a> ·
-        <a href={withBase('/feeds/movers.rss.xml')}>周涨幅榜 RSS</a> ·
-        <a href={withBase('/feeds/atom.xml')}>Atom</a> · <a href={withBase('/feeds/feed.json')}>JSON Feed</a>
-      </p>
-      <p>
-        本档案仅收录元数据与链接；视频内容版权归原权利人与创作者所有。
-        采集遵循 <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/decisions/0002-collection-legal-posture.md">合规姿态</a>（浏览器等价访问·仅元数据·限速·可叫停）。
-        数据为时点快照，抓取时间见各条目。内容 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> · 代码 MIT。
-      </p>
-    </div>
-  </footer>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <!-- B 站图床对非常规 Referer 返回 403：封面一律 no-referrer 引用（ADR-0007） -->
+    <meta name="referrer" content="no-referrer" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description || '《征服》(2003) 二创生态的收集、整理与跟踪：名场面谱系、作品数据档案、热度追踪与研究笔记。'} />
+    <meta property="og:title" content={title || siteName} />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content={description || 'The Conquest (2003) remix universe archive'} />
+    <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
+    <link rel="alternate" type="application/rss+xml" title="新收录 New entries (中文)" href={withBase('/feeds/new.rss.xml')} />
+    <link rel="alternate" type="application/rss+xml" title="New entries (English)" href={withBase('/feeds/new.en.rss.xml')} />
+    <link rel="alternate" type="application/atom+xml" title="Atom" href={withBase('/feeds/atom.xml')} />
+    <link rel="alternate" type="application/json" title="JSON Feed" href={withBase('/feeds/feed.json')} />
+  </head>
+  <body>
+    <a class="skip" href="#main">{en ? 'Skip to content' : '跳到正文'}</a>
+    <header class="site-head">
+      <div class="wrap">
+        <a class="brand" href={en ? withBase('/en/') : withBase('/')}>
+          <span class="melon" aria-hidden="true">🍉</span>{siteName}<small>{siteNameEn}</small>
+        </a>
+        <nav class="nav" aria-label={en ? 'Primary' : '主导航'}>
+          {
+            nav.map(([href, label]) => (
+              <a href={withBase(href)} aria-current={href === current ? 'page' : undefined}>
+                {label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="wrap page">
+      <slot />
+    </main>
+
+    <footer class="site-foot">
+      <div class="wrap">
+        <p>
+          {en ? 'Feeds' : '订阅'}：<a href={withBase('/feeds/new.rss.xml')} rel="alternate" type="application/rss+xml">新收录 RSS</a>、<a
+            href={withBase('/feeds/new.en.rss.xml')} rel="alternate" type="application/rss+xml">New entries RSS (EN)</a
+          >、<a href={withBase('/feeds/movers.rss.xml')} rel="alternate" type="application/rss+xml">{en ? 'Weekly movers' : '周涨幅榜'}</a>、<a
+            href={withBase('/feeds/atom.xml')} rel="alternate" type="application/atom+xml">Atom</a
+          >、<a href={withBase('/feeds/feed.json')} rel="alternate" type="application/json">JSON Feed</a>
+        </p>
+        <p>
+          {en
+            ? 'Metadata and links only. Copyright of the videos remains with the original rights holders and creators. '
+            : '本档案仅收录元数据与链接，视频内容版权归原权利人与创作者所有。采集遵循 '}
+          {en ? 'Collection follows the ' : ''}
+          <a href={repoBlob('docs/decisions/0002-collection-legal-posture.md')}>
+            {en ? 'compliance posture' : '合规姿态'}
+          </a>
+          {en ? ' (browser-equivalent access, metadata only, rate limited, takedown honored). ' : '（浏览器等价访问、仅元数据、限速、可叫停）。'}
+          {en ? 'Counts are point-in-time snapshots. ' : '数据为时点快照，抓取时间见各条目。'}
+          {en ? 'Content ' : '内容 '}
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>{en ? ', code MIT. ' : '，代码 MIT。'}
+          <a href={REPO}>{en ? 'Source and data' : '源码与数据'}</a>
+        </p>
+      </div>
+    </footer>
+
+    <script>
+      // 封面加载回退（ADR-0007）：规格化地址失败 → 原图；原图也失败 → 显示占位文案。
+      // 资源加载错误不冒泡，必须在捕获阶段监听。
+      document.addEventListener(
+        'error',
+        (ev) => {
+          const img = ev.target;
+          if (!(img instanceof HTMLImageElement)) return;
+          if (img.dataset.fallback && img.dataset.tried !== '1') {
+            img.dataset.tried = '1';
+            img.removeAttribute('srcset');
+            img.src = img.dataset.fallback;
+            return;
+          }
+          img.style.visibility = 'hidden';
+          img.closest('.thumb, .tile')?.classList.add('is-broken');
+        },
+        true,
+      );
+    </script>
+  </body>
 </html>

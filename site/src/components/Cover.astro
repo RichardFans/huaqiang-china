@@ -1,0 +1,34 @@
+---
+import { coverFallback, coverSrc, coverSrcset } from '../lib/cover';
+
+interface Props {
+  cover?: string | null;
+  alt: string;
+  sizes?: string;
+  eager?: boolean;
+}
+
+const { cover, alt, sizes = '(min-width: 900px) 260px, 45vw', eager = false } = Astro.props;
+const src = coverSrc(cover);
+const srcset = coverSrcset(cover);
+const fallback = coverFallback(cover);
+---
+
+{
+  src ? (
+    <img
+      src={src}
+      srcset={srcset ?? undefined}
+      sizes={sizes}
+      width="480"
+      height="270"
+      alt={alt}
+      loading={eager ? 'eager' : 'lazy'}
+      decoding="async"
+      referrerpolicy="no-referrer"
+      data-fallback={fallback ?? undefined}
+    />
+  ) : (
+    <span class="no-cover" aria-hidden="true" />
+  )
+}

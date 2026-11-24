@@ -1,37 +1,76 @@
 ---
 import Base from '../layouts/Base.astro';
+import Cover from '../components/Cover.astro';
 import views from '../data/generated/views.json';
 import creators from '../data/generated/creators.json';
+import { fmtCn } from '../lib/format';
 
-const byCreator = views['by-creator'];
-const creatorMap = Object.fromEntries(creators.map((c) => [String(c.mid), c]));
-const stats = Object.entries(byCreator).map(([mid, rows]) => {
-  const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
-  const follower = creatorMap[mid]?.follower_snapshots?.slice(-1)[0]?.follower;
-  return { mid, name: rows[0].owner.name, n: rows.length, totalView, follower,
-           top: [...rows].sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0))[0] };
-}).sort((a, b) => b.totalView - a.totalView);
-const fmt = (n) => (n == null ? '—' : n.toLocaleString('en-US'));
+const byCreator: Record<string, any[]> = views['by-creator'];
+const creatorMap: Record<string, any> = Object.fromEntries(
+  (creators as any[]).map((c) => [String(c.mid), c]),
+);
+const stats = Object.entries(byCreator)
+  .map(([mid, rows]) => {
+    const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
+    const follower: number | undefined = creatorMap[mid]?.follower_snapshots?.slice(-1)[0]?.follower;
+    const top = [...rows].sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0))[0];
+    return { mid, name: rows[0].owner.name, n: rows.length, totalView, follower, top };
+  })
+  .sort((a, b) => b.totalView - a.totalView);
+const date = views.generated_at.slice(0, 10);
 ---
-<Base title="UP主" description="征服二创宇宙档案：按 UP 主的收录视图">
-  <h1>UP主</h1>
-  <p class="sub">在册条目按创作者聚合（按在册作品累计播放排序）。粉丝数为抓取时点快照。</p>
-  <table>
-    <thead>
-      <tr><th>UP主</th><th class="num">在册条目</th><th class="num">在册累计播放</th><th class="num">粉丝数</th><th>最高作品</th></tr>
-    </thead>
-    <tbody>
-      {stats.map((s) => (
+
+<Base
+  title="UP主"
+  description={`征服二创宇宙档案：${stats.length} 位 UP主的在册作品、累计播放与粉丝数。`}
+  current="/creators/"
+>
+  <h1 class="page-title">UP主</h1>
+  <p class="page-lede">
+    {stats.length} 位 UP主，按在册作品的累计播放排序。粉丝数为抓取时点快照（<span class="nowrap num">{date}</span>）。
+  </p>
+  <div class="table-wrap">
+    <table>
+      <thead>
         <tr>
-          <td style="white-space:nowrap">
-            <a href={`https://space.bilibili.com/${s.mid}`} target="_blank" rel="noopener">{s.name}</a>
-          </td>
-          <td class="num">{s.n}</td>
-          <td class="num">{fmt(s.totalView)}</td>
-          <td class="num">{fmt(s.follower)}</td>
-          <td style="max-width:360px"><a href={s.top.url} target="_blank" rel="noopener">{s.top.title}</a></td>
+          <th class="num">#</th>
+          <th>UP主</th>
+          <th class="num">在册</th>
+          <th class="num">累计播放</th>
+          <th class="num">粉丝</th>
+          <th>播放最高的在册作品</th>
         </tr>
-      ))}
-    </tbody>
-  </table>
+      </thead>
+      <tbody>
+        {
+          stats.map((s, i) => (
+            <tr>
+              <td class="num">{i + 1}</td>
+              <td>
+                <a href={`https://space.bilibili.com/${s.mid}`} target="_blank" rel="noopener">
+                  {s.name}
+                </a>
+              </td>
+              <td class="num">{s.n}</td>
+              <td class="num">{fmtCn(s.totalView)}</td>
+              <td class="num">{s.follower == null ? '无数据' : fmtCn(s.follower)}</td>
+              <td>
+                <a class="row-link" href={s.top.url} target="_blank" rel="noopener">
+                  {s.top.cover && (
+                    <span class="thumb thumb-xs" aria-hidden="true">
+                      <Cover cover={s.top.cover} alt="" sizes="64px" />
+                    </span>
+                  )}
+                  <span>{s.top.title}</span>
+                </a>
+              </td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+  <p class="footnote">
+    UP主 一律按不变的 mid 链接到主页（昵称会改，mid 不会）。在册条目均为自动入册、待人工复核。
+  </p>
 </Base>

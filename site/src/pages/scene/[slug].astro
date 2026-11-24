@@ -1,22 +1,31 @@
 ---
 import Base from '../../layouts/Base.astro';
-import EntryTable from '../../components/EntryTable.astro';
+import WorkList from '../../components/WorkList.astro';
 import views from '../../data/generated/views.json';
+import { withBase } from '../../lib/base';
+import { fmtCn } from '../../lib/format';
 
 export function getStaticPaths() {
   return Object.keys(views['by-scene']).map((slug) => ({ params: { slug } }));
 }
 const { slug } = Astro.params;
-const sceneZh = {
-  maigua: '华强买瓜', 'song-laohu-banquet': '宋老虎请客', 'feng-biao': '封彪桥段',
-  'zhengfu-other': '其他征服名场面', crossover: '跨素材联动',
+const sceneZh: Record<string, string> = {
+  maigua: '华强买瓜',
+  'song-laohu-banquet': '宋老虎请客',
+  'feng-biao': '封彪桥段',
+  'zhengfu-other': '其他征服名场面',
+  crossover: '跨素材联动',
 };
-const sceneEn = {
-  maigua: 'The Watermelon Scene', 'song-laohu-banquet': 'Song Laohu’s Banquet',
-  'feng-biao': 'Feng Biao Scenes', 'zhengfu-other': 'Other Scenes', crossover: 'Crossover',
+const sceneEn: Record<string, string> = {
+  maigua: 'The Watermelon Scene',
+  'song-laohu-banquet': 'Song Laohu’s Banquet',
+  'feng-biao': 'Feng Biao Scenes',
+  'zhengfu-other': 'Other Scenes',
+  crossover: 'Crossover',
 };
-const rows = views['by-scene'][slug] || [];
+const rows: any[] = views['by-scene'][slug] || [];
 const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
+const date = views.generated_at.slice(0, 10);
 // schema.org ItemList + VideoObject（结构化数据）
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -44,16 +53,22 @@ const jsonLd = {
   })),
 };
 ---
-<Base title={sceneZh[slug]} description={`${sceneZh[slug]}（${sceneEn[slug]}）：${rows.length} 条在册二创，累计播放 ${totalView.toLocaleString('en-US')}`}>
+
+<Base
+  title={sceneZh[slug]}
+  description={`${sceneZh[slug]}：${rows.length} 条在册二创，累计播放 ${fmtCn(totalView)}。`}
+  current={`/scene/${slug}/`}
+>
   <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
-  <h1>{sceneZh[slug]} <span class="footnote">{sceneEn[slug]}</span></h1>
-  <p class="sub">
-    {rows.length} 条在册二创 · 累计播放 {totalView.toLocaleString('en-US')} ·
-    数据快照 {views.generated_at.slice(0, 10)}
+  <h1 class="page-title">{sceneZh[slug]}</h1>
+  <p class="page-lede">
+    {sceneEn[slug]}。{rows.length} 条在册作品，累计播放 {fmtCn(totalView)}，按播放量排序；数据快照
+    <span class="nowrap num">{date}</span>（UTC）。
   </p>
-  <EntryTable rows={rows} />
+  <WorkList rows={rows} eager={4} />
   <p class="footnote">
-    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/chronicle/`}>← 编年视图</a> ·
-    <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/creators/`}>UP主视图 →</a>
+    在册条目均为自动入册、待人工复核；归属仅靠检索词命中的条目置信度较低，复核优先。
+    <a href={withBase('/chronicle/')}>编年</a>、<a href={withBase('/creators/')}>UP主</a>、<a
+      href={withBase('/graph/')}>图谱</a>
   </p>
 </Base>

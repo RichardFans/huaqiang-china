@@ -1,60 +1,90 @@
 ---
 import Base from '../../layouts/Base.astro';
-import EntryTable from '../../components/EntryTable.astro';
+import WorkList from '../../components/WorkList.astro';
 import views from '../../data/generated/views.json';
+import { withBase } from '../../lib/base';
+import { fmt } from '../../lib/format';
 
-const all = Object.values(Object.values(views['by-form']).flat().reduce((a, x) => ({ ...a, [x.bvid]: x }), {}));
+const all: any[] = Object.values(
+  Object.values(views['by-form'])
+    .flat()
+    .reduce((acc: Record<string, any>, x: any) => ({ ...acc, [x.bvid]: x }), {}),
+);
 const top = all
   .filter((x) => x.status === 'ok' && x.kind === 'derivative')
   .sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0))
   .slice(0, 15);
 const c = views.counts;
-const fmt = (n) => n.toLocaleString('en-US');
+const date = views.generated_at.slice(0, 10);
 ---
-<Base title="Home" lang="en-US" en={true} description="An open, reproducible archive of the remix universe around The Conquest (2003) — China's most memed TV gangster drama.">
-  <h1>🍉 The Conquest Remix Archive</h1>
-  <p class="sub">
-    <em>征服二创宇宙档案</em> — an open research archive that collects, organizes and tracks
-    the derivative-work universe around <strong>The Conquest</strong> (《征服》, 2003),
-    the TV drama that gave Chinese internet one of its most beloved memes:
-    <strong>Liu Huaqiang buying a watermelon</strong> (“你这瓜保熟吗？”— “Is this melon ripe?”).
-    All numbers are timestamped first-hand snapshots from public Bilbili endpoints.
+
+<Base
+  title="Home"
+  lang="en-US"
+  en={true}
+  current="/en/"
+  description="An open, reproducible archive of the remix universe around The Conquest (2003), the TV drama behind one of China's most memed scenes: Liu Huaqiang buying a watermelon."
+>
+  <h1 class="page-title">The Conquest Remix Archive</h1>
+  <p class="page-lede">
+    <em>征服二创宇宙档案</em> collects, organizes and tracks the derivative-work universe around
+    <strong>The Conquest</strong> (《征服》, 2003), the TV drama that gave the Chinese internet one of its
+    most beloved memes: <strong>Liu Huaqiang buying a watermelon</strong> (“你这瓜保熟吗？”, or “Is this
+    melon guaranteed ripe?”). Every number is a timestamped first-hand snapshot from public Bilibili
+    endpoints.
   </p>
 
-  <div class="cards">
-    <div class="card"><b>{fmt(c.derivative)}</b><span>catalogued works</span></div>
-    <div class="card"><b>{fmt(c.scenes.maigua || 0)}</b><span>watermelon scene</span></div>
-    <div class="card"><b>{fmt(c.scenes['song-laohu-banquet'] || 0)}</b><span>banquet scene</span></div>
-    <div class="card"><b>{fmt(c.scenes['feng-biao'] || 0)}</b><span>Feng Biao scenes</span></div>
+  <div class="stats">
+    <div class="stat">
+      <b>{fmt(c.derivative)}</b>
+      <span>works catalogued</span>
+    </div>
+    <div class="stat">
+      <b>{fmt(c.scenes.maigua || 0)}</b>
+      <span>watermelon scene</span>
+    </div>
+    <div class="stat">
+      <b>{fmt(c.scenes['song-laohu-banquet'] || 0)}</b>
+      <span>banquet scene</span>
+    </div>
+    <div class="stat">
+      <b>{fmt(c.scenes['feng-biao'] || 0)}</b>
+      <span>Feng Biao scenes</span>
+    </div>
   </div>
-
-  <h2>A very short cultural guide</h2>
-  <dl class="glossary">
-    <dt>保熟 (bǎo shú) — “guaranteed ripe?”</dt>
-    <dd>
-      In the scene, gangster Liu Huaqiang asks a melon vendor whether the melon is truly ripe,
-      then escalates the transaction into a knife. The line became a nationwide catchphrase for
-      any suspicious guarantee — this archive's founding scene.
-    </dd>
-    <dt>鬼畜 (guichu)</dt>
-    <dd>
-      A Bilibili-native remix genre: rhythmically re-cutting footage with pitch-shifted audio,
-      descended from Japanese 音MAD. Highly crafted, often musical, sometimes indistinguishable
-      from sorcery. Many top works here are guichu.
-    </dd>
-    <dt>AI 翻唱 (AI cover)</dt>
-    <dd>
-      Since ~2023, voice-cloning models (so-vits-svc / RVC) let creators make Liu Huaqiang
-      <em>sing</em> anything. The meme industrialized: same scene, new throat.
-    </dd>
-  </dl>
-
-  <h2>🔥 Top 15 by views</h2>
-  <EntryTable rows={top} en={true} />
   <p class="footnote">
-    Entries marked <span class="badge b-pending">pending</span> are auto-catalogued and awaiting
-    human review — we show uncertainty instead of hiding it.
-    Full methodology: <a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/about/`}>关于（中文）</a> ·
-    data pipeline on <a href="https://github.com/RichardFans/huaqiang-china">GitHub</a>.
+    Data snapshot {date} (UTC). Entries marked pending are auto-catalogued and await human review; the
+    archive shows uncertainty instead of hiding it.
+  </p>
+
+  <section class="section">
+    <h2 class="section-title">A very short cultural guide</h2>
+    <dl class="glossary">
+      <dt>保熟 (bǎo shú), “guaranteed ripe”</dt>
+      <dd>
+        In the founding scene, gangster Liu Huaqiang questions a melon vendor's guarantee, then escalates
+        the transaction into a knife. The line became a nationwide shorthand for any suspicious promise.
+      </dd>
+      <dt>鬼畜 (guichu)</dt>
+      <dd>
+        A Bilibili-native remix genre: rhythmically re-cut footage with pitch-shifted audio, descended from
+        Japanese 音MAD. Highly crafted, often musical.
+      </dd>
+      <dt>AI 翻唱 (AI cover)</dt>
+      <dd>
+        Since about 2023, voice cloning (so-vits-svc / RVC) has let creators make Liu Huaqiang
+        <em>sing</em> anything. The meme industrialized: same scene, new throat.
+      </dd>
+    </dl>
+  </section>
+
+  <section class="section">
+    <h2 class="section-title">Top 15 by views</h2>
+    <WorkList rows={top} en eager={2} />
+  </section>
+
+  <p class="footnote">
+    Full methodology (Chinese): <a href={withBase('/about/')}>关于本档案</a>. Data pipeline on
+    <a href="https://github.com/RichardFans/huaqiang-china">GitHub</a>.
   </p>
 </Base>

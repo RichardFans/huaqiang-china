@@ -1,0 +1,117 @@
+---
+import Cover from './Cover.astro';
+import { fmtCount } from '../lib/format';
+
+interface Row {
+  bvid: string;
+  title: string;
+  url: string;
+  cover?: string | null;
+  owner: { mid: number; name: string };
+  pubdate: string;
+  form: string;
+  tier: string;
+  review: string;
+  status: string;
+  latest?: { view: number; coin: number } | null;
+}
+
+interface Props {
+  rows: Row[];
+  en?: boolean;
+  /** 是否显示名次（非排序列表设为 false） */
+  rank?: boolean;
+  /** 紧凑变体：分栏里的窄列表，只保留播放量 */
+  compact?: boolean;
+  thumbSizes?: string;
+  /** 前 N 张封面立即加载（首屏可见的） */
+  eager?: number;
+}
+
+const {
+  rows,
+  en = false,
+  rank = true,
+  compact = false,
+  thumbSizes = compact ? '(min-width: 768px) 120px, 112px' : '(min-width: 768px) 168px, 112px',
+  eager = 0,
+} = Astro.props;
+
+const tierLabel: Record<string, string> = { hall: '殿堂级', rising: '新晋', seed: '种子' };
+const tierEn: Record<string, string> = { hall: 'Hall of Fame', rising: 'Rising', seed: 'Seed' };
+const formLabel: Record<string, string> = {
+  'ai-cover': 'AI 翻唱',
+  'ai-video': 'AI 视频',
+  'ai-other': 'AI 其他',
+};
+const formEn: Record<string, string> = {
+  'ai-cover': 'AI cover',
+  'ai-video': 'AI video',
+  'ai-other': 'AI (other)',
+};
+const pendingTip = en
+  ? 'Auto-catalogued, awaiting human review (ADR-0006)'
+  : '自动入册，归属判定尚未经人工复核（ADR-0006 评审门控）';
+---
+
+{
+  rows.length ? (
+    <ol class:list={['rank', { 'rank--compact': compact }]}>
+      {rows.map((x, i) => {
+        const views = fmtCount(en, x.latest?.view);
+        const coins = fmtCount(en, x.latest?.coin);
+        return (
+          <li>
+            {rank && (
+              <span class="rk num" aria-hidden="true">
+                {String(i + 1).padStart(2, '0')}
+              </span>
+            )}
+            <a class="th thumb" href={x.url} target="_blank" rel="noopener" tabindex={-1} aria-hidden="true">
+              {x.cover ? <Cover cover={x.cover} alt="" sizes={thumbSizes} eager={i < eager} /> : <span class="no-cover" />}
+            </a>
+            <div class="bd">
+              <a class="ti" href={x.url} target="_blank" rel="noopener">
+                {x.title}
+              </a>
+              <div class="mt">
+                <a href={`https://space.bilibili.com/${x.owner.mid}`} target="_blank" rel="noopener">
+                  {x.owner.name}
+                </a>
+                <span class="num">{x.pubdate.slice(0, 10)}</span>
+                {x.tier !== 'hot' && (
+                  <span class={`badge b-${x.tier}`}>{en ? tierEn[x.tier] : tierLabel[x.tier]}</span>
+                )}
+                {x.form.startsWith('ai') && (
+                  <span class="badge b-ai">{en ? formEn[x.form] : formLabel[x.form]}</span>
+                )}
+                {x.status !== 'ok' && <span class="badge b-seed">{en ? 'gone' : '已失效'}</span>}
+                {x.review !== 'confirmed' && (
+                  <span class="badge b-pending" title={pendingTip}>
+                    <span aria-hidden="true">⚠︎</span>
+                    {en ? 'pending' : '待复核'}
+                  </span>
+                )}
+                <span class="n-m num">
+                  <b>{views}</b> {en ? 'views' : '播放'}
+                </span>
+              </div>
+            </div>
+            <div class="ns">
+              <span class="n">
+                <b>{views}</b>
+                <span>{en ? 'views' : '播放'}</span>
+              </span>
+              <span class="n">
+                <b>{coins}</b>
+                <span>{en ? 'coins' : '硬币'}</span>
+              </span>
+            </div>
+          </li>
+        );
+      })}
+    </ol>
+  ) : (
+    <p class="empty">{en ? 'No entries yet.' : '暂无条目。'}</p>
+  )
+}

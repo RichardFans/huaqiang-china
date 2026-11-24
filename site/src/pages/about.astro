@@ -1,58 +1,97 @@
 ---
 import Base from '../layouts/Base.astro';
 import views from '../data/generated/views.json';
+import { REPO, repoBlob, repoIssue } from '../lib/base';
+import { fmt } from '../lib/format';
 
-const all = Object.values(Object.values(views['by-form']).flat().reduce((a, x) => ({ ...a, [x.bvid]: x }), {}));
+const all: any[] = Object.values(
+  Object.values(views['by-form'])
+    .flat()
+    .reduce((acc: Record<string, any>, x: any) => ({ ...acc, [x.bvid]: x }), {}),
+);
 const total = all.length;
 const confirmed = all.filter((x) => x.review === 'confirmed').length;
 const sceneConfirmed = all.filter((x) => x.scene_status === 'confirmed').length;
-const GH = 'https://github.com/RichardFans/huaqiang-china/blob/main';
+const dev: any = (views as any).development || {};
+const capDate = (dev.denominator_date || '').slice(0, 10);
 ---
-<Base title="关于" description="方法学、验证协议、采集合规与治理">
-  <h1>关于本档案</h1>
-  <p class="sub">
-    「征服二创宇宙档案」是一个开源研究项目：收集、整理、跟踪《征服》(2003) 的二创生态，
-    并把过程本身做成可复现、可核查的公开数据管线。
-  </p>
 
-  <h2>数据从哪来（一手原则）</h2>
-  <p>
-    所有计数（播放/点赞/投币/收藏/分享/弹幕）来自 B站公开端点的<strong>时点快照</strong>，
-    每条数据带抓取时间与端点；关键视频另用「API × 页面」双面交叉验证
-    （今日结果：一致 8/8）。二手材料（盘点视频、公众号、百科）只作导航线索，不入数据。
-    完整协议见 <a href={`${GH}/docs/verification.md`}>docs/verification.md</a>。
-  </p>
+<Base title="关于" description="方法学、验证协议、采集合规与治理" current="/about/">
+  <div class="prose">
+    <h1 class="page-title">关于本档案</h1>
+    <p class="page-lede">
+      「征服二创宇宙档案」是一个开源研究项目：收集、整理、跟踪《征服》(2003) 的二创生态，并把过程本身做成可复现、可核查的公开数据管线。
+    </p>
 
-  <h2>复核状态（诚实度指标）</h2>
-  <div class="cards">
-    <div class="card"><b>{total}</b><span>在册条目</span></div>
-    <div class="card"><b>{sceneConfirmed}</b><span>桥段归属已确认（标题显式命中）</span></div>
-    <div class="card"><b>{confirmed}</b><span>整条已人工复核</span></div>
+    <h2>数据从哪来（一手原则）</h2>
+    <p>
+      所有计数（播放、点赞、投币、收藏、分享、弹幕）来自 B 站公开端点的时点快照，每条数据带抓取时间与端点；关键视频另用「接口与页面」双面交叉验证。二手材料（盘点视频、公众号、百科）只作导航线索，不入数据。
+      完整协议见 <a href={repoBlob('docs/verification.md')}>docs/verification.md</a>。
+    </p>
+
+    <h2>复核状态</h2>
+    <div class="stats">
+      <div class="stat">
+        <b>{fmt(total)}</b>
+        <span>在册条目</span>
+      </div>
+      <div class="stat">
+        <b>{fmt(sceneConfirmed)}</b>
+        <span>桥段归属已确认（标题显式命中）</span>
+      </div>
+      <div class="stat">
+        <b>{fmt(confirmed)}</b>
+        <span>整条已人工复核</span>
+      </div>
+    </div>
+    <p>
+      自动入册（检索词相关性）与人工确认严格分态展示：未复核条目带「待复核」徽标，不冒充确认事实。
+      发现误收或漏收，请提
+      <a href={repoIssue('correction.yml')}>纠错 issue</a>。
+    </p>
+
+    {
+      dev.capped && (
+        <>
+          <h2>检索面的天花板</h2>
+          <p>
+            民间说，人类对华强的开发不足 0.1%。本档案想算一个可复算的版本：在册条目数除以检索命中总数。
+            结果撞上天花板：平台检索每个关键词最多只给看 {fmt(dev.cap)} 条（{capDate}
+            对 {dev.keywords_observed}
+            个关键词实测，总数全部封顶）。分母不可知，这个百分比既无法证实也无法证伪，账面照记。观测记录见仓库{' '}
+            <a href={repoBlob('docs/evidence/search-surface.md')}>docs/evidence/search-surface.md</a>。
+          </p>
+        </>
+      )
+    }
+
+    <h2>采集合规姿态</h2>
+    <p>
+      本项目不复刻、不分发平台的访问控制或签名机制，仅以浏览器等价方式访问公开页面与端点，仅收录元数据，默认限速 1 req/s，遇风控立即退避降级，并提供下架通道。
+      背景与完整边界：<a href={repoBlob('docs/decisions/0002-collection-legal-posture.md')}>ADR-0002</a>。
+    </p>
+
+    <h2>治理与参与</h2>
+    <ul>
+      <li>
+        收录标准与词表：<a href={repoBlob('data/vocabulary.md')}>vocabulary.md</a>、<a
+          href={repoBlob('docs/decisions/0001-scope-and-inclusion.md')}>ADR-0001</a>
+      </li>
+      <li>
+        提交新视频：<a href={repoIssue('submit_video.yml')}>投稿 issue</a>（机器人会自动校验数据并开出 PR）
+      </li>
+      <li>
+        纠错与下架：<a href={repoIssue('correction.yml')}>纠错 issue</a>、<a href={repoIssue('takedown.yml')}>下架申请</a>
+      </li>
+      <li>
+        全部决策记录：<a href={`${REPO}/blob/main/docs/decisions/`}>docs/decisions/</a>
+      </li>
+    </ul>
+
+    <h2>许可</h2>
+    <p>
+      内容与数据采用 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>，代码 MIT。视频内容版权归原权利人与创作者，本站仅存元数据与链接，不存储、再分发任何音视频。
+      <a href={REPO}>源码与数据在 GitHub</a>。
+    </p>
   </div>
-  <p class="footnote">
-    自动入册（检索词相关性）与人工确认严格分态展示：未复核条目带「⚠ 待复核」徽标，
-    不冒充确认事实。发现误收/漏收请提
-    <a href={`${GH}/issues/new?template=correction.yml`}>纠错 issue</a>。
-  </p>
-
-  <h2>采集合规姿态</h2>
-  <p>
-    本项目不复刻、不分发平台的访问控制或签名机制，仅以浏览器等价方式访问公开页面与端点，
-    仅收录元数据，默认限速 1 req/s，遇风控立即退避降级，并提供下架通道。
-    背景与完整边界：<a href={`${GH}/docs/decisions/0002-collection-legal-posture.md`}>ADR-0002</a>。
-  </p>
-
-  <h2>治理与参与</h2>
-  <ul style="font-size:.95rem">
-    <li>收录标准与词表：<a href={`${GH}/data/vocabulary.md`}>vocabulary.md</a> · <a href={`${GH}/docs/decisions/0001-scope-and-inclusion.md`}>ADR-0001</a></li>
-    <li>提交新视频：<a href={`${GH}/issues/new?template=submit_video.yml`}>submit issue</a>（bot 会自动校验数据并开 PR）</li>
-    <li>纠错/下架：<a href={`${GH}/issues/new?template=correction.yml`}>correction issue</a> · <a href={`${GH}/issues/new?template=takedown.yml`}>takedown issue</a></li>
-    <li>全部决策记录：<a href={`${GH}/docs/decisions/`}>docs/decisions/</a></li>
-  </ul>
-
-  <h2>许可</h2>
-  <p class="footnote">
-    内容与数据 CC BY-SA 4.0 · 代码 MIT · 视频内容版权归原权利人与创作者，
-    本站仅存元数据与链接，不存储/再分发任何音视频。
-  </p>
 </Base>

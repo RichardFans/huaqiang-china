@@ -1,61 +1,94 @@
 ---
 import Base from '../layouts/Base.astro';
+import Cover from '../components/Cover.astro';
 import views from '../data/generated/views.json';
+import tlWide from '../data/generated/timeline-wide.svg?raw';
+import tlCompact from '../data/generated/timeline-compact.svg?raw';
+import { repoBlob } from '../lib/base';
+import { fmtCn } from '../lib/format';
 
-// 按发布年份的迷你分析（数据驱动，非手写）
-const byYear = Object.entries(views['by-year']).map(([year, rows]) => {
-  const forms = {};
-  for (const r of rows) forms[r.form] = (forms[r.form] || 0) + 1;
-  const top = [...rows].sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0))[0];
-  const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
-  return { year, n: rows.length, forms, top, totalView };
-}).sort((a, b) => a.year.localeCompare(b.year));
-
-const formZh = {
-  source: '原片段', clip: '剧情剪辑', guichu: '鬼畜', yinmad: '音MAD',
-  'ai-cover': 'AI翻唱', 'ai-video': 'AI视频', 'ai-other': 'AI其他', other: '其他',
-};
-const fmt = (n) => n.toLocaleString('en-US');
+const byYear = (Object.entries(views['by-year']) as [string, any[]][])
+  .map(([year, rows]) => {
+    const forms: Record<string, number> = {};
+    for (const r of rows) forms[r.form] = (forms[r.form] || 0) + 1;
+    const top = [...rows].sort((a, b) => (b.latest?.view || 0) - (a.latest?.view || 0))[0];
+    const totalView = rows.reduce((s, x) => s + (x.latest?.view || 0), 0);
+    return { year, n: rows.length, forms, top, totalView };
+  })
+  .sort((a, b) => a.year.localeCompare(b.year));
 const maxN = Math.max(...byYear.map((y) => y.n), 1);
+const total = byYear.reduce((s, y) => s + y.n, 0);
+const date = views.generated_at.slice(0, 10);
+const formZh: Record<string, string> = {
+  clip: '剧情剪辑',
+  guichu: '鬼畜',
+  yinmad: '音MAD',
+  'ai-cover': 'AI 翻唱',
+  'ai-video': 'AI 视频',
+  'ai-other': 'AI 其他',
+  other: '其他',
+};
 ---
-<Base title="编年" description="征服二创的年度分布：投稿量、形态构成与年度代表作（数据快照自动统计）">
-  <h1>编年（数据视图）</h1>
-  <p class="sub">
-    以下由在册条目自动统计。⚠ 当前语料以「播放排序头部作品」为主（发现路线偏热），
-    <strong>早期长尾与 2021 年引爆点的完整谱系尚未采集</strong>——
-    阶段划分方案（变点检测 × 技术 marker）见仓库
-    <a href="https://github.com/RichardFans/huaqiang-china/blob/main/docs/methodology.md">docs/methodology.md</a>，
-    定稿前本页不宣称分期结论。
+
+<Base title="编年" description="征服二创的月度与年度分布：投稿量、形态构成与年度代表作，由在册条目自动统计。">
+  <h1 class="page-title">编年</h1>
+  <p class="page-lede">
+    以下由在册条目自动统计。当前语料以播放排序的头部作品为主（发现路线偏热），早期长尾与 2021
+    年引爆点的完整谱系尚未采集；阶段划分方案（变点检测与技术标记）见仓库
+    <a href={repoBlob('docs/methodology.md')}>docs/methodology.md</a>，定稿前本页不宣称分期结论。
   </p>
 
-  <h2>年度投稿分布（在册样本）</h2>
-  <table>
-    <thead>
-      <tr><th>年份</th><th style="width:34%">在册条目</th><th class="num">累计播放</th><th>形态构成</th><th>年度之最</th></tr>
-    </thead>
-    <tbody>
-      {byYear.map((y) => (
-        <tr>
-          <td style="white-space:nowrap"><strong>{y.year}</strong></td>
-          <td>
-            <div style="background:var(--red);height:10px;border-radius:4px;width:{Math.round((y.n / maxN) * 100)}%;opacity:.85" title={`${y.n} 条`}></div>
-            <span class="footnote">{y.n} 条</span>
-          </td>
-          <td class="num">{fmt(y.totalView)}</td>
-          <td style="font-size:.8rem">
-            {Object.entries(y.forms).sort((a, b) => b[1] - a[1]).map(([f, n]) => `${formZh[f]}×${n}`).join(' · ')}
-          </td>
-          <td style="max-width:280px"><a href={y.top.url} target="_blank" rel="noopener">{y.top.title}</a></td>
-        </tr>
-      ))}
-    </tbody>
-  </table>
+  <section class="section">
+    <h2 class="section-title">月度投稿密度</h2>
+    <p class="section-note">
+      按一手发布时间逐月统计在册样本（{total} 条），实心柱为 2021 年 7 月的引爆窗口。
+    </p>
+    <div class="chart">
+      <div class="tl-wide" set:html={tlWide} />
+      <div class="tl-compact" set:html={tlCompact} />
+    </div>
+  </section>
 
-  <h2>初步观察（非结论）</h2>
-  <p class="footnote">
-    待 order=pubdate 深页采集与谱系考据完成后，编年报告将回应
-    <a href="https://github.com/RichardFans/huaqiang-china/blob/main/RESEARCH.md">RESEARCH.md</a>
-    的 RQ1/RQ4（工具变迁与老剧激活机制）。当前数据已可见的诚实表述：在册头部样本集中于
-    2021–2026，与「买瓜模因约 2021 年爆发」的普遍印象方向一致，但样本有发现偏差，不能作为分期证据。
-  </p>
+  <section class="section">
+    <h2 class="section-title">年度分布</h2>
+    <p class="section-note">数据快照 {date}（UTC）。</p>
+    <ol class="years">
+      {
+        byYear.map((y) => (
+          <li>
+            <span class="y num">{y.year}</span>
+            <div class="bar" style={`width:${Math.max(1, Math.round((y.n / maxN) * 100))}%`} title={`${y.n} 条`} />
+            <span class="c num">
+              {y.n} 条，累计播放 {fmtCn(y.totalView)}
+              <span class="f">
+                {Object.entries(y.forms)
+                  .sort((a, b) => b[1] - a[1])
+                  .map(([f, n]) => `${formZh[f] || f}×${n}`)
+                  .join('、')}
+              </span>
+            </span>
+            <div class="w">
+              {y.top.cover && (
+                <a class="thumb thumb-xs" href={y.top.url} target="_blank" rel="noopener" tabindex={-1} aria-hidden="true">
+                  <Cover cover={y.top.cover} alt="" sizes="64px" />
+                </a>
+              )}
+              <a href={y.top.url} target="_blank" rel="noopener">
+                {y.top.title}
+              </a>
+            </div>
+          </li>
+        ))
+      }
+    </ol>
+  </section>
+
+  <section class="section">
+    <h2 class="section-title">初步观察（非结论）</h2>
+    <p class="section-note">
+      待按发布时间深页采集与谱系考据完成后，编年报告将回应仓库研究问题的 RQ1 与 RQ4（工具变迁与老剧激活机制）。
+      当前数据能诚实表述的是：在册头部样本集中于 2021 至 2026 年，与「买瓜模因约在 2021
+      年爆发」的普遍印象方向一致，但样本有发现偏差，不能作为分期证据。
+    </p>
+  </section>
 </Base>

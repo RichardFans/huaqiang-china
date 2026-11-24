@@ -22,6 +22,26 @@
 `tools/zfq/build.py` 的 `SITE_URL`。改动后必须重跑 `python -m zfq build`——
 订阅源、榜单中的站点切面链接都会随之重新生成，CI 的 R7 规则校验一致性。
 
+## 本地预览与界面核对
+
+1. `python -m zfq.build`，然后 `cd site && npm run build`；
+2. 回到仓库根目录运行 `python site/scripts/preview.py 8686`，打开
+   http://127.0.0.1:8686/huaqiang-china/ （8686 是本机端口台账里本项目的预览端口）。
+
+**界面改动必须实际渲染之后再交付**，只核对 HTML 结构不够。至少看三样：桌面宽度、
+手机宽度（约 390px）、系统深色模式。
+
+站点样式全部写在 `site/src/styles/global.css`，不要在组件里写 `<style>`：Astro 默认给它加
+作用域，管不到经 `<slot>` 渲染进来的页面内容（2026-11-24 实锤，站点上线后整页没有样式）。
+`npm run build` 会在构建后拦截作用域选择器，部署后另有冒烟任务检查线上样式表与脚本可达。
+
+## 数据生成的图
+
+时间线（`tools/zfq/timeline.py`）与创作者星图（`tools/zfq/graph.py`）都是数据的纯函数，
+由 `zfq build` 生成 SVG，并受门禁 R10、R11 逐字节校验。README 里作为 `<img>` 使用，
+靠 SVG 内部的 `prefers-color-scheme` 媒体查询适配 GitHub 的深色模式；站点里内联使用，
+通过 CSS 变量跟随页面令牌。
+
 ## 复刻指南（规划中）
 
 「用 zfq 管线给任意梗建档案」的复刻指南正在准备，欢迎先读
