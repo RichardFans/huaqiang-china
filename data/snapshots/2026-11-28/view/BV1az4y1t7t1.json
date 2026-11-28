@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1az4y1t7t1",
+    "aid": 573824837,
+    "videos": 1,
+    "tid": 260,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 2,
+    "pic": "http://i0.hdslb.com/bfs/archive/ee0bb45fd17a09f829098f7aa703b9937ba58af5.jpg",
+    "title": "【4K60FPS】华强买瓜",
+    "pubdate": 1690182785,
+    "ctime": 1690182785,
+    "desc": "https://space.bilibili.com/245632435/video\n4K征服修复完毕。",
+    "desc_v2": [
+      {
+        "raw_text": "https://space.bilibili.com/245632435/video\n4K征服修复完毕。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 149,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 245632435,
+      "name": "4K现场级画质收藏馆",
+      "face": "https://i1.hdslb.com/bfs/face/e8fbf1844f3218403805cad9f08604fa7137e7d4.jpg"
+    },
+    "stat": {
+      "aid": 573824837,
+      "view": 1399540,
+      "danmaku": 1840,
+      "reply": 1627,
+      "favorite": 15437,
+      "coin": 1370,
+      "share": 15363,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 22423,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1208060776,
+    "dimension": {
+      "width": 3840,
+      "height": 2160,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1208060776,
+        "page": 1,
+        "from": "vupload",
+        "part": "【4K60FPS】华强买瓜",
+        "duration": 149,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 3840,
+          "height": 2160,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230724qn13s1c4vlr9fx63kij7nkcxu_firsti.jpg",
+        "ctime": 1690182785
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

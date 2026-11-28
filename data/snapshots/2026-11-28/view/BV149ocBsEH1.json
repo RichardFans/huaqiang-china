@@ -1,0 +1,127 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV149ocBsEH1",
+    "aid": 116432755037613,
+    "videos": 1,
+    "tid": 138,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/f4bb7aacbc0f271a27eaf9ff8feb66288fee7c47.jpg",
+    "title": "他说的全是我的词儿啊！！！",
+    "pubdate": 1776643500,
+    "ctime": 1776623076,
+    "desc": "最近好像刘华强又开始营业了，插播一个买瓜整活吧",
+    "desc_v2": [
+      {
+        "raw_text": "最近好像刘华强又开始营业了，插播一个买瓜整活吧",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 123,
+    "mission_id": 4062850,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 10901294,
+      "name": "怪盗剧场",
+      "face": "https://i2.hdslb.com/bfs/face/65a4c39cd024d3405554a5af6215a1f59ced0fde.jpg"
+    },
+    "stat": {
+      "aid": 116432755037613,
+      "view": 4623558,
+      "danmaku": 432,
+      "reply": 308,
+      "favorite": 29172,
+      "coin": 1939,
+      "share": 772,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 40387,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "作者声明：该视频使用人工智能合成技术",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "他说的，全是我的词儿啊！！！",
+    "cid": 37648336541,
+    "dimension": {
+      "width": 1920,
+      "height": 980,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 37648336541,
+        "page": 1,
+        "from": "vupload",
+        "part": "他说的全是我的词儿啊！！！",
+        "duration": 123,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 980,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/_00000ut0l0w1avfe11zv3zpmgv9v3ab_firsti.jpg",
+        "ctime": 1776623076,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

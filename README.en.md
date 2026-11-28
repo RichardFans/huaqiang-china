@@ -39,72 +39,72 @@ Issues welcome: [submit](.github/ISSUE_TEMPLATE/submit_video.yml) ·
 [takedown](.github/ISSUE_TEMPLATE/takedown.yml).
 
 <!-- zfq:generated:start -->
-**196 derivative works catalogued** (Hall 17 · Hot 133 · Rising 46 · Seed 0) ｜ Human-reviewed 0 · Pending 196 (⚠) ｜ Data snapshot 2026-11-24 (UTC)
+**196 derivative works catalogued** (Hall 17 · Hot 133 · Rising 46 · Seed 0) ｜ Human-reviewed 0 · Pending 196 (⚠) ｜ Data snapshot 2026-11-28 (UTC)
 > Folk wisdom: humanity has unlocked less than 0.1% of Huaqiang's potential. This archive tried to compute a reproducible version and hit a ceiling: search exposes at most 1,000 results per keyword (5 keywords measured, all capped). The denominator is unknowable; the ledger holds 196 entries and keeps counting ([ADR-0009](docs/decisions/0009-development-metric.md))
 
 ## 🏆 Hall of Fame (≥ 10M views, 17 works)
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
 |---|---|---|---|---|---|---|---|
-| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | [夜雨星繁y](https://space.bilibili.com/39422678) | 2021-07 | 51,183,169 | 1,316,884 | Fan edit | Watermelon scene |
-| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-08 | 24,044,499 | 593,823 | Fan edit | Watermelon scene |
-| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | [小猪要吃好果子](https://space.bilibili.com/445423006) | 2021-07 | 22,972,010 | 244,441 | Fan edit | Watermelon scene |
-| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | [无牙人](https://space.bilibili.com/509993026) | 2021-07 | 15,952,120 | 216,760 | Fan edit | Watermelon scene |
-| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | [干物快乐宅](https://space.bilibili.com/2074416895) | 2021-07 | 15,261,910 | 74,496 | Fan edit | Watermelon scene |
-| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2022-12 | 15,026,620 | 175,376 | Fan edit | Watermelon scene |
-| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | [岩罗Crv](https://space.bilibili.com/438256074) | 2026-04 | 14,923,515 | 412,743 | Fan edit | Watermelon scene |
-| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2021-11 | 14,175,604 | 129,841 | Fan edit | Watermelon scene |
-| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,170,101 | 64,703 | Fan edit | Watermelon scene |
-| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,465 | 2,253,931 | Fan edit | Watermelon scene |
-| 11 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | [机智的Kason](https://space.bilibili.com/8549577) | 2021-09 | 12,634,776 | 158,798 | Fan edit | Watermelon scene |
-| 12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2023-02 | 12,190,149 | 263,686 | Fan edit | Watermelon scene |
-| 13 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ⚠ | [周小闹是周小闹](https://space.bilibili.com/3546640096954436) | 2025-02 | 11,777,166 | 2,064 | Fan edit | Watermelon scene |
-| 14 | [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ⚠ | [增殖的发呆](https://space.bilibili.com/13641305) | 2026-05 | 11,569,395 | 108,889 | Fan edit | Watermelon scene |
-| 15 | [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ⚠ | [谭乔](https://space.bilibili.com/330415548) | 2022-03 | 11,253,196 | 215,975 | Fan edit | Watermelon scene |
-| 16 | [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ⚠ | [康师傅红烧甜不辣](https://space.bilibili.com/32837037) | 2021-08 | 10,722,548 | 289,987 | Fan edit | Watermelon scene |
-| 17 | [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ⚠ | [Captive柠檬](https://space.bilibili.com/398622703) | 2021-08 | 10,264,549 | 234,473 | Fan edit | Watermelon scene |
+| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | [夜雨星繁y](https://space.bilibili.com/39422678) | 2021-07 | 51,190,783 | 1,317,032 | Fan edit | Watermelon scene |
+| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-08 | 24,045,659 | 593,832 | Fan edit | Watermelon scene |
+| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | [小猪要吃好果子](https://space.bilibili.com/445423006) | 2021-07 | 22,973,802 | 244,451 | Fan edit | Watermelon scene |
+| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | [无牙人](https://space.bilibili.com/509993026) | 2021-07 | 15,954,646 | 216,767 | Fan edit | Watermelon scene |
+| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | [干物快乐宅](https://space.bilibili.com/2074416895) | 2021-07 | 15,274,355 | 74,521 | Fan edit | Watermelon scene |
+| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2022-12 | 15,027,612 | 175,386 | Fan edit | Watermelon scene |
+| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | [岩罗Crv](https://space.bilibili.com/438256074) | 2026-04 | 14,937,296 | 412,950 | Fan edit | Watermelon scene |
+| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2021-11 | 14,177,764 | 129,852 | Fan edit | Watermelon scene |
+| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,175,586 | 64,745 | Fan edit | Watermelon scene |
+| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,738 | 2,253,937 | Fan edit | Watermelon scene |
+| 11 | [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ⚠ | [机智的Kason](https://space.bilibili.com/8549577) | 2021-09 | 12,634,889 | 158,799 | Fan edit | Watermelon scene |
+| 12 | ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2023-02 | 12,190,415 | 263,687 | Fan edit | Watermelon scene |
+| 13 | [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ⚠ | [周小闹是周小闹](https://space.bilibili.com/3546640096954436) | 2025-02 | 11,778,214 | 2,064 | Fan edit | Watermelon scene |
+| 14 | [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ⚠ | [增殖的发呆](https://space.bilibili.com/13641305) | 2026-05 | 11,571,836 | 108,918 | Fan edit | Watermelon scene |
+| 15 | [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ⚠ | [谭乔](https://space.bilibili.com/330415548) | 2022-03 | 11,253,413 | 215,977 | Fan edit | Watermelon scene |
+| 16 | [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ⚠ | [康师傅红烧甜不辣](https://space.bilibili.com/32837037) | 2021-08 | 10,723,473 | 290,001 | Fan edit | Watermelon scene |
+| 17 | [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ⚠ | [Captive柠檬](https://space.bilibili.com/398622703) | 2021-08 | 10,265,972 | 234,477 | Fan edit | Watermelon scene |
 
 ## 🍉 The Watermelon Scene · Top 10
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
 |---|---|---|---|---|---|---|---|
-| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | [夜雨星繁y](https://space.bilibili.com/39422678) | 2021-07 | 51,183,169 | 1,316,884 | Fan edit | Watermelon scene |
-| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-08 | 24,044,499 | 593,823 | Fan edit | Watermelon scene |
-| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | [小猪要吃好果子](https://space.bilibili.com/445423006) | 2021-07 | 22,972,010 | 244,441 | Fan edit | Watermelon scene |
-| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | [无牙人](https://space.bilibili.com/509993026) | 2021-07 | 15,952,120 | 216,760 | Fan edit | Watermelon scene |
-| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | [干物快乐宅](https://space.bilibili.com/2074416895) | 2021-07 | 15,261,910 | 74,496 | Fan edit | Watermelon scene |
-| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2022-12 | 15,026,620 | 175,376 | Fan edit | Watermelon scene |
-| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | [岩罗Crv](https://space.bilibili.com/438256074) | 2026-04 | 14,923,515 | 412,743 | Fan edit | Watermelon scene |
-| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2021-11 | 14,175,604 | 129,841 | Fan edit | Watermelon scene |
-| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,170,101 | 64,703 | Fan edit | Watermelon scene |
-| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,465 | 2,253,931 | Fan edit | Watermelon scene |
+| 1 | [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ⚠ | [夜雨星繁y](https://space.bilibili.com/39422678) | 2021-07 | 51,190,783 | 1,317,032 | Fan edit | Watermelon scene |
+| 2 | [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-08 | 24,045,659 | 593,832 | Fan edit | Watermelon scene |
+| 3 | [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ⚠ | [小猪要吃好果子](https://space.bilibili.com/445423006) | 2021-07 | 22,973,802 | 244,451 | Fan edit | Watermelon scene |
+| 4 | [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ⚠ | [无牙人](https://space.bilibili.com/509993026) | 2021-07 | 15,954,646 | 216,767 | Fan edit | Watermelon scene |
+| 5 | [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ⚠ | [干物快乐宅](https://space.bilibili.com/2074416895) | 2021-07 | 15,274,355 | 74,521 | Fan edit | Watermelon scene |
+| 6 | [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2022-12 | 15,027,612 | 175,386 | Fan edit | Watermelon scene |
+| 7 | [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ⚠ | [岩罗Crv](https://space.bilibili.com/438256074) | 2026-04 | 14,937,296 | 412,950 | Fan edit | Watermelon scene |
+| 8 | [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ⚠ | [一大筐会飞的草莓](https://space.bilibili.com/36438715) | 2021-11 | 14,177,764 | 129,852 | Fan edit | Watermelon scene |
+| 9 | [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ⚠ | [酸奶煎个蛋](https://space.bilibili.com/50391034) | 2026-05 | 14,175,586 | 64,745 | Fan edit | Watermelon scene |
+| 10 | [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ⚠ | [特效小哥studio](https://space.bilibili.com/3066511) | 2021-12 | 13,541,738 | 2,253,937 | Fan edit | Watermelon scene |
 
 → Full list (112): [docs/lists/scene-maigua.md](docs/lists/scene-maigua.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/maigua/)
 
 ## 🍜 Song Laohu’s Banquet · Top 10
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
 |---|---|---|---|---|---|---|---|
-| 1 | [胡 言 乱 语](https://www.bilibili.com/video/BV15q4y197TJ) ⚠ | [小朱佩琪66](https://space.bilibili.com/430362460) | 2021-08 | 7,713,127 | 82,346 | Fan edit | Banquet scene |
-| 2 | [华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】](https://www.bilibili.com/video/BV1Hy4k64Erk) ⚠ | [多梦综合征](https://space.bilibili.com/110071473) | 2026-08 | 7,080,468 | 256,204 | Fan edit | Banquet scene / Watermelon scene |
-| 3 | [【梗百科】控告律师是啥梗？扣税国王的后继梗？](https://www.bilibili.com/video/BV1dA4m1c7XM) ⚠ | [梗百科](https://space.bilibili.com/1544008396) | 2024-04 | 6,010,039 | 4,603 | Fan edit | Banquet scene |
-| 4 | [这是我弟弟 我的刀盾](https://www.bilibili.com/video/BV1vnftBUErw) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2026-02 | 4,502,183 | 11,444 | Fan edit | Banquet scene |
-| 5 | [原始人，起洞！](https://www.bilibili.com/video/BV1iu4y1f7SZ) ⚠ | [黑猫的泪水](https://space.bilibili.com/111161461) | 2023-05 | 4,435,674 | 24,158 | Fan edit | Banquet scene |
-| 6 | [这是我弟弟吴京](https://www.bilibili.com/video/BV1QWaCzBE5Q) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2025-09 | 4,161,779 | 17,434 | Fan edit | Banquet scene |
-| 7 | [贾斯汀 · 比瓜](https://www.bilibili.com/video/BV1tv41137Th) ⚠ | [潮汕好男人](https://space.bilibili.com/19071708) | 2021-09 | 4,121,092 | 145,869 | Fan edit | Banquet scene |
-| 8 | [【梗百科】私人音效是啥梗？](https://www.bilibili.com/video/BV1cw4m1m7uZ) ⚠ | [梗百科](https://space.bilibili.com/1544008396) | 2024-04 | 3,396,013 | 2,017 | Fan edit | Banquet scene |
-| 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | [乌贼酱](https://space.bilibili.com/242014) | 2026-07 | 2,625,301 | 21,950 | Fan edit | Banquet scene |
-| 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 2,535,746 | 22,740 | AI (other) | Banquet scene |
+| 1 | [胡 言 乱 语](https://www.bilibili.com/video/BV15q4y197TJ) ⚠ | [小朱佩琪66](https://space.bilibili.com/430362460) | 2021-08 | 7,730,570 | 82,419 | Fan edit | Banquet scene |
+| 2 | [华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】](https://www.bilibili.com/video/BV1Hy4k64Erk) ⚠ | [多梦综合征](https://space.bilibili.com/110071473) | 2026-08 | 7,104,103 | 256,785 | Fan edit | Banquet scene / Watermelon scene |
+| 3 | [【梗百科】控告律师是啥梗？扣税国王的后继梗？](https://www.bilibili.com/video/BV1dA4m1c7XM) ⚠ | [梗百科](https://space.bilibili.com/1544008396) | 2024-04 | 6,010,139 | 4,603 | Fan edit | Banquet scene |
+| 4 | [这是我弟弟 我的刀盾](https://www.bilibili.com/video/BV1vnftBUErw) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2026-02 | 4,502,556 | 11,444 | Fan edit | Banquet scene |
+| 5 | [原始人，起洞！](https://www.bilibili.com/video/BV1iu4y1f7SZ) ⚠ | [黑猫的泪水](https://space.bilibili.com/111161461) | 2023-05 | 4,435,777 | 24,158 | Fan edit | Banquet scene |
+| 6 | [这是我弟弟吴京](https://www.bilibili.com/video/BV1QWaCzBE5Q) ⚠ | [伊介书生](https://space.bilibili.com/91790758) | 2025-09 | 4,162,140 | 17,436 | Fan edit | Banquet scene |
+| 7 | [贾斯汀 · 比瓜](https://www.bilibili.com/video/BV1tv41137Th) ⚠ | [潮汕好男人](https://space.bilibili.com/19071708) | 2021-09 | 4,121,305 | 145,871 | Fan edit | Banquet scene |
+| 8 | [【梗百科】私人音效是啥梗？](https://www.bilibili.com/video/BV1cw4m1m7uZ) ⚠ | [梗百科](https://space.bilibili.com/1544008396) | 2024-04 | 3,396,063 | 2,017 | Fan edit | Banquet scene |
+| 9 | [郝 哥 面 馆](https://www.bilibili.com/video/BV1RMGP6iE6E) ⚠ | [乌贼酱](https://space.bilibili.com/242014) | 2026-07 | 2,634,847 | 22,008 | Fan edit | Banquet scene |
+| 10 | [强子刚来啊，等你二十年了【AI MV大赛】](https://www.bilibili.com/video/BV1LcxE61Euj) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 2,541,405 | 22,836 | AI (other) | Banquet scene |
 
 → Full list (51): [docs/lists/scene-song-laohu-banquet.md](docs/lists/scene-song-laohu-banquet.md) ｜ [Site](https://richardfans.github.io/huaqiang-china/scene/song-laohu-banquet/)
 
 ## 🔪 Feng Biao Scenes · all 7
 | # | Work | Creator | Published | Views | Coins | Form | Scene |
 |---|---|---|---|---|---|---|---|
-| 1 | [快点吃，一会儿华强该来了](https://www.bilibili.com/video/BV1iA411F7N5) ⚠ | [烹鲤鱼](https://space.bilibili.com/2045439) | 2021-09 | 3,220,259 | 2,421 | Fan edit | Feng Biao scenes |
-| 2 | [电视剧《征服》中那些黑老大们的原型，封彪真的下跪叫爷爷了吗？](https://www.bilibili.com/video/BV1Af4y1d7fv) ⚠ | [胆子不小的郑吉祥](https://space.bilibili.com/405036467) | 2020-07 | 2,889,818 | 15,876 | Fan edit | Feng Biao scenes |
-| 3 | [奥德修斯，跟我牛来拼你有这个实力吗？！](https://www.bilibili.com/video/BV1ZE8H6eE5W) ⚠ | [阿游Kidding](https://space.bilibili.com/1650750) | 2026-08 | 2,629,964 | 16,010 | Fan edit | Feng Biao scenes |
-| 4 | [爷料定不中用](https://www.bilibili.com/video/BV1d6421c7uT) ⚠ | [关节拉伤](https://space.bilibili.com/1324510) | 2024-03 | 1,121,610 | 5,726 | Fan edit | Feng Biao scenes |
-| 5 | [听说你这段时间一直在找我！](https://www.bilibili.com/video/BV1rxbAzPEWy) ⚠ | [GK影视Cut](https://space.bilibili.com/1700797777) | 2025-08 | 1,085,646 | 341 | Fan edit | Feng Biao scenes |
-| 6 | [各位郝哥 节目叫《非常骚扰》](https://www.bilibili.com/video/BV1VWGJ6kEKo) ⚠ | [韩历飞羽666](https://space.bilibili.com/1172349285) | 2026-05 | 301,174 | 2,036 | Fan edit | Feng Biao scenes |
-| 7 | [葫芦恶霸【AI MV大赛】](https://www.bilibili.com/video/BV1QHYP6JEmh) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 282,082 | 183 | AI (other) | Feng Biao scenes |
+| 1 | [快点吃，一会儿华强该来了](https://www.bilibili.com/video/BV1iA411F7N5) ⚠ | [烹鲤鱼](https://space.bilibili.com/2045439) | 2021-09 | 3,223,896 | 2,421 | Fan edit | Feng Biao scenes |
+| 2 | [电视剧《征服》中那些黑老大们的原型，封彪真的下跪叫爷爷了吗？](https://www.bilibili.com/video/BV1Af4y1d7fv) ⚠ | [胆子不小的郑吉祥](https://space.bilibili.com/405036467) | 2020-07 | 2,892,575 | 15,878 | Fan edit | Feng Biao scenes |
+| 3 | [奥德修斯，跟我牛来拼你有这个实力吗？！](https://www.bilibili.com/video/BV1ZE8H6eE5W) ⚠ | [阿游Kidding](https://space.bilibili.com/1650750) | 2026-08 | 2,630,691 | 16,015 | Fan edit | Feng Biao scenes |
+| 4 | [爷料定不中用](https://www.bilibili.com/video/BV1d6421c7uT) ⚠ | [关节拉伤](https://space.bilibili.com/1324510) | 2024-03 | 1,121,672 | 5,726 | Fan edit | Feng Biao scenes |
+| 5 | [听说你这段时间一直在找我！](https://www.bilibili.com/video/BV1rxbAzPEWy) ⚠ | [GK影视Cut](https://space.bilibili.com/1700797777) | 2025-08 | 1,085,786 | 341 | Fan edit | Feng Biao scenes |
+| 6 | [各位郝哥 节目叫《非常骚扰》](https://www.bilibili.com/video/BV1VWGJ6kEKo) ⚠ | [韩历飞羽666](https://space.bilibili.com/1172349285) | 2026-05 | 301,531 | 2,040 | Fan edit | Feng Biao scenes |
+| 7 | [葫芦恶霸【AI MV大赛】](https://www.bilibili.com/video/BV1QHYP6JEmh) ⚠ | [Raymondsese](https://space.bilibili.com/1298657234) | 2026-10 | 284,786 | 185 | AI (other) | Feng Biao scenes |
 
 ## 📅 Chronicle at a glance
 | Year | Works | Forms | Top work |
