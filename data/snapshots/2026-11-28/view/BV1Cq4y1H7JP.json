@@ -1,0 +1,493 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1Cq4y1H7JP",
+    "aid": 546875385,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2060,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/c54b3ebfabd31f5e127710b26fd5c6f8c2cf8846.jpg",
+    "title": "《扫   毒》",
+    "pubdate": 1627360210,
+    "ctime": 1627360212,
+    "desc": "该电影讲述了刘华强警官化身便衣警察抓捕毒贩的故事\n制作不易希望大家给个三连",
+    "desc_v2": [
+      {
+        "raw_text": "该电影讲述了刘华强警官化身便衣警察抓捕毒贩的故事\n制作不易希望大家给个三连",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 171,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 345733694,
+      "name": "无锋前沿大手",
+      "face": "https://i2.hdslb.com/bfs/face/ef99ed65a8000e1ff87c2fd397f73ee951c2f503.jpg"
+    },
+    "stat": {
+      "aid": 546875385,
+      "view": 2650933,
+      "danmaku": 7752,
+      "reply": 2009,
+      "favorite": 37625,
+      "coin": 18669,
+      "share": 5922,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 191319,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "劈瓜为号，准备行动！",
+    "cid": 377244709,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 27945,
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 377244709,
+        "page": 1,
+        "from": "vupload",
+        "part": "缉毒警察",
+        "duration": 171,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n210727a21z163fyypcav13ltak8sjgy_firsti.jpg",
+        "ctime": 1627360212
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 27945,
+      "title": "扫毒",
+      "cover": "https://archive.biliimg.com/bfs/archive/416703d86107bd0ceb6c1f92dfda28aa8fcfdc3b.jpg",
+      "mid": 345733694,
+      "intro": "刘华强扫毒系列",
+      "sign_state": 0,
+      "attribute": 13,
+      "stat": {
+        "season_id": 27945,
+        "view": 3451492,
+        "danmaku": 10904,
+        "reply": 3023,
+        "fav": 46669,
+        "coin": 24235,
+        "share": 7124,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 246403,
+        "vt": 0,
+        "vv": 3451492
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 27945,
+          "id": 32860,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 27945,
+              "section_id": 32860,
+              "id": 414390,
+              "aid": 546875385,
+              "cid": 377244709,
+              "title": "《扫   毒》",
+              "attribute": 0,
+              "arc": {
+                "aid": 546875385,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c54b3ebfabd31f5e127710b26fd5c6f8c2cf8846.jpg",
+                "title": "《扫   毒》",
+                "pubdate": 1627360210,
+                "ctime": 1627360210,
+                "desc": "",
+                "state": 0,
+                "duration": 171,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 345733694,
+                  "name": "无锋前沿大手",
+                  "face": "https://i2.hdslb.com/bfs/face/ef99ed65a8000e1ff87c2fd397f73ee951c2f503.jpg"
+                },
+                "stat": {
+                  "aid": 546875385,
+                  "view": 2650933,
+                  "danmaku": 7752,
+                  "reply": 2009,
+                  "fav": 37625,
+                  "coin": 18669,
+                  "share": 5922,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 191319,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2650933
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 377244709,
+                "page": 1,
+                "from": "vupload",
+                "part": "缉毒警察",
+                "duration": 171,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Cq4y1H7JP",
+              "pages": [
+                {
+                  "cid": 377244709,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "缉毒警察",
+                  "duration": 171,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 27945,
+              "section_id": 32860,
+              "id": 414389,
+              "aid": 632240794,
+              "cid": 386467223,
+              "title": "跟我人民警察拼你有这个实力吗？",
+              "attribute": 0,
+              "arc": {
+                "aid": 632240794,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/3090e44e78d109fcc5198a39eba7d0d9836259a9.jpg",
+                "title": "跟我人民警察拼你有这个实力吗？",
+                "pubdate": 1628654419,
+                "ctime": 1628654419,
+                "desc": "",
+                "state": 0,
+                "duration": 270,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 345733694,
+                  "name": "无锋前沿大手",
+                  "face": "https://i2.hdslb.com/bfs/face/ef99ed65a8000e1ff87c2fd397f73ee951c2f503.jpg"
+                },
+                "stat": {
+                  "aid": 632240794,
+                  "view": 702876,
+                  "danmaku": 2536,
+                  "reply": 826,
+                  "fav": 6876,
+                  "coin": 4093,
+                  "share": 1094,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 48442,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 702876
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 386467223,
+                "page": 1,
+                "from": "vupload",
+                "part": "扫毒2",
+                "duration": 270,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1gb4y167sD",
+              "pages": [
+                {
+                  "cid": 386467223,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "扫毒2",
+                  "duration": 270,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 27945,
+              "section_id": 32860,
+              "id": 414388,
+              "aid": 377487515,
+              "cid": 391389804,
+              "title": "我  是  警  察",
+              "attribute": 0,
+              "arc": {
+                "aid": 377487515,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/c24641d5cdd9cdc828ca14a38f95f5d608973fca.jpg",
+                "title": "我  是  警  察",
+                "pubdate": 1629259211,
+                "ctime": 1629259211,
+                "desc": "",
+                "state": 0,
+                "duration": 444,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 345733694,
+                  "name": "无锋前沿大手",
+                  "face": "https://i2.hdslb.com/bfs/face/ef99ed65a8000e1ff87c2fd397f73ee951c2f503.jpg"
+                },
+                "stat": {
+                  "aid": 377487515,
+                  "view": 97684,
+                  "danmaku": 616,
+                  "reply": 188,
+                  "fav": 2168,
+                  "coin": 1473,
+                  "share": 108,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 6642,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 97684
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 391389804,
+                "page": 1,
+                "from": "vupload",
+                "part": "扫毒3决战",
+                "duration": 444,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1zf4y1P7Jg",
+              "pages": [
+                {
+                  "cid": 391389804,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "扫毒3决战",
+                  "duration": 444,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 546875385,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 546875385,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

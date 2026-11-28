@@ -1,0 +1,153 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV15L411p7M8",
+    "aid": 461847198,
+    "videos": 1,
+    "tid": 126,
+    "tid_v2": 2059,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/2598ab5a83448edff1b407ef64eb742b6795e993.jpg",
+    "title": "⚡萨 日 朗！！！⚡",
+    "pubdate": 1626689416,
+    "ctime": 1626689416,
+    "desc": "华强受邀演唱萨日朗\n原曲：火红的萨日朗——要不要买菜（DJ8先生）\n原唱：乌兰托娅",
+    "desc_v2": [
+      {
+        "raw_text": "华强受邀演唱萨日朗\n原曲：火红的萨日朗——要不要买菜（DJ8先生）\n原唱：乌兰托娅",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 77,
+    "mission_id": 30165,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 1,
+      "no_reprint": 1,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 39422678,
+      "name": "夜雨星繁y",
+      "face": "https://i2.hdslb.com/bfs/face/c2a20ba6c8ee98c14012179be24f3d0d462df879.jpg"
+    },
+    "stat": {
+      "aid": 461847198,
+      "view": 51190783,
+      "danmaku": 135762,
+      "reply": 45838,
+      "favorite": 951026,
+      "coin": 1317032,
+      "share": 415840,
+      "now_rank": 0,
+      "his_rank": 6,
+      "like": 2217527,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "灵魂空耳",
+    "cid": 372800020,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 372800020,
+        "page": 1,
+        "from": "vupload",
+        "part": "⚡萨 日 朗⚡",
+        "duration": 77,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n210719a23i78k2vdkhqps3d6i2n3h44_firsti.jpg",
+        "ctime": 1626689416
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 461847198,
+          "type": 2,
+          "desc": "第122期每周必看",
+          "weekly_recommend_num": 122
+        },
+        {
+          "aid": 461847198,
+          "type": 3,
+          "desc": "全站排行榜最高第6名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 461847198,
+          "type": 4,
+          "desc": "热门",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 461847198,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

@@ -1,0 +1,1328 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1BJJq6XEyf",
+    "aid": 117457490544584,
+    "videos": 1,
+    "tid": 216,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/8e03e0764e1b58c104918e2b297f504cac1c45e0.jpg",
+    "title": "汤姆，听说你一直在找我？",
+    "pubdate": 1792287000,
+    "ctime": 1792259286,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 129,
+    "mission_id": 4071424,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 488908604,
+      "name": "灵羽灵兮",
+      "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+    },
+    "stat": {
+      "aid": 117457490544584,
+      "view": 834505,
+      "danmaku": 1444,
+      "reply": 2211,
+      "favorite": 16026,
+      "coin": 8280,
+      "share": 19682,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 44790,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 42829024769,
+    "dimension": {
+      "width": 2160,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9299442,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 42829024769,
+        "page": 1,
+        "from": "vupload",
+        "part": "汤姆，听说你一直在找我？",
+        "duration": 129,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 2160,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/_0000318pi694ghnan2ueufxdp4n5itb_firsti.jpg",
+        "ctime": 1792259286,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9299442,
+      "title": "哈利波特系列",
+      "cover": "https://archive.biliimg.com/bfs/archive/588dc0005c7083b5270a62b1446283b403c11886.jpg",
+      "mid": 488908604,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9299442,
+        "view": 1888066,
+        "danmaku": 3438,
+        "reply": 5037,
+        "fav": 29172,
+        "coin": 11308,
+        "share": 27247,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 85882,
+        "vt": 0,
+        "vv": 1888066
+      },
+      "ep_count": 11,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9299442,
+          "id": 10401659,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 227098563,
+              "aid": 115114216787667,
+              "cid": 32059557241,
+              "title": "哈利波特：飞天扫帚是没有后视镜的",
+              "attribute": 0,
+              "arc": {
+                "aid": 115114216787667,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/9e46ae7dc3ad9d8c819dd41459c4353f1d7112da.jpg",
+                "title": "哈利波特：飞天扫帚是没有后视镜的",
+                "pubdate": 1756516666,
+                "ctime": 1756516666,
+                "desc": "",
+                "state": 0,
+                "duration": 82,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 115114216787667,
+                  "view": 111844,
+                  "danmaku": 485,
+                  "reply": 236,
+                  "fav": 1201,
+                  "coin": 584,
+                  "share": 2396,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 6770,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 111844
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32059557241,
+                "page": 1,
+                "from": "vupload",
+                "part": "哈利波特：飞天扫帚是没有后视镜的",
+                "duration": 82,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1exhazCEJp",
+              "pages": [
+                {
+                  "cid": 32059557241,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "哈利波特：飞天扫帚是没有后视镜的",
+                  "duration": 82,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 227098562,
+              "aid": 115157468448608,
+              "cid": 32205703323,
+              "title": "马尔福：坑伏地魔是没有先例的",
+              "attribute": 0,
+              "arc": {
+                "aid": 115157468448608,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/a122fca042916df1c00c4355c29b48d99f8fd3fc.jpg",
+                "title": "马尔福：坑伏地魔是没有先例的",
+                "pubdate": 1757163917,
+                "ctime": 1757163917,
+                "desc": "",
+                "state": 0,
+                "duration": 82,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 115157468448608,
+                  "view": 16876,
+                  "danmaku": 126,
+                  "reply": 45,
+                  "fav": 155,
+                  "coin": 66,
+                  "share": 166,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 675,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 16876
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32205703323,
+                "page": 1,
+                "from": "vupload",
+                "part": "马尔福：坑伏地魔是没有先例的",
+                "duration": 82,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1912,
+                  "height": 1078,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV16PYKzSEno",
+              "pages": [
+                {
+                  "cid": 32205703323,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "马尔福：坑伏地魔是没有先例的",
+                  "duration": 82,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1912,
+                    "height": 1078,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 227098561,
+              "aid": 115217497394370,
+              "cid": 32434096661,
+              "title": "科目三:霍 格 沃 兹",
+              "attribute": 0,
+              "arc": {
+                "aid": 115217497394370,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/def16c3959a150c54241171dd8cbe5e7df82ce40.jpg",
+                "title": "科目三:霍 格 沃 兹",
+                "pubdate": 1758079715,
+                "ctime": 1758079715,
+                "desc": "",
+                "state": 0,
+                "duration": 108,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 115217497394370,
+                  "view": 14542,
+                  "danmaku": 20,
+                  "reply": 32,
+                  "fav": 107,
+                  "coin": 53,
+                  "share": 49,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 528,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 14542
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 32434096661,
+                "page": 1,
+                "from": "vupload",
+                "part": "科目三:霍 格 沃 兹",
+                "duration": 108,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17fpWz6EF2",
+              "pages": [
+                {
+                  "cid": 32434096661,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "科目三:霍 格 沃 兹",
+                  "duration": 108,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 227098559,
+              "aid": 117412275946344,
+              "cid": 42605415959,
+              "title": "【新宿决战】哈利波特VS伏地魔",
+              "attribute": 0,
+              "arc": {
+                "aid": 117412275946344,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/5c72048217901c8a9ffb985fafa555bbc8261e75.jpg",
+                "title": "【新宿决战】哈利波特VS伏地魔",
+                "pubdate": 1791569299,
+                "ctime": 1791569299,
+                "desc": "",
+                "state": 0,
+                "duration": 104,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117412275946344,
+                  "view": 303962,
+                  "danmaku": 280,
+                  "reply": 1670,
+                  "fav": 6474,
+                  "coin": 844,
+                  "share": 2256,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 19662,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 303962
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42605415959,
+                "page": 1,
+                "from": "vupload",
+                "part": "新宿决战】哈利波特VS伏地魔",
+                "duration": 104,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1910,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1amp86wEVH",
+              "pages": [
+                {
+                  "cid": 42605415959,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新宿决战】哈利波特VS伏地魔",
+                  "duration": 104,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1910,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 228312552,
+              "aid": 117457490544584,
+              "cid": 42829024769,
+              "title": "汤姆，听说你一直在找我？",
+              "attribute": 0,
+              "arc": {
+                "aid": 117457490544584,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/8e03e0764e1b58c104918e2b297f504cac1c45e0.jpg",
+                "title": "汤姆，听说你一直在找我？",
+                "pubdate": 1792287000,
+                "ctime": 1792287000,
+                "desc": "",
+                "state": 0,
+                "duration": 129,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117457490544584,
+                  "view": 834505,
+                  "danmaku": 1444,
+                  "reply": 2211,
+                  "fav": 16026,
+                  "coin": 8280,
+                  "share": 19682,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 44790,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 834505
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42829024769,
+                "page": 1,
+                "from": "vupload",
+                "part": "汤姆，听说你一直在找我？",
+                "duration": 129,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 2160,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1BJJq6XEyf",
+              "pages": [
+                {
+                  "cid": 42829024769,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "汤姆，听说你一直在找我？",
+                  "duration": 129,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2160,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 230186271,
+              "aid": 117513509735856,
+              "cid": 43115415265,
+              "title": "格兰芬多不要太气盛！【AI全民制作人】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117513509735856,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/7ddec3634e56c052f507b19086ff0dbb06b03a9f.jpg",
+                "title": "格兰芬多不要太气盛！【AI全民制作人】",
+                "pubdate": 1793154600,
+                "ctime": 1793154600,
+                "desc": "",
+                "state": 0,
+                "duration": 194,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117513509735856,
+                  "view": 313463,
+                  "danmaku": 620,
+                  "reply": 401,
+                  "fav": 3410,
+                  "coin": 971,
+                  "share": 2135,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 8953,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 313463
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43115415265,
+                "page": 1,
+                "from": "vupload",
+                "part": "格兰芬多不要太气盛FIN",
+                "duration": 194,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1938,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1aGxu6jEcR",
+              "pages": [
+                {
+                  "cid": 43115415265,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "格兰芬多不要太气盛FIN",
+                  "duration": 194,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1938,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 231984119,
+              "aid": 117567398153021,
+              "cid": 43369893389,
+              "title": "大话波特-他的魔杖好碍事啊（下）【AI全民制作人】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117567398153021,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/c087d9379c5a071b92927ccb032cdb54a02373a7.jpg",
+                "title": "大话波特-他的魔杖好碍事啊（下）【AI全民制作人】",
+                "pubdate": 1793936209,
+                "ctime": 1793936209,
+                "desc": "",
+                "state": 0,
+                "duration": 397,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117567398153021,
+                  "view": 19288,
+                  "danmaku": 83,
+                  "reply": 126,
+                  "fav": 207,
+                  "coin": 94,
+                  "share": 102,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 535,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 19288
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43369893389,
+                "page": 1,
+                "from": "vupload",
+                "part": "他的魔杖好碍事啊（下）",
+                "duration": 143,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1tZ4i6WEfZ",
+              "pages": [
+                {
+                  "cid": 43369893389,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "他的魔杖好碍事啊（下）",
+                  "duration": 143,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                {
+                  "cid": 43369957289,
+                  "page": 2,
+                  "from": "vupload",
+                  "part": "完整版",
+                  "duration": 254,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 230734416,
+              "aid": 117529884232479,
+              "cid": 43182263347,
+              "title": "大话波特-魔法奇缘（上）【AI全民制作人】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117529884232479,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/fad6405ad2de0cd80eecc947f01c591ad09e1029.jpg",
+                "title": "大话波特-魔法奇缘（上）【AI全民制作人】",
+                "pubdate": 1793363773,
+                "ctime": 1793363773,
+                "desc": "",
+                "state": 0,
+                "duration": 111,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117529884232479,
+                  "view": 19612,
+                  "danmaku": 20,
+                  "reply": 45,
+                  "fav": 97,
+                  "coin": 35,
+                  "share": 27,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 265,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 19612
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43182263347,
+                "page": 1,
+                "from": "vupload",
+                "part": "大话波特-魔法奇缘（上）【AI全民制作人】",
+                "duration": 111,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1dixq6YETz",
+              "pages": [
+                {
+                  "cid": 43182263347,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "大话波特-魔法奇缘（上）【AI全民制作人】",
+                  "duration": 111,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 227857825,
+              "aid": 117444471425959,
+              "cid": 42765389413,
+              "title": "哈利波特的忧郁恐怕在你之上",
+              "attribute": 0,
+              "arc": {
+                "aid": 117444471425959,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/0af17d642625a08150e525fe4aff8785d410eb54.jpg",
+                "title": "哈利波特的忧郁恐怕在你之上",
+                "pubdate": 1792060600,
+                "ctime": 1792060600,
+                "desc": "",
+                "state": 0,
+                "duration": 61,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117444471425959,
+                  "view": 139348,
+                  "danmaku": 127,
+                  "reply": 52,
+                  "fav": 474,
+                  "coin": 39,
+                  "share": 55,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1206,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 139348
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42765389413,
+                "page": 1,
+                "from": "vupload",
+                "part": "哈利波特的忧郁恐怕在你之上",
+                "duration": 61,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1g8Jy6FEpr",
+              "pages": [
+                {
+                  "cid": 42765389413,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "哈利波特的忧郁恐怕在你之上",
+                  "duration": 61,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 227098560,
+              "aid": 117365450801931,
+              "cid": 42379184237,
+              "title": "伏地魔世界巡演-霍格沃兹",
+              "attribute": 0,
+              "arc": {
+                "aid": 117365450801931,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/587e2a9d02d58c90cec09622e421834c7fe571b6.jpg",
+                "title": "伏地魔世界巡演-霍格沃兹",
+                "pubdate": 1790854681,
+                "ctime": 1790854681,
+                "desc": "",
+                "state": 0,
+                "duration": 185,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117365450801931,
+                  "view": 73152,
+                  "danmaku": 233,
+                  "reply": 203,
+                  "fav": 949,
+                  "coin": 333,
+                  "share": 373,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 2260,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 73152
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42379184237,
+                "page": 1,
+                "from": "vupload",
+                "part": "字母",
+                "duration": 185,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1440,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Zuar6FERh",
+              "pages": [
+                {
+                  "cid": 42379184237,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "字母",
+                  "duration": 185,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1440,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9299442,
+              "section_id": 10401659,
+              "id": 229102401,
+              "aid": 117482304047452,
+              "cid": 42943449185,
+              "title": "马尔芙❌️喵耳芙✅️",
+              "attribute": 0,
+              "arc": {
+                "aid": 117482304047452,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/00bac0e7c6d80cf4960990a383e01e9454564705.jpg",
+                "title": "马尔芙❌️喵耳芙✅️",
+                "pubdate": 1792720800,
+                "ctime": 1792720800,
+                "desc": "",
+                "state": 0,
+                "duration": 23,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 488908604,
+                  "name": "灵羽灵兮",
+                  "face": "https://i2.hdslb.com/bfs/face/b69b8b4573740ff223f4c52fa255a3a4f0f356d9.jpg"
+                },
+                "stat": {
+                  "aid": 117482304047452,
+                  "view": 41475,
+                  "danmaku": 0,
+                  "reply": 16,
+                  "fav": 72,
+                  "coin": 9,
+                  "share": 6,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 239,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 41475
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42943449185,
+                "page": 1,
+                "from": "vupload",
+                "part": "马尔芙❌️喵耳芙✅️",
+                "duration": 23,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1etnC6vEp6",
+              "pages": [
+                {
+                  "cid": 42943449185,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "马尔芙❌️喵耳芙✅️",
+                  "duration": 23,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

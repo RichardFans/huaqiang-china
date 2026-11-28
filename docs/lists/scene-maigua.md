@@ -2,115 +2,115 @@
 
 > 自动生成（zfq build），勿手改。
 
-- [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ｜ 夜雨星繁y ｜ 2021-07-19 ｜ 播放 51,183,169 ｜ 殿堂级 ｜ 剧情剪辑
-- [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ｜ 特效小哥studio ｜ 2021-08-10 ｜ 播放 24,044,499 ｜ 殿堂级 ｜ 剧情剪辑
-- [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ｜ 小猪要吃好果子 ｜ 2021-07-17 ｜ 播放 22,972,010 ｜ 殿堂级 ｜ 剧情剪辑
-- [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ｜ 无牙人 ｜ 2021-07-16 ｜ 播放 15,952,120 ｜ 殿堂级 ｜ 剧情剪辑
-- [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ｜ 干物快乐宅 ｜ 2021-07-27 ｜ 播放 15,261,910 ｜ 殿堂级 ｜ 剧情剪辑
-- [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ｜ 伊介书生 ｜ 2022-12-29 ｜ 播放 15,026,620 ｜ 殿堂级 ｜ 剧情剪辑
-- [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ｜ 岩罗Crv ｜ 2026-04-16 ｜ 播放 14,923,515 ｜ 殿堂级 ｜ 剧情剪辑
-- [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ｜ 一大筐会飞的草莓 ｜ 2021-11-13 ｜ 播放 14,175,604 ｜ 殿堂级 ｜ 剧情剪辑
-- [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ｜ 酸奶煎个蛋 ｜ 2026-05-01 ｜ 播放 14,170,101 ｜ 殿堂级 ｜ 剧情剪辑
-- [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ｜ 特效小哥studio ｜ 2021-12-31 ｜ 播放 13,541,465 ｜ 殿堂级 ｜ 剧情剪辑
-- [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ｜ 机智的Kason ｜ 2021-09-04 ｜ 播放 12,634,776 ｜ 殿堂级 ｜ 剧情剪辑
-- ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ｜ 一大筐会飞的草莓 ｜ 2023-02-13 ｜ 播放 12,190,149 ｜ 殿堂级 ｜ 剧情剪辑
-- [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ｜ 周小闹是周小闹 ｜ 2025-02-16 ｜ 播放 11,777,166 ｜ 殿堂级 ｜ 剧情剪辑
-- [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ｜ 增殖的发呆 ｜ 2026-05-09 ｜ 播放 11,569,395 ｜ 殿堂级 ｜ 剧情剪辑
-- [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ｜ 谭乔 ｜ 2022-03-29 ｜ 播放 11,253,196 ｜ 殿堂级 ｜ 剧情剪辑
-- [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ｜ 康师傅红烧甜不辣 ｜ 2021-08-06 ｜ 播放 10,722,548 ｜ 殿堂级 ｜ 剧情剪辑
-- [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ｜ Captive柠檬 ｜ 2021-08-04 ｜ 播放 10,264,549 ｜ 殿堂级 ｜ 剧情剪辑
-- [东 京 奥 运 会](https://www.bilibili.com/video/BV1Q64y1q7sj) ｜ 徐Toso ｜ 2021-07-25 ｜ 播放 9,984,035 ｜ 热门 ｜ 剧情剪辑
-- [爱 捣 蛋 的 嘎 子](https://www.bilibili.com/video/BV1b3411F7Db) ｜ 一大筐会飞的草莓 ｜ 2022-07-05 ｜ 播放 9,886,915 ｜ 热门 ｜ 剧情剪辑
-- [郝 哥 连 线 勇 哥](https://www.bilibili.com/video/BV1Y3Ne6hENH) ｜ 新世纪咖啡战士v ｜ 2026-07-15 ｜ 播放 9,469,654 ｜ 热门 ｜ 剧情剪辑
-- [𝘼𝙡𝙖𝙣 𝙒𝙝𝙖𝙩'𝙨 𝙪𝙥](https://www.bilibili.com/video/BV1Zb4y127U4) ｜ 傲娇典狱长 ｜ 2021-09-21 ｜ 播放 9,352,415 ｜ 热门 ｜ 剧情剪辑
-- [【特效向】最 离 大 谱 的 作 品](https://www.bilibili.com/video/BV1RU4y1q7F4) ｜ 青铃荼阳 ｜ 2022-07-13 ｜ 播放 9,144,098 ｜ 热门 ｜ 剧情剪辑
-- [【梗百科】扣税“国王”是啥梗？听好了！乡巴佬？！！](https://www.bilibili.com/video/BV1fJ4m1e7Gv) ｜ 梗百科 ｜ 2024-02-26 ｜ 播放 9,090,703 ｜ 热门 ｜ 剧情剪辑
-- [你 这 背 景 让 嘎 子 偷 了](https://www.bilibili.com/video/BV1Je4y1D7b4) ｜ 一大筐会飞的草莓 ｜ 2022-08-02 ｜ 播放 8,807,084 ｜ 热门 ｜ 剧情剪辑
-- [你 版 权 到 期 了 是 吧！](https://www.bilibili.com/video/BV1oT4y1J71e) ｜ 郝哥吃炸鸡 ｜ 2024-01-09 ｜ 播放 8,653,679 ｜ 热门 ｜ 剧情剪辑
-- [蓝 色 妖 姬 是 怎 样 炼 成 的](https://www.bilibili.com/video/BV1qe4y1g77n) ｜ 一大筐会飞的草莓 ｜ 2022-11-28 ｜ 播放 8,638,135 ｜ 热门 ｜ 剧情剪辑
-- [鬼畜大战僵尸](https://www.bilibili.com/video/BV1CU4y1N7P8) ｜ 胖鱼鱼-fhy ｜ 2021-12-05 ｜ 播放 8,633,861 ｜ 热门 ｜ 鬼畜调教
-- [当一千年后的人类考古2026年](https://www.bilibili.com/video/BV1Xj7N6mEa3) ｜ 咪克菌 ｜ 2026-06-24 ｜ 播放 8,588,959 ｜ 热门 ｜ 剧情剪辑
-- [《刘 华 强 买 瓜》 :  2021高清重制版 ！！](https://www.bilibili.com/video/BV17f4y1G7JU) ｜ 影视飓风 ｜ 2021-08-25 ｜ 播放 8,493,319 ｜ 热门 ｜ 剧情剪辑
-- [中 国 有 嘻 瓜](https://www.bilibili.com/video/BV1aA411P79n) ｜ 自动鬼畜中的WZ ｜ 2021-08-05 ｜ 播放 8,482,239 ｜ 热门 ｜ 剧情剪辑
-- [终 结 者 买 瓜](https://www.bilibili.com/video/BV1Nf4pzxEwL) ｜ 新世纪咖啡战士v ｜ 2025-10-10 ｜ 播放 8,339,249 ｜ 热门 ｜ 剧情剪辑
-- [唱着山歌来买瓜](https://www.bilibili.com/video/BV115oWBnEgB) ｜ 猫屎花生 ｜ 2026-04-22 ｜ 播放 8,161,712 ｜ 热门 ｜ AI翻唱/语音克隆
-- [华强买瓜，但是树上人特别多](https://www.bilibili.com/video/BV19N9XBMEmu) ｜ 伊介书生 ｜ 2026-05-02 ｜ 播放 7,869,477 ｜ 热门 ｜ 剧情剪辑
-- [卖瓜老板无伤通关刘华强](https://www.bilibili.com/video/BV1vU4y137Ti) ｜ 咆哮丶土拨鼠 ｜ 2021-07-16 ｜ 播放 7,646,351 ｜ 热门 ｜ 剧情剪辑
-- [郝哥旋转一分钟.avi](https://www.bilibili.com/video/BV1514y1n7ZE) ｜ 青铃荼阳 ｜ 2022-11-26 ｜ 播放 7,613,587 ｜ 热门 ｜ 剧情剪辑
-- [《我的数学老师会玩原神》](https://www.bilibili.com/video/BV15DquYnEpL) ｜ 伊密尔丶 ｜ 2024-12-14 ｜ 播放 7,523,215 ｜ 热门 ｜ 剧情剪辑
-- [瓜 摊 斗 舞](https://www.bilibili.com/video/BV1BdARz5EJp) ｜ 一团小包子 ｜ 2026-03-03 ｜ 播放 7,511,377 ｜ 热门 ｜ 剧情剪辑
-- [我把杰哥不要做成了跑酷游戏！是新游戏哦？让我康康！](https://www.bilibili.com/video/BV1Sv41137bN) ｜ 火山哥哥 ｜ 2021-09-24 ｜ 播放 7,387,996 ｜ 热门 ｜ 剧情剪辑
-- [操 控 买 瓜](https://www.bilibili.com/video/BV1vwLX6yEM2) ｜ 岩罗Crv ｜ 2026-06-17 ｜ 播放 7,373,897 ｜ 热门 ｜ 剧情剪辑
-- [【华强宇宙系列】⚡快银买瓜⚡](https://www.bilibili.com/video/BV1Q64y1a7MS) ｜ 万灵缝合厂 ｜ 2021-08-30 ｜ 播放 7,279,802 ｜ 热门 ｜ 剧情剪辑
-- [看几遍都觉得好笑哈哈哈](https://www.bilibili.com/video/BV1YV4y137Dz) ｜ 碧天蓝钻 ｜ 2022-11-04 ｜ 播放 7,180,968 ｜ 热门 ｜ 剧情剪辑
-- [华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】](https://www.bilibili.com/video/BV1Hy4k64Erk) ｜ 多梦综合征 ｜ 2026-08-29 ｜ 播放 7,080,468 ｜ 热门 ｜ 剧情剪辑
-- [小伙偶遇高人指点，终于做出3D火影忍者~](https://www.bilibili.com/video/BV1w64y1a7iR) ｜ 主观哥哥 ｜ 2021-09-15 ｜ 播放 6,953,324 ｜ 热门 ｜ 剧情剪辑
-- [年货（0分钟空气版）](https://www.bilibili.com/video/BV11k4y147V7) ｜ 鬼畜狗熊岭 ｜ 2023-03-26 ｜ 播放 6,940,882 ｜ 热门 ｜ 剧情剪辑
-- [“这是一个审核了五年的鬼畜视频”](https://www.bilibili.com/video/BV1xf4y1u7UB) ｜ 惜缘、过去 ｜ 2021-10-31 ｜ 播放 6,913,622 ｜ 热门 ｜ 鬼畜调教
-- [【补档】老 坛 酸 菜 杀 人 事 件](https://www.bilibili.com/video/BV1QY411n7c7) ｜ 浅澄月 ｜ 2022-03-19 ｜ 播放 6,870,284 ｜ 热门 ｜ 剧情剪辑
-- [捣 蛋 鬼](https://www.bilibili.com/video/BV1H44y147A7) ｜ 一大筐会飞的草莓 ｜ 2021-10-23 ｜ 播放 6,863,321 ｜ 热门 ｜ 剧情剪辑
-- [瓜 地 激 情 恋](https://www.bilibili.com/video/BV1Qh411i7ic) ｜ JSsss ｜ 2021-08-24 ｜ 播放 6,743,393 ｜ 热门 ｜ 剧情剪辑
-- [超 市 大 清 洗](https://www.bilibili.com/video/BV1wq4y1K71S) ｜ 枪弹轨迹 ｜ 2021-09-19 ｜ 播放 6,560,872 ｜ 热门 ｜ 剧情剪辑
-- [企 业 级 运 镜 ☆](https://www.bilibili.com/video/BV1VU4y1J7XF) ｜ 高坂大芥末 ｜ 2021-07-31 ｜ 播放 6,529,302 ｜ 热门 ｜ 剧情剪辑
-- [瓜摊监狱兔](https://www.bilibili.com/video/BV13CE26NEmn) ｜ Raymondsese ｜ 2026-06-09 ｜ 播放 6,297,360 ｜ 热门 ｜ 剧情剪辑
-- [b 站 热 度 年 度 总 结 ☆【年度套娃2021】](https://www.bilibili.com/video/BV1534y197WX) ｜ 高坂大芥末 ｜ 2021-12-14 ｜ 播放 6,286,393 ｜ 热门 ｜ 剧情剪辑
-- [我 是 金 子 做 的](https://www.bilibili.com/video/BV1kb4y117g4) ｜ 十代studio ｜ 2021-10-01 ｜ 播放 6,273,939 ｜ 热门 ｜ 剧情剪辑
-- [瓜 摊 激 斗](https://www.bilibili.com/video/BV17kcez1ExQ) ｜ 快乐阿依 ｜ 2026-02-12 ｜ 播放 6,266,101 ｜ 热门 ｜ 剧情剪辑
-- [王 冰 冰 买 瓜](https://www.bilibili.com/video/BV1Lq4y1X7KT) ｜ 吟游诗人猩猩哥 ｜ 2021-07-23 ｜ 播放 6,170,520 ｜ 热门 ｜ 剧情剪辑
-- [郝 哥 不 在 2.0](https://www.bilibili.com/video/BV1MEME6pEcc) ｜ 岩罗Crv ｜ 2026-07-09 ｜ 播放 6,142,563 ｜ 热门 ｜ 剧情剪辑
-- [阿伟创业记](https://www.bilibili.com/video/BV1pvMF6ZEYG) ｜ 青时晚 ｜ 2026-07-04 ｜ 播放 6,077,583 ｜ 热门 ｜ 剧情剪辑
-- [强 克 逊](https://www.bilibili.com/video/BV1Qw41197TH) ｜ 夜雨星繁y ｜ 2021-07-23 ｜ 播放 6,075,843 ｜ 热门 ｜ 剧情剪辑
-- [人类史上第一次买瓜](https://www.bilibili.com/video/BV1ZvdkB9EXV) ｜ 伊介书生 ｜ 2026-04-20 ｜ 播放 6,027,788 ｜ 热门 ｜ 剧情剪辑
-- [没有人前来买瓜](https://www.bilibili.com/video/BV16U4y177hT) ｜ 魔法少女零零八 ｜ 2021-08-11 ｜ 播放 5,955,242 ｜ 热门 ｜ 剧情剪辑
-- [（文言文）华强买瓜](https://www.bilibili.com/video/BV1q64y147bg) ｜ 威生天霖 ｜ 2021-07-17 ｜ 播放 5,946,478 ｜ 热门 ｜ 剧情剪辑
-- [你这健康码有问题啊](https://www.bilibili.com/video/BV1wL41147pn) ｜ 伊介书生 ｜ 2021-09-20 ｜ 播放 5,911,837 ｜ 热门 ｜ 剧情剪辑
-- [欺 人 太 甚](https://www.bilibili.com/video/BV1Pq4y1Q7tR) ｜ 快乐阿依 ｜ 2021-08-09 ｜ 播放 5,660,614 ｜ 热门 ｜ 剧情剪辑
-- [华强买瓜，但过于学术](https://www.bilibili.com/video/BV1rAQqBqE6A) ｜ 一起座谈会 ｜ 2026-03-24 ｜ 播放 4,627,150 ｜ 热门 ｜ 剧情剪辑
-- [带着豆包去买瓜](https://www.bilibili.com/video/BV1w7hn63EBs) ｜ 阿游Kidding ｜ 2026-09-22 ｜ 播放 4,594,052 ｜ 热门 ｜ 剧情剪辑
-- [百万英镑买瓜（国语版）](https://www.bilibili.com/video/BV1TzRUBpEP1) ｜ 司马拆迁 ｜ 2026-05-09 ｜ 播放 3,791,039 ｜ 热门 ｜ 剧情剪辑
-- [⚡一 心 求 死⚡plus](https://www.bilibili.com/video/BV1kC4y1E7XS) ｜ 酸奶煎个蛋 ｜ 2023-11-02 ｜ 播放 3,745,113 ｜ 热门 ｜ 剧情剪辑
-- [华强找茬 但是全惹不起](https://www.bilibili.com/video/BV1Leeu66EYR) ｜ 神威-狗剩 ｜ 2026-09-17 ｜ 播放 3,664,861 ｜ 热门 ｜ 剧情剪辑
-- [鬼畜区天下第一好](https://www.bilibili.com/video/BV1rksz65ERk) ｜ 青时晚 ｜ 2026-11-17 ｜ 播放 3,030,128 ｜ 热门 ｜ 鬼畜调教
-- [胡言乱语](https://www.bilibili.com/video/BV1Yv411n7KJ) ｜ 啥名字好诶 ｜ 2021-07-16 ｜ 播放 2,998,004 ｜ 热门 ｜ 剧情剪辑
-- [印度买瓜](https://www.bilibili.com/video/BV1ZbQsBcEkk) ｜ 一起座谈会 ｜ 2026-04-13 ｜ 播放 2,756,237 ｜ 热门 ｜ 剧情剪辑
-- [华强买瓜 但是深情民谣MV](https://www.bilibili.com/video/BV1ezoWBAEM5) ｜ 多梦综合征 ｜ 2026-04-22 ｜ 播放 2,703,696 ｜ 热门 ｜ 剧情剪辑
-- [卢本伟买西瓜](https://www.bilibili.com/video/BV11q4y1H76N) ｜ 清澈小老弟 ｜ 2021-07-27 ｜ 播放 2,661,197 ｜ 热门 ｜ 剧情剪辑
-- [9.1分国产黑帮神作！全城警力，他却跟警察谈笑风生？【一千零一部】](https://www.bilibili.com/video/BV1K2sV62EVW) ｜ 木鱼水心 ｜ 2026-11-14 ｜ 播放 2,654,734 ｜ 热门 ｜ 剧情剪辑
-- [华强买瓜，但全员文青病](https://www.bilibili.com/video/BV1pWdbBREw3) ｜ TA_mae_ZK ｜ 2026-04-16 ｜ 播放 2,551,847 ｜ 热门 ｜ 剧情剪辑
-- [华强买瓜，但郝哥能控制AI](https://www.bilibili.com/video/BV1reth6tEFm) ｜ 伊介书生 ｜ 2026-08-31 ｜ 播放 2,407,378 ｜ 热门 ｜ 剧情剪辑
-- [中 年 痴 呆](https://www.bilibili.com/video/BV1854y1J7dC) ｜ 鬼畜↑可乐♂ ｜ 2021-07-26 ｜ 播放 2,237,746 ｜ 热门 ｜ 剧情剪辑
-- [华强买瓜，但是是心理战](https://www.bilibili.com/video/BV1FYDCB7E3D) ｜ 小鸟游呆毛 ｜ 2026-04-11 ｜ 播放 2,133,296 ｜ 热门 ｜ 剧情剪辑
-- [健   忘   症](https://www.bilibili.com/video/BV1M64y1t72z) ｜ 恶魔冰霜 ｜ 2021-07-18 ｜ 播放 2,131,730 ｜ 热门 ｜ 剧情剪辑
-- [氪金买瓜](https://www.bilibili.com/video/BV1Fid2B6Eo6) ｜ 一起座谈会 ｜ 2026-04-21 ｜ 播放 2,131,668 ｜ 热门 ｜ 剧情剪辑
-- [《征服》刘华强 名场面大盘点](https://www.bilibili.com/video/BV1SU4y1K7tS) ｜ 朝羊先生 ｜ 2021-11-28 ｜ 播放 1,543,216 ｜ 热门 ｜ 剧情剪辑
-- [全程无尿点！《征服》原来这么精彩](https://www.bilibili.com/video/BV1jh41177KQ) ｜ 懒猫说电影v ｜ 2023-04-24 ｜ 播放 1,539,807 ｜ 热门 ｜ 剧情剪辑
-- [【4K60FPS】华强买瓜](https://www.bilibili.com/video/BV1az4y1t7t1) ｜ 4K现场级画质收藏馆 ｜ 2023-07-24 ｜ 播放 1,395,111 ｜ 热门 ｜ 剧情剪辑
-- [偷西瓜的狐狸爸爸](https://www.bilibili.com/video/BV1Mtjd6JEiB) ｜ Raymondsese ｜ 2026-06-24 ｜ 播放 1,265,013 ｜ 热门 ｜ 剧情剪辑
-- [华强最客气的一次！](https://www.bilibili.com/video/BV1wU4d6wEnh) ｜ 她们都叫我滚 ｜ 2026-08-27 ｜ 播放 1,175,088 ｜ 热门 ｜ 剧情剪辑
-- [不说正事](https://www.bilibili.com/video/BV1VQ5x6eELf) ｜ 神威-狗剩 ｜ 2026-05-11 ｜ 播放 1,139,950 ｜ 热门 ｜ 剧情剪辑
-- [大肥鱼买瓜](https://www.bilibili.com/video/BV1AGam6pEVh) ｜ 小猪P_ ｜ 2026-10-03 ｜ 播放 870,465 ｜ 新晋 ｜ 剧情剪辑
-- [汤姆，听说你一直在找我？](https://www.bilibili.com/video/BV1BJJq6XEyf) ｜ 灵羽灵兮 ｜ 2026-10-18 ｜ 播放 829,081 ｜ 新晋 ｜ 剧情剪辑
-- [刘华强在黑道做慈善？二十万赔偿款说不要就不要【一千零一部】](https://www.bilibili.com/video/BV1gCsS6WEE6) ｜ 木鱼水心 ｜ 2026-11-18 ｜ 播放 812,818 ｜ 新晋 ｜ 剧情剪辑
-- [【华强买瓜】但是健身网红](https://www.bilibili.com/video/BV1dDHE6iESC) ｜ 新世纪咖啡战士v ｜ 2026-10-04 ｜ 播放 695,366 ｜ 新晋 ｜ 剧情剪辑
-- [服务员华强2.0](https://www.bilibili.com/video/BV1444B6pEA3) ｜ 神威-狗剩 ｜ 2026-11-06 ｜ 播放 497,522 ｜ 新晋 ｜ 剧情剪辑
-- [这瓜熟不熟  有呢么重要吗](https://www.bilibili.com/video/BV1EJx96JE7Y) ｜ 维森weisen ｜ 2026-11-04 ｜ 播放 466,500 ｜ 新晋 ｜ 剧情剪辑
-- [刘华强有多能装？差点被抓，却只被警察当成无名小卒？！【一千零一部】](https://www.bilibili.com/video/BV1HEy8zmEe5) ｜ 木鱼水心 ｜ 2026-11-22 ｜ 播放 437,019 ｜ 新晋 ｜ 剧情剪辑
-- [华强买瓜，但弹棉花版](https://www.bilibili.com/video/BV1traf6wEqu) ｜ 猫屎花生 ｜ 2026-09-30 ｜ 播放 423,724 ｜ 新晋 ｜ 剧情剪辑
-- [✨我 叫...刘 华 强！✨](https://www.bilibili.com/video/BV1HfWa6xEtm) ｜ Crazy-face ｜ 2026-11-13 ｜ 播放 406,718 ｜ 新晋 ｜ 剧情剪辑
-- [华强等了宋老虎30年](https://www.bilibili.com/video/BV1SFyDznEAZ) ｜ 新世纪咖啡战士v ｜ 2026-11-23 ｜ 播放 343,416 ｜ 新晋 ｜ 剧情剪辑
-- [“华强·刘华强你被捕了！”抓捕刘华强武器装备全解析](https://www.bilibili.com/video/BV1Aujz6tEuk) ｜ 军地两用人才之友 ｜ 2026-06-19 ｜ 播放 302,133 ｜ 新晋 ｜ 剧情剪辑
-- [买瓜，全员晓组织成员](https://www.bilibili.com/video/BV1tEsv65Ei8) ｜ 正橘级 ｜ 2026-11-20 ｜ 播放 276,529 ｜ 新晋 ｜ 剧情剪辑
-- [【NEON】但是华强买瓜](https://www.bilibili.com/video/BV1cdxJ6oEaa) ｜ 新世纪咖啡战士v ｜ 2026-10-31 ｜ 播放 254,869 ｜ 新晋 ｜ 剧情剪辑
-- [华强连退三块牛排，直接走上人生巅峰](https://www.bilibili.com/video/BV16psB6MENZ) ｜ 向日葵小魔女 ｜ 2026-11-20 ｜ 播放 240,860 ｜ 新晋 ｜ 剧情剪辑
-- [史上最惨“双11”，2026数据大跌眼镜，购物节彻底凉凉了？！](https://www.bilibili.com/video/BV1oXWY6EE57) ｜ MYS同学 ｜ 2026-11-13 ｜ 播放 227,965 ｜ 新晋 ｜ 剧情剪辑
-- [华强买瓜之咏叹调《萨日朗》 瓜之交响乐团经典曲目](https://www.bilibili.com/video/BV133Vb6vEx2) ｜ 虚拟凯特 ｜ 2026-05-29 ｜ 播放 215,456 ｜ 新晋 ｜ 剧情剪辑
-- [每说一个”瓜“字，华强雌化10%](https://www.bilibili.com/video/BV1yye26tE9r) ｜ 士多啤梨摄像机 ｜ 2026-09-18 ｜ 播放 203,024 ｜ 新晋 ｜ 剧情剪辑
-- [低 智 商 买 瓜](https://www.bilibili.com/video/BV1EV7r64Epo) ｜ 马小白GT ｜ 2026-06-05 ｜ 播放 183,273 ｜ 新晋 ｜ 鬼畜调教
-- [《余承大道东》百万豪装录音棚大声听](https://www.bilibili.com/video/BV1wrx16AEDU) ｜ zkp37 ｜ 2026-10-31 ｜ 播放 183,025 ｜ 新晋 ｜ 剧情剪辑
-- [带着华嫂来买瓜](https://www.bilibili.com/video/BV1JJnR66Eso) ｜ 华强爱郝哥 ｜ 2026-10-26 ｜ 播放 165,209 ｜ 新晋 ｜ 剧情剪辑
-- [天下第一好是什么梗，北魏陶俑姐妹舞被鬼畜区接管，Faker和Zeus都跳上了！你最想看谁跳？【梗指南】](https://www.bilibili.com/video/BV1EgyvzbE9e) ｜ 胡说观察社 ｜ 2026-11-21 ｜ 播放 164,118 ｜ 新晋 ｜ 鬼畜调教
-- [《征服》人物之-刘华强复仇小团队组建。](https://www.bilibili.com/video/BV18gWi61Eoa) ｜ 征服刘华强 ｜ 2026-11-13 ｜ 播放 156,966 ｜ 新晋 ｜ 剧情剪辑
-- [【年度爽片】“感受下瓜摊最快神枪手的魅力”](https://www.bilibili.com/video/BV1bbWd6PEcH) ｜ 鲲局长 ｜ 2026-11-12 ｜ 播放 144,397 ｜ 新晋 ｜ 剧情剪辑
-- [当你压力大的时候不妨看看刘宇宁#刘华强 #李宏伟 #高启盛](https://www.bilibili.com/video/BV1xd4n6zEc8) ｜ 小阳侃谈 ｜ 2026-11-07 ｜ 播放 107,328 ｜ 新晋 ｜ 剧情剪辑
-- [郝哥强哥我们天下第一好](https://www.bilibili.com/video/BV1DAWn6NEPS) ｜ 吊带楠楠 ｜ 2026-11-08 ｜ 播放 106,577 ｜ 新晋 ｜ 剧情剪辑
-- [华强买瓜，但他是河神【你这河神有问题啊】](https://www.bilibili.com/video/BV18Rs26EE18) ｜ 若翰_ ｜ 2026-11-19 ｜ 播放 103,941 ｜ 新晋 ｜ 剧情剪辑
+- [⚡萨 日 朗！！！⚡](https://www.bilibili.com/video/BV15L411p7M8) ｜ 夜雨星繁y ｜ 2021-07-19 ｜ 播放 51,190,783 ｜ 殿堂级 ｜ 剧情剪辑
+- [无 伤 反 杀 刘 华 强](https://www.bilibili.com/video/BV1qb4y1z7ve) ｜ 特效小哥studio ｜ 2021-08-10 ｜ 播放 24,045,659 ｜ 殿堂级 ｜ 剧情剪辑
+- [买 瓜 大 队](https://www.bilibili.com/video/BV1CU4y137FJ) ｜ 小猪要吃好果子 ｜ 2021-07-17 ｜ 播放 22,973,802 ｜ 殿堂级 ｜ 剧情剪辑
+- [《内 向 顾 客》](https://www.bilibili.com/video/BV1Wv411n7FK) ｜ 无牙人 ｜ 2021-07-16 ｜ 播放 15,954,646 ｜ 殿堂级 ｜ 剧情剪辑
+- [你 真 敢 开 枪 啊 ？](https://www.bilibili.com/video/BV17w411R7Eb) ｜ 干物快乐宅 ｜ 2021-07-27 ｜ 播放 15,274,355 ｜ 殿堂级 ｜ 剧情剪辑
+- [超 级 压 缩 毛 巾](https://www.bilibili.com/video/BV1184y1W79V) ｜ 伊介书生 ｜ 2022-12-29 ｜ 播放 15,027,612 ｜ 殿堂级 ｜ 剧情剪辑
+- [郝 哥 不 在](https://www.bilibili.com/video/BV1RwdhBmE3M) ｜ 岩罗Crv ｜ 2026-04-16 ｜ 播放 14,937,296 ｜ 殿堂级 ｜ 剧情剪辑
+- [哥 谭 厨 师](https://www.bilibili.com/video/BV1Sf4y1T78M) ｜ 一大筐会飞的草莓 ｜ 2021-11-13 ｜ 播放 14,177,764 ｜ 殿堂级 ｜ 剧情剪辑
+- [《无实物表演》](https://www.bilibili.com/video/BV1NhRMBiEcy) ｜ 酸奶煎个蛋 ｜ 2026-05-01 ｜ 播放 14,175,586 ｜ 殿堂级 ｜ 剧情剪辑
+- [特效炸裂！年度之战！特效小哥大战建模小哥4](https://www.bilibili.com/video/BV1k34y1z7Y6) ｜ 特效小哥studio ｜ 2021-12-31 ｜ 播放 13,541,738 ｜ 殿堂级 ｜ 剧情剪辑
+- [这个玩具也太会扭了吧！根本停不下来~哈哈哈哈](https://www.bilibili.com/video/BV1vv411P7CJ) ｜ 机智的Kason ｜ 2021-09-04 ｜ 播放 12,634,889 ｜ 殿堂级 ｜ 剧情剪辑
+- ["只有这样，才知道你比的是厨师比赛"](https://www.bilibili.com/video/BV1kx4y1V78T) ｜ 一大筐会飞的草莓 ｜ 2023-02-13 ｜ 播放 12,190,415 ｜ 殿堂级 ｜ 剧情剪辑
+- [水果摊的刀竟然沾糖水？](https://www.bilibili.com/video/BV1RyAVecEJA) ｜ 周小闹是周小闹 ｜ 2025-02-16 ｜ 播放 11,778,214 ｜ 殿堂级 ｜ 剧情剪辑
+- [《无能的郝哥》](https://www.bilibili.com/video/BV1kLRXBsE84) ｜ 增殖的发呆 ｜ 2026-05-09 ｜ 播放 11,571,836 ｜ 殿堂级 ｜ 剧情剪辑
+- [《梗王之王》多少梗，快来快来数一数，24678...](https://www.bilibili.com/video/BV1Ku411B7XR) ｜ 谭乔 ｜ 2022-03-29 ｜ 播放 11,253,413 ｜ 殿堂级 ｜ 剧情剪辑
+- [没 经 费 了](https://www.bilibili.com/video/BV1sP4y1W7Yt) ｜ 康师傅红烧甜不辣 ｜ 2021-08-06 ｜ 播放 10,723,473 ｜ 殿堂级 ｜ 剧情剪辑
+- [【互动视频】选择角色，结局由你来定！](https://www.bilibili.com/video/BV1vb4y1r7cg) ｜ Captive柠檬 ｜ 2021-08-04 ｜ 播放 10,265,972 ｜ 殿堂级 ｜ 剧情剪辑
+- [东 京 奥 运 会](https://www.bilibili.com/video/BV1Q64y1q7sj) ｜ 徐Toso ｜ 2021-07-25 ｜ 播放 9,984,313 ｜ 热门 ｜ 剧情剪辑
+- [爱 捣 蛋 的 嘎 子](https://www.bilibili.com/video/BV1b3411F7Db) ｜ 一大筐会飞的草莓 ｜ 2022-07-05 ｜ 播放 9,887,087 ｜ 热门 ｜ 剧情剪辑
+- [郝 哥 连 线 勇 哥](https://www.bilibili.com/video/BV1Y3Ne6hENH) ｜ 新世纪咖啡战士v ｜ 2026-07-15 ｜ 播放 9,477,504 ｜ 热门 ｜ 剧情剪辑
+- [𝘼𝙡𝙖𝙣 𝙒𝙝𝙖𝙩'𝙨 𝙪𝙥](https://www.bilibili.com/video/BV1Zb4y127U4) ｜ 傲娇典狱长 ｜ 2021-09-21 ｜ 播放 9,353,052 ｜ 热门 ｜ 剧情剪辑
+- [【特效向】最 离 大 谱 的 作 品](https://www.bilibili.com/video/BV1RU4y1q7F4) ｜ 青铃荼阳 ｜ 2022-07-13 ｜ 播放 9,144,191 ｜ 热门 ｜ 剧情剪辑
+- [【梗百科】扣税“国王”是啥梗？听好了！乡巴佬？！！](https://www.bilibili.com/video/BV1fJ4m1e7Gv) ｜ 梗百科 ｜ 2024-02-26 ｜ 播放 9,091,015 ｜ 热门 ｜ 剧情剪辑
+- [你 这 背 景 让 嘎 子 偷 了](https://www.bilibili.com/video/BV1Je4y1D7b4) ｜ 一大筐会飞的草莓 ｜ 2022-08-02 ｜ 播放 8,807,267 ｜ 热门 ｜ 剧情剪辑
+- [你 版 权 到 期 了 是 吧！](https://www.bilibili.com/video/BV1oT4y1J71e) ｜ 郝哥吃炸鸡 ｜ 2024-01-09 ｜ 播放 8,659,444 ｜ 热门 ｜ 剧情剪辑
+- [蓝 色 妖 姬 是 怎 样 炼 成 的](https://www.bilibili.com/video/BV1qe4y1g77n) ｜ 一大筐会飞的草莓 ｜ 2022-11-28 ｜ 播放 8,638,372 ｜ 热门 ｜ 剧情剪辑
+- [鬼畜大战僵尸](https://www.bilibili.com/video/BV1CU4y1N7P8) ｜ 胖鱼鱼-fhy ｜ 2021-12-05 ｜ 播放 8,633,939 ｜ 热门 ｜ 鬼畜调教
+- [当一千年后的人类考古2026年](https://www.bilibili.com/video/BV1Xj7N6mEa3) ｜ 咪克菌 ｜ 2026-06-24 ｜ 播放 8,596,066 ｜ 热门 ｜ 剧情剪辑
+- [《刘 华 强 买 瓜》 :  2021高清重制版 ！！](https://www.bilibili.com/video/BV17f4y1G7JU) ｜ 影视飓风 ｜ 2021-08-25 ｜ 播放 8,493,904 ｜ 热门 ｜ 剧情剪辑
+- [中 国 有 嘻 瓜](https://www.bilibili.com/video/BV1aA411P79n) ｜ 自动鬼畜中的WZ ｜ 2021-08-05 ｜ 播放 8,482,460 ｜ 热门 ｜ 剧情剪辑
+- [终 结 者 买 瓜](https://www.bilibili.com/video/BV1Nf4pzxEwL) ｜ 新世纪咖啡战士v ｜ 2025-10-10 ｜ 播放 8,340,661 ｜ 热门 ｜ 剧情剪辑
+- [唱着山歌来买瓜](https://www.bilibili.com/video/BV115oWBnEgB) ｜ 猫屎花生 ｜ 2026-04-22 ｜ 播放 8,166,896 ｜ 热门 ｜ AI翻唱/语音克隆
+- [华强买瓜，但是树上人特别多](https://www.bilibili.com/video/BV19N9XBMEmu) ｜ 伊介书生 ｜ 2026-05-02 ｜ 播放 7,871,452 ｜ 热门 ｜ 剧情剪辑
+- [卖瓜老板无伤通关刘华强](https://www.bilibili.com/video/BV1vU4y137Ti) ｜ 咆哮丶土拨鼠 ｜ 2021-07-16 ｜ 播放 7,647,047 ｜ 热门 ｜ 剧情剪辑
+- [郝哥旋转一分钟.avi](https://www.bilibili.com/video/BV1514y1n7ZE) ｜ 青铃荼阳 ｜ 2022-11-26 ｜ 播放 7,614,619 ｜ 热门 ｜ 剧情剪辑
+- [《我的数学老师会玩原神》](https://www.bilibili.com/video/BV15DquYnEpL) ｜ 伊密尔丶 ｜ 2024-12-14 ｜ 播放 7,523,247 ｜ 热门 ｜ 剧情剪辑
+- [瓜 摊 斗 舞](https://www.bilibili.com/video/BV1BdARz5EJp) ｜ 一团小包子 ｜ 2026-03-03 ｜ 播放 7,512,013 ｜ 热门 ｜ 剧情剪辑
+- [操 控 买 瓜](https://www.bilibili.com/video/BV1vwLX6yEM2) ｜ 岩罗Crv ｜ 2026-06-17 ｜ 播放 7,388,424 ｜ 热门 ｜ 剧情剪辑
+- [我把杰哥不要做成了跑酷游戏！是新游戏哦？让我康康！](https://www.bilibili.com/video/BV1Sv41137bN) ｜ 火山哥哥 ｜ 2021-09-24 ｜ 播放 7,388,414 ｜ 热门 ｜ 剧情剪辑
+- [【华强宇宙系列】⚡快银买瓜⚡](https://www.bilibili.com/video/BV1Q64y1a7MS) ｜ 万灵缝合厂 ｜ 2021-08-30 ｜ 播放 7,279,919 ｜ 热门 ｜ 剧情剪辑
+- [看几遍都觉得好笑哈哈哈](https://www.bilibili.com/video/BV1YV4y137Dz) ｜ 碧天蓝钻 ｜ 2022-11-04 ｜ 播放 7,181,010 ｜ 热门 ｜ 剧情剪辑
+- [华强见宋老虎 但是唱跳RAP 【多梦综合征】【AI音乐宇宙】](https://www.bilibili.com/video/BV1Hy4k64Erk) ｜ 多梦综合征 ｜ 2026-08-29 ｜ 播放 7,104,103 ｜ 热门 ｜ 剧情剪辑
+- [小伙偶遇高人指点，终于做出3D火影忍者~](https://www.bilibili.com/video/BV1w64y1a7iR) ｜ 主观哥哥 ｜ 2021-09-15 ｜ 播放 6,953,358 ｜ 热门 ｜ 剧情剪辑
+- [年货（0分钟空气版）](https://www.bilibili.com/video/BV11k4y147V7) ｜ 鬼畜狗熊岭 ｜ 2023-03-26 ｜ 播放 6,941,395 ｜ 热门 ｜ 剧情剪辑
+- [“这是一个审核了五年的鬼畜视频”](https://www.bilibili.com/video/BV1xf4y1u7UB) ｜ 惜缘、过去 ｜ 2021-10-31 ｜ 播放 6,913,763 ｜ 热门 ｜ 鬼畜调教
+- [【补档】老 坛 酸 菜 杀 人 事 件](https://www.bilibili.com/video/BV1QY411n7c7) ｜ 浅澄月 ｜ 2022-03-19 ｜ 播放 6,870,358 ｜ 热门 ｜ 剧情剪辑
+- [捣 蛋 鬼](https://www.bilibili.com/video/BV1H44y147A7) ｜ 一大筐会飞的草莓 ｜ 2021-10-23 ｜ 播放 6,863,452 ｜ 热门 ｜ 剧情剪辑
+- [瓜 地 激 情 恋](https://www.bilibili.com/video/BV1Qh411i7ic) ｜ JSsss ｜ 2021-08-24 ｜ 播放 6,743,586 ｜ 热门 ｜ 剧情剪辑
+- [超 市 大 清 洗](https://www.bilibili.com/video/BV1wq4y1K71S) ｜ 枪弹轨迹 ｜ 2021-09-19 ｜ 播放 6,560,939 ｜ 热门 ｜ 剧情剪辑
+- [企 业 级 运 镜 ☆](https://www.bilibili.com/video/BV1VU4y1J7XF) ｜ 高坂大芥末 ｜ 2021-07-31 ｜ 播放 6,529,616 ｜ 热门 ｜ 剧情剪辑
+- [瓜摊监狱兔](https://www.bilibili.com/video/BV13CE26NEmn) ｜ Raymondsese ｜ 2026-06-09 ｜ 播放 6,303,009 ｜ 热门 ｜ 剧情剪辑
+- [b 站 热 度 年 度 总 结 ☆【年度套娃2021】](https://www.bilibili.com/video/BV1534y197WX) ｜ 高坂大芥末 ｜ 2021-12-14 ｜ 播放 6,286,572 ｜ 热门 ｜ 剧情剪辑
+- [我 是 金 子 做 的](https://www.bilibili.com/video/BV1kb4y117g4) ｜ 十代studio ｜ 2021-10-01 ｜ 播放 6,275,195 ｜ 热门 ｜ 剧情剪辑
+- [瓜 摊 激 斗](https://www.bilibili.com/video/BV17kcez1ExQ) ｜ 快乐阿依 ｜ 2026-02-12 ｜ 播放 6,267,997 ｜ 热门 ｜ 剧情剪辑
+- [王 冰 冰 买 瓜](https://www.bilibili.com/video/BV1Lq4y1X7KT) ｜ 吟游诗人猩猩哥 ｜ 2021-07-23 ｜ 播放 6,170,740 ｜ 热门 ｜ 剧情剪辑
+- [郝 哥 不 在 2.0](https://www.bilibili.com/video/BV1MEME6pEcc) ｜ 岩罗Crv ｜ 2026-07-09 ｜ 播放 6,153,168 ｜ 热门 ｜ 剧情剪辑
+- [阿伟创业记](https://www.bilibili.com/video/BV1pvMF6ZEYG) ｜ 青时晚 ｜ 2026-07-04 ｜ 播放 6,080,470 ｜ 热门 ｜ 剧情剪辑
+- [强 克 逊](https://www.bilibili.com/video/BV1Qw41197TH) ｜ 夜雨星繁y ｜ 2021-07-23 ｜ 播放 6,076,133 ｜ 热门 ｜ 剧情剪辑
+- [人类史上第一次买瓜](https://www.bilibili.com/video/BV1ZvdkB9EXV) ｜ 伊介书生 ｜ 2026-04-20 ｜ 播放 6,029,127 ｜ 热门 ｜ 剧情剪辑
+- [没有人前来买瓜](https://www.bilibili.com/video/BV16U4y177hT) ｜ 魔法少女零零八 ｜ 2021-08-11 ｜ 播放 5,955,499 ｜ 热门 ｜ 剧情剪辑
+- [（文言文）华强买瓜](https://www.bilibili.com/video/BV1q64y147bg) ｜ 威生天霖 ｜ 2021-07-17 ｜ 播放 5,947,081 ｜ 热门 ｜ 剧情剪辑
+- [你这健康码有问题啊](https://www.bilibili.com/video/BV1wL41147pn) ｜ 伊介书生 ｜ 2021-09-20 ｜ 播放 5,912,073 ｜ 热门 ｜ 剧情剪辑
+- [欺 人 太 甚](https://www.bilibili.com/video/BV1Pq4y1Q7tR) ｜ 快乐阿依 ｜ 2021-08-09 ｜ 播放 5,665,793 ｜ 热门 ｜ 剧情剪辑
+- [华强买瓜，但过于学术](https://www.bilibili.com/video/BV1rAQqBqE6A) ｜ 一起座谈会 ｜ 2026-03-24 ｜ 播放 4,628,321 ｜ 热门 ｜ 剧情剪辑
+- [带着豆包去买瓜](https://www.bilibili.com/video/BV1w7hn63EBs) ｜ 阿游Kidding ｜ 2026-09-22 ｜ 播放 4,601,351 ｜ 热门 ｜ 剧情剪辑
+- [百万英镑买瓜（国语版）](https://www.bilibili.com/video/BV1TzRUBpEP1) ｜ 司马拆迁 ｜ 2026-05-09 ｜ 播放 3,791,362 ｜ 热门 ｜ 剧情剪辑
+- [⚡一 心 求 死⚡plus](https://www.bilibili.com/video/BV1kC4y1E7XS) ｜ 酸奶煎个蛋 ｜ 2023-11-02 ｜ 播放 3,745,798 ｜ 热门 ｜ 剧情剪辑
+- [华强找茬 但是全惹不起](https://www.bilibili.com/video/BV1Leeu66EYR) ｜ 神威-狗剩 ｜ 2026-09-17 ｜ 播放 3,673,597 ｜ 热门 ｜ 剧情剪辑
+- [鬼畜区天下第一好](https://www.bilibili.com/video/BV1rksz65ERk) ｜ 青时晚 ｜ 2026-11-17 ｜ 播放 3,513,970 ｜ 热门 ｜ 鬼畜调教
+- [胡言乱语](https://www.bilibili.com/video/BV1Yv411n7KJ) ｜ 啥名字好诶 ｜ 2021-07-16 ｜ 播放 2,998,269 ｜ 热门 ｜ 剧情剪辑
+- [9.1分国产黑帮神作！全城警力，他却跟警察谈笑风生？【一千零一部】](https://www.bilibili.com/video/BV1K2sV62EVW) ｜ 木鱼水心 ｜ 2026-11-14 ｜ 播放 2,777,433 ｜ 热门 ｜ 剧情剪辑
+- [印度买瓜](https://www.bilibili.com/video/BV1ZbQsBcEkk) ｜ 一起座谈会 ｜ 2026-04-13 ｜ 播放 2,756,608 ｜ 热门 ｜ 剧情剪辑
+- [华强买瓜 但是深情民谣MV](https://www.bilibili.com/video/BV1ezoWBAEM5) ｜ 多梦综合征 ｜ 2026-04-22 ｜ 播放 2,706,288 ｜ 热门 ｜ 剧情剪辑
+- [卢本伟买西瓜](https://www.bilibili.com/video/BV11q4y1H76N) ｜ 清澈小老弟 ｜ 2021-07-27 ｜ 播放 2,661,268 ｜ 热门 ｜ 剧情剪辑
+- [华强买瓜，但全员文青病](https://www.bilibili.com/video/BV1pWdbBREw3) ｜ TA_mae_ZK ｜ 2026-04-16 ｜ 播放 2,553,918 ｜ 热门 ｜ 剧情剪辑
+- [华强买瓜，但郝哥能控制AI](https://www.bilibili.com/video/BV1reth6tEFm) ｜ 伊介书生 ｜ 2026-08-31 ｜ 播放 2,412,788 ｜ 热门 ｜ 剧情剪辑
+- [中 年 痴 呆](https://www.bilibili.com/video/BV1854y1J7dC) ｜ 鬼畜↑可乐♂ ｜ 2021-07-26 ｜ 播放 2,237,993 ｜ 热门 ｜ 剧情剪辑
+- [华强买瓜，但是是心理战](https://www.bilibili.com/video/BV1FYDCB7E3D) ｜ 小鸟游呆毛 ｜ 2026-04-11 ｜ 播放 2,133,758 ｜ 热门 ｜ 剧情剪辑
+- [健   忘   症](https://www.bilibili.com/video/BV1M64y1t72z) ｜ 恶魔冰霜 ｜ 2021-07-18 ｜ 播放 2,131,792 ｜ 热门 ｜ 剧情剪辑
+- [氪金买瓜](https://www.bilibili.com/video/BV1Fid2B6Eo6) ｜ 一起座谈会 ｜ 2026-04-21 ｜ 播放 2,131,768 ｜ 热门 ｜ 剧情剪辑
+- [华强等了宋老虎30年](https://www.bilibili.com/video/BV1SFyDznEAZ) ｜ 新世纪咖啡战士v ｜ 2026-11-23 ｜ 播放 2,116,815 ｜ 新晋 ｜ 剧情剪辑
+- [全程无尿点！《征服》原来这么精彩](https://www.bilibili.com/video/BV1jh41177KQ) ｜ 懒猫说电影v ｜ 2023-04-24 ｜ 播放 1,552,966 ｜ 热门 ｜ 剧情剪辑
+- [《征服》刘华强 名场面大盘点](https://www.bilibili.com/video/BV1SU4y1K7tS) ｜ 朝羊先生 ｜ 2021-11-28 ｜ 播放 1,546,563 ｜ 热门 ｜ 剧情剪辑
+- [【4K60FPS】华强买瓜](https://www.bilibili.com/video/BV1az4y1t7t1) ｜ 4K现场级画质收藏馆 ｜ 2023-07-24 ｜ 播放 1,399,540 ｜ 热门 ｜ 剧情剪辑
+- [偷西瓜的狐狸爸爸](https://www.bilibili.com/video/BV1Mtjd6JEiB) ｜ Raymondsese ｜ 2026-06-24 ｜ 播放 1,265,444 ｜ 热门 ｜ 剧情剪辑
+- [华强最客气的一次！](https://www.bilibili.com/video/BV1wU4d6wEnh) ｜ 她们都叫我滚 ｜ 2026-08-27 ｜ 播放 1,203,841 ｜ 热门 ｜ 剧情剪辑
+- [不说正事](https://www.bilibili.com/video/BV1VQ5x6eELf) ｜ 神威-狗剩 ｜ 2026-05-11 ｜ 播放 1,145,770 ｜ 热门 ｜ 剧情剪辑
+- [刘华强在黑道做慈善？二十万赔偿款说不要就不要【一千零一部】](https://www.bilibili.com/video/BV1gCsS6WEE6) ｜ 木鱼水心 ｜ 2026-11-18 ｜ 播放 927,369 ｜ 新晋 ｜ 剧情剪辑
+- [大肥鱼买瓜](https://www.bilibili.com/video/BV1AGam6pEVh) ｜ 小猪P_ ｜ 2026-10-03 ｜ 播放 873,883 ｜ 新晋 ｜ 剧情剪辑
+- [汤姆，听说你一直在找我？](https://www.bilibili.com/video/BV1BJJq6XEyf) ｜ 灵羽灵兮 ｜ 2026-10-18 ｜ 播放 834,505 ｜ 新晋 ｜ 剧情剪辑
+- [刘华强有多能装？差点被抓，却只被警察当成无名小卒？！【一千零一部】](https://www.bilibili.com/video/BV1HEy8zmEe5) ｜ 木鱼水心 ｜ 2026-11-22 ｜ 播放 745,980 ｜ 新晋 ｜ 剧情剪辑
+- [当你压力大的时候不妨看看刘宇宁#刘华强 #李宏伟 #高启盛](https://www.bilibili.com/video/BV1xd4n6zEc8) ｜ 小阳侃谈 ｜ 2026-11-07 ｜ 播放 716,008 ｜ 新晋 ｜ 剧情剪辑
+- [【华强买瓜】但是健身网红](https://www.bilibili.com/video/BV1dDHE6iESC) ｜ 新世纪咖啡战士v ｜ 2026-10-04 ｜ 播放 701,669 ｜ 新晋 ｜ 剧情剪辑
+- [服务员华强2.0](https://www.bilibili.com/video/BV1444B6pEA3) ｜ 神威-狗剩 ｜ 2026-11-06 ｜ 播放 536,873 ｜ 新晋 ｜ 剧情剪辑
+- [这瓜熟不熟  有呢么重要吗](https://www.bilibili.com/video/BV1EJx96JE7Y) ｜ 维森weisen ｜ 2026-11-04 ｜ 播放 486,706 ｜ 新晋 ｜ 剧情剪辑
+- [✨我 叫...刘 华 强！✨](https://www.bilibili.com/video/BV1HfWa6xEtm) ｜ Crazy-face ｜ 2026-11-13 ｜ 播放 448,358 ｜ 新晋 ｜ 剧情剪辑
+- [华强买瓜，但弹棉花版](https://www.bilibili.com/video/BV1traf6wEqu) ｜ 猫屎花生 ｜ 2026-09-30 ｜ 播放 425,220 ｜ 新晋 ｜ 剧情剪辑
+- [买瓜，全员晓组织成员](https://www.bilibili.com/video/BV1tEsv65Ei8) ｜ 正橘级 ｜ 2026-11-20 ｜ 播放 308,016 ｜ 新晋 ｜ 剧情剪辑
+- [“华强·刘华强你被捕了！”抓捕刘华强武器装备全解析](https://www.bilibili.com/video/BV1Aujz6tEuk) ｜ 军地两用人才之友 ｜ 2026-06-19 ｜ 播放 305,596 ｜ 新晋 ｜ 剧情剪辑
+- [【NEON】但是华强买瓜](https://www.bilibili.com/video/BV1cdxJ6oEaa) ｜ 新世纪咖啡战士v ｜ 2026-10-31 ｜ 播放 287,694 ｜ 新晋 ｜ 剧情剪辑
+- [史上最惨“双11”，2026数据大跌眼镜，购物节彻底凉凉了？！](https://www.bilibili.com/video/BV1oXWY6EE57) ｜ MYS同学 ｜ 2026-11-13 ｜ 播放 246,544 ｜ 新晋 ｜ 剧情剪辑
+- [华强连退三块牛排，直接走上人生巅峰](https://www.bilibili.com/video/BV16psB6MENZ) ｜ 向日葵小魔女 ｜ 2026-11-20 ｜ 播放 241,220 ｜ 新晋 ｜ 剧情剪辑
+- [天下第一好是什么梗，北魏陶俑姐妹舞被鬼畜区接管，Faker和Zeus都跳上了！你最想看谁跳？【梗指南】](https://www.bilibili.com/video/BV1EgyvzbE9e) ｜ 胡说观察社 ｜ 2026-11-21 ｜ 播放 238,202 ｜ 新晋 ｜ 鬼畜调教
+- [华强买瓜之咏叹调《萨日朗》 瓜之交响乐团经典曲目](https://www.bilibili.com/video/BV133Vb6vEx2) ｜ 虚拟凯特 ｜ 2026-05-29 ｜ 播放 215,843 ｜ 新晋 ｜ 剧情剪辑
+- [每说一个”瓜“字，华强雌化10%](https://www.bilibili.com/video/BV1yye26tE9r) ｜ 士多啤梨摄像机 ｜ 2026-09-18 ｜ 播放 204,068 ｜ 新晋 ｜ 剧情剪辑
+- [《余承大道东》百万豪装录音棚大声听](https://www.bilibili.com/video/BV1wrx16AEDU) ｜ zkp37 ｜ 2026-10-31 ｜ 播放 193,337 ｜ 新晋 ｜ 剧情剪辑
+- [低 智 商 买 瓜](https://www.bilibili.com/video/BV1EV7r64Epo) ｜ 马小白GT ｜ 2026-06-05 ｜ 播放 184,328 ｜ 新晋 ｜ 鬼畜调教
+- [《征服》人物之-刘华强复仇小团队组建。](https://www.bilibili.com/video/BV18gWi61Eoa) ｜ 征服刘华强 ｜ 2026-11-13 ｜ 播放 171,380 ｜ 新晋 ｜ 剧情剪辑
+- [带着华嫂来买瓜](https://www.bilibili.com/video/BV1JJnR66Eso) ｜ 华强爱郝哥 ｜ 2026-10-26 ｜ 播放 166,582 ｜ 新晋 ｜ 剧情剪辑
+- [【年度爽片】“感受下瓜摊最快神枪手的魅力”](https://www.bilibili.com/video/BV1bbWd6PEcH) ｜ 鲲局长 ｜ 2026-11-12 ｜ 播放 151,858 ｜ 新晋 ｜ 剧情剪辑
+- [郝哥强哥我们天下第一好](https://www.bilibili.com/video/BV1DAWn6NEPS) ｜ 吊带楠楠 ｜ 2026-11-08 ｜ 播放 107,768 ｜ 新晋 ｜ 剧情剪辑
+- [华强买瓜，但他是河神【你这河神有问题啊】](https://www.bilibili.com/video/BV18Rs26EE18) ｜ 若翰_ ｜ 2026-11-19 ｜ 播放 107,036 ｜ 新晋 ｜ 剧情剪辑

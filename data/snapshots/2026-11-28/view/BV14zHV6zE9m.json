@@ -1,0 +1,1637 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV14zHV6zE9m",
+    "aid": 117501463631637,
+    "videos": 1,
+    "tid": 22,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i0.hdslb.com/bfs/archive/5132ca0e19d80271743708fe30daf8876e70a44c.jpg",
+    "title": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+    "pubdate": 1792930174,
+    "ctime": 1792930175,
+    "desc": "",
+    "desc_v2": null,
+    "state": 0,
+    "duration": 120,
+    "mission_id": 4067875,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 3546717408463187,
+      "name": "二哥他怕痒",
+      "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+    },
+    "stat": {
+      "aid": 117501463631637,
+      "view": 2904596,
+      "danmaku": 1581,
+      "reply": 6136,
+      "favorite": 18731,
+      "coin": 11569,
+      "share": 19457,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 55384,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 43045617889,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 9401377,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 43045617889,
+        "page": 1,
+        "from": "vupload",
+        "part": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+        "duration": 120,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000y8bbn2kliu392w2emx6nof4kjb_firsti.jpg",
+        "ctime": 1792930175
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 9401377,
+      "title": "AI音乐",
+      "cover": "https://archive.biliimg.com/bfs/archive/c9938360f2e33f78bfa86dd2ab0f53513a267d78.jpg",
+      "mid": 3546717408463187,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 9401377,
+        "view": 5219252,
+        "danmaku": 3095,
+        "reply": 9030,
+        "fav": 32359,
+        "coin": 17233,
+        "share": 30073,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 102702,
+        "vt": 0,
+        "vv": 5219252
+      },
+      "ep_count": 14,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 9401377,
+          "id": 10524948,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 229527994,
+              "aid": 117461751961441,
+              "cid": 42847700803,
+              "title": "胡塞的茶",
+              "attribute": 0,
+              "arc": {
+                "aid": 117461751961441,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/ff53edf0f27b3a497cba94e7c7bda9a563667ea8.jpg",
+                "title": "胡塞的茶",
+                "pubdate": 1792324271,
+                "ctime": 1792324271,
+                "desc": "",
+                "state": 0,
+                "duration": 250,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117461751961441,
+                  "view": 31272,
+                  "danmaku": 71,
+                  "reply": 159,
+                  "fav": 416,
+                  "coin": 353,
+                  "share": 104,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1469,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 31272
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42847700803,
+                "page": 1,
+                "from": "vupload",
+                "part": "胡塞的茶",
+                "duration": 250,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 854,
+                  "height": 480,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1yGn36xEsd",
+              "pages": [
+                {
+                  "cid": 42847700803,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "胡塞的茶",
+                  "duration": 250,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 854,
+                    "height": 480,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 229527993,
+              "aid": 117484686479831,
+              "cid": 42959636854,
+              "title": "大户的油",
+              "attribute": 0,
+              "arc": {
+                "aid": 117484686479831,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/fa5a1b422f2830f764c168792a4e31ca986afca4.jpg",
+                "title": "大户的油",
+                "pubdate": 1792674566,
+                "ctime": 1792674566,
+                "desc": "",
+                "state": 0,
+                "duration": 257,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117484686479831,
+                  "view": 6462,
+                  "danmaku": 18,
+                  "reply": 43,
+                  "fav": 50,
+                  "coin": 39,
+                  "share": 12,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 480,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 6462
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42959636854,
+                "page": 1,
+                "from": "vupload",
+                "part": "大户的油",
+                "duration": 257,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV16pnp6EEup",
+              "pages": [
+                {
+                  "cid": 42959636854,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "大户的油",
+                  "duration": 257,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 232145772,
+              "aid": 117571894385570,
+              "cid": 43393355015,
+              "title": "日文版《trouble maker》",
+              "attribute": 0,
+              "arc": {
+                "aid": 117571894385570,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/ea5c9807d2a32d3e709b41c8614bd985978afa67.jpg",
+                "title": "日文版《trouble maker》",
+                "pubdate": 1794005078,
+                "ctime": 1794005078,
+                "desc": "",
+                "state": 0,
+                "duration": 121,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117571894385570,
+                  "view": 47923,
+                  "danmaku": 22,
+                  "reply": 82,
+                  "fav": 290,
+                  "coin": 98,
+                  "share": 32,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 643,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 47923
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43393355015,
+                "page": 1,
+                "from": "vupload",
+                "part": "日文版《trouble maker》",
+                "duration": 121,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cq4L67Ep7",
+              "pages": [
+                {
+                  "cid": 43393355015,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "日文版《trouble maker》",
+                  "duration": 121,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 233089806,
+              "aid": 117555519822413,
+              "cid": 43308158822,
+              "title": "⚡山上彻也 安倍⚡刺客版《trouble maker》【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117555519822413,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/dc8031da965b0038e6fbb1ef0eb2d8ad0d66379d.jpg",
+                "title": "⚡山上彻也 安倍⚡刺客版《trouble maker》【AI MV大赛】",
+                "pubdate": 1793755670,
+                "ctime": 1793755670,
+                "desc": "",
+                "state": 0,
+                "duration": 94,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117555519822413,
+                  "view": 262585,
+                  "danmaku": 494,
+                  "reply": 1349,
+                  "fav": 3520,
+                  "coin": 1733,
+                  "share": 6303,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 15303,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 262585
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43308158822,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡山上彻也 安倍⚡刺客版《trouble maker》【AI MV大赛】",
+                "duration": 94,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1kbxD61EjQ",
+              "pages": [
+                {
+                  "cid": 43308158822,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡山上彻也 安倍⚡刺客版《trouble maker》【AI MV大赛】",
+                  "duration": 94,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 233089807,
+              "aid": 117549597465410,
+              "cid": 43278403463,
+              "title": "⚡彪哥的森林⚡挪威的森林【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117549597465410,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/03b8b44e68db1fc22de6eaf000dc97ab708851ca.jpg",
+                "title": "⚡彪哥的森林⚡挪威的森林【AI MV大赛】",
+                "pubdate": 1793664669,
+                "ctime": 1793664669,
+                "desc": "",
+                "state": 0,
+                "duration": 118,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117549597465410,
+                  "view": 67722,
+                  "danmaku": 71,
+                  "reply": 92,
+                  "fav": 415,
+                  "coin": 84,
+                  "share": 167,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1145,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 67722
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43278403463,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡彪哥的森林⚡挪威的森林【AI MV大赛】",
+                "duration": 118,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1uA4T6BEfJ",
+              "pages": [
+                {
+                  "cid": 43278403463,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡彪哥的森林⚡挪威的森林【AI MV大赛】",
+                  "duration": 118,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 233089808,
+              "aid": 117528105850929,
+              "cid": 43170991608,
+              "title": "⚡让子弹飞，鹅城《trouble maker》⚡【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117528105850929,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/0dd94cae8a098bb30aa05c27d6ebe42c967a2430.jpg",
+                "title": "⚡让子弹飞，鹅城《trouble maker》⚡【AI MV大赛】",
+                "pubdate": 1793336706,
+                "ctime": 1793336706,
+                "desc": "",
+                "state": 0,
+                "duration": 109,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117528105850929,
+                  "view": 113918,
+                  "danmaku": 71,
+                  "reply": 170,
+                  "fav": 629,
+                  "coin": 343,
+                  "share": 527,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 3012,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 113918
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43170991608,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡让子弹飞，鹅城《trouble maker》⚡【AI MV大赛】",
+                "duration": 109,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1ALxY6aEVP",
+              "pages": [
+                {
+                  "cid": 43170991608,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡让子弹飞，鹅城《trouble maker》⚡【AI MV大赛】",
+                  "duration": 109,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 233089809,
+              "aid": 117510405888054,
+              "cid": 43086251317,
+              "title": "⚡赵本山，铁岭乐队的《I Hate Myself For Loving You》⚡【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117510405888054,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/b47e46c1c92d14f16c9adc4ec586a1f817c41c3f.jpg",
+                "title": "⚡赵本山，铁岭乐队的《I Hate Myself For Loving You》⚡【AI MV大赛】",
+                "pubdate": 1793066701,
+                "ctime": 1793066701,
+                "desc": "",
+                "state": 0,
+                "duration": 94,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117510405888054,
+                  "view": 371964,
+                  "danmaku": 461,
+                  "reply": 507,
+                  "fav": 4895,
+                  "coin": 2398,
+                  "share": 2926,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 13746,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 371964
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43086251317,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡赵本山，铁岭乐队的《I Hate Myself For Loving You》⚡【AI MV大赛】",
+                "duration": 94,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV17fxK67EhN",
+              "pages": [
+                {
+                  "cid": 43086251317,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡赵本山，铁岭乐队的《I Hate Myself For Loving You》⚡【AI MV大赛】",
+                  "duration": 94,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 233089810,
+              "aid": 117501463631637,
+              "cid": 43045617889,
+              "title": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117501463631637,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/5132ca0e19d80271743708fe30daf8876e70a44c.jpg",
+                "title": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+                "pubdate": 1792930174,
+                "ctime": 1792930174,
+                "desc": "",
+                "state": 0,
+                "duration": 120,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117501463631637,
+                  "view": 2904596,
+                  "danmaku": 1581,
+                  "reply": 6136,
+                  "fav": 18731,
+                  "coin": 11569,
+                  "share": 19457,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 55384,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2904596
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43045617889,
+                "page": 1,
+                "from": "vupload",
+                "part": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+                "duration": 120,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV14zHV6zE9m",
+              "pages": [
+                {
+                  "cid": 43045617889,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "⚡赵本山，乡村爱情的《波西米亚狂想曲》⚡【AI MV大赛】",
+                  "duration": 120,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 233089805,
+              "aid": 117600348542315,
+              "cid": 43528161543,
+              "title": "兄弟一路苦蹉跎【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117600348542315,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/d26bdcb2f976ccb908873b0b303e48451c63d5ec.jpg",
+                "title": "兄弟一路苦蹉跎【AI MV大赛】",
+                "pubdate": 1794439268,
+                "ctime": 1794439268,
+                "desc": "",
+                "state": 0,
+                "duration": 142,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117600348542315,
+                  "view": 61337,
+                  "danmaku": 17,
+                  "reply": 29,
+                  "fav": 264,
+                  "coin": 85,
+                  "share": 36,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 637,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 61337
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43528161543,
+                "page": 1,
+                "from": "vupload",
+                "part": "兄弟一路苦蹉跎【AI MV大赛】",
+                "duration": 142,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1eKWS6REtK",
+              "pages": [
+                {
+                  "cid": 43528161543,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "兄弟一路苦蹉跎【AI MV大赛】",
+                  "duration": 142,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 233873649,
+              "aid": 117623199112811,
+              "cid": 43640359236,
+              "title": "唐僧女王版《非凡之爱》【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117623199112811,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/5476cc5f88ebb11356578185af9a8ead2976bafc.jpg",
+                "title": "唐僧女王版《非凡之爱》【AI MV大赛】",
+                "pubdate": 1794787984,
+                "ctime": 1794787984,
+                "desc": "",
+                "state": 0,
+                "duration": 64,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117623199112811,
+                  "view": 1088693,
+                  "danmaku": 48,
+                  "reply": 149,
+                  "fav": 1798,
+                  "coin": 107,
+                  "share": 84,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4113,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 1088693
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43640359236,
+                "page": 1,
+                "from": "vupload",
+                "part": "唐僧女王版《非凡之爱》【AI MV大赛】",
+                "duration": 64,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1Nssc6GEbq",
+              "pages": [
+                {
+                  "cid": 43640359236,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "唐僧女王版《非凡之爱》【AI MV大赛】",
+                  "duration": 64,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 234651832,
+              "aid": 117647811351941,
+              "cid": 43762845030,
+              "title": "铁岭世界杯主题曲，the cup of life【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117647811351941,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/69b84493a04d394b1961a4783a53452940281e6c.jpg",
+                "title": "铁岭世界杯主题曲，the cup of life【AI MV大赛】",
+                "pubdate": 1795163773,
+                "ctime": 1795163773,
+                "desc": "",
+                "state": 0,
+                "duration": 121,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117647811351941,
+                  "view": 188462,
+                  "danmaku": 193,
+                  "reply": 144,
+                  "fav": 932,
+                  "coin": 314,
+                  "share": 277,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 4111,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 188462
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43762845030,
+                "page": 1,
+                "from": "vupload",
+                "part": "铁岭世界杯主题曲，the cup of life【AI MV大赛】",
+                "duration": 121,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1280,
+                  "height": 720,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1beyWzVEaS",
+              "pages": [
+                {
+                  "cid": 43762845030,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "铁岭世界杯主题曲，the cup of life【AI MV大赛】",
+                  "duration": 121,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1280,
+                    "height": 720,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 234809403,
+              "aid": 117653297437256,
+              "cid": 43790764909,
+              "title": "哈基米亚狂想曲【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117653297437256,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/f043c615728083be5c765c81357f2f923bbcc661.jpg",
+                "title": "哈基米亚狂想曲【AI MV大赛】",
+                "pubdate": 1795246999,
+                "ctime": 1795246999,
+                "desc": "",
+                "state": 0,
+                "duration": 120,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117653297437256,
+                  "view": 29736,
+                  "danmaku": 32,
+                  "reply": 33,
+                  "fav": 121,
+                  "coin": 34,
+                  "share": 92,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1045,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 29736
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43790764909,
+                "page": 1,
+                "from": "vupload",
+                "part": "哈基米亚狂想曲【AI MV大赛】",
+                "duration": 120,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1cPyYzRErW",
+              "pages": [
+                {
+                  "cid": 43790764909,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "哈基米亚狂想曲【AI MV大赛】",
+                  "duration": 120,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 235002154,
+              "aid": 117659454675839,
+              "cid": 43825302066,
+              "title": "赵本山 吉他版《慌啥子嘛》【AI MV大赛】",
+              "attribute": 0,
+              "arc": {
+                "aid": 117659454675839,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/a4dcec0af59333f1b9b7bbe280313bdcc44c75f6.jpg",
+                "title": "赵本山 吉他版《慌啥子嘛》【AI MV大赛】",
+                "pubdate": 1795341241,
+                "ctime": 1795341241,
+                "desc": "",
+                "state": 0,
+                "duration": 91,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117659454675839,
+                  "view": 33539,
+                  "danmaku": 12,
+                  "reply": 130,
+                  "fav": 234,
+                  "coin": 25,
+                  "share": 45,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 1240,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 33539
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43825302066,
+                "page": 1,
+                "from": "vupload",
+                "part": "赵本山 吉他版《慌啥子嘛》【AI MV大赛】",
+                "duration": 91,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1080,
+                  "height": 1920,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1JXyGzhEMM",
+              "pages": [
+                {
+                  "cid": 43825302066,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "赵本山 吉他版《慌啥子嘛》【AI MV大赛】",
+                  "duration": 91,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1080,
+                    "height": 1920,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 9401377,
+              "section_id": 10524948,
+              "id": 235629588,
+              "aid": 117679889324311,
+              "cid": 43926556257,
+              "title": "赵本山小品版《counting stars》",
+              "attribute": 0,
+              "arc": {
+                "aid": 117679889324311,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/11d49a55f5ec1373fab9018bb00ebcf1901edd1b.jpg",
+                "title": "赵本山小品版《counting stars》",
+                "pubdate": 1795652896,
+                "ctime": 1795652896,
+                "desc": "",
+                "state": 0,
+                "duration": 165,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 3546717408463187,
+                  "name": "二哥他怕痒",
+                  "face": "https://i2.hdslb.com/bfs/face/3220705bb31a948cc5ef8036a19a65a03713b007.jpg"
+                },
+                "stat": {
+                  "aid": 117679889324311,
+                  "view": 11043,
+                  "danmaku": 4,
+                  "reply": 7,
+                  "fav": 64,
+                  "coin": 51,
+                  "share": 11,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 374,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 11043
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 43926556257,
+                "page": 1,
+                "from": "vupload",
+                "part": "赵本山小品版《counting stars》",
+                "duration": 165,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1JUyyzWEf5",
+              "pages": [
+                {
+                  "cid": 43926556257,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "赵本山小品版《counting stars》",
+                  "duration": 165,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 117501463631637,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}

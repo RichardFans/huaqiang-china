@@ -1,0 +1,494 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1RMGP6iE6E",
+    "aid": 117015293462159,
+    "videos": 1,
+    "tid": 126,
+    "tid_v2": 2063,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 3,
+    "pic": "http://i1.hdslb.com/bfs/archive/6772764411a367deb39587b2601d54a490f8a590.jpg",
+    "title": "郝 哥 面 馆",
+    "pubdate": 1785511876,
+    "ctime": 1785511877,
+    "desc": "你太客气了都自己兄弟。",
+    "desc_v2": [
+      {
+        "raw_text": "你太客气了都自己兄弟。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 207,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 242014,
+      "name": "乌贼酱",
+      "face": "https://i1.hdslb.com/bfs/face/0472e18a71a081ab68325a361c65e870bc98a32b.jpg"
+    },
+    "stat": {
+      "aid": 117015293462159,
+      "view": 2634847,
+      "danmaku": 3517,
+      "reply": 3033,
+      "favorite": 27290,
+      "coin": 22008,
+      "share": 11160,
+      "now_rank": 0,
+      "his_rank": 89,
+      "like": 111315,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "含AI生成内容",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 40480605848,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "season_id": 8717452,
+    "premiere": null,
+    "teenage_mode": 1,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 40480605848,
+        "page": 1,
+        "from": "vupload",
+        "part": "郝哥拉面(4)",
+        "duration": 207,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/_000007ahbedun4m2e225r03vp08rk7b_firsti.jpg",
+        "ctime": 1785512186,
+        "asr_language": "cmn"
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "ugc_season": {
+      "id": 8717452,
+      "title": "AI小剧场",
+      "cover": "https://archive.biliimg.com/bfs/archive/7193e7b09b4e91f02d13795892d83beeae24dac9.jpg",
+      "mid": 242014,
+      "intro": "",
+      "sign_state": 0,
+      "attribute": 140,
+      "stat": {
+        "season_id": 8717452,
+        "view": 3428744,
+        "danmaku": 6612,
+        "reply": 4556,
+        "fav": 35656,
+        "coin": 28703,
+        "share": 15224,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 136781,
+        "vt": 0,
+        "vv": 3428744
+      },
+      "ep_count": 3,
+      "season_type": 1,
+      "is_pay_season": false,
+      "enable_vt": 0,
+      "sections": [
+        {
+          "season_id": 8717452,
+          "id": 9714946,
+          "title": "正片",
+          "type": 1,
+          "episodes": [
+            {
+              "season_id": 8717452,
+              "section_id": 9714946,
+              "id": 212860300,
+              "aid": 117015293462159,
+              "cid": 40480605848,
+              "title": "郝 哥 拉 面",
+              "attribute": 0,
+              "arc": {
+                "aid": 117015293462159,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i1.hdslb.com/bfs/archive/6772764411a367deb39587b2601d54a490f8a590.jpg",
+                "title": "郝 哥 拉 面",
+                "pubdate": 1785511876,
+                "ctime": 1785511876,
+                "desc": "",
+                "state": 0,
+                "duration": 207,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 242014,
+                  "name": "乌贼酱",
+                  "face": "https://i1.hdslb.com/bfs/face/0472e18a71a081ab68325a361c65e870bc98a32b.jpg"
+                },
+                "stat": {
+                  "aid": 117015293462159,
+                  "view": 2634847,
+                  "danmaku": 3517,
+                  "reply": 3033,
+                  "fav": 27290,
+                  "coin": 22008,
+                  "share": 11160,
+                  "now_rank": 0,
+                  "his_rank": 89,
+                  "like": 111315,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 2634847
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 40480605848,
+                "page": 1,
+                "from": "vupload",
+                "part": "郝哥拉面(4)",
+                "duration": 207,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1RMGP6iE6E",
+              "pages": [
+                {
+                  "cid": 40480605848,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "郝哥拉面(4)",
+                  "duration": 207,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8717452,
+              "section_id": 9714946,
+              "id": 220049526,
+              "aid": 117190900583002,
+              "cid": 41508341995,
+              "title": "那些年 我们一起登过的阿伟",
+              "attribute": 0,
+              "arc": {
+                "aid": 117190900583002,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i0.hdslb.com/bfs/archive/bb97496da4035502a4b4541fdaacbc8ce3d7987e.jpg",
+                "title": "那些年 我们一起登过的阿伟",
+                "pubdate": 1788191425,
+                "ctime": 1788191425,
+                "desc": "",
+                "state": 0,
+                "duration": 588,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 242014,
+                  "name": "乌贼酱",
+                  "face": "https://i1.hdslb.com/bfs/face/0472e18a71a081ab68325a361c65e870bc98a32b.jpg"
+                },
+                "stat": {
+                  "aid": 117190900583002,
+                  "view": 713653,
+                  "danmaku": 2667,
+                  "reply": 1314,
+                  "fav": 6315,
+                  "coin": 5775,
+                  "share": 3741,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 19352,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 713653
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 41508341995,
+                "page": 1,
+                "from": "vupload",
+                "part": "那些年改",
+                "duration": 588,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1920,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1toth6kEvk",
+              "pages": [
+                {
+                  "cid": 41508341995,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "那些年改",
+                  "duration": 588,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            },
+            {
+              "season_id": 8717452,
+              "section_id": 9714946,
+              "id": 225149442,
+              "aid": 117359629108136,
+              "cid": 42353230678,
+              "title": "海 上 瓜 老 板",
+              "attribute": 0,
+              "arc": {
+                "aid": 117359629108136,
+                "videos": 0,
+                "type_id": 0,
+                "type_name": "",
+                "copyright": 0,
+                "pic": "http://i2.hdslb.com/bfs/archive/4deebe07e33ad08eb83c351702c6528bb3df2369.jpg",
+                "title": "海 上 瓜 老 板",
+                "pubdate": 1790766156,
+                "ctime": 1790766156,
+                "desc": "",
+                "state": 0,
+                "duration": 329,
+                "rights": {
+                  "bp": 0,
+                  "elec": 0,
+                  "download": 0,
+                  "movie": 0,
+                  "pay": 0,
+                  "hd5": 0,
+                  "no_reprint": 0,
+                  "autoplay": 0,
+                  "ugc_pay": 0,
+                  "is_cooperation": 0,
+                  "ugc_pay_preview": 0,
+                  "arc_pay": 0,
+                  "free_watch": 0
+                },
+                "author": {
+                  "mid": 242014,
+                  "name": "乌贼酱",
+                  "face": "https://i1.hdslb.com/bfs/face/0472e18a71a081ab68325a361c65e870bc98a32b.jpg"
+                },
+                "stat": {
+                  "aid": 117359629108136,
+                  "view": 80244,
+                  "danmaku": 428,
+                  "reply": 209,
+                  "fav": 2051,
+                  "coin": 920,
+                  "share": 323,
+                  "now_rank": 0,
+                  "his_rank": 0,
+                  "like": 6114,
+                  "dislike": 0,
+                  "evaluation": "",
+                  "argue_msg": "",
+                  "vt": 0,
+                  "vv": 80244
+                },
+                "dynamic": "",
+                "dimension": {
+                  "width": 0,
+                  "height": 0,
+                  "rotate": 0
+                },
+                "desc_v2": null,
+                "is_chargeable_season": false,
+                "is_blooper": false,
+                "enable_vt": 0,
+                "vt_display": "",
+                "type_id_v2": 0,
+                "type_name_v2": "",
+                "is_lesson_video": 0
+              },
+              "page": {
+                "cid": 42353230678,
+                "page": 1,
+                "from": "vupload",
+                "part": "最新版",
+                "duration": 329,
+                "vid": "",
+                "weblink": "",
+                "dimension": {
+                  "width": 1878,
+                  "height": 1080,
+                  "rotate": 0
+                }
+              },
+              "bvid": "BV1EZao6kEJH",
+              "pages": [
+                {
+                  "cid": 42353230678,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "最新版",
+                  "duration": 329,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1878,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "is_season_display": true,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {
+      "honor": [
+        {
+          "aid": 117015293462159,
+          "type": 3,
+          "desc": "全站排行榜最高第89名",
+          "weekly_recommend_num": 0
+        },
+        {
+          "aid": 117015293462159,
+          "type": 7,
+          "desc": "热门收录",
+          "weekly_recommend_num": 0
+        }
+      ]
+    },
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 1,
+    "is_view_self": false
+  }
+}
